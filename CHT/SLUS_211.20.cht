@@ -1,0 +1,15 @@
+﻿"Psychonauts /ID SLUS_211.20"
+Mastercode
+902E3E30 0C0B8F34
+
+//Widescreen
+201e9fe4 3c013f40
+201e9fe8 4481f800
+201e9fec 461f3183
+201ea004 46061983
+
+//Render Fix
+201e873c 340f02ab
+201292b8 240e02ab
+
+//

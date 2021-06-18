@@ -1,0 +1,17 @@
+﻿"Shadow Hearts III - From the New World /ID SLUS_213.26"
+Mastercode
+9020CEB8 0C083356
+//9022253C 0C090BA4
+
+//black borders fix (optional)
+202f75c4 3c020000
+
+// 16:9
+20202d4c 3c013f40
+20202d50 44810000
+20202d58 4600c602
+
+// Render-Fix
+202282cc 3c033fc0
+
+//

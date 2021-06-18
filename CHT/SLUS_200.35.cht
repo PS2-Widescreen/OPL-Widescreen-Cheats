@@ -1,0 +1,23 @@
+﻿"Baldur's Gate - Dark Alliance /ID SLUS_200.35"
+Mastercode
+9020C0E0 0C082FE0
+
+//vert fov-
+20320fd0 3f1f49f4
+2032102c 3f1f49f4
+20322950 3f1f49f4
+20320efc 3f1f49f4
+20320f44 3f1f49f4
+
+//both fov+
+2014ca8c 3c014440
+20152998 3c014440
+20200bf8 3c014440
+2013d048 3c014440
+20144f60 3c014440
+
+//render fix value by No.47
+20320fa8 3fe3d70a
+20320fcc 3fe3d70a
+
+//

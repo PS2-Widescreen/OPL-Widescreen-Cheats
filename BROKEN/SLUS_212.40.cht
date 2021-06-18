@@ -1,0 +1,15 @@
+﻿"Star Wars - Battlefront 2 /ID SLUS_212.40"
+Mastercode
+905D5800 0C147DED
+//901143D8 0C04509E
+
+//Widescreen hack 16:9
+20580784 3c013f40
+20580788 44810000
+20580790 46000003
+
+//Render fix
+20571edc 3c013f2b
+205ae6b4 3c013f2b
+
+//

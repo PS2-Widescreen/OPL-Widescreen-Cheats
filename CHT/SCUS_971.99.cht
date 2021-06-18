@@ -1,0 +1,99 @@
+﻿"Ratchet & Clank /ID SCUS_971.99"
+Mastercode
+90124C58 0C045492
+
+// DWORD Code patching routine
+200c0000 3c1b000c
+200c0004 df710080
+200c0008 14510002
+200c0010 df620088
+200c0014 df710090
+200c0018 14510003
+200c0020 8f7200a0
+200c0024 ac72fff0
+200c0028 df710098
+200c002c 14510002
+200c0034 ac72fff0
+200c0038 0804b657
+200c003c fc62fff8
+
+// WORD Code patching routine
+200c0040 3c1b000c
+200c0044 8f710080
+200c0048 14510002
+200c0050 8f620088
+200c0054 8f710090
+200c0058 14510003
+200c0060 8f7200a0
+200c0064 acb2fff4
+200c0068 8f71009c
+200c006c 14510002
+200c0074 acb2fff0
+200c0078 0804b663
+200c007c aca2fffc
+
+// Widescreen comparison  DWORD/WORD
+200c0080 c46000b0
+200c0084 46010002
+
+// Widescreen replacement  DWORD/WORD
+200c0088 0c030029
+200c008c 46010002
+
+// Pause menu fix refrence  DWORD/WORD
+// Note: The injection routine works backwards from this.
+200c0090 00055443
+200c0094 00031c00
+
+// Gadgetron vendor fix refrence  DWORD/WORD
+// Note: The injection routine works backwards from this.
+200c0098 e60100e8
+200c009c e44000b0
+
+// Pause menu / Gadgetron vendor fix replacement DWORD/WORD
+200c00a0 342147af
+
+// HOR FOV Recalculation routine
+// This routine works by iterating through a list of unpatched FOV's.
+// If the HOR FOV in ram matches one these values, it gets recalculated.
+200c00a4 8c6100b0
+200c00a8 8f640110
+200c00ac 14240006
+200c00b4 c7620114
+200c00b8 e46200b0
+200c00bc 44810000
+200c00c0 1000000f
+200c00c8 c77e010c
+200c00cc 3c01000c
+200c00d0 3421011c
+200c00d4 277b0114
+200c00d8 c46000b0
+200c00dc 103b0007
+200c00e0 c7620000
+200c00e4 277b0004
+200c00e8 46020032
+200c00ec 4500fffb
+200c00f4 461e0003
+200c00f8 e46000b0
+200c00fc 461e0002
+200c0100 46010002
+200c0104 03e00008
+200c0108 3c1b000c
+
+// Hor scale
+200c010c 3f400000
+
+// Pause menu and Gadgetron Hor FOV
+200c0110 3f2147af
+
+// Unpatched Hor FOV values
+200c0114 3f2147ae
+200c0118 3ed40674
+
+// Jump to DWORD patching routine
+2012d954 08030000
+
+// Jump to WORD patching routine
+2012d984 08030010
+
+//

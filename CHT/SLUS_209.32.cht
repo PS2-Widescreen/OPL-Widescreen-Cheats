@@ -1,0 +1,25 @@
+﻿"Mercenaries /ID SLUS_209.32"
+Mastercode
+90453FD8 0C114F9E
+//9043CE20 0C0F466F
+//901BB204 0C115C62
+
+//// 16:9 
+2033b0a0 3c013f40
+
+// 16:9 and 16:10 main modifications
+// no need to change anything here! all modifications are calculated
+// based on the hor fov value in the upper 16:9/16:10 section
+2033b0a8 4481f000
+2033b0e8 4600f306
+2033ef74 461e0843
+2033ef78 46010d43
+20346e60 4600f306
+20339a00 0813cbee
+20339a04 00000000
+204f2fb8 46030842
+204f2fbc 46030002
+204f2fc0 461e0002
+204f2fc4 080ce681
+
+//

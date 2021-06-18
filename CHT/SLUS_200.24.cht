@@ -1,0 +1,19 @@
+﻿"Blood Omen 2 - The Legacy Of Kain Series /ID SLUS_200.24"
+Mastercode
+9048A750 0C12297C
+//90464854 0C120097
+//90297D98 0C11E310
+
+//Widescreen
+20312b08 3c013fe3
+20312b0c 34218e38
+
+//Black Borders Fix
+202d443c 00000000
+
+//FMV Fix
+202eb280 240575e0
+202eb298 240a1440
+
+
+//

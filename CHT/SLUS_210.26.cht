@@ -1,0 +1,20 @@
+﻿"Battlefield 2 /ID SLUS_210.26"
+Mastercode
+904F8438 0C13E0B6
+//9027E5C0 0C139F25
+
+//wide
+2022d4b0 3c013fab
+2022d8e8 3c013fab
+203bf5c0 3c013f40
+203bf5d0 4481f000
+203bf69c 461e0303
+203bfd88 461e0303
+2040b4fc 461e0303
+2027c1c8 24020002
+
+//vert- widescreen correction
+2022d490 3c013fab
+2022d8c8 3c013fab
+
+//

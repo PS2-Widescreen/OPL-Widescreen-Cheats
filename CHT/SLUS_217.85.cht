@@ -1,0 +1,11 @@
+﻿"LEGO Batman - The Videogame /ID SLUS_217.85"
+Mastercode
+9046B710 0C11AD6C
+//90442540 0C11877B
+
+//Widescreen hack 16:9
+2033de44 00000a01
+20615710 00000a01
+2033dd6c 3c013f40
+
+//

@@ -1,0 +1,14 @@
+﻿"Tribes Aerial Assault /ID SLUS_201.49"
+Mastercode
+902A64C0 0C0A98D8
+//9022DA74 0C06BCB6
+//9013EAF4 0C088EC8
+
+//Gameplay 16:9
+20181fe8 3c013f1e
+201829a8 3c013ed1
+
+//Render fix
+201828c4 3c013f60
+
+//

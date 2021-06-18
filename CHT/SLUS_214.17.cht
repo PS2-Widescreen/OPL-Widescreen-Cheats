@@ -1,0 +1,21 @@
+﻿"Xenosaga Episode III - Also sprach Zarathustra (Disc 2) /ID SLUS_214.17"
+Mastercode
+902f2408 0c0bc8aa
+
+//gameplay
+2054ff20 3fc1f080
+
+//cutscenes portrait's fix
+20268f40 24020078
+203e4340 00000174
+203e4360 00000174
+
+//480p
+2019adf8 24020001
+2019adfc a2020081
+
+//black borders's fix (optional)
+20244d90 24060000
+20244da4 24c801c0
+
+//

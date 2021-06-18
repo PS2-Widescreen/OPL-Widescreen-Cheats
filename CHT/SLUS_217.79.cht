@@ -1,0 +1,60 @@
+﻿"Eternal Poison /ID SLUS_217.79"
+Mastercode
+90368F98 0C0DA38E
+//90334EE8 0C0D6BED
+//901003F8 0C0797D4
+
+//X-Fov
+20487114 bf400000
+
+//Text Box Fix
+20557404 43c00000
+205573e0 42c00000
+205573e4 00000000
+
+//Message Indicator Position (Up)
+2055736c 43c80000
+
+//Font fix (Conversation)
+20557378 3f400000
+
+//********  2D FIX PARTS  ********
+//2D Characters (Town & Battle Field)
+20132e20 0810b346
+2042cd18 3c0f0043
+2042cd1c 3c013faa
+2042cd20 3421aaab
+2042cd24 4481f000
+2042cd28 e61e01d8
+2042cd2c 0804cb8a
+
+//Traviata House
+202d9360 0810b334
+2042ccd0 3c013f40
+2042ccd4 4481f800
+2042ccd8 e61f0090
+2042ccdc 080b64d9
+
+//The Uzaporium Shop
+202ac0ac 0810b338
+2042cce0 3c013f40
+2042cce4 4481f800
+2042cce8 e61f0090
+2042ccec 080ab02c
+
+//Twilight's Rest (Potraits)
+20286be0 0810b33c
+2042ccf0 3c013f40
+2042ccf4 4481f000
+2042ccf8 e61e0094
+2042ccfc 080a1af9
+
+//2D Characters (Conversation and Twilight's Rest)
+2023cdd8 0810b341
+2042cd04 c4400008
+2042cd08 3c013f40
+2042cd0c 4481f000
+2042cd10 461e0002
+2042cd14 0808f377
+
+//

@@ -1,0 +1,17 @@
+﻿"Phantasy Star Universe /ID SLUS_211.94"
+Mastercode
+90140CD8 0C0502DE
+//901B14F8 0C044FDE
+//9014A08C 0C04008C
+
+// 16:9
+2085abb0 43400000
+2068eed4 3c093c02
+2068eed8 35293fab
+2068ef20 3c0a0028
+2068ef24 ad493d78
+
+//optional cut-scenes black bar removal
+20766e44 40000000
+
+//

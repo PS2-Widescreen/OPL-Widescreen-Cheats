@@ -1,0 +1,132 @@
+﻿"War Of The Monsters /ID SCUS_971.97"
+Mastercode
+90248988 0C09220A
+//90232BB4 0C08FDDE
+//901A66F8 0C07951A
+
+//Title Menu
+206e1500 43ba0000
+206e1520 3f206d3a
+
+//Crush-O-Rama Camera Distance (normally based on X FOV)
+2011f52c 00000000
+2011f564 00000000
+
+//1 Player
+206e12c0 43900000
+206e12e0 3f206d3a
+206e1680 43900000
+206e16a0 3f206d3a
+10143060 0000c33a
+10143064 00006666
+10144390 0000001a
+10145ed4 0000001e
+101d1e4c 00000208
+
+//2 Players - Separator Bar
+101448a8 0000fffb
+
+//2 Players - Unified View Black Bar Fix
+//Prevents black bar from appearing in the far right of unified view in 2 player matches
+e0010001 006f8a8c
+20188908 00000000
+e0010000 006f8a8c
+20188908 0c0511e6
+
+//2 Players - Unified View Black Bar Fix (alternate MIPS version)
+//Useful if injecting the fix into a hacked ELF or if using an older PS2 cheat device.
+//patch=1,EE,20188908,extended,0C07F3CC //0C0511E6 - jal $001fcf30 - Jump to injected MIPS instructions (instead of buildSeparator function)
+//patch=1,EE,201FCF30,extended,3C020070 //24020038 - lui v0, $0070 - Load gUseUnifiedView variable into v0 register #1
+//patch=1,EE,201FCF34,extended,8C428A8C //00A73821 - lw v0, $8a8c(v0) - Load gUseUnifiedView variable into v0 register #2
+//patch=1,EE,201FCF38,extended,14400003 //00822018 - bne v0, zero, $001fcf48 - Skip next 2 lines (after below one) if gUseUnifiedView variable isn't equal to 0
+//patch=1,EE,201FCF3C,extended,00000000 //00C84021 - nop - Delay slot
+//patch=1,EE,201FCF40,extended,080511E6 //3C020073 - j $00144798 - Jump to buildSeparator function
+//patch=1,EE,201FCF44,extended,00000000 //00073900 - nop - Delay slot
+//patch=1,EE,201FCF48,extended,03E00008 //24425890 - jr ra - Jump return
+//patch=1,EE,201FCF4C,extended,00000000 //00084100 - nop - Delay slot
+
+//2 Players - Player 1
+206e1380 43840000
+206e13a0 3f206d39
+10143090 0000c2c7
+10143094 00000000
+10145d04 0000001a
+101442e0 00000018
+1012ec4c 00000018
+1011afd8 00000018
+1012e120 00000018
+
+//2 Players - Player 2
+206e1440 43840000
+206e1460 3f206d39
+101430d8 000042c7
+101430dc 00000000
+101430a4 0000433a
+101430a8 00006666
+101443a8 00000262
+10145f04 00000262
+10145d2c 00000125
+101442f8 00000122
+1012ec90 00000131
+1011b020 00000275
+1012e178 00000275
+
+//Health Icons
+202a3038 00000014
+202a30c8 00000014
+202a305c 00000014
+202a30ec 00000014
+202a3080 00000014
+202a3110 00000014
+202a30a4 00000014
+202a3134 00000014
+
+//Distant Shadows
+2025a828 43c00000
+2025a8f0 43c00000
+
+//Sprites
+2025a990 43c00000
+2025aae0 43c00000
+
+//Loading Bar
+20225d54 3404014a
+
+//Generic Font - Width
+//Impacts top + bottom title screen text, unselected unlocks screen text, and pause menu text.
+101fca04 00000007
+
+//Sub Pixels Font - Width and Spacing
+//Impacts all other text.
+201fcf78 0807f38e
+201fce38 3c013f40
+201fce3c 4481e800
+201fce40 3c013f00
+201fce44 4481f000
+201fce48 4485f800
+201fce4c 4680ffe0
+201fce50 461dffc2
+201fce54 461effc0
+201fce58 4600ffe4
+201fce5c 4405f800
+201fce60 4487f800
+201fce64 4680ffe0
+201fce68 461dffc2
+201fce6c 461effc1
+201fce70 4600ffe4
+201fce74 4407f800
+201fce78 0807f3e0
+201fce7c 00832018
+
+//Unlocks - All Text Positioning (fontSpritePrintCenteredXY)
+1019f23c 000000fd
+1019f2b4 000000fd
+1019f364 000001a2
+1019f428 000001a2
+1019f538 000001a2
+1019f33c 000001a2
+1019f3d8 000001a2
+1019f584 000001a2
+1019f5d4 000001a2
+
+//

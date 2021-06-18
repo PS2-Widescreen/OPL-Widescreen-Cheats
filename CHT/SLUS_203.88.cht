@@ -1,0 +1,23 @@
+﻿"Fatal Frame /ID SLUS_203.88"
+Mastercode
+90226040 0C0897B8
+
+//gameplay
+201885c4 3c013f40
+
+//cutscenes (port of pgert's value for pal version)
+20183f4c 3c013f40
+
+//FMV's fix
+20180b80 24027100
+20180b90 24027100
+20180b98 24091e00
+
+//Lens Flare's fix
+20136ff4 3c013f2b
+201359b0 3c014270
+20135a94 3c0140f0
+20135a5c 3c014110
+20135a18 3c014190
+
+//

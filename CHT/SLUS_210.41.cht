@@ -1,0 +1,17 @@
+﻿"Shadow Hearts II - Covenant (Disc 1) /ID SLUS_210.41"
+Mastercode
+9020CDF8 0C083326
+//9021F6D0 0C087D90
+
+//black borders fix (optional)
+20402f24 3c020000
+
+// 16:9
+20202c94 3c013f40
+20202c98 44810000
+20202ca0 4600c602
+
+// Render-Fix
+2022531c 3c033fc0
+
+//

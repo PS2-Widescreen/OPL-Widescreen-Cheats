@@ -1,0 +1,17 @@
+﻿"Sims 2 /ID SLUS_212.65"
+Mastercode
+90476CF8 0C11DAE6
+//903CFC78 0C0F51AA
+
+//Widescreen hack 16:9
+203da970 3c013fe3
+203da974 34218e21
+
+//Fov and Zoom (ELF hack)  [optional]
+//201165e8 3c013fab
+//203b9704 3c013f40
+
+//Menu Box and Text Fix (Memory Hack) [optional]
+//219e2acc 3f400000
+
+//

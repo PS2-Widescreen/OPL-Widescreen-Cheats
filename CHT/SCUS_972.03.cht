@@ -1,0 +1,23 @@
+﻿"Wild Arms 3 /ID SCUS_972.03"
+Mastercode
+90106A80 0C041A48
+
+//widescreen
+20115bd0 3c023f40
+20115be0 3c023f40
+201159b4 3c023f40
+2011603c 3c023f40
+202639cc 3c023f40
+
+//render fix
+2011478c 3c033fc0
+
+//bb fix
+201a93cc 24079400
+
+//dialog portraits fix
+2011ae00 240501b0
+2011ae30 240501b0
+2012ac98 25850750
+
+//

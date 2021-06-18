@@ -1,0 +1,25 @@
+﻿"Mortal Kombat - Armageddon (Premium Edition) /ID SLUS_215.43"
+Mastercode
+9010FCD8 0C043EDE
+
+//zoom for arcade mode (widescreen)
+20220364 3c0342c0
+
+//aspect correction for widescreen mode
+2017efa4 240201e0
+2017eff4 46140003
+2017f018 46800020
+2017f01c 46000803
+2017f020 46140003
+
+//black borders fix
+201743f4 46000001
+20174404 46000001
+20174444 46000001
+20174454 46000001
+
+//widescreen switch fix
+202204f8 24020340
+20220538 24020340
+
+//

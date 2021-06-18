@@ -1,0 +1,28 @@
+﻿"Silent Hill 3 /ID SLUS_206.22"
+Mastercode
+9011F5C0 0C04412C
+
+//gameplay
+201b4a64 3c023f28
+201b4a68 3442f5c3
+
+//Items & Weapons and Supplies fix
+202ad978 3c023f19
+202ad97c 3442999a
+
+//FMV's fix
+202b60b8 24112550
+202b60a4 24106d50
+202b61dc 24100000
+202b61e4 24100000
+
+202b60bc 24032000
+202b60a8 24037000
+202b61fc 24100000
+202b6200 24100000
+
+//remove cutscene black borders, and small vertical borders on left/right
+201ee320 03e00008
+201ee324 00000000
+
+//

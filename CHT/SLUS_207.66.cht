@@ -1,0 +1,41 @@
+﻿"Fatal Frame II - Crimson Butterfly /ID SLUS_207.66"
+Mastercode
+90231230 0C08C434
+
+//wide
+2033760c 3f400000
+2020c1bc 00000000
+
+//disable Dither - optional hack.
+//2019edd4 10000012
+//Optional: Puts the Y-axis value to that of 50Hz-mode (PAL).
+//20337610 3f800000
+
+//Flashlight Widescreen hack by nemesis2000.
+2013a19c 0c053dcb
+2013a224 0c053dcb
+2013a28c 0c053dcb
+2013a304 0c053dcb
+2014f72c 3c013f40
+2014f79c 44810800
+2014f7a0 46016302
+
+//Cinematics hacks by nemesis2000.
+201e5834 01c02820
+201e5838 e4830030
+201e5990 0c0795e0
+201e5994 44811800
+201e5998 8f84be5c
+201e599c 0c079efe
+201e59a0 0040802d
+201e59a4 0200102d
+201e59a8 dfbf0008
+201e59ac 27bd0010
+201e59b0 03e00008
+201e59b4 dfb00000
+
+//FMV-values.
+201e598c 3c013f40
+2033b228 0000006a
+
+//

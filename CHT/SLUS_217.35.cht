@@ -1,0 +1,15 @@
+﻿"Mana Khemia - Alchemists of Al-Revis /ID SLUS_217.35"
+Mastercode
+90470500 0C11C0E8
+
+//3D scenes
+2046cc7c 3c013f40
+2046cc80 44810000
+2046cc88 4600c602
+
+//battle's fix
+20ba73cc 44400000
+20ba73d4 c4400000
+20ba6700 3faaaaab
+
+//

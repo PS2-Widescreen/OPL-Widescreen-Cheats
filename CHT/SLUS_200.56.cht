@@ -1,0 +1,14 @@
+﻿"SpyHunter /ID SLUS_200.56"
+Mastercode
+902DFE40 0C0B7F38
+//902DAAC4 0C0C0D5F
+//901000E4 0C0C2EA6
+
+//FOV
+20393fd0 3f400000
+
+//Prevents objects from disappearing from sides of screen
+2196fe00 3f0ccccd
+2196fde0 bf0ccccd
+
+//

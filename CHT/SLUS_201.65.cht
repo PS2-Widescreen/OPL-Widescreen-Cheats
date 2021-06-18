@@ -1,0 +1,30 @@
+﻿"Legacy of Kain - Soul Reaver 2 /ID SLUS_201.65"
+Mastercode
+90208B18 0C08226E
+//901EF85C 0C07D55F
+//901A8CC4 0C0804B4
+//90208058 0C081FBE
+
+//built-in widescreen
+201705fc 24020001
+20170600 3c010024
+20170604 ac22e920
+2017061c 46001146
+20170620 00000000
+20170624 00000000
+
+//gameplay both fov+
+201144a0 3c0143c0
+
+//render fix
+20112dcc 3c013f40
+
+//black border fix for cutscenes 
+2013db5c 3c01bf80
+2013db64 3c013f80
+
+//FMV Fix
+201d3bf8 24057604
+201d3c10 240a1400
+
+//

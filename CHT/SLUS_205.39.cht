@@ -1,0 +1,18 @@
+﻿"Fallout - Brotherhood of Steel /ID SLUS_205.39"
+Mastercode
+901D0AF8 0C074266
+
+//X-Fov  
+2017eb5c 3c013f40
+2018b860 3c013f40
+201af78c 3c013f40
+201afa00 3c013f40
+201afb6c 3c013f40
+
+//Render Fix
+201a8e58 3c013ff0
+201a8e5c 34210000
+201aa918 3c013ff0
+201aa91c 34210000
+
+//

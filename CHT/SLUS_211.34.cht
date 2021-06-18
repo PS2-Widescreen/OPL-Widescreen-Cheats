@@ -1,0 +1,28 @@
+﻿"Resident Evil 4 /ID SLUS_211.34"
+Mastercode
+902A4108 0C0A8FEA
+
+//Hold X and triangle at start for progressive scan or use this code to force it:
+20F98820 00010100
+
+//Keep on always
+20430f60 40000000
+202810e0 3c013f2b
+
+//Use if doing Leon's campaign (disable if not doing Leon's campaign)
+2031e3f4 42820000
+2031dc74 42820000
+2031c2f4 42700000
+2031c474 42700000
+
+//Use if not doing Leon's campaign (disable if doing Leon's campaign)
+//Force zoom out
+//e0020001 1041c0b8
+//20252f18 3c014360
+//2021d2b4 3c01bf80
+
+//e0020001 0041c0b8
+//20252f18 3c014328
+//2021d2b4 3c01bfaa
+
+//

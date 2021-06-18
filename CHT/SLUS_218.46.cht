@@ -1,0 +1,14 @@
+﻿"Sonic Unleashed /ID SLUS_218.46"
+Mastercode
+9065B758 0C196D7E
+//9066E558 0C19FAC4
+//904FF630 0C038D28
+
+//FOV
+20872cd0 3fd21daf
+
+//Fixes video aspect ratio
+20ed1a68 43e00000
+20ed1a58 00000000
+
+//

@@ -1,0 +1,14 @@
+﻿"Mana Khemia 2 - Fall of Alchemy /ID SLUS_218.90"
+Mastercode
+905E6120 0C1797F0
+
+//3D scenes
+205e1fb4 3c013f40
+205e1fb8 44810000
+205e1fc0 4600c602
+
+//battle's fix
+20c3745c 44400000
+20c37464 c4400000
+
+//

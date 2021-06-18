@@ -1,0 +1,32 @@
+﻿"Kingdom Hearts II /ID SLUS_210.05"
+Mastercode
+902FD330 0C0C42BD
+
+// new 16:9 hack by - ElHecht
+20106c70 3c013f4c
+20106c88 3421cccc
+20106c8c 4481f800
+20106c90 461fa503
+20106cb4 3c1b3f40
+20106cc0 449bf000
+20106cd0 461effc2
+20106cd4 e61f004c
+
+//optional zoom for cutscenes (hides sudden pop-in)
+20378104 43f90000
+
+//font fix
+2037ae44 3f400000
+2037ae48 3f400000
+2037ae4c 3f400000
+
+//black bar fix
+2014aaf0 24050000
+2014ab18 24050000
+2014ab40 24050000
+2014ab70 24050000
+
+//lower subtitles
+201aae88 240a0190
+
+//

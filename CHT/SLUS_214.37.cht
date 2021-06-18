@@ -1,0 +1,19 @@
+﻿"Kim Possible - What's the Switch /ID SLUS_214.37"
+Mastercode
+90114F78 0C045386
+//9010D194 0C0400C0
+
+//Zoom (Gameplay)
+201ca558 3c023f2a
+
+//Zoom (Event)
+201cafc4 3c024184
+201cafc8 3442c4ea
+
+//Y-Fov
+201ca958 3c013fe1
+201ca95c 4481f000
+201ca960 461e6b42
+201ca964 461e0343
+
+//

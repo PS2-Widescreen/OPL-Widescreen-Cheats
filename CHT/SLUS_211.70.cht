@@ -1,0 +1,18 @@
+﻿"Makai Kingdom - Chronicles of the Sacred Tome /ID SLUS_211.70"
+Mastercode
+90108A50 0C04223C
+//90118DE8 0C0A1B5C
+//90100244 0C09764C
+
+//Gameplay 16:9 (ELF hack)
+20104de4 3c013f40
+20104de8 44810000
+20104df0 4600c602
+
+//2D Characters X-Fov
+201488ac 3c023f40
+
+//(Old previous Memory hack by JLB)
+//20332070 45700000
+
+//

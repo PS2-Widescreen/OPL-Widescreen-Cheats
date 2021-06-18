@@ -1,0 +1,18 @@
+﻿"Rogue Galaxy /ID SCUS_974.90"
+Mastercode
+90119910 0C0465EC
+
+//gameplay
+201c6a50 3c023f10
+
+//compass
+2037112c 3c023f10
+
+//black border fix
+202611d4 3c020000
+
+//FMV's fix
+201d5a7c 24060000
+201d5acc 240201c0
+
+//

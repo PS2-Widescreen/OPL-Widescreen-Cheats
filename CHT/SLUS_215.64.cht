@@ -1,0 +1,19 @@
+﻿"Atelier Iris 3 - Grand Phantasm /ID SLUS_215.64"
+Mastercode
+903619F8 0C0D8626
+
+//3D scenes
+2035e58c 3c013f40
+2035e590 44810000
+2035e598 4600c602
+
+//battle's fix
+208f3eb8 44400000
+208f3ec0 c4400000
+208f312c 3faaaaab
+
+//2D scenes
+201b03f8 3c014440
+201b03fc 44810000
+
+//

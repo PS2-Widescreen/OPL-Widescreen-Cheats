@@ -1,0 +1,20 @@
+﻿"ICO /ID SCES_507.60"
+Mastercode
+902658B8 0C0995D6
+
+//widescreen
+20114dd0 3c013f40
+20114dd4 4481c000
+20114de0 46181082
+
+//render fix
+201146f4 240302ab
+2054e478 44fa0000
+
+//black borders fix
+20113450 3c010000
+
+//60 FPS test
+20274ec4 00000001
+
+//

@@ -1,0 +1,26 @@
+﻿"Mortal Kombat - Deception /ID SLUS_208.81"
+Mastercode
+9010F150 0C043BFC
+
+//zoom for arcade mode (widescreen)
+20222144 3c0342c0
+
+//aspect correction for widescreen mode
+201875e4 3c0143f0
+201875e8 46800860
+201875ec 44810000
+201875f0 46150842
+201875f4 46000803
+201875f8 46140003
+
+//black borders fix
+2017c5d0 46000001
+2017c5e0 46000001
+2017c620 46000001
+2017c630 46000001
+
+//widescreen switch fix
+20222320 24020340
+20222360 24020340
+
+//

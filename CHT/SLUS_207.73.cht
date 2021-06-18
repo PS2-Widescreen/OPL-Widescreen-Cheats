@@ -1,0 +1,32 @@
+﻿"Legacy of Kain - Defiance /ID SLUS_207.73"
+Mastercode
+90255c30 0c0956b4
+
+//built in widescreen
+2011a33c 00000000
+2028cfe0 00000001
+
+//sub black background off
+2013d108 3c013b30
+
+//cutscenes black border fix
+20151ef8 3c01bf80
+20151f04 3c013f80
+
+//cutscenes render fix
+2011972c 3c01c340
+20119748 3c014340
+
+//partial font size fix
+2013ba0c 3c013f40
+2013ba38 e422f400
+2013ba68 46021083
+2013ba6c e422f3ec
+
+//HUD fix (not fully tested)
+2023be84 3c013b40
+
+//FMV's fix
+20212f2c 24070140
+
+//

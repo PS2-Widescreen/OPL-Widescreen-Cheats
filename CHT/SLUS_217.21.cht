@@ -1,0 +1,24 @@
+﻿"Nobunaga's Ambition - Rise to Power /ID SLUS_217.21"
+Mastercode
+901317D0 0C04C59C
+//9014EF58 0C0400AC
+
+//X-Fov
+202810e4 3c023f40
+//20281098 3c023fc0
+
+//Y-Fov
+//202810b4 3c024040
+//Y-Fov
+//205460c0 3f9f49e9
+
+//Zoom
+//2028110c 3c023fb0
+
+//Render fix
+//2015d530 3c024440
+//2015d55c 3c023f6e
+//2015d560 3442eeef
+2015d534 3c0343d4
+
+//

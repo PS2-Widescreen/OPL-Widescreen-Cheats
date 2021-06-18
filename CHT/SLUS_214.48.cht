@@ -1,0 +1,19 @@
+﻿"Rule of Rose /ID SLUS_214.48"
+Mastercode
+90260798 0C09818E
+//9026B460 0C09E4D7
+
+//wide
+0013bd54 3c013f12
+0013bd7c 3c013f10
+
+//optional Draw distance
+//20302418 00000000
+
+//noise off
+2073d6a0 00000000
+
+//black borders's fix
+20190e58 24050000
+
+//

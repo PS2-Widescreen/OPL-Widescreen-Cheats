@@ -1,0 +1,13 @@
+﻿"Gregory Horror Show /ID SLES_519.33"
+Mastercode
+9010D9B8 0C043616
+//90114F2C 0C048BC2
+//901950FC 0C065528
+
+//wide
+20166078 3c023f40
+
+//hud fix (awkward transitions/thick font)
+20166000 3c023f40
+
+//

@@ -1,0 +1,37 @@
+﻿"Kingdom Hearts /ID SLUS_203.70"
+Mastercode
+90263228 0C09291F
+
+//Widescreen Code 
+201103ac 3c0143d6
+20110898 3c013f19
+2011089c 3421999a
+
+//FMV's fix
+202a0d88 70007000
+201061f4 3c071900
+
+//black border fix
+20104264 00000000
+20104384 00000000
+
+// matrix (affects menu characters, textboxes, world map, gummi ship)
+2026202c 3c013f40
+20262030 44810000
+20262038 4600c602
+
+// textboxes
+2048e550 3faaaaab
+
+//position fix weapon select
+20207498 3c0144fa
+
+//font fix hud and menu
+201ee910 24070020
+201f76d0 24090020
+
+//numbers fix
+201f938c 240b0020
+201f9110 24030020
+
+//

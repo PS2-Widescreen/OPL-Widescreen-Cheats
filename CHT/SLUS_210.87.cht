@@ -1,0 +1,15 @@
+﻿"Mortal Kombat - Shaolin Monks /ID SLUS_210.87"
+Mastercode
+90482C48 0C120ABA
+
+// 16:9
+204f4b38 3f400000
+
+// black border fix
+20322f2c 3c013f80
+
+//FMV's fix
+20272210 24030256
+20272498 240b0256
+
+//

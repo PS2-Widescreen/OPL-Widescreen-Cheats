@@ -1,0 +1,18 @@
+﻿"Bard's Tale, The /ID SLUS_208.03"
+Mastercode
+90152330 0C054874
+
+//WIDESCREEN
+2011c594 3c023f40
+2012ed8c 3c033f40
+201447a8 3c053f40
+20144824 3c033f40
+20144874 3c023f40
+
+//render fix
+2013e080 3c023f2b
+
+//font fix 
+2010ec24 3c0341c0
+
+//

@@ -1,0 +1,18 @@
+﻿"Lupin the 3rd - Treasure of the Sorcerer King /ID SLUS_206.83"
+Mastercode
+902624D8 0C0988DE
+//9024EFFC 0C096491
+//90104134 0C0957FE
+
+//Gameplay 16:9 
+202504e4 3c013f40
+202504e8 44810000
+202504f0 4600c602
+
+//HUD Sphere map upper right fix
+201f967c 3c013fab
+
+//Render fix
+201fb31c 3c0143d6
+
+//

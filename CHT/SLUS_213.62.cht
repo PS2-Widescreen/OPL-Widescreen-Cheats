@@ -1,0 +1,23 @@
+﻿"Onimusha - Dawn of Dreams (Disc 2) /ID SLUS_213.62"
+Mastercode
+90111350 0C04447C
+
+//val1
+2012f960 3c033f19
+2012f968 34649999
+
+//val2
+2012fb38 3c033f19
+2012fb40 34639999
+
+//val3
+2012f9c8 3c023f19
+2012f9cc 34439999
+
+//rfix1
+2012fbb0 3c02c3d6
+
+//rfix1
+2012faa0 3c024527
+
+//

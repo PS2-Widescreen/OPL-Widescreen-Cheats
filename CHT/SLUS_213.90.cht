@@ -1,0 +1,20 @@
+﻿"Urban Chaos - Riot Response /ID SLUS_213.90"
+Mastercode
+903B6960 00832021
+
+// 16:9
+20655260 3c013f40
+20655264 34210000
+
+// 16:9 and 16:10 modifications
+// no need to change anything here! all modifications are calculated
+// based on the hor fov value in the upper 16:9/16:10 section
+2018f548 08195498
+2018f54c 00000000
+20655268 4481f000
+2065526c 461e2102
+20655270 e7a40000
+20655274 c7b40070
+20655278 08063d53
+
+//

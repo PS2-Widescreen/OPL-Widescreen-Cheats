@@ -1,0 +1,11 @@
+﻿"Eternal Ring /ID SLUS_200.15"
+Mastercode
+901D44B8 0C0750D4
+
+//X-Fov - ELF hack
+20100fcc 3c013f40
+
+//Memory hack
+201ff100 43c00000
+
+//

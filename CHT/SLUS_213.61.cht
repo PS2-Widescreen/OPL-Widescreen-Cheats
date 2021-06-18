@@ -1,0 +1,13 @@
+﻿"Devil May Cry 3 - Dante's Awakening (Special Edition) /ID SLUS_213.61"
+Mastercode
+90122A14 0C04A0B4
+
+//wide
+21d0dea0 3f400000
+206a2870 3f400000
+
+//FMV's fix
+2023279c 240301aa
+202e52ec 240801aa
+
+//

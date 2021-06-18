@@ -1,0 +1,158 @@
+﻿"Hitman 2 - Silent Assassin /ID SLUS_203.74"
+Mastercode
+90416E84 0C1070C5
+
+//Amplitude Demo
+//16:9 Widescreen
+e0066d61 00341b30
+201e9214 08096c9a
+2025b268 3c013f40
+2025b26c 4481f800
+2025b270 461f07c2
+2025b274 0807a487
+2025b278 e61f0160
+
+//Frequency Demo
+//16:9 Widescreen
+e0065246 008087d0
+204ce64c 0813f231
+204fc8c4 3c013f40
+204fc8c8 4481f800
+204fc8cc 461f07c2
+204fc8d0 08133995
+204fc8d4 e61f0120
+
+//Frequency Online/Expansion Demo
+//16:9 Widescreen
+e0065246 00917618
+20566d6c 0816709c
+2059c270 3c013f40
+2059c274 4481f800
+2059c278 461f07c2
+2059c27c 08159b5d
+2059c280 e61f0120
+
+//Hitman 2 - Silent Assassin (NTSC-U) [SLUS-20374] [7656425F]
+//important: addresses are in "STARTUP.ELF", not in the bootfile ("SLUS_203.74")!
+//16:9 Widescreen
+e00a3f10 00313f7e
+20313f7c 3c013f10
+202bbe18 3c1b3f40
+202bc00c 3c013f00
+202bc010 4481a800
+202bc014 4615ad00
+202bc018 449bf000
+202bc054 461e0002
+202bc058 46150002
+202bc05c 4600a583
+202bc060 e6200054
+202bc064 4600a807
+
+//War of the Monsters Demo
+//16:9 Widescreen
+//Enable Condition
+//Condition to only enable these hacks when the War of the Monsters demo's ELF file is loaded into memory.
+e0453739 002cd4f2
+
+//Title Menu
+20705140 43ba0000
+20705160 3f206d3a
+
+//1 Player
+20704f00 43900000
+20704f20 3f206d3a
+207052c0 43900000
+207052e0 3f206d3a
+10147f00 1000c33a
+10147f04 10006666
+
+//2 Players - Separator Bar
+101496e8 0000fffb
+
+//2 Players - Unified View Black Bar Fix
+//Prevents black bar from appearing in the far right of unified view in 2 player matches
+e0010001 00731874
+2019f0e0 00000000
+e0010000 00731874
+2019f0e0 0c052576
+
+//2 Players - Player 1
+20704fc0 43840000
+20704fe0 3f206d39
+10147f30 1000c2c7
+10147f34 10000000
+
+//2 Players - Player 2
+20705080 43840000
+207050a0 3f206d39
+10147f78 100042c7
+10147f7c 10000000
+10147f44 1000433a
+10147f48 10006666
+1014b60c 00000262
+1014b440 00000125
+
+//Health Icons
+202c8168 00000014
+202c81f8 00000014
+202c818c 00000014
+202c821c 00000014
+
+//Distant Shadows
+2027e758 43c00000
+2027e820 43c00000
+
+//Sprites
+2027e8c0 43c00000
+2027ea10 43c00000
+
+//Loading Bar
+202497c4 3404014a
+
+//Generic Font - Width
+//Impacts top + bottom title screen text, unselected unlocks screen text, and pause menu text.
+10212f0c 00000007
+
+//Sub Pixels Font - Width and Spacing
+//Impacts all other text.
+20213480 08084cd0
+20213340 3c013f40
+20213344 4481e800
+20213348 3c013f00
+2021334c 4481f000
+20213350 4485f800
+20213354 4680ffe0
+20213358 461dffc2
+2021335c 461effc0
+20213360 4600ffe4
+20213364 4405f800
+20213368 4487f800
+2021336c 4680ffe0
+20213370 461dffc2
+20213374 461effc1
+20213378 4600ffe4
+2021337c 4407f800
+20213380 08084d22
+20213384 00832018
+
+//Left-Aligned Text Positions
+//Impacts P1 pickup notifications and tweaks menu.
+20213178 08084cb4
+202132d0 3c013f40
+202132d4 4481e800
+202132d8 3c013f00
+202132dc 4481f000
+202132e0 4485f800
+202132e4 4680ffe0
+202132e8 461dffc2
+202132ec 461effc0
+202132f0 4600ffe4
+202132f4 4405f800
+202132f8 08084c60
+202132fc 00054100
+
+//Tweaks - Interactive Music - Print Interactive Music Volumes
+101d5e44 0000013b
+101d5e70 0000013b
+
+//

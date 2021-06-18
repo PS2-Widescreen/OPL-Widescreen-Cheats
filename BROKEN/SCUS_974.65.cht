@@ -1,0 +1,194 @@
+﻿"Ratchet - Deadlocked /ID SCUS_974.65"
+Mastercode
+9013BA48 00832021
+//908004B4 0C200058
+
+// Code patching routine DWORD
+200c0000 3c1b000c
+200c0004 df7101a0
+200c0008 14510005
+200c0010 8f7101e8
+200c0014 ac71ff78
+200c0018 8f7101ec
+200c001c ac71ff8c
+200c0020 df7101a8
+200c0024 14510003
+200c002c 8f7101f0
+200c0030 ac71ffc0
+200c0034 df7101b0
+200c0038 14510003
+200c0040 8f7101f0
+200c0044 ac71ffa4
+200c0048 df7101b8
+200c004c 14510005
+200c0054 8f7101f4
+200c0058 ac71ff94
+200c005c 8f7101f8
+200c0060 ac71ffa0
+200c0064 df7101c0
+200c0068 14510003
+200c0070 8f7101fc
+200c0074 ac17ffdc
+200c0078 df7101c8
+200c007c 14510003
+200c0084 8f710200
+200c0088 ac71fef0
+200c008c df7101d0
+200c0090 14510003
+200c0098 8f710204
+200c009c ac71ff64
+200c00a0 df7101d8
+200c00a4 14510003
+200c00ac 8f710204
+200c00b0 ac71ffcc
+200c00b4 df7101e0
+200c00b8 14510003
+200c00c0 8f710208
+200c00c4 ac71ffc8
+200c00c8 08055def
+200c00cc fc62fff8
+
+// Code patching routine WORD
+200c00d0 3c1b000c
+200c00d4 8f7101a0
+200c00d8 14510005
+200c00e0 8f7101e8
+200c00e4 acd1ff7c
+200c00e8 8f7101ec
+200c00ec acd1ff90
+200c00f0 8f7101ac
+200c00f4 14510003
+200c00fc 8f7101f0
+200c0100 acd1ff80
+200c0104 8f7101b0
+200c0108 14510003
+200c0110 8f7101f0
+200c0114 acd1ffa8
+200c0118 8f7101bc
+200c011c 14510005
+200c0124 8f7101f4
+200c0128 acd1ff94
+200c012c 8f7101f8
+200c0130 acd1ffa0
+200c0134 8f7101c4
+200c0138 14510003
+200c0140 8f7101fc
+200c0144 acd1ffdc
+200c0148 8f7101c8
+200c014c 14510003
+200c0154 8f710200
+200c0158 acd1fef4
+200c015c 8f7101d4
+200c0160 14510003
+200c0168 8f710204
+200c016c acd1ff64
+200c0170 8f7101dc
+200c0174 14510003
+200c017c 8f710204
+200c0180 acd1ffcc
+200c0184 8f7101e4
+200c0188 14510003
+200c0190 8f710208
+200c0194 acd1ffc8
+200c0198 08055e03
+200c019c acc2fffc
+
+// Refrence DWORD/WORD for Widescreen 
+//Note: The patching routine uses this to patch an address before this in memory.
+200c01a0 c6030210
+200c01a4 4600a306
+
+// Refrence DWORD/WORD for hoverbike zoom fix 1
+//Note: The patching routine uses this to patch an address before this in memory.
+200c01a8 02242018
+200c01ac 02329018
+
+// Refrence DWORD/WORD for hoverbike zoom  fix 2
+//Note: The patching routine uses this to patch an address before this in memory.
+200c01b0 c44503a0
+200c01b4 01054021
+
+// Refrence  DWORD/WORD for cutscene render fix
+//Note: The patching routine uses this to patch two addresses before this in memory.
+200c01b8 e7b40070
+200c01bc 82020090
+
+// Refrence  DWORD/WORD for alt coop widescreen branch 1
+200c01c0 34a54040
+200c01c4 27848861
+
+// Refrence  DWORD/WORD for alt coop widescreen branch 2
+200c01c8 1083fff7
+200c01cc 24020002
+
+// Refrence  DWORD/WORD for alt coop widescreen branch 3
+200c01d4 8c622670
+200c01d0 8e430000
+
+// Refrence  DWORD/WORD for alt coop widescreen branch 4
+200c01d8 c48f0014
+200c01dc c48e0010
+
+// Refrence  DWORD/WORD for alt coop widescreen branch 5
+200c01e0 c4a40000
+200c01e4 3c014122
+
+// Replacement  WORDs for widescreen
+200c01e8 0c030083
+200c01ec 14600007
+
+//Replacement  WORD for hoverbike zoom fix
+200c01f0 461e0543
+
+// Replacement  WORDs for cutscene render fix
+200c01f4 3c013f1c
+200c01f8 aea100b0
+
+// Replacement WORDs for alt coop widescreen
+200c01fc 1440006e
+200c0200 14400007
+200c0204 14600009
+200c0208 1440000f
+
+// Hor FOV recalulation routine
+// This routine checks if an unpatched HOR FOV currently resides in ram,
+// by iterating through a list and patching the value if a match is found.
+200c020c c77e0250
+200c0210 3c01000c
+200c0214 34210274
+200c0218 277b0254
+200c021c c46000b0
+200c0220 103b0007
+200c0224 c7620000
+200c0228 277b0004
+200c022c 46020032
+200c0230 4500fffb
+200c0238 461e0003
+200c023c e46000b0
+200c0240 461e0002
+200c0244 46010002
+200c0248 03e00008
+200c024c 3c1b000c
+200c0250 3f400000
+
+// Unpatched Hor FOV values
+200c0254 3f1eb852
+200c0258 3ed40674
+200c025c 3f1eba08
+200c0260 3ee978d5
+200c0264 3f5a3d70
+200c0268 3f5a3fcb
+200c026c 3f870cae
+200c0270 3f53a04b
+
+// Jump to DWORD patching routine
+201577b4 08030000
+
+// Jump to WORD patching routine
+20157804 08030034
+
+//Force built-in widescreen
+e0010101 00171de8
+00171deb 00000001
+
+//

@@ -1,0 +1,16 @@
+﻿"Mafia /ID SLUS_206.71"
+Mastercode
+90407A38 0C101E36
+//90377358 0C0DDCB8
+
+//Gameplay 16:9
+20ff8d64 3fab0000
+20ff8e4c 3fab0000
+
+//Render fix
+20ff8db4 3d000000
+
+//Rendering distancce
+20ff8db8 44000000
+
+//

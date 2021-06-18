@@ -1,0 +1,31 @@
+﻿"Smuggler's Run /ID SLUS_200.65"
+Mastercode
+9027DE38 0C09F734
+
+//16:9 widescreen
+2023ca3c 0809a2db
+20268b6c 3c013faa
+20268b70 3421aaab
+20268b74 4481f800
+20268b78 461f1082
+20268b7c 0808f291
+20268b80 3c04002c
+
+//Alternate hacks
+//Master X FOV
+//202340b8 0809a2db
+//20268b6c 3c030050
+//20268b70 3c013f40
+//20268b74 4481f800
+//20268b78 0808d030
+//20268b7c e47f90c0
+
+//Render fixes
+//10194f2c 00003fea
+//10194f30 0000aaab
+//1023ccc0 00003f2b
+
+//Text position fix
+//10109f1c 000001ab
+
+//

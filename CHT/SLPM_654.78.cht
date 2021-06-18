@@ -1,0 +1,20 @@
+﻿"Final Fantasy X-2 - International + Last Mission /ID SLPM_654.78"
+Mastercode
+9034B698 0C0D2D4E
+
+//wide
+201aabb8 3c013f19
+201aabbc 3421999a
+2011be04 3c014440
+2017c22c 3c01442b
+
+//alternate values
+20367044 3f5eeeef
+
+//menu cursor width
+20214124 3c013f40
+
+//force disable Japanese subtitles
+20385DF4 00000001
+
+//

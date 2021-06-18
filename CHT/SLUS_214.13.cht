@@ -1,0 +1,17 @@
+﻿"Thrillville /ID SLUS_214.13"
+Mastercode
+905D69B8 0C175A16
+//9056ABEC 0C1700BB
+
+//FOV
+20cc5540 3fe374bc
+
+//HUD Scaling
+20cc5544 3f666666
+20cc5548 3f866666
+20cc554c 3f8374bc
+
+//Increases Draw Distance (Needed to restore effects lost in HW mode)
+20cc5558 3fc00000
+
+//

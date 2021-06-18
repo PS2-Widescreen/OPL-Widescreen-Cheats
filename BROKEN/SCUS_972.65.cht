@@ -1,0 +1,14 @@
+﻿"Jak II /ID SCUS_972.65"
+Mastercode
+9011F498 0C047CCE
+//901002F4 0C045160
+
+//Widescreen hack 16:9
+//20367ae8 3c033f1f
+//20826e10 0014a709
+
+//menu fix
+//20b63ea0 43a80000
+//20b66470 43440000
+
+//

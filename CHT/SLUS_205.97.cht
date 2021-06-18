@@ -1,0 +1,13 @@
+﻿"Warhammer 40,000 - Fire Warrior /ID SLUS_205.97"
+Mastercode
+90110E70 0C044344
+//90148AF8 0C056998
+
+//wide
+2067256c 3f400000
+20672570 3f800000
+
+//force in-gamewidescreen off (needed)
+20C234DC 00000000
+
+//

@@ -1,0 +1,17 @@
+﻿"Mega Man X Collection /ID SLUS_213.70"
+Mastercode
+9012F8B0 00832021
+
+//Unlock Mega Man Battle & Chase
+E0010001 00662E84
+00669980 00000001
+
+//All Gallery
+E0010001 00662E84
+206699C4 FFFFFFFF
+
+//HDTVFiX (all games)
+2014497c 3C050001
+2014498c 1C070001
+
+//

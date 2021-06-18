@@ -1,0 +1,25 @@
+﻿"Final Fantasy X - International /ID SLPS_250.88"
+Mastercode
+902DDF14 0C0BBAEB
+
+201a5854 3c013f19
+201a5858 3421999a
+2011973c 3c014440
+20176124 3c01442b
+
+//alternate values
+//x fov
+//20313f80 3f19999a
+//y fov
+20313f84 3f5eeeef
+
+//world map
+20262e40 3c013f40
+
+//sphere grid
+2026479c 3c013f40
+
+//force English
+0031ce5e 00000001
+
+//

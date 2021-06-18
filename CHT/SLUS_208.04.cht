@@ -1,0 +1,17 @@
+﻿"Demon Stone /ID SLUS_208.04"
+Mastercode
+90110A38 0C044236
+
+//wide
+201a4fb0 3c013f40
+201a4fb4 44810000
+201a4fbc 46006b43
+
+//wide 2
+2015629c 3c023fe3
+201562a0 34438e38
+
+//black borders fix
+201d8330 24040001
+
+//

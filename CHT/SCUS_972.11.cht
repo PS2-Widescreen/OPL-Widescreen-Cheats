@@ -1,0 +1,15 @@
+﻿"ATV Offroad Fury 2 /ID SCUS_972.11"
+Mastercode
+9035C7B8 0C0D7196
+//9037792C 0C0DB25A
+//90156224 0C040EBC
+
+//Gameplay 16:9 
+2011b0c0 3c023caa
+2011b0cc 3c023fab
+
+//Render fix
+201a2aec 3c03bfab
+201a2af0 3c023fab
+
+//

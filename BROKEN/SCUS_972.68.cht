@@ -1,0 +1,109 @@
+﻿"Ratchet & Clank - Going Commando /ID SCUS_972.68"
+Mastercode
+90131DA4 0C047F12
+//9011CD48 0C0472FA
+//90128AD0 0C0454F5
+
+// DWORD Code patching routine
+200c0000 3c1b000c
+200c0004 df7100a8
+200c0008 14510005
+200c0010 8f7100b8
+200c0014 ac71ffb4
+200c0018 8f7100bc
+200c001c ac71ffc8
+200c0020 df7100b0
+200c0024 14510009
+200c002c 8f7100c0
+200c0030 ac71ff84
+200c0034 8f7100c4
+200c0038 ac71ff88
+200c003c 8f7100c8
+200c0040 ac71ff94
+200c0044 8f7100cc
+200c0048 ac71ffac
+200c004c 0804c747
+200c0050 fc62fff8
+
+// WORD Code patching routine
+200c0054 3c1b000c
+200c0058 8f7100a8
+200c005c 14510005
+200c0064 8f7100b8
+200c0068 acb1ffb8
+200c006c 8f7100bc
+200c0070 acb1ffcc
+200c0074 8f7100b4
+200c0078 14510009
+200c0080 8f7100c0
+200c0084 acb1ff84
+200c0088 8f7100c4
+200c008c acb1ff88
+200c0090 8f7100c8
+200c0094 acb1ff94
+200c0098 8f7100cc
+200c009c acb1ffac
+200c00a0 0804c753
+200c00a4 aca2fffc
+
+// Refrence WORD/DWORD for widescreen
+// Note: The patching routine uses this to patch an address before this in memory.
+200c00a8 c6030200
+200c00ac 4600a306
+
+// Refrence WORD/DWORD for HUD fix
+// Note: The patching routine uses this to patch an address before this in memory.
+200c00b0 468010a0
+200c00b4 c7a40030
+
+// Replacement WORDs for widescreen 
+200c00b8 0c030034
+200c00bc 14400007
+
+// Replacement WORDs for HUD fix
+200c00c0 3c013f40
+200c00c4 4481f000
+200c00c8 461e0002
+200c00cc 14600008
+
+// Hor FOV recalulation routine
+// This routine checks if an unpatched HOR FOV currently resides in ram,
+// by iterating through a list and patching the value if a match is found.
+200c00d0 c77e0114
+200c00d4 3c01000c
+200c00d8 3421012c
+200c00dc 277b0118
+200c00e0 c46000b0
+200c00e4 103b0007
+200c00e8 c7620000
+200c00ec 277b0004
+200c00f0 46020032
+200c00f4 4500fffb
+200c00fc 461e0003
+200c0100 e46000b0
+200c0104 461e0002
+200c0108 46010002
+200c010c 03e00008
+200c0110 3c1b000c
+
+//Hor scale
+200c0114 3f400000
+
+// Unpatched Hor FOV values 
+200c0118 3f214633
+200c011c 3f2147ae
+200c0120 3f1eb852
+200c0124 3f1ff770
+200c0128 3ed40674
+
+// Jump to DWORD patching routine
+20131d14 08030000
+
+// Jump to WORD patching routine
+20131d44 08030015
+
+//Force built-in widescreen
+e0010101 001a7bb2
+001a7bb1 00000001
+
+//

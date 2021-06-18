@@ -1,0 +1,25 @@
+﻿"Prince of Persia - The Two Thrones /ID SLUS_212.87"
+Mastercode
+90103F10 0C046740
+
+//gameplay
+205b8794 3c023f40
+205b87b0 4600b046
+205b87b8 4600a306
+205b87bc 4600ab46
+
+//rfix
+205a1cac 3c014455
+205a1ce8 44810000
+
+//menu fix
+2055e930 0c15ce5f
+2057397c 3c014456
+205739c4 44813000
+205739c8 2407ff95
+
+//HUD fix
+20217ce4 3c03bddd
+20217cec 3464dddd
+
+//

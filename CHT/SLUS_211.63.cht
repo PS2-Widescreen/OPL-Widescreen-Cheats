@@ -1,0 +1,16 @@
+﻿"Brothers In Arms - Road To Hill 30 /ID SLUS_211.63"
+Mastercode
+9012ED70 0C04BB04
+
+//gameplay
+20304f5c 3c023f40
+
+//menu font fix
+203e4e3c 3c033f40
+203e4e44 3c033f80
+203e4e48 44830800
+203e4e4c ae630108
+203e4e50 c6600104
+203e4e54 46010036
+
+//

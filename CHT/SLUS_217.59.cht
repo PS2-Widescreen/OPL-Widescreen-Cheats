@@ -1,0 +1,10 @@
+﻿"LEGO Indiana Jones - The Original Adventures /ID SLUS_217.59"
+Mastercode
+90449D50 0C1126FC
+
+//Widescreen hack 16:9
+204ef0dc 00000a01
+204ef0f0 00000a01
+2031db2c 3c013f40
+
+//

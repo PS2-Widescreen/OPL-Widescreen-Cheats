@@ -1,0 +1,17 @@
+﻿"Castlevania - Lament of Innocence /ID SLUS_207.33"
+Mastercode
+906F6098 0C1BD7CE
+
+//gameplay
+206e70f4 23c013f4
+
+//hor value
+206e70f8 44810000
+206e7100 4600c602
+
+//FMV's fix
+204511d0 24057300
+204511d4 24062000
+204511dc 24071b00
+
+//

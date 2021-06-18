@@ -1,0 +1,17 @@
+﻿"Frequency /ID SCUS_971.25"
+Mastercode
+905D3A70 0C174E44
+//9059C714 0C138F46
+
+//16:9 Widescreen
+204afbdc 081378dc
+204de370 3c013f40
+204de374 4481f800
+204de378 461f07c2
+204de37c 0812bef9
+204de380 e61f0120
+
+//optional FMV width (WIP)
+105110bc 00000355
+
+//

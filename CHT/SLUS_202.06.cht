@@ -1,0 +1,17 @@
+﻿"Army Men - RTS /ID SLUS_202.06"
+Mastercode
+901ED730 0C07B574
+//9019905C 0C04D0E3
+
+//wide
+201a33c4 3c013fab
+201a3404 3c013f05
+
+//Game Play
+201a2ecc 3c013fab
+201a3304 3c013f05
+
+//Odd Zoom (able to avoid "render fix")
+2020cb1c 3c013fb0
+
+//

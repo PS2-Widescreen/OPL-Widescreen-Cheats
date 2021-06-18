@@ -1,0 +1,19 @@
+﻿"Grandia III (Disc 1) /ID SLUS_213.34"
+Mastercode
+9010C9F8 0C043226
+
+//wide
+2013b450 3c033f27
+2013b4a0 3c013f40
+2013b4a4 4481a000
+2013b4a8 46146d83
+2013b4ac 46007546
+2013b4b0 46007e86
+
+//cutscenes black borders fix (optional memory hack) - may cause error
+202a8578 24030000
+
+//battle black borders fix (optional memory hack) - may cause error
+2032cef8 24030000
+
+//

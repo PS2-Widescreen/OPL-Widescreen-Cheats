@@ -1,0 +1,22 @@
+﻿"Dave Mirra Freestyle BMX 2 /ID SLUS_201.59"
+Mastercode
+901E0528 0C0780F2
+//901D93B4 0C07B653
+//90112384 0C079E6A
+
+// 16:9
+20100c58 3c013f40
+200fffd4 3c093f40
+201010f0 0803fff5
+201010f4 00000000
+200fffdc 4489f000
+200fffe0 461e0843
+200fffe4 46000843
+200fffe8 e6200448
+200fffec 0804043d
+
+//Airport Garage helicopter rotor glitch fix
+20100c04 3c013f40
+200fffd8 3c093f40
+
+//

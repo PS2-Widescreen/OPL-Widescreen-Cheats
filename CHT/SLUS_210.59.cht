@@ -1,0 +1,41 @@
+﻿"Tekken 5 /ID SLUS_210.59"
+Mastercode
+9010C1D0 00832021
+//901001C4 0C07C1E4
+
+//optional: Force in-game widescreen
+203E4538 01000c0c
+
+//optional: Force in-game sharp image (interlaced)
+203E4578 00000000
+
+//optional: Force in-game progressive scan
+203EF450 00000001
+
+//wide
+2032b448 3c013f40
+
+//applies both fov+ only for widescreen mode
+2032b478 3c010015
+2032b47c c62dd11c
+2032b49c 46016b42
+2032b4a0 46010843
+2032b4b8 460d1083
+2032b4bc 460d0843
+
+//effects fix
+20257434 46161083
+20257488 46160843
+202574e0 46160843
+20257538 46160843
+e0018e38 0015d11c
+20257764 10000008
+e001aaaa 0015d11c
+20257764 45020008
+
+//render fix
+20222484 3c013f2b
+20222494 44810000
+20222498 46006302
+
+//

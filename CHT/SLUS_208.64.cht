@@ -1,0 +1,16 @@
+﻿"Punisher, The [Uncensored] /ID SLUS_208.64"
+Mastercode
+901A55F0 0C069524
+
+// 16:9
+2042d2d0 3fdba5e3
+20192404 3c023f20
+2019240c 34426666
+
+// force progressive scan
+201a0204 3c050000
+201a0208 3c060050
+201a020c 3c070001
+201a0210 3c090010
+
+//

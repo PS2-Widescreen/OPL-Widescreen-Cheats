@@ -1,0 +1,117 @@
+﻿"Ratchet & Clank - Up Your Arsenal /ID SCUS_973.53"
+Mastercode
+9012F420 00832021
+
+// Code patching routine  DWORD
+200c0000 3c1b000c
+200c0004 df7100a8
+200c0008 14510005
+200c0010 8f7100b8
+200c0014 ac71ff88
+200c0018 8f7100bc
+200c001c ac71ff9c
+200c0020 df7100b0
+200c0024 14510009
+200c002c 8f7100c0
+200c0030 ac71ff7c
+200c0034 8f7100c4
+200c0038 ac71ff80
+200c003c 8f7100c8
+200c0040 ac71ff8c
+200c0044 8f7100cc
+200c0048 ac71ffac
+200c0050 fc62fff8
+
+// Code patching routine WORD
+200c0054 3c1b000c
+200c0058 8f7100a8
+200c005c 14510005
+200c0064 8f7100b8
+200c0068 acb1ff8c
+200c006c 8f7100bc
+200c0070 acb1ffa0
+200c0074 8f7100b4
+200c0078 14510009
+200c0080 8f7100c0
+200c0084 acb1ff7c
+200c0088 8f7100c4
+200c008c acb1ff80
+200c0090 8f7100c8
+200c0094 acb1ff8c
+200c0098 8f7100cc
+200c009c acb1ffac
+200c00a4 aca2fffc
+
+// Refrence WORD/DWORD for widescreen
+// Note: The patching routine uses this to patch an address before this in memory.
+200c00a8 c6010218
+200c00ac c600021c
+
+// Refrence WORD/DWORD for HUD fix
+// Note: The patching routine uses this to patch an address before this in memory.
+200c00b0 468010a0
+200c00b4 c7a40030
+
+// Replacement WORD's for widescreen 
+200c00b8 0c030034
+200c00bc 1060000a
+
+// Replacement WORD's for HUD fix
+200c00c0 3c013f40
+200c00c4 4481f000
+200c00c8 461e1082
+200c00cc 14400008
+
+// Hor FOV recalulation routine
+// This routine checks if an unpatched HOR FOV currently resides in ram,
+// by iterating through a list and patching the value if a match is found.
+200c00d0 c77e0114
+200c00d4 3c01000c
+200c00d8 34210144
+200c00dc 277b0118
+200c00e0 c46000b0
+200c00e4 103b0007
+200c00e8 c7620000
+200c00ec 277b0004
+200c00f0 46020032
+200c00f4 4500fffb
+200c00fc 461e0003
+200c0100 e46000b0
+200c0104 461e0002
+200c0108 46010002
+200c010c 03e00008
+200c0110 3c1b000c
+
+// Hor scale
+200c0114 3f400000
+
+// Unpatched Hor FOV values
+200c0118 3f1eb852
+200c011c 3f56cf3b
+200c0120 3ed40674
+200c0124 3f1eba08
+200c0128 3f199999
+200c012c 3f199b41
+200c0130 3f0f5bd4
+200c0134 3f0f5c28
+200c0138 3f052027
+200c013c 3f051eb8
+200c0140 3f3340cc
+
+//Check if running in Single player
+e005dc82 0013b052
+200c004c 0804ec17
+200c00a0 0804ec21
+2013b054 08030000
+2013b07c 08030015
+001439fd 00000001
+
+//Check if running in Multiplayer
+e005dc82 001930b2
+200c004c 08064c2f
+200c00a0 08064c39
+201930b4 08030000
+201930dc 08030015
+001a5a3d 00000001
+
+//

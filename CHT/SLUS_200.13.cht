@@ -1,0 +1,37 @@
+﻿"Tony Hawk's Pro Skater 3 /ID SLUS_200.13"
+Mastercode
+9029B408 0C0A6CAA
+
+//gameplay & park editor (without pressing select)
+2017c060 3c013ff3
+2017c064 3421cf00
+
+//gameplay & park editor (after pressing select)
+201f34d4 3c013ff3
+201f34d8 3421cf00
+
+//menu
+201f7f08 3c013ff3
+201f7f0c 3421cf00
+
+//(B) horizontal FOV - vertical splitscreen
+
+//gameplay (without pressing select)
+2017c080 3c013f73
+2017c084 3421cf00
+
+//gameplay (after pressing select)
+201f34f4 3c013f73
+201f34f8 3421cf00
+
+//(C) horizontal FOV - horizontal splitscreen
+
+//gameplay (without pressing select)
+2017c0d4 3c014073
+2017c0d8 3421cf00
+
+//gameplay (after pressing select)
+201f3514 3c014073
+201f3518 3421cf00
+
+//
