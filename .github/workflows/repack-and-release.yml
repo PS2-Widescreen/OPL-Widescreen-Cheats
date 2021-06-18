@@ -19,10 +19,8 @@ jobs:
 # cp \!README.TXT Widescreen_hacks$DATEE/
         run: |
           DATEE=`date '+[%Y-%m-%d]'`
-          mkdir Widescreen_hacks$DATEE
-          cp *.cht Widescreen_hacks$DATEE
           
-          zip widescreen_hacks Widescreen_hacks*/*
+          zip widescreen_hacks$DATEE CHT/*
     
       - name: Upload artifacts
         if: ${{ success() }}
@@ -30,7 +28,7 @@ jobs:
         with:
           name: WIDESCREEN
           path: |
-             widescreen_hacks.zip
+             widescreen_hacks*.zip
 
       - name: Create pre-release
         if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main'
@@ -40,4 +38,4 @@ jobs:
           automatic_release_tag: "Latest"
           title: "Latest Version"
           files: |
-                widescreen_hacks.zip
+                widescreen_hacks*.zip
