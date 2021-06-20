@@ -18,9 +18,8 @@ jobs:
       - name: zip cheats
 # cp \!README.TXT Widescreen_hacks$DATEE/
         run: |
-          DATEE=`date '+[%Y-%m-%d]'`
           
-          zip widescreen_hacks$DATEE CHT/*
+          zip widescreen_hacks CHT/*
     
       - name: Upload artifacts
         if: ${{ success() }}
