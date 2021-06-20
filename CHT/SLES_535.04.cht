@@ -1,0 +1,14 @@
+﻿"Agent Hugo /ID SLES_535.04"
+Mastercode
+9031D520 0C0C74F0
+
+//Widescreen hack 16:9
+
+//Y-Fov
+//403f013c 00008144 2d200002
+201add98 3c013f10
+
+//Zoom
+//00bf013c 00388144 2000b07f (2nd)
+202bd2dc 3c01bec0
+

@@ -1,0 +1,11 @@
+﻿"Spider-Man 3 /ID SLES_547.24"
+Mastercode
+904096D8 0C10255E
+
+Widescreen Hack
+203488c8 3c023f22
+2032a974 3c023f22
+//patch=1,EE,003488dc,word,3c023ec0 //vert-
+21a1b54c 3ff19fdd
+21a45f6c 3ff19fdd
+

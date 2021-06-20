@@ -1,0 +1,13 @@
+﻿"Jak II: Renegade /ID SCES_516.08"
+Mastercode
+9011F558 0C047CFE
+
+// 16:9
+20367be8 3c033f1f
+20826f10 0014a709
+
+// menu fix
+20b63fe0 43a80000
+20b665b0 43440000
+
+

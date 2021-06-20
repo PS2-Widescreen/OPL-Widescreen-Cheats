@@ -1,0 +1,17 @@
+﻿"Tak and the Guardians of Gross /ID SLES_553.76"
+Mastercode
+9048A510 0C1228EC
+
+//Widescreen hack 16:9
+
+//X-Fov
+203c3ec0 08030000
+200c0000 c60c0098
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e6303
+200c0010 080f0fb1
+
+//Render fix
+203a3d98 3c013f2b
+

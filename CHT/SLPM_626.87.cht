@@ -1,0 +1,10 @@
+﻿"Sega Ages Vol. 24: Last Bronx - Tokyo Bangaichi /ID SLPM_626.87"
+Mastercode
+90212F58 0C084B7E
+
+
+//Widescreen hack 16:9
+
+2041b3d4 3ec00000
+2041e9f8 3f300000
+

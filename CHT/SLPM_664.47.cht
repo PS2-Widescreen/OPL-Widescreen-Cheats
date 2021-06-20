@@ -1,0 +1,13 @@
+﻿"Sengoku Basara 2 /ID SLPM_664.47"
+Mastercode
+902CCFB8 0C0B3396
+
+
+//wide 16:9
+20271a2c 3c013f40
+20271a30 44810000
+20271a38 4600c602
+//render fix
+201f37e8 3c013f19
+201f37ec 3421999a
+

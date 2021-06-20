@@ -1,0 +1,23 @@
+﻿"Dynasty Warriors 2 /ID SLUS_200.79"
+Mastercode
+9032B488 0C0CACC8
+
+//Widescreen hack 16:9
+
+202fa696 3faaaaab
+202fb4ec 3c013fab
+203320cc 3faaaaab
+203321e8 3faaaaab
+203321f4 3faaaaab
+20332208 3faaaaab
+20332214 3faaaaab
+2033226c 3faaaaab
+2033236c 3faaaaab
+2033b18c 3faaaaab
+2033b190 3faaaaab
+2033b194 3faaaaab
+
+//Render fix (fix by Arapapa)
+//003F013C 00608144 DC9C94C7
+20253d24 3c013f40
+

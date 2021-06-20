@@ -1,0 +1,9 @@
+﻿"Alfa Romeo Racing Italiano /ID SLUS_213.21"
+Mastercode
+90115550 0C0454FC
+
+//Widescreen hack 16:9
+
+//X-fov
+//403f023c 00088244 00188344
+2027cb84 3c023f10

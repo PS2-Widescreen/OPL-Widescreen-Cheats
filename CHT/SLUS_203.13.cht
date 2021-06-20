@@ -1,0 +1,14 @@
+﻿"Wave Rally /ID SLUS_203.13"
+Mastercode
+90205B38 0C081676
+
+//Widescreen hack 16:9
+
+//Zoom
+2017d72c 3c013f94
+2017d730 3421ef4e
+
+//Y-Fov
+2017d62c 3c013fe3
+2017d630 3421ef4e
+

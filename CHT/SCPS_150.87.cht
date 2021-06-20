@@ -1,0 +1,11 @@
+﻿"Bleach: Erabareshi Tamashii /ID SCPS_150.87"
+Mastercode
+9011ABD0 0C046A9C
+
+//Widescreen hack 16:9
+
+//X-Fov
+//663f023c 00208344 66664234 -> 993f023c 00208344 9a994234
+20131fb4 3c023f99
+20131fbc 3442999a
+

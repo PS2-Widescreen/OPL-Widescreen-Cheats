@@ -1,0 +1,12 @@
+﻿"Sengoku Basara 2 Heroes /ID SLPM_668.48"
+Mastercode
+902F7EB8 0C0BDF56
+
+//wide 16:9
+20290b0c 3c013f40
+20290b10 44810000
+20290b18 4600c602
+//render fix
+2010d5c4 3c013f19
+2010d5c8 3421999a
+

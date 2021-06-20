@@ -1,0 +1,18 @@
+﻿"Crazy Frog Racer /ID SLES_538.69"
+Mastercode
+90411970 0C104604
+
+//Widescreen hack 16:9
+
+//Zoom
+//803f023c 2d208002 00088244
+2047a218 3c023f40
+
+//Y-Fov
+//00bf033c 00088244 2d204002
+204694ec 3c03bf2a
+
+//HUD fix (Zoom)
+//0040023c 00088644
+204699e4 3c023fc0
+

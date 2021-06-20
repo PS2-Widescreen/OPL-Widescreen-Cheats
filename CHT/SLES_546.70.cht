@@ -1,0 +1,10 @@
+﻿"Wacky Races: Mad Motors /ID SLES_546.70"
+Mastercode
+902359F8 0C08D626
+
+//Gameplay 16:9 
+202fb0c4 3fe38e38
+
+//Automatic demo fix
+2032d7f4 3fe38e38
+

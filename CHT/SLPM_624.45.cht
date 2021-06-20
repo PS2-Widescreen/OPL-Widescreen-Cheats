@@ -1,0 +1,10 @@
+﻿"Sega Ages Vol. 09: Gain Ground /ID SLPM_624.45"
+Mastercode
+901381F8 0C04E026
+
+//Widescreen hack 16:9
+
+201352c4 3c013f40
+201352c8 44810000
+201352d0 4600c602
+

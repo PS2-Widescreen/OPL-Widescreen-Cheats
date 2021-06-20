@@ -1,0 +1,13 @@
+﻿"LEGO Island Xtreme Stunts /ID SLES_511.53"
+Mastercode
+902A0130 0C0A7FF4
+
+//Widescreen hack 16:9
+
+2021eef4 3c013f40
+2021eef8 44810000
+2021ef00 4600c602
+
+//Render Fix
+20220f70 3c013fab
+

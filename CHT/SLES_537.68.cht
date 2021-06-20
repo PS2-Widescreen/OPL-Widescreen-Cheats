@@ -1,0 +1,12 @@
+﻿"The Sword of Etheria /ID SLES_537.68"
+Mastercode
+904D6610 0C13592C
+
+//gameplay
+205161c0 46010082
+205161c4 e7a20058
+
+//cutscenes
+20516590 46010082
+20516594 e7a20068
+

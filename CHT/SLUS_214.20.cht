@@ -1,0 +1,20 @@
+﻿"Disney's Chicken Little: Ace in Action /ID SLUS_214.20"
+Mastercode
+90434F40 0C10D378
+
+//Widescreen hack 16:9
+
+//X-Fov
+//07000046 140040e4 0400a4e7
+202396b0 08065634
+
+201958d0 46000007
+201958d4 3c013f40
+201958d8 4481f000
+201958dc 461e6b42
+201958e0 0808e5ad
+
+//Render fix
+//003f013c 00008144 5100023c (1st)
+201e9490 3c013f2b
+

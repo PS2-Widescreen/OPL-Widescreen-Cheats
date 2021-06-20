@@ -1,0 +1,17 @@
+﻿"Sega Ages Vol. 31: Cyber Troopers Virtual On /ID SLPM_627.67"
+Mastercode
+902A9D18 0C0AA6EE
+
+//Widescreen hack 16:9
+
+//Zoom
+20566ee0 3f400000
+
+//Y-Fov
+201e8090 080ad6b9
+202b5ae4 3c013f40
+202b5ae8 4481f000
+202b5aec 461ec603
+202b5af0 e7b80010
+202b5af4 0807a025
+

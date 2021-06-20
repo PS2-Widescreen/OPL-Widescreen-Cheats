@@ -1,0 +1,21 @@
+﻿"Bee Movie Game /ID SLUS_216.22"
+Mastercode
+9010A918 0C0429EE
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f023c 1c0101c6
+201864b0 3c023f1a
+
+//Y-Fov
+//03081546 9400a0e7
+2018652c 0808bac4
+
+2022eb10 46150803
+2022eb14 3c013faa
+2022eb18 3421aaab
+2022eb1c 4481f000
+2022eb20 461e0002
+2022eb24 0806194c
+

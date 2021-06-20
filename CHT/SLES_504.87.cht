@@ -1,0 +1,10 @@
+﻿"Looney Tunes: Space Race /ID SLES_504.87"
+Mastercode
+90116840 0C0459B8
+
+//Widescreen hack 16:9
+
+//X-Fov
+//80bf023c e001b027 
+202ac728 3c02bf40
+

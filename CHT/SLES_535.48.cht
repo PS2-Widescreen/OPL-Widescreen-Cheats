@@ -1,0 +1,21 @@
+﻿"GigaWing Generations /ID SLES_535.48"
+Mastercode
+903562C0 0C0D5858
+
+//Widescreen hack 16:9
+
+//X-Fov
+//000017e6 280000ae
+202ffbf4 08030000
+
+200c0000 3c013f40
+200c0004 4481f000
+200c0008 461ebdc2
+200c000c e6170000
+200c0010 080bfefe
+
+
+//Render fix
+//3003b0df 803f013c 00a88144 
+20327ac0 3c013f40
+

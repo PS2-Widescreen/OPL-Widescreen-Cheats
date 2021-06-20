@@ -1,0 +1,13 @@
+﻿"He-Man: Defender of Grayskull /ID SLES_530.35"
+Mastercode
+901052F8 0C041466
+
+//Widescreen hack 16:9
+
+//Zoom 
+201f1ac0 3c023f70
+001f1ac8 34420a8d 
+//Y-Fov 
+2021d5b8 3c023f3f
+0021d5bc 344301a3
+

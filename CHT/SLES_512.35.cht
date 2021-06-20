@@ -1,0 +1,12 @@
+﻿"Raging Blades /ID SLES_512.35"
+Mastercode
+90276CB0 0C09DAD4
+
+//Widescreen hack 16:9
+
+//X-fov
+2022d420 3c013f40
+
+//Render fix
+202e4b70 43e00000
+

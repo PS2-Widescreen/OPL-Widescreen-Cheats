@@ -1,0 +1,11 @@
+﻿"Sega Ages Vol. 10: After Burner II /ID SLPM_624.46"
+Mastercode
+90104FB0 0C041394
+
+//Widescreen hack 16:9
+
+//X-Fov
+20138e90 3c023fe3
+20138e94 34428e39
+2012b094 3c073f40
+

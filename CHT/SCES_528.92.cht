@@ -1,0 +1,16 @@
+﻿"MotoGP 4 /ID SCES_528.92"
+Mastercode
+902AFC98 0C0ABECE
+
+
+//Widescreen hack 16:9
+
+//X-Fov Game play
+2055e95c 3f400000
+
+//Render fix
+20558ac8 43000000
+20560bc8 43000000
+20592cb0 43000000
+2058dfa8 40100000
+

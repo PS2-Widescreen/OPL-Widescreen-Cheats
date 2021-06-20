@@ -1,0 +1,19 @@
+﻿"Tekken 5 /ID SCES_532.02"
+Mastercode
+90114458 0C0450BE
+
+Widescreen 
+20340bb0 3c013f40
+
+//applies both fov+ only for widescreen mode
+20340be0 3c010015
+20340be4 c62db7f4
+20340c04 46016b42
+20340c08 46010843
+20340c20 460d1083
+20340c24 460d0843
+
+//render fix
+2022db84 3c013f2b
+2022db94 44810000
+2022db98 46006302

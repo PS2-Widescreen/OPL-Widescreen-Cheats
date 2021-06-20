@@ -1,0 +1,12 @@
+﻿"Sega Ages Vol. 03: Fantasy Zone /ID SLPM_623.66"
+Mastercode
+90128278 0C04A046
+
+// Gameplay 16:9
+20101df4 3c023fe3
+20101df8 3442aa39
+
+// Menus
+201f464c 3c023fe3
+201f4650 3442aa39
+

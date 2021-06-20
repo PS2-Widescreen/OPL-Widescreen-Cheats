@@ -1,0 +1,22 @@
+﻿"Tekken 4 /ID SCES_508.78"
+Mastercode
+90281F68 0C0A0782
+
+Widescreen
+//ee patch
+20292424 24020001
+20292628 00000000
+
+//gameplay
+202177e0 3c013f40
+
+//partial hud fix
+201f7028 3c013f40
+
+//rfix 1
+2018d408 3c0143d5
+
+//rfix 2
+202015d4 3c013f40
+202015d8 44810000
+202015e4 46006303

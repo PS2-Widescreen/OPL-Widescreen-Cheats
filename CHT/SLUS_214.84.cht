@@ -1,0 +1,14 @@
+﻿"Flushed Away /ID SLUS_214.84"
+Mastercode
+902E62B0 0C0B9854
+
+//Widescreen hack 16:9
+
+//Y-Fov
+//003f013c 00608144 8e3c013c (1st)
+201ca3bc 3c013ed6
+
+//Zoom
+//003f013c 00008144 4000b4e7
+2027ebec 3c013f1c
+

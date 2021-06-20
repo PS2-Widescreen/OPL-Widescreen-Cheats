@@ -1,0 +1,18 @@
+﻿"Nicktoons: Attack of the Toybots /ID SLUS_216.05"
+Mastercode
+9019F470 0C067CC4
+
+//Widescreen hack 16:9
+
+//Zoom
+//403f013c 00608144 a8a80c0c
+2012a818 3c013f80
+
+//Y-Fov
+20276ff0 08030000
+200c0000 3c013f40
+200c0004 4481f000
+200c0008 461e0f83
+200c000c e7be000c
+200c0010 0809dbfd
+

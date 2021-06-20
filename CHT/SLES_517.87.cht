@@ -1,0 +1,12 @@
+﻿"Harry Potter: Quidditch World Cup /ID SLES_517.87"
+Mastercode
+9034E280 0C0D3848
+
+// 16:9
+202af358 3c013f40
+202af35c 4481f000
+202af364 461ebdc2
+
+// hardware rendering fix
+20358ae8 3c013e49
+

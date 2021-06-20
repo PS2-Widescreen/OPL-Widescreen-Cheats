@@ -1,0 +1,22 @@
+﻿"Star Wars: Episode III - Revenge of the Sith /ID SLES_531.55"
+Mastercode
+90113CF8 0C044EE6
+
+Widescreen hack by ElHecht
+
+// 16:9
+204dbd44 3c023f40
+2051bca0 3c013f40
+2051bcac 4481f000
+2051bcf0 461e4a42
+
+// 16:10
+004dbd30 3c013f55 
+004dbd34 34215555 
+004dbd3c 4481f800
+004dbd50 4600f806
+0051bca0 3c013f55
+0051bca4 34215555 
+0051bcac 4481f000
+0051bcf0 461e4a420
+

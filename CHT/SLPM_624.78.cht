@@ -1,0 +1,14 @@
+﻿"Bomberman Kart DX /ID SLPM_624.78"
+Mastercode
+9010B6F8 0C042D66
+
+//Widescreen hack 16:9
+
+//X-Fov Re-play
+//803f023c 01000426
+2025ab34 3c023fab
+
+//X-Fov Game play
+//803f023c 01000424 00608244 (3rd)
+2025a388 3c023fab
+

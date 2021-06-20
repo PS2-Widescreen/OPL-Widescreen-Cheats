@@ -1,0 +1,20 @@
+﻿"MotoGP /ID SLUS_200.58"
+Mastercode
+902BB4F8 0C0AECE4
+
+//Widescreen hack 16:9
+
+//X-fov
+//803f013c 00088144 80020524
+201f66a0 3c013f40
+
+//HUD speedometer fix
+201acddc 3c013f40
+201ad578 3c013f40
+
+//Render fix
+201828a4 3c014330
+20185cd4 3c014330
+2021477c 3c014010
+20214780 34210000
+

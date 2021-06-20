@@ -1,0 +1,11 @@
+﻿"Appleseed EX /ID SLPM_665.51"
+Mastercode
+90310970 0C0C4204
+
+//Widescreen hack 16:9
+
+//X-Fov
+//aabf013c abaa2134
+2012d828 3c01bfe3
+2012d82c 34218e2a
+

@@ -1,0 +1,18 @@
+﻿"Shrek Super Party /ID SLUS_205.16"
+Mastercode
+90230A90 0C08C24C
+
+
+//Widescreen hack 16:9
+
+//Zoom
+20124748 0808ba78
+2022e9e0 3c013f40
+2022e9e4 4481f000
+2022e9e8 461e18c2
+2022e9ec e6030000
+2022e9f0 080491d3
+
+//Y-Fov
+20124720 3c013fab
+

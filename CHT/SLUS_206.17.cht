@@ -1,0 +1,13 @@
+﻿"Dynasty Warriors 3: Xtreme Legends /ID SLUS_206.17"
+Mastercode
+901A6E38 0C069B36
+
+//Widescreen 16:9
+
+//X-Fov
+20282f58 3faaaaab
+20282f64 3faaaaab
+
+//Render fix
+2017f9b0 3c023f40
+

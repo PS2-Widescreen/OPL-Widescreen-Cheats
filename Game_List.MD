@@ -1,1606 +1,814 @@
 ```
-SCES_507.60 __[Ico]__
-SCES_538.51 __[Forbidden Siren 2]__
-SCUS_971.01 __[Twisted Metal : Black]__
-SCUS_971.08 __[Cool Boarders 2001]__
-SCUS_971.11 __[Dark Cloud]__
-SCUS_971.12 __[Extermination]__
-SCUS_971.24 __[Jak and Daxter : The Precursor Legacy]__
-SCUS_971.25 __[Frequency]__
-SCUS_971.28 __[Drakan : The Ancients' Gates]__
-SCUS_971.29 __[Okage : Shadow King]__
-SCUS_971.32 __[Kinetica]__
-SCUS_971.40 __[Mark of Kri, The]__
-SCUS_971.67 __[PaRappa the Rapper 2]__
-SCUS_971.77 __[Downhill Domination]__
-SCUS_971.97 __[War of the Monsters]__
-SCUS_971.98 __[Sly Cooper and the Thievius Raccoonus]__
-SCUS_971.99 __[Ratchet & Clank]__
-SCUS_972.03 __[Wild ARMs 3]__
-SCUS_972.11 __[ATV Off-Road Fury 2]__
-SCUS_972.13 __[Dark Cloud 2]__
-SCUS_972.31 __[Arc the Lad : Twighlight of the Spirits]__
-SCUS_972.58 __[Amplitude]__
-SCUS_972.64 __[Syphon Filter : The Omega Strain]__
-SCUS_972.75 __[SOCOM II : U.S. Navy SEALs]__
-SCUS_973.16 __[Sly 2 : Band of Thieves]__
-SCUS_973.55 __[Siren]__
-SCUS_973.62 __[Syphon Filter : Dark Mirror]__
-SCUS_973.99 __[God of War]__
-SCUS_974.64 __[Sly 3 : Honor Amongst Thieves]__
-SCUS_974.71 __[Genji : Dawn of the Samurai]__
-SCUS_974.81 __[God of War II]__
-SCUS_974.90 __[Rogue Galaxy]__
-SCUS_976.21 __[Twisted Metal : Head-On (Extra Twisted Edition)]__
-SLES_502.01 __[Evil Twin : Cyprien's Chronicles]__
-SLES_506.39 __[Everblue]__
-SLES_515.57 __[Broken Sword : The Sleeping Dragon]__
-SLES_518.56 __[Monster Attack]__
-SLES_519.33 __[Gregory Horror Show]__
-SLES_524.48 __[Knights of the Temple]__
-SLES_530.24 __[Altered Beast]__
-SLES_530.96 __[Worms 4 : Mayhem]__
-SLES_534.03 __[Demolition Girl]__
-SLES_544.64 __[Global Defence Force]__
-SLES_820.05 __[Summoner]__
-SLPM_654.78 __[Final Fantasy X-2 International]__
-SLPM_655.55 __[Dragon Quest V : Bride of the Sky]__
-SLPM_656.88 __[Berserk]__
-SLPM_662.05 __[Front Mission 5 : Scars of the War]__
-SLPM_667.50 __[Final Fantasy XII International : Zodiac Job System (with Bonus DVD)]__
-SLPS_250.88 __[Final Fantasy X International]__
-SLPS_252.17 __[Shadow Tower Abyss]__
-SLPS_255.05 __[Namco X Capcom]__
-SLUS_200.01 __[Tekken Tag Tournament]__
-SLUS_200.02 __[Ridge Racer V]__
-SLUS_200.04 __[Army Men : Air Attack 2]__
-SLUS_200.13 __[Tony Hawk's Pro Skater 3]__
-SLUS_200.14 __[Armored Core 2]__
-SLUS_200.15 __[Eternal Ring]__
-SLUS_200.16 __[Evergrace]__
-SLUS_200.17 __[Maximo : Ghosts to Glory (Beta)]__
-SLUS_200.21 __[Kengo : Master of Bushido]__
-SLUS_200.24 __[Legacy of Kain : Blood Omen 2]__
-SLUS_200.35 __[Baldur's Gate : Dark Alliance]__
-SLUS_200.47 __[Gauntlet : Dark Legacy]__
-SLUS_200.54 __[Ready 2 Rumble Boxing : Round 2]__
-SLUS_200.56 __[Spy Hunter]__
-SLUS_200.62 __[Grand Theft Auto : III]__
-SLUS_200.64 __[Oni]__
-SLUS_200.65 __[Smuggler's Run]__
-SLUS_200.66 __[Half-Life]__
-SLUS_200.69 __[Bouncer]__
-SLUS_200.71 __[Dead or Alive 2]__
-SLUS_200.77 __[Donald Duck Goin' Quackers]__
-SLUS_200.80 __[GunGriffon Blaze]__
-SLUS_200.84 __[Soldier of Fortune : Gold Edition]__
-SLUS_200.85 __[Silpheed Lost Planet]__
-SLUS_201.05 __[MDK 2 : Armageddon]__
-SLUS_201.30 __[Street Fighter EX3]__
-SLUS_201.32 __[Army Men : Sarge's Heroes 2]__
-SLUS_201.34 __[Sky Odyssey]__
-SLUS_201.38 __[Rayman 2 : Revolution]__
-SLUS_201.45 __[Ring of Red]__
-SLUS_201.46 __[Shadow of Destiny]__
-SLUS_201.47 __[Aliens vs Predator : Extinction]__
-SLUS_201.48 __[Zone of the Enders]__
-SLUS_201.49 __[Tribes : Aerial Assault]__
-SLUS_201.51 __[Klonoa 2 : Lunatea's Veil]__
-SLUS_201.52 __[Ace Combat 4 : Shattered Skies]__
-SLUS_201.59 __[Dave Mirra Freestyle BMX 2]__
-SLUS_201.60 __[Winback : Covert Operations]__
-SLUS_201.65 __[Legacy of Kain : Soul Reaver 2]__
-SLUS_201.74 __[Rumble Racing]__
-SLUS_201.77 __[Test Drive : Off-Road : Wide Open]__
-SLUS_201.78 __[Giants : Citizen Kabuto]__
-SLUS_201.82 __[Stretch Panic]__
-SLUS_201.84 __[Resident Evil : CODE Veronica X]__
-SLUS_201.90 __[Monster Rancher 3]__
-SLUS_201.91 __[Defender]__
-SLUS_201.94 __[Grandia II]__
-SLUS_202.02 __[Crazy Taxi]__
-SLUS_202.04 __[Smuggler's Run 2 : Hostile Territory]__
-SLUS_202.06 __[Army Men : RTS]__
-SLUS_202.16 __[Devil May Cry]__
-SLUS_202.19 __[Time Crisis II]__
-SLUS_202.21 __[Vampire Night]__
-SLUS_202.25 __[Gadget Racers]__
-SLUS_202.26 __[Batman : Vengeance]__
-SLUS_202.28 __[Silent Hill 2]__
-SLUS_202.30 __[Max Payne]__
-SLUS_202.31 __[Herdy Gerdy]__
-SLUS_202.38 __[Crash Bandicoot : The Wrath of Cortex]__
-SLUS_202.44 __[RoboTech BattleCry]__
-SLUS_202.49 __[Armored Core 2 : Another Age]__
-SLUS_202.50 __[Stuntman]__
-SLUS_202.51 __[Harvest Moon : Save the Homeland]__
-SLUS_202.59 __[Wizadry : Tale of the Forsaken]__
-SLUS_202.67 __[.hack//Part 1 : Infection]__
-SLUS_202.74 __[City Crisis]__
-SLUS_202.75 __[Kessen 2]__
-SLUS_202.93 __[Star Wars : Jedi Starfighter]__
-SLUS_202.94 __[Gitaroo Man]__
-SLUS_202.96 __[Kao the Kangaroo : Round 2]__
-SLUS_202.97 __[Return to Castle Wolfenstein : Operation Resurrection]__
-SLUS_203.00 __[Dark Summit]__
-SLUS_203.02 __[Extreme-G Racing : XG3]__
-SLUS_203.06 __[Contra : Shattered Soldier]__
-SLUS_203.09 __[Jade Cocoon 2]__
-SLUS_203.14 __[TimeSplitters 2]__
-SLUS_203.18 __[King's Field IV]__
-SLUS_203.27 __[Aggressive Inline]__
-SLUS_203.28 __[Tekken 4]__
-SLUS_203.33 __[Turok : Evolution]__
-SLUS_203.36 __[Spider-Man : The Movie]__
-SLUS_203.44 __[Rez]__
-SLUS_203.46 __[AirBlade]__
-SLUS_203.47 __[Shadow Hearts]__
-SLUS_203.49 __[Scooby-Doo^! Night of 100 Frights]__
-SLUS_203.52 __[Looney Tunes Space Race]__
-SLUS_203.60 __[Blade 2]__
-SLUS_203.62 __[Need for Speed : Hot Pursuit 2]__
-SLUS_203.67 __[Freekstyle]__
-SLUS_203.68 __[Medal of Honor : Frontline]__
-SLUS_203.70 __[Kingdom Hearts]__
-SLUS_203.71 __[Thing, The]__
-SLUS_203.74 __[Hitman 2 : Silent Assassin]__
-SLUS_203.75 __[Mister Mosquito]__
-SLUS_203.77 __[Metropolismania]__
-SLUS_203.82 __[Mobile Suit Gundam : Federation vs Zeon]__
-SLUS_203.83 __[Vexx]__
-SLUS_203.84 __[Skygunner]__
-SLUS_203.87 __[Suikoden III]__
-SLUS_203.88 __[Fatal Frame]__
-SLUS_203.90 __[Risk : Global Domination]__
-SLUS_203.93 __[Onimusha 2 : Samurai's Destiny]__
-SLUS_203.97 __[Tenchu 3 : Wrath of Heaven]__
-SLUS_203.98 __[Road Trip]__
-SLUS_204.05 __[Downforce]__
-SLUS_204.13 __[Shadow Man : Second Coming]__
-SLUS_204.14 __[Legaia 2 : Duel Saga]__
-SLUS_204.15 __[BMX XXX]__
-SLUS_204.17 __[Grandia Xtreme]__
-SLUS_204.20 __[Star Wars : Bounty Hunter]__
-SLUS_204.21 __[Battlestar Galactica]__
-SLUS_204.23 __[Mortal Kombat : Deadly Alliance]__
-SLUS_204.31 __[Wreckless : The Yakuza Missions]__
-SLUS_204.33 __[SWAT : Global Strike Team]__
-SLUS_204.35 __[Armored Core 3]__
-SLUS_204.39 __[Futurama]__
-SLUS_204.42 __[Red Faction 2]__
-SLUS_204.54 __[Enter the Matrix]__
-SLUS_204.58 __[Dr. Muto]__
-SLUS_204.59 __[Shinobi]__
-SLUS_204.61 __[BloodRayne]__
-SLUS_204.62 __[Wipeout Fusion]__
-SLUS_204.63 __[Dropship : United Peace Force]__
-SLUS_204.65 __[Alter Echo]__
-SLUS_204.67 __[Tomb Raider : The Angel of Darkness]__
-SLUS_204.68 __[Dynasty Tactics]__
-SLUS_204.69 __[Xenosaga : Episode I : Der Wille zur Macht]__
-SLUS_204.71 __[Rygar : The Legendary Adventure]__
-SLUS_204.75 __[Dual Hearts]__
-SLUS_204.84 __[Devil May Cry 2 (Disc 1)]__
-SLUS_204.86 __[Marvel vs Capcom 2]__
-SLUS_204.87 __[MegaMan X7]__
-SLUS_204.90 __[Gladius]__
-SLUS_204.93 __[Gungrave]__
-SLUS_204.95 __[Battle Engine Aquila]__
-SLUS_204.99 __[Breath of Fire : Dragon Quarter]__
-SLUS_205.08 __[Indiana Jones and the Emperor's Tomb]__
-SLUS_205.09 __[Soccer Slam : Sega Sports]__
-SLUS_205.14 __[Silent Scope 3]__
-SLUS_205.19 __[Tak and The Power of Juju]__
-SLUS_205.20 __[Lord of the Rings, The : The Fellowship of the Ring]__
-SLUS_205.21 __[Mystic Heroes]__
-SLUS_205.33 __[Shox]__
-SLUS_205.39 __[Fallout : Brotherhood of Steel]__
-SLUS_205.45 __[Zone of the Enders : The 2nd Runner]__
-SLUS_205.48 __[Sub Rebellion]__
-SLUS_205.52 __[Grand Theft Auto : Vice City]__
-SLUS_205.54 __[Metal Gear Solid 2 : Substance]__
-SLUS_205.61 __[Disaster Report]__
-SLUS_205.62 __[.hack//Part 2 : Mutation]__
-SLUS_205.63 __[.hack//Part 3 : Outbreak]__
-SLUS_205.64 __[.hack//Part 4 : Quarantine]__
-SLUS_205.65 __[Champions of Norrath]__
-SLUS_205.73 __[Sims, The]__
-SLUS_205.78 __[Lord of the Rings, The : The Two Towers]__
-SLUS_205.90 __[Spy Hunter 2]__
-SLUS_205.93 __[Magic Pengel : The Quest for Color]__
-SLUS_205.95 __[Area 51]__
-SLUS_205.97 __[Warhammer 40K : Fire Warrior]__
-SLUS_205.98 __[Everblue 2]__
-SLUS_206.06 __[Bounty Hunter : Seek & Destroy]__
-SLUS_206.13 __[Tom Clancy's Ghost Recon]__
-SLUS_206.16 __[Virtua Fighter 4 : Evolution]__
-SLUS_206.19 __[Starsky & Hutch]__
-SLUS_206.21 __[Seven Samurai 20XX]__
-SLUS_206.22 __[Silent Hill 3]__
-SLUS_206.24 __[The Simpsons : Hit & Run]__
-SLUS_206.27 __[Devil May Cry 2 (Disc 2)]__
-SLUS_206.32 __[Extreme-G Racing Association : XGRA]__
-SLUS_206.33 __[Clock Tower 3]__
-SLUS_206.36 __[Suffering, The]__
-SLUS_206.39 __[Def Jam : Vendetta]__
-SLUS_206.42 __[Auto Modellista]__
-SLUS_206.44 __[Armored Core : Silent Line]__
-SLUS_206.45 __[Time Crisis 3 (with Guncon)]__
-SLUS_206.49 __[Crash Bandicoot : Nitro Kart]__
-SLUS_206.52 __[Tom Clancy's Splinter Cell]__
-SLUS_206.55 __[Hobbit, The]__
-SLUS_206.56 __[X-Men Legends]__
-SLUS_206.63 __[Naval Ops : Warship Gunner]__
-SLUS_206.66 __[Disgaea : Hour of Darkness]__
-SLUS_206.69 __[Resident Evil : Dead Aim]__
-SLUS_206.71 __[Mafia]__
-SLUS_206.75 __[Baldur's Gate : Dark Alliance 2]__
-SLUS_206.77 __[XIII]__
-SLUS_206.83 __[Lupin the 3rd : Treasure of the Sorcerer King]__
-SLUS_206.84 __[Whiplash]__
-SLUS_206.88 __[Psi-Ops : The Mindgate Conspiracy]__
-SLUS_206.94 __[Onimusha 3 : Demon Siege]__
-SLUS_206.97 __[Cy Girls (Disc 1)]__
-SLUS_206.98 __[SD Gundam Force Showdown]__
-SLUS_207.01 __[Scooby-Doo^! Mystery Mayhem]__
-SLUS_207.02 __[Monster Rancher 4]__
-SLUS_207.09 __[Batman : Rise of Sin-Tzu]__
-SLUS_207.12 __[Gradius V]__
-SLUS_207.16 __[Teenage Mutant Ninja Turtles]__
-SLUS_207.18 __[Sonic Heroes]__
-SLUS_207.22 __[Maximo vs Army of Zin]__
-SLUS_207.24 __[Firefighter FD 18]__
-SLUS_207.25 __[Call of Duty : Finest Hour]__
-SLUS_207.31 __[Tony Hawk's Underground]__
-SLUS_207.32 __[Drakengard]__
-SLUS_207.33 __[Castlevania : Lament of Innocence]__
-SLUS_207.38 __[Van Helsing]__
-SLUS_207.40 __[Mobile Suit Gundam : Encounters in Space]__
-SLUS_207.42 __[Chulip]__
-SLUS_207.43 __[Prince of Persia : Sands of Time]__
-SLUS_207.53 __[Medal of Honor : Rising Sun]__
-SLUS_207.61 __[Dynasty Tactics 2]__
-SLUS_207.62 __[Secret Weapons Over Normandy]__
-SLUS_207.63 __[Beyond Good and Evil]__
-SLUS_207.64 __[Bombastic]__
-SLUS_207.65 __[Resident Evil : Outbreak]__
-SLUS_207.66 __[Fatal Frame 2 : Crimson Butterfly]__
-SLUS_207.70 __[Lord of the Rings, The : The Return of the King]__
-SLUS_207.73 __[Legacy of Kain : Defiance]__
-SLUS_207.76 __[Spider-Man 2]__
-SLUS_207.77 __[Obscure]__
-SLUS_207.80 __[R-Type Final]__
-SLUS_207.82 __[Blood Will Tell]__
-SLUS_207.86 __[Metal Arms : Glitch in the System]__
-SLUS_207.87 __[WWE SmackDown^! Here Comes the Pain]__
-SLUS_207.95 __[Bloody Roar 4]__
-SLUS_208.03 __[Bard's Tale, The]__
-SLUS_208.04 __[Forgotten Realms : Demon Stone]__
-SLUS_208.06 __[Space Channel 5 : Special Edition]__
-SLUS_208.07 __[Space Channel 5 : Special Edition (Disc 2)]__
-SLUS_208.09 __[Godzilla : Save the Earth]__
-SLUS_208.20 __[Tom Clancy's Ghost Recon : Jungle Storm]__
-SLUS_208.27 __[Manhunt]__
-SLUS_208.36 __[Digimon World 4]__
-SLUS_208.42 __[Sims, The : Bustin' Out]__
-SLUS_208.45 __[Cold Winter]__
-SLUS_208.47 __[La Pucelle : Tactics]__
-SLUS_208.50 __[Blowout]__
-SLUS_208.51 __[Ace Combat 5 : The Unsung War]__
-SLUS_208.52 __[Terminator 3, The : The Redemption]__
-SLUS_208.54 __[Cy Girls (Disc 2)]__
-SLUS_208.55 __[Destruction Derby Arenas]__
-SLUS_208.56 __[Spy Fiction]__
-SLUS_208.64 __[Punisher, The]__
-SLUS_208.66 __[Asterix & Obelix XXL : Kick Buttix]__
-SLUS_208.73 __[Silent Hill 4 : The Room]__
-SLUS_208.75 __[Predator : Concrete Jungle]__
-SLUS_208.77 __[Crimson Sea 2]__
-SLUS_208.78 __[Samurai Warriors]__
-SLUS_208.81 __[Mortal Kombat : Deception]__
-SLUS_208.82 __[Hitman : Contracts]__
-SLUS_208.83 __[Tom Clancy's Rainbow Six 3]__
-SLUS_208.84 __[Spyro : A Hero's Tail]__
-SLUS_208.85 __[Red Star, The]__
-SLUS_208.88 __[Front Mission 4]__
-SLUS_208.92 __[Xenosaga : Episode II : Jenseits von Gut und Bose (Disc 1)]__
-SLUS_208.93 __[Way of the Samurai 2]__
-SLUS_208.94 __[Worms 3D]__
-SLUS_208.95 __[Bujingai : The Forsaken City]__
-SLUS_208.96 __[Monster Hunter]__
-SLUS_208.98 __[Star Wars : Battlefront]__
-SLUS_208.99 __[Samurai Jack : The Shadow of Aku]__
-SLUS_209.01 __[FlatOut]__
-SLUS_209.02 __[Shadow of Rome]__
-SLUS_209.03 __[MegaMan X : Command Mission]__
-SLUS_209.07 __[Serious Sam : Next Encounter]__
-SLUS_209.11 __[Shin Megami Tensei : Nocturne]__
-SLUS_209.24 __[Duel Masters]__
-SLUS_209.27 __[Time Crisis : Crisis Zone]__
-SLUS_209.28 __[Echo Night : Beyond]__
-SLUS_209.29 __[Gundam Battle Assault 3 featuring Gundam Seed]__
-SLUS_209.30 __[Choro Q]__
-SLUS_209.32 __[Mercenaries : Playground of Destruction]__
-SLUS_209.37 __[Wild ARMs : Alter Code F]__
-SLUS_209.39 __[Viewtiful Joe 2]__
-SLUS_209.40 __[Yu-Gi-Oh^! Capsule Monster Coliseum]__
-SLUS_209.46 __[Grand Theft Auto : San Andreas]__
-SLUS_209.47 __[Winback 2nd Operation]__
-SLUS_209.48 __[Crimson Tears]__
-SLUS_209.51 __[Viewtiful Joe]__
-SLUS_209.52 __[Tak 2 : The Staff of Dreams]__
-SLUS_209.53 __[Shaman King : Power of Spirit]__
-SLUS_209.55 __[Phantom Brave]__
-SLUS_209.58 __[Tom Clancy's Splinter Cell 2 : Pandora Tomorrow]__
-SLUS_209.60 __[MegaMan X8]__
-SLUS_209.69 __[S.L.A.I. : Steel Lancer Arena International : Phantom Crash]__
-SLUS_209.73 __[Champions : Return to Arms]__
-SLUS_209.74 __[Shin Megami Tensei : Digital Devil Saga]__
-SLUS_209.75 __[One Piece : Grand Battle]__
-SLUS_209.79 __[Suikoden IV]__
-SLUS_209.80 __[Ys : The Ark of Napishtim]__
-SLUS_209.83 __[Musashi Samurai Legend]__
-SLUS_209.84 __[Resident Evil : Outbreak File #2]__
-SLUS_209.85 __[Under the Skin]__
-SLUS_209.86 __[Armored Core : Nexus (Evolution Disc)]__
-SLUS_209.94 __[Full Metal Alchemist and The Broken Angel]__
-SLUS_210.04 __[Def Jam : Fight for NY]__
-SLUS_210.05 __[Kingdom Hearts II]__
-SLUS_210.07 __[Kuon]__
-SLUS_210.08 __[Katamari Damacy]__
-SLUS_210.09 __[Sega Classics Collection]__
-SLUS_210.10 __[Nano Breaker]__
-SLUS_210.19 __[Technic Beat]__
-SLUS_210.20 __[GunGrave : OverDose]__
-SLUS_210.22 __[Prince of Persia : Warrior Within]__
-SLUS_210.26 __[Battlefield 2 : Mordern Combat]__
-SLUS_210.27 __[Lord of the Rings, The : The Third Age]__
-SLUS_210.33 __[Second Sight]__
-SLUS_210.41 __[Shadow Hearts 2 : Covenant (Disc 1)]__
-SLUS_210.42 __[Darkwatch]__
-SLUS_210.43 __[Backyard Wrestling 2 : There Goes the Neighborhood]__
-SLUS_210.44 __[Shadow Hearts 2 : Covenant (Disc 2)]__
-SLUS_210.50 __[Burnout 3 : Takedown]__
-SLUS_210.59 __[Tekken 5]__
-SLUS_210.66 __[Urbz, The : Sims in the City]__
-SLUS_210.67 __[Digimon Rumble Arena 2]__
-SLUS_210.71 __[Nightmare of Druaga]__
-SLUS_210.75 __[Haunting Ground]__
-SLUS_210.77 __[Gauntlet : Seven Sorrows]__
-SLUS_210.79 __[Armored Core : Nexus (Revolution Disc)]__
-SLUS_210.80 __[Samurai Warriors : Xtreme Legends]__
-SLUS_210.83 __[LEGO Star Wars]__
-SLUS_210.86 __[Big Mutha Truckers 2]__
-SLUS_210.87 __[Mortal Kombat : Shaolin Monks]__
-SLUS_210.90 __[Alien Homind]__
-SLUS_210.91 __[Scooby-Doo^! Unmasked]__
-SLUS_210.93 __[Worms Forts : Under Siege^!]__
-SLUS_211.08 __[Hitman : Blood Money]__
-SLUS_211.15 __[Okami]__
-SLUS_211.19 __[Kessen 3]__
-SLUS_211.20 __[Psychonauts]__
-SLUS_211.28 __[Blitz : The League]__
-SLUS_211.29 __[Tenchu 4 : Fatal Shadows]__
-SLUS_211.32 __[Stella Deus : The Gate of Eternity]__
-SLUS_211.33 __[Xenosaga : Episode II : Jenseits von Gut und Bose (Disc 2)]__
-SLUS_211.34 __[Resident Evil 4]__
-SLUS_211.36 __[Graffiti Kingdom]__
-SLUS_211.38 __[X-Men Legends II : Rise of Apocalypse]__
-SLUS_211.40 __[Mobile Suit Gundam Seed : Never Ending Tomorrow]__
-SLUS_211.43 __[Star Wars : Episode III : Revenge of the Sith]__
-SLUS_211.50 __[Beatdown : Fists of Vengeance]__
-SLUS_211.52 __[Shin Megami Tensei : Digital Devil Saga 2]__
-SLUS_211.53 __[Dynasty Warriors 5]__
-SLUS_211.54 __[Killer 7]__
-SLUS_211.63 __[Brothers in Arms : Road to Hill 30]__
-SLUS_211.65 __[Arc the Lad : End of Darkness]__
-SLUS_211.66 __[Full Metal Alchemist 2 : Curse of the Crimson Elixir]__
-SLUS_211.68 __[Castlevania : Curse of Dakness]__
-SLUS_211.70 __[Makai Kingdom : Chronicles of the Sacred Tome]__
-SLUS_211.71 __[Harvest Moon : A Wonderful Life (Special Edition)]__
-SLUS_211.80 __[Onimusha : Dawn of Dreams]__
-SLUS_211.87 __[Samurai Western]__
-SLUS_211.89 __[Suffering, The : Ties That Bind]__
-SLUS_211.91 __[Crash Tag Team Racing]__
-SLUS_211.94 __[Phantasy Star Universe]__
-SLUS_211.96 __[Indigo Prophecy]__
-SLUS_211.99 __[Medal of Honor : European Assault]__
-SLUS_212.00 __[Armored Core : Nine Breaker]__
-SLUS_212.01 __[Tales of Legendia]__
-SLUS_212.06 __[Shining Force Neo]__
-SLUS_212.12 __[Spartan : Total Warrior]__
-SLUS_212.15 __[The Warriors]__
-SLUS_212.16 __[Soul Calibur III]__
-SLUS_212.18 __[Tak : The Great Juju Challenge]__
-SLUS_212.30 __[We Love Katamari]__
-SLUS_212.31 __[Sniper Elite]__
-SLUS_212.43 __[Metal Gear Solid 3 : (Disc 2) Persistence]__
-SLUS_212.44 __[Fatal Frame 3 : The Tormented]__
-SLUS_212.45 __[Suikoden Tactics]__
-SLUS_212.48 __[Legend of Kay]__
-SLUS_212.51 __[FlatOut 2]__
-SLUS_212.58 __[.hack//G.U. Vol.1 : Rebirth]__
-SLUS_212.61 __[Shadow the Hedgehog]__
-SLUS_212.63 __[Romancing SaGa]__
-SLUS_212.65 __[Sims 2, The]__
-SLUS_212.70 __[MS Saga : A New Dawn]__
-SLUS_212.82 __[James Bond 007 : From Russia with Love]__
-SLUS_212.83 __[Total Overdose : A Gunslinger's Tale in Mexico]__
-SLUS_212.85 __[Ultimate Spider-Man (Limited Edition)]__
-SLUS_212.87 __[Prince of Persia : The Two Thrones]__
-SLUS_212.91 __[Suikoden V]__
-SLUS_212.92 __[Wild ARMs 4]__
-SLUS_212.93 __[Metal Saga]__
-SLUS_212.99 __[Dynasty Warriors 5 : Xtreme Legends]__
-SLUS_213.10 __[Brothers in Arms : Earned in Blood]__
-SLUS_213.15 __[50cent : Bulletproof]__
-SLUS_213.23 __[Rampage : Total Destruction]__
-SLUS_213.26 __[Shadow Hearts : From the New World]__
-SLUS_213.27 __[Atelier Iris 2 : The Azoth of Destiny]__
-SLUS_213.30 __[Monster Rancher 5]__
-SLUS_213.34 __[Grandia III (Disc 1)]__
-SLUS_213.38 __[Armored Core : Last Raven]__
-SLUS_213.43 __[Samurai Champloo : Sidetracked]__
-SLUS_213.45 __[Grandia III (Disc 2)]__
-SLUS_213.46 __[Ace Combat Zero : The Belkan War]__
-SLUS_213.56 __[Tom Clancy's Splinter Cell : Double Agent]__
-SLUS_213.59 __[Metal Gear Solid 3 : (Disc 1) Subsistence]__
-SLUS_213.61 __[Devil May Cry 3 : Dante's Awakening (Special Edition)]__
-SLUS_213.62 __[Onimusha : Dawn of Dreams]__
-SLUS_213.70 __[MegaMan X Collection]__
-SLUS_213.73 __[Drakengard 2]__
-SLUS_213.74 __[Marvel : Ultimate Alliance]__
-SLUS_213.76 __[Black]__
-SLUS_213.85 __[Godfather, The]__
-SLUS_213.86 __[Tales of the Abyss]__
-SLUS_213.87 __[Warship Gunner 2]__
-SLUS_213.89 __[Xenosaga : Episode III : Also Sprach Zarathustra (Disc 1)]__
-SLUS_213.90 __[Urban Chaos : Riot Response]__
-SLUS_213.97 __[Disgaea 2 : Cursed Memories]__
-SLUS_214.09 __[LEGO Star Wars II : The Original Trilogy]__
-SLUS_214.13 __[Thrillville]__
-SLUS_214.17 __[Xenosaga : Episode III : Also Sprach Zarathustra (Disc 2)]__
-SLUS_214.19 __[Dirge of Cerberus : Final Fantasy VII]__
-SLUS_214.21 __[Spy Hunter : Nowhere to Run]__
-SLUS_214.23 __[Grand Theft Auto : Liberty City Stories]__
-SLUS_214.31 __[Shin Megami Tensei : Devil Summoner : Raidou Kuzunoha vs The Soulless Army]__
-SLUS_214.35 __[One Piece : Grand Adventure]__
-SLUS_214.36 __[Just Cause]__
-SLUS_214.37 __[Disney's Kim Possible : What's the Switch]__
-SLUS_214.41 __[Dragon Ball Z : Budokai Tenkaichi 2]__
-SLUS_214.45 __[Ar Tonelico]__
-SLUS_214.48 __[Rule of Rose]__
-SLUS_214.49 __[Fast and the Furious, The : Tokyo Drift]__
-SLUS_214.52 __[Valkyrie Profile 2 : Silmeria]__
-SLUS_214.56 __[Tony Hawk's Downhill Jam]__
-SLUS_214.62 __[Samurai Warriors 2]__
-SLUS_214.71 __[Tokobot Plus : Mysteries of the Karakuri]__
-SLUS_214.88 __[.hack//G.U. Vol.2 : Reminisce]__
-SLUS_214.89 __[.hack//G.U. Vol.3 : Redemption]__
-SLUS_215.01 __[Raw Danger]__
-SLUS_215.03 __[God Hand]__
-SLUS_215.36 __[Sims 2, The : Pets]__
-SLUS_215.43 __[Mortal Kombat : Armageddon (Kollector's Edition)]__
-SLUS_215.52 __[Spider-Man 3]__
-SLUS_215.60 __[Family Guy : The Video Game]__
-SLUS_215.64 __[Atelier Iris 3 : Grand Phantasm]__
-SLUS_215.67 __[Shining Force EXA]__
-SLUS_215.74 __[Dawn of Mana]__
-SLUS_215.77 __[Odin Sphere]__
-SLUS_215.84 __[Romance of the Three Kingdoms XI]__
-SLUS_215.90 __[Grand Theft Auto : Vice City Stories]__
-SLUS_215.95 __[T.M.N.T. : Teenage Mutant Ninja Turtles]__
-SLUS_215.97 __[Medal of Honor : Vanguard]__
-SLUS_216.00 __[Spider-Man : Friend or Foe]__
-SLUS_216.03 __[Soul Nomad & The World Eaters]__
-SLUS_216.04 __[GrimGrimoire]__
-SLUS_216.11 __[Thrillville : Off the Rails]__
-SLUS_216.15 __[Wild ARMs 5]__
-SLUS_216.21 __[Shin Megami Tensei : Persona 3 FES]__
-SLUS_216.26 __[Stuntman : Ignition]__
-SLUS_216.31 __[Phantasy Star Universe : Ambition of the Illuminus]__
-SLUS_216.33 __[Aqua Teen Hunger Force : Zombie Ninja Pro-Am]__
-SLUS_216.41 __[Innocent Life : Harvest Moon : Pure]__
-SLUS_216.62 __[Warriors Orochi]__
-SLUS_216.64 __[Sims 2, The : Castaway]__
-SLUS_216.78 __[Dragon Ball Z : Budokai Tenkaichi 3]__
-SLUS_217.02 __[Fire Pro Wrestling : Returns]__
-SLUS_217.09 __[Obscure : The Aftermath]__
-SLUS_217.14 __[Baroque]__
-SLUS_217.21 __[Nobunaga's Ambition : Rise to Power]__
-SLUS_217.22 __[Chaos Wars]__
-SLUS_217.26 __[Samurai Warriors 2 : Xtreme Legends]__
-SLUS_217.31 __[Silent Hill : Origins]__
-SLUS_217.35 __[Mana Khemia : Alchemists of Al-Revis]__
-SLUS_217.59 __[LEGO Indiana Jones : The Original Adventures]__
-SLUS_217.74 __[Dynasty Warriors 6]__
-SLUS_217.78 __[Dokapon Kingdom]__
-SLUS_217.79 __[Eternal Poison]__
-SLUS_217.82 __[Shin Megami Tensei : Persona 4]__
-SLUS_217.85 __[LEGO Batman]__
-SLUS_217.88 __[Ar Tonelico 2 : Melody of Metafalica]__
-SLUS_217.97 __[Tak and the Guardians of Gross]__
-SLUS_217.99 __[Kingdom Hearts : Re:Chain of Memories]__
-SLUS_218.03 __[Warriors Orochi 2]__
-SLUS_218.45 __[Shin Megami Tensei : Devil Summoner 2 : Raidou Kuzunoha vs King Abaddon]__
-SLUS_218.46 __[Sonic Unleashed]__
-SLUS_218.73 __[Dynasty Warriors : Gundam 2]__
-SLUS_218.79 __[Marvel : Ultimate Alliance 2]__
-SLUS_218.82 __[Ghostbusters : The Video Game]__
-SLUS_218.84 __[Backyard Baseball 2010]__
-SLUS_218.90 __[Mana Khemia 2 : Fall of Alchemy]__
-SLUS_218.99 __[Silent Hill : Shattered Memories]__
-SLUS_219.07 __[Jurassic : The Hunted]__
-SLUS_219.14 __[NHL 2K10]__
-SLUS_219.19 __[Backyard Football '10]__
-```
-SCES_507.60 __[Ico]__
-SCES_538.51 __[Forbidden Siren 2]__
-SCUS_971.01 __[Twisted Metal : Black]__
-SCUS_971.08 __[Cool Boarders 2001]__
-SCUS_971.11 __[Dark Cloud]__
-SCUS_971.12 __[Extermination]__
-SCUS_971.24 __[Jak and Daxter : The Precursor Legacy]__
-SCUS_971.25 __[Frequency]__
-SCUS_971.28 __[Drakan : The Ancients' Gates]__
-SCUS_971.29 __[Okage : Shadow King]__
-SCUS_971.32 __[Kinetica]__
-SCUS_971.40 __[Mark of Kri, The]__
-SCUS_971.67 __[PaRappa the Rapper 2]__
-SCUS_971.77 __[Downhill Domination]__
-SCUS_971.97 __[War of the Monsters]__
-SCUS_971.98 __[Sly Cooper and the Thievius Raccoonus]__
-SCUS_971.99 __[Ratchet & Clank]__
-SCUS_972.03 __[Wild ARMs 3]__
-SCUS_972.11 __[ATV Off-Road Fury 2]__
-SCUS_972.13 __[Dark Cloud 2]__
-SCUS_972.31 __[Arc the Lad : Twighlight of the Spirits]__
-SCUS_972.58 __[Amplitude]__
-SCUS_972.64 __[Syphon Filter : The Omega Strain]__
-SCUS_972.75 __[SOCOM II : U.S. Navy SEALs]__
-SCUS_973.16 __[Sly 2 : Band of Thieves]__
-SCUS_973.55 __[Siren]__
-SCUS_973.62 __[Syphon Filter : Dark Mirror]__
-SCUS_973.99 __[God of War]__
-SCUS_974.64 __[Sly 3 : Honor Amongst Thieves]__
-SCUS_974.71 __[Genji : Dawn of the Samurai]__
-SCUS_974.81 __[God of War II]__
-SCUS_974.90 __[Rogue Galaxy]__
-SCUS_976.21 __[Twisted Metal : Head-On (Extra Twisted Edition)]__
-SLES_502.01 __[Evil Twin : Cyprien's Chronicles]__
-SLES_506.39 __[Everblue]__
-SLES_515.57 __[Broken Sword : The Sleeping Dragon]__
-SLES_518.56 __[Monster Attack]__
-SLES_519.33 __[Gregory Horror Show]__
-SLES_524.48 __[Knights of the Temple]__
-SLES_530.24 __[Altered Beast]__
-SLES_530.96 __[Worms 4 : Mayhem]__
-SLES_534.03 __[Demolition Girl]__
-SLES_544.64 __[Global Defence Force]__
-SLES_820.05 __[Summoner]__
-SLPM_654.78 __[Final Fantasy X-2 International]__
-SLPM_655.55 __[Dragon Quest V : Bride of the Sky]__
-SLPM_656.88 __[Berserk]__
-SLPM_662.05 __[Front Mission 5 : Scars of the War]__
-SLPM_667.50 __[Final Fantasy XII International : Zodiac Job System (with Bonus DVD)]__
-SLPS_250.88 __[Final Fantasy X International]__
-SLPS_252.17 __[Shadow Tower Abyss]__
-SLPS_255.05 __[Namco X Capcom]__
-SLUS_200.01 __[Tekken Tag Tournament]__
-SLUS_200.02 __[Ridge Racer V]__
-SLUS_200.04 __[Army Men : Air Attack 2]__
-SLUS_200.13 __[Tony Hawk's Pro Skater 3]__
-SLUS_200.14 __[Armored Core 2]__
-SLUS_200.15 __[Eternal Ring]__
-SLUS_200.16 __[Evergrace]__
-SLUS_200.17 __[Maximo : Ghosts to Glory (Beta)]__
-SLUS_200.21 __[Kengo : Master of Bushido]__
-SLUS_200.24 __[Legacy of Kain : Blood Omen 2]__
-SLUS_200.35 __[Baldur's Gate : Dark Alliance]__
-SLUS_200.47 __[Gauntlet : Dark Legacy]__
-SLUS_200.54 __[Ready 2 Rumble Boxing : Round 2]__
-SLUS_200.56 __[Spy Hunter]__
-SLUS_200.62 __[Grand Theft Auto : III]__
-SLUS_200.64 __[Oni]__
-SLUS_200.65 __[Smuggler's Run]__
-SLUS_200.66 __[Half-Life]__
-SLUS_200.69 __[Bouncer]__
-SLUS_200.71 __[Dead or Alive 2]__
-SLUS_200.77 __[Donald Duck Goin' Quackers]__
-SLUS_200.80 __[GunGriffon Blaze]__
-SLUS_200.84 __[Soldier of Fortune : Gold Edition]__
-SLUS_200.85 __[Silpheed Lost Planet]__
-SLUS_201.05 __[MDK 2 : Armageddon]__
-SLUS_201.30 __[Street Fighter EX3]__
-SLUS_201.32 __[Army Men : Sarge's Heroes 2]__
-SLUS_201.34 __[Sky Odyssey]__
-SLUS_201.38 __[Rayman 2 : Revolution]__
-SLUS_201.45 __[Ring of Red]__
-SLUS_201.46 __[Shadow of Destiny]__
-SLUS_201.47 __[Aliens vs Predator : Extinction]__
-SLUS_201.48 __[Zone of the Enders]__
-SLUS_201.49 __[Tribes : Aerial Assault]__
-SLUS_201.51 __[Klonoa 2 : Lunatea's Veil]__
-SLUS_201.52 __[Ace Combat 4 : Shattered Skies]__
-SLUS_201.59 __[Dave Mirra Freestyle BMX 2]__
-SLUS_201.60 __[Winback : Covert Operations]__
-SLUS_201.65 __[Legacy of Kain : Soul Reaver 2]__
-SLUS_201.74 __[Rumble Racing]__
-SLUS_201.77 __[Test Drive : Off-Road : Wide Open]__
-SLUS_201.78 __[Giants : Citizen Kabuto]__
-SLUS_201.82 __[Stretch Panic]__
-SLUS_201.84 __[Resident Evil : CODE Veronica X]__
-SLUS_201.90 __[Monster Rancher 3]__
-SLUS_201.91 __[Defender]__
-SLUS_201.94 __[Grandia II]__
-SLUS_202.02 __[Crazy Taxi]__
-SLUS_202.04 __[Smuggler's Run 2 : Hostile Territory]__
-SLUS_202.06 __[Army Men : RTS]__
-SLUS_202.16 __[Devil May Cry]__
-SLUS_202.19 __[Time Crisis II]__
-SLUS_202.21 __[Vampire Night]__
-SLUS_202.25 __[Gadget Racers]__
-SLUS_202.26 __[Batman : Vengeance]__
-SLUS_202.28 __[Silent Hill 2]__
-SLUS_202.30 __[Max Payne]__
-SLUS_202.31 __[Herdy Gerdy]__
-SLUS_202.38 __[Crash Bandicoot : The Wrath of Cortex]__
-SLUS_202.44 __[RoboTech BattleCry]__
-SLUS_202.49 __[Armored Core 2 : Another Age]__
-SLUS_202.50 __[Stuntman]__
-SLUS_202.51 __[Harvest Moon : Save the Homeland]__
-SLUS_202.59 __[Wizadry : Tale of the Forsaken]__
-SLUS_202.67 __[.hack//Part 1 : Infection]__
-SLUS_202.74 __[City Crisis]__
-SLUS_202.75 __[Kessen 2]__
-SLUS_202.93 __[Star Wars : Jedi Starfighter]__
-SLUS_202.94 __[Gitaroo Man]__
-SLUS_202.96 __[Kao the Kangaroo : Round 2]__
-SLUS_202.97 __[Return to Castle Wolfenstein : Operation Resurrection]__
-SLUS_203.00 __[Dark Summit]__
-SLUS_203.02 __[Extreme-G Racing : XG3]__
-SLUS_203.06 __[Contra : Shattered Soldier]__
-SLUS_203.09 __[Jade Cocoon 2]__
-SLUS_203.14 __[TimeSplitters 2]__
-SLUS_203.18 __[King's Field IV]__
-SLUS_203.27 __[Aggressive Inline]__
-SLUS_203.28 __[Tekken 4]__
-SLUS_203.33 __[Turok : Evolution]__
-SLUS_203.36 __[Spider-Man : The Movie]__
-SLUS_203.44 __[Rez]__
-SLUS_203.46 __[AirBlade]__
-SLUS_203.47 __[Shadow Hearts]__
-SLUS_203.49 __[Scooby-Doo^! Night of 100 Frights]__
-SLUS_203.52 __[Looney Tunes Space Race]__
-SLUS_203.60 __[Blade 2]__
-SLUS_203.62 __[Need for Speed : Hot Pursuit 2]__
-SLUS_203.67 __[Freekstyle]__
-SLUS_203.68 __[Medal of Honor : Frontline]__
-SLUS_203.70 __[Kingdom Hearts]__
-SLUS_203.71 __[Thing, The]__
-SLUS_203.74 __[Hitman 2 : Silent Assassin]__
-SLUS_203.75 __[Mister Mosquito]__
-SLUS_203.77 __[Metropolismania]__
-SLUS_203.82 __[Mobile Suit Gundam : Federation vs Zeon]__
-SLUS_203.83 __[Vexx]__
-SLUS_203.84 __[Skygunner]__
-SLUS_203.87 __[Suikoden III]__
-SLUS_203.88 __[Fatal Frame]__
-SLUS_203.90 __[Risk : Global Domination]__
-SLUS_203.93 __[Onimusha 2 : Samurai's Destiny]__
-SLUS_203.97 __[Tenchu 3 : Wrath of Heaven]__
-SLUS_203.98 __[Road Trip]__
-SLUS_204.05 __[Downforce]__
-SLUS_204.13 __[Shadow Man : Second Coming]__
-SLUS_204.14 __[Legaia 2 : Duel Saga]__
-SLUS_204.15 __[BMX XXX]__
-SLUS_204.17 __[Grandia Xtreme]__
-SLUS_204.20 __[Star Wars : Bounty Hunter]__
-SLUS_204.21 __[Battlestar Galactica]__
-SLUS_204.23 __[Mortal Kombat : Deadly Alliance]__
-SLUS_204.31 __[Wreckless : The Yakuza Missions]__
-SLUS_204.33 __[SWAT : Global Strike Team]__
-SLUS_204.35 __[Armored Core 3]__
-SLUS_204.39 __[Futurama]__
-SLUS_204.42 __[Red Faction 2]__
-SLUS_204.54 __[Enter the Matrix]__
-SLUS_204.58 __[Dr. Muto]__
-SLUS_204.59 __[Shinobi]__
-SLUS_204.61 __[BloodRayne]__
-SLUS_204.62 __[Wipeout Fusion]__
-SLUS_204.63 __[Dropship : United Peace Force]__
-SLUS_204.65 __[Alter Echo]__
-SLUS_204.67 __[Tomb Raider : The Angel of Darkness]__
-SLUS_204.68 __[Dynasty Tactics]__
-SLUS_204.69 __[Xenosaga : Episode I : Der Wille zur Macht]__
-SLUS_204.71 __[Rygar : The Legendary Adventure]__
-SLUS_204.75 __[Dual Hearts]__
-SLUS_204.84 __[Devil May Cry 2 (Disc 1)]__
-SLUS_204.86 __[Marvel vs Capcom 2]__
-SLUS_204.87 __[MegaMan X7]__
-SLUS_204.90 __[Gladius]__
-SLUS_204.93 __[Gungrave]__
-SLUS_204.95 __[Battle Engine Aquila]__
-SLUS_204.99 __[Breath of Fire : Dragon Quarter]__
-SLUS_205.08 __[Indiana Jones and the Emperor's Tomb]__
-SLUS_205.09 __[Soccer Slam : Sega Sports]__
-SLUS_205.14 __[Silent Scope 3]__
-SLUS_205.19 __[Tak and The Power of Juju]__
-SLUS_205.20 __[Lord of the Rings, The : The Fellowship of the Ring]__
-SLUS_205.21 __[Mystic Heroes]__
-SLUS_205.33 __[Shox]__
-SLUS_205.39 __[Fallout : Brotherhood of Steel]__
-SLUS_205.45 __[Zone of the Enders : The 2nd Runner]__
-SLUS_205.48 __[Sub Rebellion]__
-SLUS_205.52 __[Grand Theft Auto : Vice City]__
-SLUS_205.54 __[Metal Gear Solid 2 : Substance]__
-SLUS_205.61 __[Disaster Report]__
-SLUS_205.62 __[.hack//Part 2 : Mutation]__
-SLUS_205.63 __[.hack//Part 3 : Outbreak]__
-SLUS_205.64 __[.hack//Part 4 : Quarantine]__
-SLUS_205.65 __[Champions of Norrath]__
-SLUS_205.73 __[Sims, The]__
-SLUS_205.78 __[Lord of the Rings, The : The Two Towers]__
-SLUS_205.90 __[Spy Hunter 2]__
-SLUS_205.93 __[Magic Pengel : The Quest for Color]__
-SLUS_205.95 __[Area 51]__
-SLUS_205.97 __[Warhammer 40K : Fire Warrior]__
-SLUS_205.98 __[Everblue 2]__
-SLUS_206.06 __[Bounty Hunter : Seek & Destroy]__
-SLUS_206.13 __[Tom Clancy's Ghost Recon]__
-SLUS_206.16 __[Virtua Fighter 4 : Evolution]__
-SLUS_206.19 __[Starsky & Hutch]__
-SLUS_206.21 __[Seven Samurai 20XX]__
-SLUS_206.22 __[Silent Hill 3]__
-SLUS_206.24 __[The Simpsons : Hit & Run]__
-SLUS_206.27 __[Devil May Cry 2 (Disc 2)]__
-SLUS_206.32 __[Extreme-G Racing Association : XGRA]__
-SLUS_206.33 __[Clock Tower 3]__
-SLUS_206.36 __[Suffering, The]__
-SLUS_206.39 __[Def Jam : Vendetta]__
-SLUS_206.42 __[Auto Modellista]__
-SLUS_206.44 __[Armored Core : Silent Line]__
-SLUS_206.45 __[Time Crisis 3 (with Guncon)]__
-SLUS_206.49 __[Crash Bandicoot : Nitro Kart]__
-SLUS_206.52 __[Tom Clancy's Splinter Cell]__
-SLUS_206.55 __[Hobbit, The]__
-SLUS_206.56 __[X-Men Legends]__
-SLUS_206.63 __[Naval Ops : Warship Gunner]__
-SLUS_206.66 __[Disgaea : Hour of Darkness]__
-SLUS_206.69 __[Resident Evil : Dead Aim]__
-SLUS_206.71 __[Mafia]__
-SLUS_206.75 __[Baldur's Gate : Dark Alliance 2]__
-SLUS_206.77 __[XIII]__
-SLUS_206.83 __[Lupin the 3rd : Treasure of the Sorcerer King]__
-SLUS_206.84 __[Whiplash]__
-SLUS_206.88 __[Psi-Ops : The Mindgate Conspiracy]__
-SLUS_206.94 __[Onimusha 3 : Demon Siege]__
-SLUS_206.97 __[Cy Girls (Disc 1)]__
-SLUS_206.98 __[SD Gundam Force Showdown]__
-SLUS_207.01 __[Scooby-Doo^! Mystery Mayhem]__
-SLUS_207.02 __[Monster Rancher 4]__
-SLUS_207.09 __[Batman : Rise of Sin-Tzu]__
-SLUS_207.12 __[Gradius V]__
-SLUS_207.16 __[Teenage Mutant Ninja Turtles]__
-SLUS_207.18 __[Sonic Heroes]__
-SLUS_207.22 __[Maximo vs Army of Zin]__
-SLUS_207.24 __[Firefighter FD 18]__
-SLUS_207.25 __[Call of Duty : Finest Hour]__
-SLUS_207.31 __[Tony Hawk's Underground]__
-SLUS_207.32 __[Drakengard]__
-SLUS_207.33 __[Castlevania : Lament of Innocence]__
-SLUS_207.38 __[Van Helsing]__
-SLUS_207.40 __[Mobile Suit Gundam : Encounters in Space]__
-SLUS_207.42 __[Chulip]__
-SLUS_207.43 __[Prince of Persia : Sands of Time]__
-SLUS_207.53 __[Medal of Honor : Rising Sun]__
-SLUS_207.61 __[Dynasty Tactics 2]__
-SLUS_207.62 __[Secret Weapons Over Normandy]__
-SLUS_207.63 __[Beyond Good and Evil]__
-SLUS_207.64 __[Bombastic]__
-SLUS_207.65 __[Resident Evil : Outbreak]__
-SLUS_207.66 __[Fatal Frame 2 : Crimson Butterfly]__
-SLUS_207.70 __[Lord of the Rings, The : The Return of the King]__
-SLUS_207.73 __[Legacy of Kain : Defiance]__
-SLUS_207.76 __[Spider-Man 2]__
-SLUS_207.77 __[Obscure]__
-SLUS_207.80 __[R-Type Final]__
-SLUS_207.82 __[Blood Will Tell]__
-SLUS_207.86 __[Metal Arms : Glitch in the System]__
-SLUS_207.87 __[WWE SmackDown^! Here Comes the Pain]__
-SLUS_207.95 __[Bloody Roar 4]__
-SLUS_208.03 __[Bard's Tale, The]__
-SLUS_208.04 __[Forgotten Realms : Demon Stone]__
-SLUS_208.06 __[Space Channel 5 : Special Edition]__
-SLUS_208.07 __[Space Channel 5 : Special Edition (Disc 2)]__
-SLUS_208.09 __[Godzilla : Save the Earth]__
-SLUS_208.20 __[Tom Clancy's Ghost Recon : Jungle Storm]__
-SLUS_208.27 __[Manhunt]__
-SLUS_208.36 __[Digimon World 4]__
-SLUS_208.42 __[Sims, The : Bustin' Out]__
-SLUS_208.45 __[Cold Winter]__
-SLUS_208.47 __[La Pucelle : Tactics]__
-SLUS_208.50 __[Blowout]__
-SLUS_208.51 __[Ace Combat 5 : The Unsung War]__
-SLUS_208.52 __[Terminator 3, The : The Redemption]__
-SLUS_208.54 __[Cy Girls (Disc 2)]__
-SLUS_208.55 __[Destruction Derby Arenas]__
-SLUS_208.56 __[Spy Fiction]__
-SLUS_208.64 __[Punisher, The]__
-SLUS_208.66 __[Asterix & Obelix XXL : Kick Buttix]__
-SLUS_208.73 __[Silent Hill 4 : The Room]__
-SLUS_208.75 __[Predator : Concrete Jungle]__
-SLUS_208.77 __[Crimson Sea 2]__
-SLUS_208.78 __[Samurai Warriors]__
-SLUS_208.81 __[Mortal Kombat : Deception]__
-SLUS_208.82 __[Hitman : Contracts]__
-SLUS_208.83 __[Tom Clancy's Rainbow Six 3]__
-SLUS_208.84 __[Spyro : A Hero's Tail]__
-SLUS_208.85 __[Red Star, The]__
-SLUS_208.88 __[Front Mission 4]__
-SLUS_208.92 __[Xenosaga : Episode II : Jenseits von Gut und Bose (Disc 1)]__
-SLUS_208.93 __[Way of the Samurai 2]__
-SLUS_208.94 __[Worms 3D]__
-SLUS_208.95 __[Bujingai : The Forsaken City]__
-SLUS_208.96 __[Monster Hunter]__
-SLUS_208.98 __[Star Wars : Battlefront]__
-SLUS_208.99 __[Samurai Jack : The Shadow of Aku]__
-SLUS_209.01 __[FlatOut]__
-SLUS_209.02 __[Shadow of Rome]__
-SLUS_209.03 __[MegaMan X : Command Mission]__
-SLUS_209.07 __[Serious Sam : Next Encounter]__
-SLUS_209.11 __[Shin Megami Tensei : Nocturne]__
-SLUS_209.24 __[Duel Masters]__
-SLUS_209.27 __[Time Crisis : Crisis Zone]__
-SLUS_209.28 __[Echo Night : Beyond]__
-SLUS_209.29 __[Gundam Battle Assault 3 featuring Gundam Seed]__
-SLUS_209.30 __[Choro Q]__
-SLUS_209.32 __[Mercenaries : Playground of Destruction]__
-SLUS_209.37 __[Wild ARMs : Alter Code F]__
-SLUS_209.39 __[Viewtiful Joe 2]__
-SLUS_209.40 __[Yu-Gi-Oh^! Capsule Monster Coliseum]__
-SLUS_209.46 __[Grand Theft Auto : San Andreas]__
-SLUS_209.47 __[Winback 2nd Operation]__
-SLUS_209.48 __[Crimson Tears]__
-SLUS_209.51 __[Viewtiful Joe]__
-SLUS_209.52 __[Tak 2 : The Staff of Dreams]__
-SLUS_209.53 __[Shaman King : Power of Spirit]__
-SLUS_209.55 __[Phantom Brave]__
-SLUS_209.58 __[Tom Clancy's Splinter Cell 2 : Pandora Tomorrow]__
-SLUS_209.60 __[MegaMan X8]__
-SLUS_209.69 __[S.L.A.I. : Steel Lancer Arena International : Phantom Crash]__
-SLUS_209.73 __[Champions : Return to Arms]__
-SLUS_209.74 __[Shin Megami Tensei : Digital Devil Saga]__
-SLUS_209.75 __[One Piece : Grand Battle]__
-SLUS_209.79 __[Suikoden IV]__
-SLUS_209.80 __[Ys : The Ark of Napishtim]__
-SLUS_209.83 __[Musashi Samurai Legend]__
-SLUS_209.84 __[Resident Evil : Outbreak File #2]__
-SLUS_209.85 __[Under the Skin]__
-SLUS_209.86 __[Armored Core : Nexus (Evolution Disc)]__
-SLUS_209.94 __[Full Metal Alchemist and The Broken Angel]__
-SLUS_210.04 __[Def Jam : Fight for NY]__
-SLUS_210.05 __[Kingdom Hearts II]__
-SLUS_210.07 __[Kuon]__
-SLUS_210.08 __[Katamari Damacy]__
-SLUS_210.09 __[Sega Classics Collection]__
-SLUS_210.10 __[Nano Breaker]__
-SLUS_210.19 __[Technic Beat]__
-SLUS_210.20 __[GunGrave : OverDose]__
-SLUS_210.22 __[Prince of Persia : Warrior Within]__
-SLUS_210.26 __[Battlefield 2 : Mordern Combat]__
-SLUS_210.27 __[Lord of the Rings, The : The Third Age]__
-SLUS_210.33 __[Second Sight]__
-SLUS_210.41 __[Shadow Hearts 2 : Covenant (Disc 1)]__
-SLUS_210.42 __[Darkwatch]__
-SLUS_210.43 __[Backyard Wrestling 2 : There Goes the Neighborhood]__
-SLUS_210.44 __[Shadow Hearts 2 : Covenant (Disc 2)]__
-SLUS_210.50 __[Burnout 3 : Takedown]__
-SLUS_210.59 __[Tekken 5]__
-SLUS_210.66 __[Urbz, The : Sims in the City]__
-SLUS_210.67 __[Digimon Rumble Arena 2]__
-SLUS_210.71 __[Nightmare of Druaga]__
-SLUS_210.75 __[Haunting Ground]__
-SLUS_210.77 __[Gauntlet : Seven Sorrows]__
-SLUS_210.79 __[Armored Core : Nexus (Revolution Disc)]__
-SLUS_210.80 __[Samurai Warriors : Xtreme Legends]__
-SLUS_210.83 __[LEGO Star Wars]__
-SLUS_210.86 __[Big Mutha Truckers 2]__
-SLUS_210.87 __[Mortal Kombat : Shaolin Monks]__
-SLUS_210.90 __[Alien Homind]__
-SLUS_210.91 __[Scooby-Doo^! Unmasked]__
-SLUS_210.93 __[Worms Forts : Under Siege^!]__
-SLUS_211.08 __[Hitman : Blood Money]__
-SLUS_211.15 __[Okami]__
-SLUS_211.19 __[Kessen 3]__
-SLUS_211.20 __[Psychonauts]__
-SLUS_211.28 __[Blitz : The League]__
-SLUS_211.29 __[Tenchu 4 : Fatal Shadows]__
-SLUS_211.32 __[Stella Deus : The Gate of Eternity]__
-SLUS_211.33 __[Xenosaga : Episode II : Jenseits von Gut und Bose (Disc 2)]__
-SLUS_211.34 __[Resident Evil 4]__
-SLUS_211.36 __[Graffiti Kingdom]__
-SLUS_211.38 __[X-Men Legends II : Rise of Apocalypse]__
-SLUS_211.40 __[Mobile Suit Gundam Seed : Never Ending Tomorrow]__
-SLUS_211.43 __[Star Wars : Episode III : Revenge of the Sith]__
-SLUS_211.50 __[Beatdown : Fists of Vengeance]__
-SLUS_211.52 __[Shin Megami Tensei : Digital Devil Saga 2]__
-SLUS_211.53 __[Dynasty Warriors 5]__
-SLUS_211.54 __[Killer 7]__
-SLUS_211.63 __[Brothers in Arms : Road to Hill 30]__
-SLUS_211.65 __[Arc the Lad : End of Darkness]__
-SLUS_211.66 __[Full Metal Alchemist 2 : Curse of the Crimson Elixir]__
-SLUS_211.68 __[Castlevania : Curse of Dakness]__
-SLUS_211.70 __[Makai Kingdom : Chronicles of the Sacred Tome]__
-SLUS_211.71 __[Harvest Moon : A Wonderful Life (Special Edition)]__
-SLUS_211.80 __[Onimusha : Dawn of Dreams]__
-SLUS_211.87 __[Samurai Western]__
-SLUS_211.89 __[Suffering, The : Ties That Bind]__
-SLUS_211.91 __[Crash Tag Team Racing]__
-SLUS_211.94 __[Phantasy Star Universe]__
-SLUS_211.96 __[Indigo Prophecy]__
-SLUS_211.99 __[Medal of Honor : European Assault]__
-SLUS_212.00 __[Armored Core : Nine Breaker]__
-SLUS_212.01 __[Tales of Legendia]__
-SLUS_212.06 __[Shining Force Neo]__
-SLUS_212.12 __[Spartan : Total Warrior]__
-SLUS_212.15 __[The Warriors]__
-SLUS_212.16 __[Soul Calibur III]__
-SLUS_212.18 __[Tak : The Great Juju Challenge]__
-SLUS_212.30 __[We Love Katamari]__
-SLUS_212.31 __[Sniper Elite]__
-SLUS_212.43 __[Metal Gear Solid 3 : (Disc 2) Persistence]__
-SLUS_212.44 __[Fatal Frame 3 : The Tormented]__
-SLUS_212.45 __[Suikoden Tactics]__
-SLUS_212.48 __[Legend of Kay]__
-SLUS_212.51 __[FlatOut 2]__
-SLUS_212.58 __[.hack//G.U. Vol.1 : Rebirth]__
-SLUS_212.61 __[Shadow the Hedgehog]__
-SLUS_212.63 __[Romancing SaGa]__
-SLUS_212.65 __[Sims 2, The]__
-SLUS_212.70 __[MS Saga : A New Dawn]__
-SLUS_212.82 __[James Bond 007 : From Russia with Love]__
-SLUS_212.83 __[Total Overdose : A Gunslinger's Tale in Mexico]__
-SLUS_212.85 __[Ultimate Spider-Man (Limited Edition)]__
-SLUS_212.87 __[Prince of Persia : The Two Thrones]__
-SLUS_212.91 __[Suikoden V]__
-SLUS_212.92 __[Wild ARMs 4]__
-SLUS_212.93 __[Metal Saga]__
-SLUS_212.99 __[Dynasty Warriors 5 : Xtreme Legends]__
-SLUS_213.10 __[Brothers in Arms : Earned in Blood]__
-SLUS_213.15 __[50cent : Bulletproof]__
-SLUS_213.23 __[Rampage : Total Destruction]__
-SLUS_213.26 __[Shadow Hearts : From the New World]__
-SLUS_213.27 __[Atelier Iris 2 : The Azoth of Destiny]__
-SLUS_213.30 __[Monster Rancher 5]__
-SLUS_213.34 __[Grandia III (Disc 1)]__
-SLUS_213.38 __[Armored Core : Last Raven]__
-SLUS_213.43 __[Samurai Champloo : Sidetracked]__
-SLUS_213.45 __[Grandia III (Disc 2)]__
-SLUS_213.46 __[Ace Combat Zero : The Belkan War]__
-SLUS_213.56 __[Tom Clancy's Splinter Cell : Double Agent]__
-SLUS_213.59 __[Metal Gear Solid 3 : (Disc 1) Subsistence]__
-SLUS_213.61 __[Devil May Cry 3 : Dante's Awakening (Special Edition)]__
-SLUS_213.62 __[Onimusha : Dawn of Dreams]__
-SLUS_213.70 __[MegaMan X Collection]__
-SLUS_213.73 __[Drakengard 2]__
-SLUS_213.74 __[Marvel : Ultimate Alliance]__
-SLUS_213.76 __[Black]__
-SLUS_213.85 __[Godfather, The]__
-SLUS_213.86 __[Tales of the Abyss]__
-SLUS_213.87 __[Warship Gunner 2]__
-SLUS_213.89 __[Xenosaga : Episode III : Also Sprach Zarathustra (Disc 1)]__
-SLUS_213.90 __[Urban Chaos : Riot Response]__
-SLUS_213.97 __[Disgaea 2 : Cursed Memories]__
-SLUS_214.09 __[LEGO Star Wars II : The Original Trilogy]__
-SLUS_214.13 __[Thrillville]__
-SLUS_214.17 __[Xenosaga : Episode III : Also Sprach Zarathustra (Disc 2)]__
-SLUS_214.19 __[Dirge of Cerberus : Final Fantasy VII]__
-SLUS_214.21 __[Spy Hunter : Nowhere to Run]__
-SLUS_214.23 __[Grand Theft Auto : Liberty City Stories]__
-SLUS_214.31 __[Shin Megami Tensei : Devil Summoner : Raidou Kuzunoha vs The Soulless Army]__
-SLUS_214.35 __[One Piece : Grand Adventure]__
-SLUS_214.36 __[Just Cause]__
-SLUS_214.37 __[Disney's Kim Possible : What's the Switch]__
-SLUS_214.41 __[Dragon Ball Z : Budokai Tenkaichi 2]__
-SLUS_214.45 __[Ar Tonelico]__
-SLUS_214.48 __[Rule of Rose]__
-SLUS_214.49 __[Fast and the Furious, The : Tokyo Drift]__
-SLUS_214.52 __[Valkyrie Profile 2 : Silmeria]__
-SLUS_214.56 __[Tony Hawk's Downhill Jam]__
-SLUS_214.62 __[Samurai Warriors 2]__
-SLUS_214.71 __[Tokobot Plus : Mysteries of the Karakuri]__
-SLUS_214.88 __[.hack//G.U. Vol.2 : Reminisce]__
-SLUS_214.89 __[.hack//G.U. Vol.3 : Redemption]__
-SLUS_215.01 __[Raw Danger]__
-SLUS_215.03 __[God Hand]__
-SLUS_215.36 __[Sims 2, The : Pets]__
-SLUS_215.43 __[Mortal Kombat : Armageddon (Kollector's Edition)]__
-SLUS_215.52 __[Spider-Man 3]__
-SLUS_215.60 __[Family Guy : The Video Game]__
-SLUS_215.64 __[Atelier Iris 3 : Grand Phantasm]__
-SLUS_215.67 __[Shining Force EXA]__
-SLUS_215.74 __[Dawn of Mana]__
-SLUS_215.77 __[Odin Sphere]__
-SLUS_215.84 __[Romance of the Three Kingdoms XI]__
-SLUS_215.90 __[Grand Theft Auto : Vice City Stories]__
-SLUS_215.95 __[T.M.N.T. : Teenage Mutant Ninja Turtles]__
-SLUS_215.97 __[Medal of Honor : Vanguard]__
-SLUS_216.00 __[Spider-Man : Friend or Foe]__
-SLUS_216.03 __[Soul Nomad & The World Eaters]__
-SLUS_216.04 __[GrimGrimoire]__
-SLUS_216.11 __[Thrillville : Off the Rails]__
-SLUS_216.15 __[Wild ARMs 5]__
-SLUS_216.21 __[Shin Megami Tensei : Persona 3 FES]__
-SLUS_216.26 __[Stuntman : Ignition]__
-SLUS_216.31 __[Phantasy Star Universe : Ambition of the Illuminus]__
-SLUS_216.33 __[Aqua Teen Hunger Force : Zombie Ninja Pro-Am]__
-SLUS_216.41 __[Innocent Life : Harvest Moon : Pure]__
-SLUS_216.62 __[Warriors Orochi]__
-SLUS_216.64 __[Sims 2, The : Castaway]__
-SLUS_216.78 __[Dragon Ball Z : Budokai Tenkaichi 3]__
-SLUS_217.02 __[Fire Pro Wrestling : Returns]__
-SLUS_217.09 __[Obscure : The Aftermath]__
-SLUS_217.14 __[Baroque]__
-SLUS_217.21 __[Nobunaga's Ambition : Rise to Power]__
-SLUS_217.22 __[Chaos Wars]__
-SLUS_217.26 __[Samurai Warriors 2 : Xtreme Legends]__
-SLUS_217.31 __[Silent Hill : Origins]__
-SLUS_217.35 __[Mana Khemia : Alchemists of Al-Revis]__
-SLUS_217.59 __[LEGO Indiana Jones : The Original Adventures]__
-SLUS_217.74 __[Dynasty Warriors 6]__
-SLUS_217.78 __[Dokapon Kingdom]__
-SLUS_217.79 __[Eternal Poison]__
-SLUS_217.82 __[Shin Megami Tensei : Persona 4]__
-SLUS_217.85 __[LEGO Batman]__
-SLUS_217.88 __[Ar Tonelico 2 : Melody of Metafalica]__
-SLUS_217.97 __[Tak and the Guardians of Gross]__
-SLUS_217.99 __[Kingdom Hearts : Re:Chain of Memories]__
-SLUS_218.03 __[Warriors Orochi 2]__
-SLUS_218.45 __[Shin Megami Tensei : Devil Summoner 2 : Raidou Kuzunoha vs King Abaddon]__
-SLUS_218.46 __[Sonic Unleashed]__
-SLUS_218.73 __[Dynasty Warriors : Gundam 2]__
-SLUS_218.79 __[Marvel : Ultimate Alliance 2]__
-SLUS_218.82 __[Ghostbusters : The Video Game]__
-SLUS_218.84 __[Backyard Baseball 2010]__
-SLUS_218.90 __[Mana Khemia 2 : Fall of Alchemy]__
-SLUS_218.99 __[Silent Hill : Shattered Memories]__
-SLUS_219.07 __[Jurassic : The Hunted]__
-SLUS_219.14 __[NHL 2K10]__
-SLUS_219.19 __[Backyard Football '10]__
-```
-SCES_507.60 __[Ico]__
-SCES_538.51 __[Forbidden Siren 2]__
-SCUS_971.01 __[Twisted Metal : Black]__
-SCUS_971.08 __[Cool Boarders 2001]__
-SCUS_971.11 __[Dark Cloud]__
-SCUS_971.12 __[Extermination]__
-SCUS_971.24 __[Jak and Daxter : The Precursor Legacy]__
-SCUS_971.25 __[Frequency]__
-SCUS_971.28 __[Drakan : The Ancients' Gates]__
-SCUS_971.29 __[Okage : Shadow King]__
-SCUS_971.32 __[Kinetica]__
-SCUS_971.40 __[Mark of Kri, The]__
-SCUS_971.67 __[PaRappa the Rapper 2]__
-SCUS_971.77 __[Downhill Domination]__
-SCUS_971.97 __[War of the Monsters]__
-SCUS_971.98 __[Sly Cooper and the Thievius Raccoonus]__
-SCUS_971.99 __[Ratchet & Clank]__
-SCUS_972.03 __[Wild ARMs 3]__
-SCUS_972.11 __[ATV Off-Road Fury 2]__
-SCUS_972.13 __[Dark Cloud 2]__
-SCUS_972.31 __[Arc the Lad : Twighlight of the Spirits]__
-SCUS_972.58 __[Amplitude]__
-SCUS_972.64 __[Syphon Filter : The Omega Strain]__
-SCUS_972.75 __[SOCOM II : U.S. Navy SEALs]__
-SCUS_973.16 __[Sly 2 : Band of Thieves]__
-SCUS_973.55 __[Siren]__
-SCUS_973.62 __[Syphon Filter : Dark Mirror]__
-SCUS_973.99 __[God of War]__
-SCUS_974.64 __[Sly 3 : Honor Amongst Thieves]__
-SCUS_974.71 __[Genji : Dawn of the Samurai]__
-SCUS_974.81 __[God of War II]__
-SCUS_974.90 __[Rogue Galaxy]__
-SCUS_976.21 __[Twisted Metal : Head-On (Extra Twisted Edition)]__
-SLES_502.01 __[Evil Twin : Cyprien's Chronicles]__
-SLES_506.39 __[Everblue]__
-SLES_515.57 __[Broken Sword : The Sleeping Dragon]__
-SLES_518.56 __[Monster Attack]__
-SLES_519.33 __[Gregory Horror Show]__
-SLES_524.48 __[Knights of the Temple]__
-SLES_530.24 __[Altered Beast]__
-SLES_530.96 __[Worms 4 : Mayhem]__
-SLES_534.03 __[Demolition Girl]__
-SLES_544.64 __[Global Defence Force]__
-SLES_820.05 __[Summoner]__
-SLPM_654.78 __[Final Fantasy X-2 International]__
-SLPM_655.55 __[Dragon Quest V : Bride of the Sky]__
-SLPM_656.88 __[Berserk]__
-SLPM_662.05 __[Front Mission 5 : Scars of the War]__
-SLPM_667.50 __[Final Fantasy XII International : Zodiac Job System (with Bonus DVD)]__
-SLPS_250.88 __[Final Fantasy X International]__
-SLPS_252.17 __[Shadow Tower Abyss]__
-SLPS_255.05 __[Namco X Capcom]__
-SLUS_200.01 __[Tekken Tag Tournament]__
-SLUS_200.02 __[Ridge Racer V]__
-SLUS_200.04 __[Army Men : Air Attack 2]__
-SLUS_200.13 __[Tony Hawk's Pro Skater 3]__
-SLUS_200.14 __[Armored Core 2]__
-SLUS_200.15 __[Eternal Ring]__
-SLUS_200.16 __[Evergrace]__
-SLUS_200.17 __[Maximo : Ghosts to Glory (Beta)]__
-SLUS_200.21 __[Kengo : Master of Bushido]__
-SLUS_200.24 __[Legacy of Kain : Blood Omen 2]__
-SLUS_200.35 __[Baldur's Gate : Dark Alliance]__
-SLUS_200.47 __[Gauntlet : Dark Legacy]__
-SLUS_200.54 __[Ready 2 Rumble Boxing : Round 2]__
-SLUS_200.56 __[Spy Hunter]__
-SLUS_200.62 __[Grand Theft Auto : III]__
-SLUS_200.64 __[Oni]__
-SLUS_200.65 __[Smuggler's Run]__
-SLUS_200.66 __[Half-Life]__
-SLUS_200.69 __[Bouncer]__
-SLUS_200.71 __[Dead or Alive 2]__
-SLUS_200.77 __[Donald Duck Goin' Quackers]__
-SLUS_200.80 __[GunGriffon Blaze]__
-SLUS_200.84 __[Soldier of Fortune : Gold Edition]__
-SLUS_200.85 __[Silpheed Lost Planet]__
-SLUS_201.05 __[MDK 2 : Armageddon]__
-SLUS_201.30 __[Street Fighter EX3]__
-SLUS_201.32 __[Army Men : Sarge's Heroes 2]__
-SLUS_201.34 __[Sky Odyssey]__
-SLUS_201.38 __[Rayman 2 : Revolution]__
-SLUS_201.45 __[Ring of Red]__
-SLUS_201.46 __[Shadow of Destiny]__
-SLUS_201.47 __[Aliens vs Predator : Extinction]__
-SLUS_201.48 __[Zone of the Enders]__
-SLUS_201.49 __[Tribes : Aerial Assault]__
-SLUS_201.51 __[Klonoa 2 : Lunatea's Veil]__
-SLUS_201.52 __[Ace Combat 4 : Shattered Skies]__
-SLUS_201.59 __[Dave Mirra Freestyle BMX 2]__
-SLUS_201.60 __[Winback : Covert Operations]__
-SLUS_201.65 __[Legacy of Kain : Soul Reaver 2]__
-SLUS_201.74 __[Rumble Racing]__
-SLUS_201.77 __[Test Drive : Off-Road : Wide Open]__
-SLUS_201.78 __[Giants : Citizen Kabuto]__
-SLUS_201.82 __[Stretch Panic]__
-SLUS_201.84 __[Resident Evil : CODE Veronica X]__
-SLUS_201.90 __[Monster Rancher 3]__
-SLUS_201.91 __[Defender]__
-SLUS_201.94 __[Grandia II]__
-SLUS_202.02 __[Crazy Taxi]__
-SLUS_202.04 __[Smuggler's Run 2 : Hostile Territory]__
-SLUS_202.06 __[Army Men : RTS]__
-SLUS_202.16 __[Devil May Cry]__
-SLUS_202.19 __[Time Crisis II]__
-SLUS_202.21 __[Vampire Night]__
-SLUS_202.25 __[Gadget Racers]__
-SLUS_202.26 __[Batman : Vengeance]__
-SLUS_202.28 __[Silent Hill 2]__
-SLUS_202.30 __[Max Payne]__
-SLUS_202.31 __[Herdy Gerdy]__
-SLUS_202.38 __[Crash Bandicoot : The Wrath of Cortex]__
-SLUS_202.44 __[RoboTech BattleCry]__
-SLUS_202.49 __[Armored Core 2 : Another Age]__
-SLUS_202.50 __[Stuntman]__
-SLUS_202.51 __[Harvest Moon : Save the Homeland]__
-SLUS_202.59 __[Wizadry : Tale of the Forsaken]__
-SLUS_202.67 __[.hack//Part 1 : Infection]__
-SLUS_202.74 __[City Crisis]__
-SLUS_202.75 __[Kessen 2]__
-SLUS_202.93 __[Star Wars : Jedi Starfighter]__
-SLUS_202.94 __[Gitaroo Man]__
-SLUS_202.96 __[Kao the Kangaroo : Round 2]__
-SLUS_202.97 __[Return to Castle Wolfenstein : Operation Resurrection]__
-SLUS_203.00 __[Dark Summit]__
-SLUS_203.02 __[Extreme-G Racing : XG3]__
-SLUS_203.06 __[Contra : Shattered Soldier]__
-SLUS_203.09 __[Jade Cocoon 2]__
-SLUS_203.14 __[TimeSplitters 2]__
-SLUS_203.18 __[King's Field IV]__
-SLUS_203.27 __[Aggressive Inline]__
-SLUS_203.28 __[Tekken 4]__
-SLUS_203.33 __[Turok : Evolution]__
-SLUS_203.36 __[Spider-Man : The Movie]__
-SLUS_203.44 __[Rez]__
-SLUS_203.46 __[AirBlade]__
-SLUS_203.47 __[Shadow Hearts]__
-SLUS_203.49 __[Scooby-Doo^! Night of 100 Frights]__
-SLUS_203.52 __[Looney Tunes Space Race]__
-SLUS_203.60 __[Blade 2]__
-SLUS_203.62 __[Need for Speed : Hot Pursuit 2]__
-SLUS_203.67 __[Freekstyle]__
-SLUS_203.68 __[Medal of Honor : Frontline]__
-SLUS_203.70 __[Kingdom Hearts]__
-SLUS_203.71 __[Thing, The]__
-SLUS_203.74 __[Hitman 2 : Silent Assassin]__
-SLUS_203.75 __[Mister Mosquito]__
-SLUS_203.77 __[Metropolismania]__
-SLUS_203.82 __[Mobile Suit Gundam : Federation vs Zeon]__
-SLUS_203.83 __[Vexx]__
-SLUS_203.84 __[Skygunner]__
-SLUS_203.87 __[Suikoden III]__
-SLUS_203.88 __[Fatal Frame]__
-SLUS_203.90 __[Risk : Global Domination]__
-SLUS_203.93 __[Onimusha 2 : Samurai's Destiny]__
-SLUS_203.97 __[Tenchu 3 : Wrath of Heaven]__
-SLUS_203.98 __[Road Trip]__
-SLUS_204.05 __[Downforce]__
-SLUS_204.13 __[Shadow Man : Second Coming]__
-SLUS_204.14 __[Legaia 2 : Duel Saga]__
-SLUS_204.15 __[BMX XXX]__
-SLUS_204.17 __[Grandia Xtreme]__
-SLUS_204.20 __[Star Wars : Bounty Hunter]__
-SLUS_204.21 __[Battlestar Galactica]__
-SLUS_204.23 __[Mortal Kombat : Deadly Alliance]__
-SLUS_204.31 __[Wreckless : The Yakuza Missions]__
-SLUS_204.33 __[SWAT : Global Strike Team]__
-SLUS_204.35 __[Armored Core 3]__
-SLUS_204.39 __[Futurama]__
-SLUS_204.42 __[Red Faction 2]__
-SLUS_204.54 __[Enter the Matrix]__
-SLUS_204.58 __[Dr. Muto]__
-SLUS_204.59 __[Shinobi]__
-SLUS_204.61 __[BloodRayne]__
-SLUS_204.62 __[Wipeout Fusion]__
-SLUS_204.63 __[Dropship : United Peace Force]__
-SLUS_204.65 __[Alter Echo]__
-SLUS_204.67 __[Tomb Raider : The Angel of Darkness]__
-SLUS_204.68 __[Dynasty Tactics]__
-SLUS_204.69 __[Xenosaga : Episode I : Der Wille zur Macht]__
-SLUS_204.71 __[Rygar : The Legendary Adventure]__
-SLUS_204.75 __[Dual Hearts]__
-SLUS_204.84 __[Devil May Cry 2 (Disc 1)]__
-SLUS_204.86 __[Marvel vs Capcom 2]__
-SLUS_204.87 __[MegaMan X7]__
-SLUS_204.90 __[Gladius]__
-SLUS_204.93 __[Gungrave]__
-SLUS_204.95 __[Battle Engine Aquila]__
-SLUS_204.99 __[Breath of Fire : Dragon Quarter]__
-SLUS_205.08 __[Indiana Jones and the Emperor's Tomb]__
-SLUS_205.09 __[Soccer Slam : Sega Sports]__
-SLUS_205.14 __[Silent Scope 3]__
-SLUS_205.19 __[Tak and The Power of Juju]__
-SLUS_205.20 __[Lord of the Rings, The : The Fellowship of the Ring]__
-SLUS_205.21 __[Mystic Heroes]__
-SLUS_205.33 __[Shox]__
-SLUS_205.39 __[Fallout : Brotherhood of Steel]__
-SLUS_205.45 __[Zone of the Enders : The 2nd Runner]__
-SLUS_205.48 __[Sub Rebellion]__
-SLUS_205.52 __[Grand Theft Auto : Vice City]__
-SLUS_205.54 __[Metal Gear Solid 2 : Substance]__
-SLUS_205.61 __[Disaster Report]__
-SLUS_205.62 __[.hack//Part 2 : Mutation]__
-SLUS_205.63 __[.hack//Part 3 : Outbreak]__
-SLUS_205.64 __[.hack//Part 4 : Quarantine]__
-SLUS_205.65 __[Champions of Norrath]__
-SLUS_205.73 __[Sims, The]__
-SLUS_205.78 __[Lord of the Rings, The : The Two Towers]__
-SLUS_205.90 __[Spy Hunter 2]__
-SLUS_205.93 __[Magic Pengel : The Quest for Color]__
-SLUS_205.95 __[Area 51]__
-SLUS_205.97 __[Warhammer 40K : Fire Warrior]__
-SLUS_205.98 __[Everblue 2]__
-SLUS_206.06 __[Bounty Hunter : Seek & Destroy]__
-SLUS_206.13 __[Tom Clancy's Ghost Recon]__
-SLUS_206.16 __[Virtua Fighter 4 : Evolution]__
-SLUS_206.19 __[Starsky & Hutch]__
-SLUS_206.21 __[Seven Samurai 20XX]__
-SLUS_206.22 __[Silent Hill 3]__
-SLUS_206.24 __[The Simpsons : Hit & Run]__
-SLUS_206.27 __[Devil May Cry 2 (Disc 2)]__
-SLUS_206.32 __[Extreme-G Racing Association : XGRA]__
-SLUS_206.33 __[Clock Tower 3]__
-SLUS_206.36 __[Suffering, The]__
-SLUS_206.39 __[Def Jam : Vendetta]__
-SLUS_206.42 __[Auto Modellista]__
-SLUS_206.44 __[Armored Core : Silent Line]__
-SLUS_206.45 __[Time Crisis 3 (with Guncon)]__
-SLUS_206.49 __[Crash Bandicoot : Nitro Kart]__
-SLUS_206.52 __[Tom Clancy's Splinter Cell]__
-SLUS_206.55 __[Hobbit, The]__
-SLUS_206.56 __[X-Men Legends]__
-SLUS_206.63 __[Naval Ops : Warship Gunner]__
-SLUS_206.66 __[Disgaea : Hour of Darkness]__
-SLUS_206.69 __[Resident Evil : Dead Aim]__
-SLUS_206.71 __[Mafia]__
-SLUS_206.75 __[Baldur's Gate : Dark Alliance 2]__
-SLUS_206.77 __[XIII]__
-SLUS_206.83 __[Lupin the 3rd : Treasure of the Sorcerer King]__
-SLUS_206.84 __[Whiplash]__
-SLUS_206.88 __[Psi-Ops : The Mindgate Conspiracy]__
-SLUS_206.94 __[Onimusha 3 : Demon Siege]__
-SLUS_206.97 __[Cy Girls (Disc 1)]__
-SLUS_206.98 __[SD Gundam Force Showdown]__
-SLUS_207.01 __[Scooby-Doo^! Mystery Mayhem]__
-SLUS_207.02 __[Monster Rancher 4]__
-SLUS_207.09 __[Batman : Rise of Sin-Tzu]__
-SLUS_207.12 __[Gradius V]__
-SLUS_207.16 __[Teenage Mutant Ninja Turtles]__
-SLUS_207.18 __[Sonic Heroes]__
-SLUS_207.22 __[Maximo vs Army of Zin]__
-SLUS_207.24 __[Firefighter FD 18]__
-SLUS_207.25 __[Call of Duty : Finest Hour]__
-SLUS_207.31 __[Tony Hawk's Underground]__
-SLUS_207.32 __[Drakengard]__
-SLUS_207.33 __[Castlevania : Lament of Innocence]__
-SLUS_207.38 __[Van Helsing]__
-SLUS_207.40 __[Mobile Suit Gundam : Encounters in Space]__
-SLUS_207.42 __[Chulip]__
-SLUS_207.43 __[Prince of Persia : Sands of Time]__
-SLUS_207.53 __[Medal of Honor : Rising Sun]__
-SLUS_207.61 __[Dynasty Tactics 2]__
-SLUS_207.62 __[Secret Weapons Over Normandy]__
-SLUS_207.63 __[Beyond Good and Evil]__
-SLUS_207.64 __[Bombastic]__
-SLUS_207.65 __[Resident Evil : Outbreak]__
-SLUS_207.66 __[Fatal Frame 2 : Crimson Butterfly]__
-SLUS_207.70 __[Lord of the Rings, The : The Return of the King]__
-SLUS_207.73 __[Legacy of Kain : Defiance]__
-SLUS_207.76 __[Spider-Man 2]__
-SLUS_207.77 __[Obscure]__
-SLUS_207.80 __[R-Type Final]__
-SLUS_207.82 __[Blood Will Tell]__
-SLUS_207.86 __[Metal Arms : Glitch in the System]__
-SLUS_207.87 __[WWE SmackDown^! Here Comes the Pain]__
-SLUS_207.95 __[Bloody Roar 4]__
-SLUS_208.03 __[Bard's Tale, The]__
-SLUS_208.04 __[Forgotten Realms : Demon Stone]__
-SLUS_208.06 __[Space Channel 5 : Special Edition]__
-SLUS_208.07 __[Space Channel 5 : Special Edition (Disc 2)]__
-SLUS_208.09 __[Godzilla : Save the Earth]__
-SLUS_208.20 __[Tom Clancy's Ghost Recon : Jungle Storm]__
-SLUS_208.27 __[Manhunt]__
-SLUS_208.36 __[Digimon World 4]__
-SLUS_208.42 __[Sims, The : Bustin' Out]__
-SLUS_208.45 __[Cold Winter]__
-SLUS_208.47 __[La Pucelle : Tactics]__
-SLUS_208.50 __[Blowout]__
-SLUS_208.51 __[Ace Combat 5 : The Unsung War]__
-SLUS_208.52 __[Terminator 3, The : The Redemption]__
-SLUS_208.54 __[Cy Girls (Disc 2)]__
-SLUS_208.55 __[Destruction Derby Arenas]__
-SLUS_208.56 __[Spy Fiction]__
-SLUS_208.64 __[Punisher, The]__
-SLUS_208.66 __[Asterix & Obelix XXL : Kick Buttix]__
-SLUS_208.73 __[Silent Hill 4 : The Room]__
-SLUS_208.75 __[Predator : Concrete Jungle]__
-SLUS_208.77 __[Crimson Sea 2]__
-SLUS_208.78 __[Samurai Warriors]__
-SLUS_208.81 __[Mortal Kombat : Deception]__
-SLUS_208.82 __[Hitman : Contracts]__
-SLUS_208.83 __[Tom Clancy's Rainbow Six 3]__
-SLUS_208.84 __[Spyro : A Hero's Tail]__
-SLUS_208.85 __[Red Star, The]__
-SLUS_208.88 __[Front Mission 4]__
-SLUS_208.92 __[Xenosaga : Episode II : Jenseits von Gut und Bose (Disc 1)]__
-SLUS_208.93 __[Way of the Samurai 2]__
-SLUS_208.94 __[Worms 3D]__
-SLUS_208.95 __[Bujingai : The Forsaken City]__
-SLUS_208.96 __[Monster Hunter]__
-SLUS_208.98 __[Star Wars : Battlefront]__
-SLUS_208.99 __[Samurai Jack : The Shadow of Aku]__
-SLUS_209.01 __[FlatOut]__
-SLUS_209.02 __[Shadow of Rome]__
-SLUS_209.03 __[MegaMan X : Command Mission]__
-SLUS_209.07 __[Serious Sam : Next Encounter]__
-SLUS_209.11 __[Shin Megami Tensei : Nocturne]__
-SLUS_209.24 __[Duel Masters]__
-SLUS_209.27 __[Time Crisis : Crisis Zone]__
-SLUS_209.28 __[Echo Night : Beyond]__
-SLUS_209.29 __[Gundam Battle Assault 3 featuring Gundam Seed]__
-SLUS_209.30 __[Choro Q]__
-SLUS_209.32 __[Mercenaries : Playground of Destruction]__
-SLUS_209.37 __[Wild ARMs : Alter Code F]__
-SLUS_209.39 __[Viewtiful Joe 2]__
-SLUS_209.40 __[Yu-Gi-Oh^! Capsule Monster Coliseum]__
-SLUS_209.46 __[Grand Theft Auto : San Andreas]__
-SLUS_209.47 __[Winback 2nd Operation]__
-SLUS_209.48 __[Crimson Tears]__
-SLUS_209.51 __[Viewtiful Joe]__
-SLUS_209.52 __[Tak 2 : The Staff of Dreams]__
-SLUS_209.53 __[Shaman King : Power of Spirit]__
-SLUS_209.55 __[Phantom Brave]__
-SLUS_209.58 __[Tom Clancy's Splinter Cell 2 : Pandora Tomorrow]__
-SLUS_209.60 __[MegaMan X8]__
-SLUS_209.69 __[S.L.A.I. : Steel Lancer Arena International : Phantom Crash]__
-SLUS_209.73 __[Champions : Return to Arms]__
-SLUS_209.74 __[Shin Megami Tensei : Digital Devil Saga]__
-SLUS_209.75 __[One Piece : Grand Battle]__
-SLUS_209.79 __[Suikoden IV]__
-SLUS_209.80 __[Ys : The Ark of Napishtim]__
-SLUS_209.83 __[Musashi Samurai Legend]__
-SLUS_209.84 __[Resident Evil : Outbreak File #2]__
-SLUS_209.85 __[Under the Skin]__
-SLUS_209.86 __[Armored Core : Nexus (Evolution Disc)]__
-SLUS_209.94 __[Full Metal Alchemist and The Broken Angel]__
-SLUS_210.04 __[Def Jam : Fight for NY]__
-SLUS_210.05 __[Kingdom Hearts II]__
-SLUS_210.07 __[Kuon]__
-SLUS_210.08 __[Katamari Damacy]__
-SLUS_210.09 __[Sega Classics Collection]__
-SLUS_210.10 __[Nano Breaker]__
-SLUS_210.19 __[Technic Beat]__
-SLUS_210.20 __[GunGrave : OverDose]__
-SLUS_210.22 __[Prince of Persia : Warrior Within]__
-SLUS_210.26 __[Battlefield 2 : Mordern Combat]__
-SLUS_210.27 __[Lord of the Rings, The : The Third Age]__
-SLUS_210.33 __[Second Sight]__
-SLUS_210.41 __[Shadow Hearts 2 : Covenant (Disc 1)]__
-SLUS_210.42 __[Darkwatch]__
-SLUS_210.43 __[Backyard Wrestling 2 : There Goes the Neighborhood]__
-SLUS_210.44 __[Shadow Hearts 2 : Covenant (Disc 2)]__
-SLUS_210.50 __[Burnout 3 : Takedown]__
-SLUS_210.59 __[Tekken 5]__
-SLUS_210.66 __[Urbz, The : Sims in the City]__
-SLUS_210.67 __[Digimon Rumble Arena 2]__
-SLUS_210.71 __[Nightmare of Druaga]__
-SLUS_210.75 __[Haunting Ground]__
-SLUS_210.77 __[Gauntlet : Seven Sorrows]__
-SLUS_210.79 __[Armored Core : Nexus (Revolution Disc)]__
-SLUS_210.80 __[Samurai Warriors : Xtreme Legends]__
-SLUS_210.83 __[LEGO Star Wars]__
-SLUS_210.86 __[Big Mutha Truckers 2]__
-SLUS_210.87 __[Mortal Kombat : Shaolin Monks]__
-SLUS_210.90 __[Alien Homind]__
-SLUS_210.91 __[Scooby-Doo^! Unmasked]__
-SLUS_210.93 __[Worms Forts : Under Siege^!]__
-SLUS_211.08 __[Hitman : Blood Money]__
-SLUS_211.15 __[Okami]__
-SLUS_211.19 __[Kessen 3]__
-SLUS_211.20 __[Psychonauts]__
-SLUS_211.28 __[Blitz : The League]__
-SLUS_211.29 __[Tenchu 4 : Fatal Shadows]__
-SLUS_211.32 __[Stella Deus : The Gate of Eternity]__
-SLUS_211.33 __[Xenosaga : Episode II : Jenseits von Gut und Bose (Disc 2)]__
-SLUS_211.34 __[Resident Evil 4]__
-SLUS_211.36 __[Graffiti Kingdom]__
-SLUS_211.38 __[X-Men Legends II : Rise of Apocalypse]__
-SLUS_211.40 __[Mobile Suit Gundam Seed : Never Ending Tomorrow]__
-SLUS_211.43 __[Star Wars : Episode III : Revenge of the Sith]__
-SLUS_211.50 __[Beatdown : Fists of Vengeance]__
-SLUS_211.52 __[Shin Megami Tensei : Digital Devil Saga 2]__
-SLUS_211.53 __[Dynasty Warriors 5]__
-SLUS_211.54 __[Killer 7]__
-SLUS_211.63 __[Brothers in Arms : Road to Hill 30]__
-SLUS_211.65 __[Arc the Lad : End of Darkness]__
-SLUS_211.66 __[Full Metal Alchemist 2 : Curse of the Crimson Elixir]__
-SLUS_211.68 __[Castlevania : Curse of Dakness]__
-SLUS_211.70 __[Makai Kingdom : Chronicles of the Sacred Tome]__
-SLUS_211.71 __[Harvest Moon : A Wonderful Life (Special Edition)]__
-SLUS_211.80 __[Onimusha : Dawn of Dreams]__
-SLUS_211.87 __[Samurai Western]__
-SLUS_211.89 __[Suffering, The : Ties That Bind]__
-SLUS_211.91 __[Crash Tag Team Racing]__
-SLUS_211.94 __[Phantasy Star Universe]__
-SLUS_211.96 __[Indigo Prophecy]__
-SLUS_211.99 __[Medal of Honor : European Assault]__
-SLUS_212.00 __[Armored Core : Nine Breaker]__
-SLUS_212.01 __[Tales of Legendia]__
-SLUS_212.06 __[Shining Force Neo]__
-SLUS_212.12 __[Spartan : Total Warrior]__
-SLUS_212.15 __[The Warriors]__
-SLUS_212.16 __[Soul Calibur III]__
-SLUS_212.18 __[Tak : The Great Juju Challenge]__
-SLUS_212.30 __[We Love Katamari]__
-SLUS_212.31 __[Sniper Elite]__
-SLUS_212.43 __[Metal Gear Solid 3 : (Disc 2) Persistence]__
-SLUS_212.44 __[Fatal Frame 3 : The Tormented]__
-SLUS_212.45 __[Suikoden Tactics]__
-SLUS_212.48 __[Legend of Kay]__
-SLUS_212.51 __[FlatOut 2]__
-SLUS_212.58 __[.hack//G.U. Vol.1 : Rebirth]__
-SLUS_212.61 __[Shadow the Hedgehog]__
-SLUS_212.63 __[Romancing SaGa]__
-SLUS_212.65 __[Sims 2, The]__
-SLUS_212.70 __[MS Saga : A New Dawn]__
-SLUS_212.82 __[James Bond 007 : From Russia with Love]__
-SLUS_212.83 __[Total Overdose : A Gunslinger's Tale in Mexico]__
-SLUS_212.85 __[Ultimate Spider-Man (Limited Edition)]__
-SLUS_212.87 __[Prince of Persia : The Two Thrones]__
-SLUS_212.91 __[Suikoden V]__
-SLUS_212.92 __[Wild ARMs 4]__
-SLUS_212.93 __[Metal Saga]__
-SLUS_212.99 __[Dynasty Warriors 5 : Xtreme Legends]__
-SLUS_213.10 __[Brothers in Arms : Earned in Blood]__
-SLUS_213.15 __[50cent : Bulletproof]__
-SLUS_213.23 __[Rampage : Total Destruction]__
-SLUS_213.26 __[Shadow Hearts : From the New World]__
-SLUS_213.27 __[Atelier Iris 2 : The Azoth of Destiny]__
-SLUS_213.30 __[Monster Rancher 5]__
-SLUS_213.34 __[Grandia III (Disc 1)]__
-SLUS_213.38 __[Armored Core : Last Raven]__
-SLUS_213.43 __[Samurai Champloo : Sidetracked]__
-SLUS_213.45 __[Grandia III (Disc 2)]__
-SLUS_213.46 __[Ace Combat Zero : The Belkan War]__
-SLUS_213.56 __[Tom Clancy's Splinter Cell : Double Agent]__
-SLUS_213.59 __[Metal Gear Solid 3 : (Disc 1) Subsistence]__
-SLUS_213.61 __[Devil May Cry 3 : Dante's Awakening (Special Edition)]__
-SLUS_213.62 __[Onimusha : Dawn of Dreams]__
-SLUS_213.70 __[MegaMan X Collection]__
-SLUS_213.73 __[Drakengard 2]__
-SLUS_213.74 __[Marvel : Ultimate Alliance]__
-SLUS_213.76 __[Black]__
-SLUS_213.85 __[Godfather, The]__
-SLUS_213.86 __[Tales of the Abyss]__
-SLUS_213.87 __[Warship Gunner 2]__
-SLUS_213.89 __[Xenosaga : Episode III : Also Sprach Zarathustra (Disc 1)]__
-SLUS_213.90 __[Urban Chaos : Riot Response]__
-SLUS_213.97 __[Disgaea 2 : Cursed Memories]__
-SLUS_214.09 __[LEGO Star Wars II : The Original Trilogy]__
-SLUS_214.13 __[Thrillville]__
-SLUS_214.17 __[Xenosaga : Episode III : Also Sprach Zarathustra (Disc 2)]__
-SLUS_214.19 __[Dirge of Cerberus : Final Fantasy VII]__
-SLUS_214.21 __[Spy Hunter : Nowhere to Run]__
-SLUS_214.23 __[Grand Theft Auto : Liberty City Stories]__
-SLUS_214.31 __[Shin Megami Tensei : Devil Summoner : Raidou Kuzunoha vs The Soulless Army]__
-SLUS_214.35 __[One Piece : Grand Adventure]__
-SLUS_214.36 __[Just Cause]__
-SLUS_214.37 __[Disney's Kim Possible : What's the Switch]__
-SLUS_214.41 __[Dragon Ball Z : Budokai Tenkaichi 2]__
-SLUS_214.45 __[Ar Tonelico]__
-SLUS_214.48 __[Rule of Rose]__
-SLUS_214.49 __[Fast and the Furious, The : Tokyo Drift]__
-SLUS_214.52 __[Valkyrie Profile 2 : Silmeria]__
-SLUS_214.56 __[Tony Hawk's Downhill Jam]__
-SLUS_214.62 __[Samurai Warriors 2]__
-SLUS_214.71 __[Tokobot Plus : Mysteries of the Karakuri]__
-SLUS_214.88 __[.hack//G.U. Vol.2 : Reminisce]__
-SLUS_214.89 __[.hack//G.U. Vol.3 : Redemption]__
-SLUS_215.01 __[Raw Danger]__
-SLUS_215.03 __[God Hand]__
-SLUS_215.36 __[Sims 2, The : Pets]__
-SLUS_215.43 __[Mortal Kombat : Armageddon (Kollector's Edition)]__
-SLUS_215.52 __[Spider-Man 3]__
-SLUS_215.60 __[Family Guy : The Video Game]__
-SLUS_215.64 __[Atelier Iris 3 : Grand Phantasm]__
-SLUS_215.67 __[Shining Force EXA]__
-SLUS_215.74 __[Dawn of Mana]__
-SLUS_215.77 __[Odin Sphere]__
-SLUS_215.84 __[Romance of the Three Kingdoms XI]__
-SLUS_215.90 __[Grand Theft Auto : Vice City Stories]__
-SLUS_215.95 __[T.M.N.T. : Teenage Mutant Ninja Turtles]__
-SLUS_215.97 __[Medal of Honor : Vanguard]__
-SLUS_216.00 __[Spider-Man : Friend or Foe]__
-SLUS_216.03 __[Soul Nomad & The World Eaters]__
-SLUS_216.04 __[GrimGrimoire]__
-SLUS_216.11 __[Thrillville : Off the Rails]__
-SLUS_216.15 __[Wild ARMs 5]__
-SLUS_216.21 __[Shin Megami Tensei : Persona 3 FES]__
-SLUS_216.26 __[Stuntman : Ignition]__
-SLUS_216.31 __[Phantasy Star Universe : Ambition of the Illuminus]__
-SLUS_216.33 __[Aqua Teen Hunger Force : Zombie Ninja Pro-Am]__
-SLUS_216.41 __[Innocent Life : Harvest Moon : Pure]__
-SLUS_216.62 __[Warriors Orochi]__
-SLUS_216.64 __[Sims 2, The : Castaway]__
-SLUS_216.78 __[Dragon Ball Z : Budokai Tenkaichi 3]__
-SLUS_217.02 __[Fire Pro Wrestling : Returns]__
-SLUS_217.09 __[Obscure : The Aftermath]__
-SLUS_217.14 __[Baroque]__
-SLUS_217.21 __[Nobunaga's Ambition : Rise to Power]__
-SLUS_217.22 __[Chaos Wars]__
-SLUS_217.26 __[Samurai Warriors 2 : Xtreme Legends]__
-SLUS_217.31 __[Silent Hill : Origins]__
-SLUS_217.35 __[Mana Khemia : Alchemists of Al-Revis]__
-SLUS_217.59 __[LEGO Indiana Jones : The Original Adventures]__
-SLUS_217.74 __[Dynasty Warriors 6]__
-SLUS_217.78 __[Dokapon Kingdom]__
-SLUS_217.79 __[Eternal Poison]__
-SLUS_217.82 __[Shin Megami Tensei : Persona 4]__
-SLUS_217.85 __[LEGO Batman]__
-SLUS_217.88 __[Ar Tonelico 2 : Melody of Metafalica]__
-SLUS_217.97 __[Tak and the Guardians of Gross]__
-SLUS_217.99 __[Kingdom Hearts : Re:Chain of Memories]__
-SLUS_218.03 __[Warriors Orochi 2]__
-SLUS_218.45 __[Shin Megami Tensei : Devil Summoner 2 : Raidou Kuzunoha vs King Abaddon]__
-SLUS_218.46 __[Sonic Unleashed]__
-SLUS_218.73 __[Dynasty Warriors : Gundam 2]__
-SLUS_218.79 __[Marvel : Ultimate Alliance 2]__
-SLUS_218.82 __[Ghostbusters : The Video Game]__
-SLUS_218.84 __[Backyard Baseball 2010]__
-SLUS_218.90 __[Mana Khemia 2 : Fall of Alchemy]__
-SLUS_218.99 __[Silent Hill : Shattered Memories]__
-SLUS_219.07 __[Jurassic : The Hunted]__
-SLUS_219.14 __[NHL 2K10]__
-SLUS_219.19 __[Backyard Football '10]__
+HDUS_975.84 | !No match on title database!
+SC4_OFF.ELF | !No match on title database!
+SCES_503.61 | Jak and Daxter - The Precursor Legacy
+SCES_504.09 | MotoGP 2
+SCES_507.60 | Ico
+SCES_508.78 | Tekken 4
+SCES_509.16 | Ratchet & Clank
+SCES_509.17 | Sly Racoon
+SCES_509.59 | Disney's Stitch - Experiment 626
+SCES_509.82 | Moto GP 3
+SCES_511.64 | Mark of Kri, The
+SCES_514.28 | Shinobi
+SCES_516.08 | Jak & Daxter 2 - Renegade
+SCES_525.29 | Sly Racoon 2 - Band of Thieves
+SCES_525.86 | Death by Degrees
+SCES_528.92 | Moto GP 4
+SCES_532.02 | Tekken 5
+SCES_534.09 | Sly 3
+SCES_538.51 | Forbidden Siren 2
+SCPS_150.87 | Bleach - Erabareshi Tamashi
+SCPS_151.16 | Bleach - Blade Battles
+SCPS_151.19 | Bleach - Blade Battles 2nd
+SCUS_971.01 | Twisted Metal - Black
+SCUS_971.04 | ATV Off-Road Fury
+SCUS_971.08 | Cool Boarders 2001
+SCUS_971.11 | Dark Cloud
+SCUS_971.12 | Extermination
+SCUS_971.24 | Jak and Daxter - The Precursor Legacy
+SCUS_971.25 | Frequency
+SCUS_971.28 | Drakan - The Ancients' Gates
+SCUS_971.29 | Okage - Shadow King
+SCUS_971.32 | Kinetica
+SCUS_971.40 | Mark of Kri, The
+SCUS_971.46 | Disney's Treasure Planet
+SCUS_971.67 | PaRappa the Rapper 2
+SCUS_971.77 | Downhill Domination
+SCUS_971.97 | War of the Monsters
+SCUS_971.98 | Sly Cooper and the Thievius Raccoonus
+SCUS_971.99 | Ratchet & Clank
+SCUS_972.03 | Wild ARMs 3
+SCUS_972.11 | ATV Off-Road Fury 2
+SCUS_972.13 | Dark Cloud 2
+SCUS_972.31 | Arc the Lad - Twighlight of the Spirits
+SCUS_972.58 | Amplitude
+SCUS_972.64 | Syphon Filter - The Omega Strain
+SCUS_972.65 | Jak II
+SCUS_972.68 | Ratchet & Clank - Going Commando
+SCUS_972.75 | SOCOM II - U.S. Navy SEALs
+SCUS_973.16 | Sly 2 - Band of Thieves
+SCUS_973.30 | Jak 3
+SCUS_973.53 | Ratchet and Clank - Up Your Arsenal
+SCUS_973.55 | Siren
+SCUS_973.62 | Syphon Filter - Dark Mirror
+SCUS_973.99 | God of War
+SCUS_974.16 | Rise of the Kasai
+SCUS_974.64 | Sly 3 - Honor Amongst Thieves
+SCUS_974.65 | Ratchet - Deadlocked
+SCUS_974.71 | Genji - Dawn of the Samurai
+SCUS_974.81 | God of War II
+SCUS_974.90 | Rogue Galaxy
+SCUS_976.21 | Twisted Metal - Head-On [Extra Twisted Edition]
+SLES_500.44 | Rayman Revolution
+SLES_500.72 | Street Fighter EX3
+SLES_501.09 | 7 Blades
+SLES_501.83 | Wacky Races
+SLES_501.85 | Alone in the Dark 4
+SLES_502.01 | Evil Twin - Cyprien's Chronicles
+SLES_502.10 | XG3 - Extreme-G Racing
+SLES_502.11 | Gauntlet - Dark Legacy
+SLES_502.68 | SpyHunter
+SLES_503.30 | Grand Theft Auto III
+SLES_503.35 | Rune - Viking Warlord
+SLES_503.66 | Star Wars - Racer Revenge
+SLES_504.86 | Splashdown
+SLES_504.87 | Space Race
+SLES_505.41 | Capcom vs SNK 2 - Mark of the Millennium
+SLES_506.39 | Everblue
+SLES_507.03 | Maximo
+SLES_507.54 | Simpsons Skateboarding
+SLES_508.12 | Spider-Man
+SLES_508.80 | BMX XXX
+SLES_509.06 | Master Rally
+SLES_509.19 | Akira Psycho Ball
+SLES_509.35 | Circus Maximus - Chariot Wars
+SLES_509.87 | Scorpion King, The - Rise of an Akkadian
+SLES_510.11 | Knight Rider - The Game
+SLES_510.44 | Burnout 2 - Point of Impact
+SLES_510.54 | Midnight Club 2
+SLES_510.61 | Grand Theft Auto - Vice City
+SLES_511.13 | Zone of the Enders - The 2nd Runner
+SLES_511.25 | Sega Soccer Slam
+SLES_511.53 | LEGO Island - Extreme Stunts
+SLES_512.32 | Virtua Tennis 2
+SLES_512.35 | Raging Blades
+SLES_512.36 | Gungrave
+SLES_512.50 | Shox - Rally Reinvented
+SLES_513.02 | Bomberman Kart
+SLES_513.50 | Ben Hur
+SLES_514.92 | Pro Beach Soccer
+SLES_515.54 | Cell Damage Overdrive
+SLES_515.57 | Broken Sword - The Sleeping Dragon
+SLES_516.36 | XGRA - Extreme G Racing Association
+SLES_517.59 | Maximo vs Army of Zin
+SLES_517.87 | Harry Potter - Quidditch World Cup
+SLES_518.56 | Monster Attack
+SLES_518.97 | Simpsons, The - Hit & Run
+SLES_519.11 | Gadget Racers
+SLES_519.13 | Onimusha Blade Warrior
+SLES_519.14 | Onimusha 3 - Demon Siege
+SLES_519.33 | Gregory Horror Show
+SLES_519.67 | Need for Speed - Underground
+SLES_520.11 | Tak and The Power of Juju
+SLES_520.55 | Harry Potter and the Philosopher's Stone
+SLES_521.09 | Underworld - The Eternal War
+SLES_521.18 | Castlevania - Lament of Innocence
+SLES_521.79 | Kaan Barbarian Blade
+SLES_524.40 | Harry Potter and the Prisoner of Azkaban
+SLES_524.44 | Hyper Street Fighter II - The Anniversary Edition
+SLES_524.48 | Knights of the Temple
+SLES_524.51 | Conan - The Dark Axe
+SLES_524.95 | Bujingai - Swordmaster
+SLES_525.21 | Adibou & Les Voleurs d'Energie
+SLES_525.34 | Crimson Tears
+SLES_525.41 | Grand Theft Auto - San Andreas
+SLES_526.36 | Colin McRae Rally 2005
+SLES_527.31 | One Piece - Round the Land
+SLES_528.36 | Knight Rider 2
+SLES_528.76 | King of Fighters 2000-2001
+SLES_528.95 | Spongebob Squarepants - The Movie
+SLES_528.98 | King of Fighters - Maximum Impact
+SLES_529.64 | Nanobreaker
+SLES_530.24 | Altered Beast
+SLES_530.35 | Masters of the Universe - He-Man - Defender of Greyskull
+SLES_530.36 | Tak 2 - The Stuff of Dreams
+SLES_530.65 | SNK vs Capcom - SVC Chaos
+SLES_530.96 | Worms 4 - Mayhem
+SLES_531.55 | Star Wars - Episode III - Revenge of the Sith
+SLES_531.94 | LEGO Star Wars
+SLES_531.96 | Destroy All Humans!
+SLES_532.01 | Saint Seiya Chapter Sanctuary
+SLES_532.34 | Samurai Western
+SLES_533.80 | Metal Slug 4
+SLES_533.93 | Spartan Total Warrior
+SLES_534.03 | Demolition Girl
+SLES_534.11 | Kuon
+SLES_534.38 | Taito Legends
+SLES_534.61 | Sega Classics Collection
+SLES_534.81 | Ten
+SLES_535.04 | Agent Hugo
+SLES_535.48 | Yokushin - Giga Wing Generations
+SLES_536.45 | Knights of the Temple II
+SLES_536.46 | World Racing 2
+SLES_536.67 | Gauntlet - Seven Sorrows
+SLES_536.95 | Tak - The Great Juju Challenge
+SLES_537.55 | Castlevania - Curse of Darkness
+SLES_537.68 | Sword of Etheria, The
+SLES_538.69 | Crazy Frog Racer
+SLES_539.59 | Pac-Man World 3
+SLES_539.98 | OutRun 2006 - Coast 2 Coast
+SLES_541.14 | Kingdom Hearts II
+SLES_541.35 | Grand Theft Auto - Liberty City Stories
+SLES_541.61 | Super DragonBall Z
+SLES_541.62 | Saint Seiya - Le Chevaliers du Zodiaque Hades
+SLES_541.88 | Avatar - The Legend of Aang
+SLES_542.12 | Agent Hugo - Roborumble
+SLES_542.21 | LEGO Star Wars II - The Original Trilogy
+SLES_542.55 | King of Fighters - Maximum Impact 2
+SLES_543.06 | Cartoon Network Racing
+SLES_544.23 | Justice League Heroes
+SLES_544.39 | Okami
+SLES_544.64 | Global Defence Force
+SLES_544.76 | Buccaneer
+SLES_544.78 | TMNT
+SLES_544.90 | God Hand
+SLES_545.41 | Xena - Warrior Princess
+SLES_545.49 | Crazy Frog Racer 2
+SLES_545.61 | Capcom Classics Collection Volume 2
+SLES_546.17 | Action Man A.T.O.M. - Alpha Teens on Machines
+SLES_546.22 | Grand Theft Auto - Vice City Stories
+SLES_546.66 | Mr. Bean
+SLES_546.70 | Wacky Races - Mad Motors
+SLES_547.24 | Spider-Man 3
+SLES_549.01 | Spider-Man - Friend or Foe
+SLES_549.18 | Agent Hugo - Lemoon Twist
+SLES_549.31 | Looney Tunes - Acme Arsenal
+SLES_549.59 | MotoGP 07
+SLES_550.05 | Need for Speed - ProStreet
+SLES_551.35 | LEGO Batman - The Videogame
+SLES_552.66 | MotoGP 08
+SLES_552.92 | Samurai Shodown Anthology
+SLES_553.53 | !No match on title database!
+SLES_553.65 | Agent Hugo - Hula Holiday
+SLES_553.76 | Tak and the Guardians of Gross
+SLES_553.80 | Sonic Unleashed
+SLES_820.05 | Summoner
+SLES_820.38 | Onimusha - Dawn of Dreams
+SLES_820.39 | Onimusha - Dawn of Dreams
+SLPM_622.91 | Bomberman Land 2
+SLPM_623.66 | Sega Ages 2500 Series Vol.03 - Fantasy Zone
+SLPM_623.84 | Sega Ages 2500 Series Vol.04 - Space Harrier
+SLPM_623.85 | Sega Ages 2500 Series Vol.05 - Golden Axe
+SLPM_624.43 | Sega Ages 2500 Series Vol.08 - Virtua Racing
+SLPM_624.45 | Sega Ages 2500 Series Vol.09 - Gain Ground
+SLPM_624.46 | Sega Ages 2500 Series Vol.10 - Afterburner II
+SLPM_624.47 | Sega Ages 2500 Series Vol.13 - Outrun
+SLPM_624.78 | Bomberman Kart DX
+SLPM_625.00 | Sega Ages 2500 Series Vol.14 - Alien Syndrome
+SLPM_625.47 | Sega Ages 2500 Series Vol.16 - Virtua Fighter 2
+SLPM_626.43 | Bomberman Land 3
+SLPM_626.87 | Sega Ages 2500 Series Vol.24 - Last Bronx
+SLPM_627.17 | Sega Ages 2500 Series Vol.26 - Dynamite Deka
+SLPM_627.18 | Sega Ages 2500 Series Vol.27 - Panzer Dragoon
+SLPM_627.67 | Sega Ages 2500 Vol.31 - Dennou Senki Virtual On
+SLPM_652.18 | Bomberman Jetters
+SLPM_654.07 | Transformers Tatakai
+SLPM_654.78 | Final Fantasy X-2 International
+SLPM_655.55 | Dragon Quest V - Bride of the Sky
+SLPM_656.88 | Berserk
+SLPM_659.73 | Mirai Shounen Conan
+SLPM_662.05 | Front Mission 5 - Scars of the War
+SLPM_664.47 | Sengoku Basara 2
+SLPM_665.51 | Appleseed EX
+SLPM_667.50 | Final Fantasy XII International - Zodiac Job System [with Bonus DVD]
+SLPM_668.48 | Sengoku Basara 2 Heroes
+SLPS_204.63 | Ougon Kishi Garo
+SLPS_250.88 | Final Fantasy X International
+SLPS_252.17 | Shadow Tower Abyss
+SLPS_253.15 | One Piece - Grand Battle 3
+SLPS_255.05 | Namco X Capcom
+SLPS_255.45 | Fighting for One Piece
+SLPS_256.36 | King of Fighters, The - Maximum Impact
+SLPS_256.50 | Metal Slug 3D
+SLPS_256.76 | Kinnikuman Muscle Grand Prix Max
+SLPS_256.85 | Rurouni Kenshin - Enjou! Kyoto Rinne
+SLPS_256.91 | Captain Tsubasa
+SLPS_257.65 | King of Fighters, The - Maximum Impact Regulation A
+SLUS_200.01 | Tekken Tag Tournament
+SLUS_200.02 | Ridge Racer V
+SLUS_200.04 | Army Men - Air Attack 2
+SLUS_200.13 | Tony Hawk's Pro Skater 3
+SLUS_200.14 | Armored Core 2
+SLUS_200.15 | Eternal Ring
+SLUS_200.16 | Evergrace
+SLUS_200.17 | Maximo - Ghosts to Glory [Beta]
+SLUS_200.21 | Kengo - Master of Bushido
+SLUS_200.24 | Legacy of Kain - Blood Omen 2
+SLUS_200.35 | Baldur's Gate - Dark Alliance
+SLUS_200.47 | Gauntlet - Dark Legacy
+SLUS_200.54 | Ready 2 Rumble Boxing - Round 2
+SLUS_200.56 | Spy Hunter
+SLUS_200.58 | Moto GP
+SLUS_200.62 | Grand Theft Auto III
+SLUS_200.64 | Oni
+SLUS_200.65 | Smuggler's Run
+SLUS_200.66 | Half-Life
+SLUS_200.69 | Bouncer
+SLUS_200.71 | Dead or Alive 2
+SLUS_200.76 | Disney's Tarzan Untamed
+SLUS_200.77 | Donald Duck Goin' Quackers
+SLUS_200.79 | Dynasty Warriors 2
+SLUS_200.80 | GunGriffon Blaze
+SLUS_200.84 | Soldier of Fortune - Gold Edition
+SLUS_200.85 | Silpheed Lost Planet
+SLUS_200.87 | Army Men - Green Rogue
+SLUS_201.05 | MDK 2 - Armageddon
+SLUS_201.30 | Street Fighter EX3
+SLUS_201.31 | Dark Angel - Vampire Apocalypse
+SLUS_201.32 | Army Men - Sarge's Heroes 2
+SLUS_201.34 | Sky Odyssey
+SLUS_201.36 | Barbarian
+SLUS_201.38 | Rayman 2 - Revolution
+SLUS_201.45 | Ring of Red
+SLUS_201.46 | Shadow of Destiny
+SLUS_201.47 | Aliens vs Predator - Extinction
+SLUS_201.48 | Zone of the Enders
+SLUS_201.49 | Tribes - Aerial Assault
+SLUS_201.51 | Klonoa 2 - Lunatea's Veil
+SLUS_201.52 | Ace Combat 4 - Shattered Skies
+SLUS_201.59 | Dave Mirra Freestyle BMX 2
+SLUS_201.60 | Winback - Covert Operations
+SLUS_201.62 | Aqua Aqua
+SLUS_201.65 | Legacy of Kain - Soul Reaver 2
+SLUS_201.70 | Adventures of Cookie & Cream, The
+SLUS_201.74 | Rumble Racing
+SLUS_201.77 | Test Drive - Off-Road - Wide Open
+SLUS_201.78 | Giants - Citizen Kabuto
+SLUS_201.82 | Stretch Panic
+SLUS_201.84 | Resident Evil - CODE Veronica X
+SLUS_201.90 | Monster Rancher 3
+SLUS_201.91 | Defender
+SLUS_201.94 | Grandia II
+SLUS_202.02 | Crazy Taxi
+SLUS_202.04 | Smuggler's Run 2 - Hostile Territory
+SLUS_202.06 | Army Men - RTS
+SLUS_202.16 | Devil May Cry
+SLUS_202.19 | Time Crisis II
+SLUS_202.21 | Vampire Night
+SLUS_202.25 | Gadget Racers
+SLUS_202.26 | Batman - Vengeance
+SLUS_202.28 | Silent Hill 2
+SLUS_202.30 | Max Payne
+SLUS_202.31 | Herdy Gerdy
+SLUS_202.38 | Crash Bandicoot - The Wrath of Cortex
+SLUS_202.44 | RoboTech BattleCry
+SLUS_202.49 | Armored Core 2 - Another Age
+SLUS_202.50 | Stuntman
+SLUS_202.51 | Harvest Moon - Save the Homeland
+SLUS_202.53 | Mummy Returns, The
+SLUS_202.59 | Wizadry - Tale of the Forsaken
+SLUS_202.67 | .hack//Part 1 - Infection
+SLUS_202.74 | City Crisis
+SLUS_202.75 | Kessen 2
+SLUS_202.91 | !No match on title database!
+SLUS_202.93 | Star Wars - Jedi Starfighter
+SLUS_202.94 | Gitaroo Man
+SLUS_202.96 | Kao the Kangaroo - Round 2
+SLUS_202.97 | Return to Castle Wolfenstein - Operation Resurrection
+SLUS_203.00 | Dark Summit
+SLUS_203.02 | Extreme-G Racing - XG3
+SLUS_203.05 | Simpsons, The - Road Rage
+SLUS_203.06 | Contra - Shattered Soldier
+SLUS_203.07 | Burnout
+SLUS_203.09 | Jade Cocoon 2
+SLUS_203.13 | Wave Rally
+SLUS_203.14 | TimeSplitters 2
+SLUS_203.18 | King's Field IV
+SLUS_203.27 | Aggressive Inline
+SLUS_203.28 | Tekken 4
+SLUS_203.33 | Turok - Evolution
+SLUS_203.36 | Spider-Man - The Movie
+SLUS_203.37 | X-Men - Wolverines Revenge
+SLUS_203.44 | Rez
+SLUS_203.46 | AirBlade
+SLUS_203.47 | Shadow Hearts
+SLUS_203.49 | Scooby Doo! Night of 100 Frights
+SLUS_203.52 | Looney Tunes Space Race
+SLUS_203.60 | Blade 2
+SLUS_203.61 | Rally Fusion - Race of Champions
+SLUS_203.62 | Need for Speed - Hot Pursuit 2
+SLUS_203.67 | Freekstyle
+SLUS_203.68 | Medal of Honor - Frontline
+SLUS_203.70 | Kingdom Hearts
+SLUS_203.71 | Thing, The
+SLUS_203.74 | Hitman 2 - Silent Assassin
+SLUS_203.75 | Mister Mosquito
+SLUS_203.77 | Metropolismania
+SLUS_203.82 | Mobile Suit Gundam - Federation vs Zeon
+SLUS_203.83 | Vexx
+SLUS_203.84 | Skygunner
+SLUS_203.87 | Suikoden III
+SLUS_203.88 | Fatal Frame
+SLUS_203.90 | Risk - Global Domination
+SLUS_203.92 | Antz Extreme Racing
+SLUS_203.93 | Onimusha 2 - Samurai's Destiny
+SLUS_203.97 | Tenchu 3 - Wrath of Heaven
+SLUS_203.98 | Road Trip
+SLUS_204.05 | Downforce
+SLUS_204.07 | Way of the Samurai
+SLUS_204.13 | Shadow Man - Second Coming
+SLUS_204.14 | Legaia 2 - Duel Saga
+SLUS_204.15 | BMX XXX
+SLUS_204.17 | Grandia Xtreme
+SLUS_204.20 | Star Wars - Bounty Hunter
+SLUS_204.21 | Battlestar Galactica
+SLUS_204.23 | Mortal Kombat - Deadly Alliance
+SLUS_204.25 | Spongebob Squarepants - Revenge of the Flying Dutchman
+SLUS_204.31 | Wreckless - The Yakuza Missions
+SLUS_204.33 | SWAT - Global Strike Team
+SLUS_204.35 | Armored Core 3
+SLUS_204.39 | Futurama
+SLUS_204.42 | Red Faction 2
+SLUS_204.46 | Agassi - Tennis Generation
+SLUS_204.54 | Enter the Matrix
+SLUS_204.58 | Dr. Muto
+SLUS_204.59 | Shinobi
+SLUS_204.61 | BloodRayne
+SLUS_204.62 | Wipeout Fusion
+SLUS_204.63 | Dropship - United Peace Force
+SLUS_204.65 | Alter Echo
+SLUS_204.67 | Tomb Raider - The Angel of Darkness
+SLUS_204.68 | Dynasty Tactics
+SLUS_204.69 | Xenosaga - Episode I - Der Wille zur Macht
+SLUS_204.71 | Rygar - The Legendary Adventure
+SLUS_204.75 | Dual Hearts
+SLUS_204.84 | Devil May Cry 2 [Disc 1]
+SLUS_204.86 | Marvel vs Capcom 2
+SLUS_204.87 | MegaMan X7
+SLUS_204.90 | Gladius
+SLUS_204.93 | Gungrave
+SLUS_204.95 | Battle Engine Aquila
+SLUS_204.99 | Breath of Fire - Dragon Quarter
+SLUS_205.08 | Indiana Jones and the Emperor's Tomb
+SLUS_205.09 | Soccer Slam - Sega Sports
+SLUS_205.14 | Silent Scope 3
+SLUS_205.16 | Shrek - Super Party
+SLUS_205.19 | Tak and The Power of Juju
+SLUS_205.20 | Lord of the Rings, The - The Fellowship of the Ring
+SLUS_205.21 | Mystic Heroes
+SLUS_205.33 | Shox
+SLUS_205.39 | Fallout - Brotherhood of Steel
+SLUS_205.45 | Zone of the Enders - The 2nd Runner
+SLUS_205.48 | Sub Rebellion
+SLUS_205.52 | Grand Theft Auto - Vice City
+SLUS_205.54 | Metal Gear Solid 2 - Substance
+SLUS_205.61 | Disaster Report
+SLUS_205.62 | .hack//Part 2 - Mutation
+SLUS_205.63 | .hack//Part 3 - Outbreak
+SLUS_205.64 | .hack//Part 4 - Quarantine
+SLUS_205.65 | Champions of Norrath
+SLUS_205.73 | Sims, The
+SLUS_205.78 | Lord of the Rings, The - The Two Towers
+SLUS_205.90 | Spy Hunter 2
+SLUS_205.91 | DragonBall Z - Budokai
+SLUS_205.93 | Magic Pengel - The Quest for Color
+SLUS_205.95 | Area 51
+SLUS_205.97 | Warhammer 40K - Fire Warrior
+SLUS_205.98 | Everblue 2
+SLUS_206.06 | Bounty Hunter - Seek & Destroy
+SLUS_206.13 | Tom Clancy's Ghost Recon
+SLUS_206.14 | Aero Elite - Combat Academy
+SLUS_206.16 | Virtua Fighter 4 - Evolution
+SLUS_206.17 | Dynasty Warriors 3 - Xtreme Legends
+SLUS_206.19 | Starsky & Hutch
+SLUS_206.21 | Seven Samurai 20XX
+SLUS_206.22 | Silent Hill 3
+SLUS_206.24 | Simpsons, The - Hit & Run
+SLUS_206.27 | Devil May Cry 2 [Disc 2]
+SLUS_206.32 | Extreme-G Racing Association - XGRA
+SLUS_206.33 | Clock Tower 3
+SLUS_206.36 | Suffering, The
+SLUS_206.39 | Def Jam - Vendetta
+SLUS_206.42 | Auto Modellista
+SLUS_206.44 | Armored Core - Silent Line
+SLUS_206.45 | Time Crisis 3 [with Guncon]
+SLUS_206.49 | Crash Bandicoot - Nitro Kart
+SLUS_206.52 | Tom Clancy's Splinter Cell
+SLUS_206.55 | Hobbit, The
+SLUS_206.56 | X-Men Legends
+SLUS_206.63 | Naval Ops - Warship Gunner
+SLUS_206.66 | Disgaea - Hour of Darkness
+SLUS_206.69 | Resident Evil - Dead Aim
+SLUS_206.71 | Mafia
+SLUS_206.75 | Baldur's Gate - Dark Alliance 2
+SLUS_206.77 | XIII
+SLUS_206.80 | SpongeBob SquarePants - The Battle for Bikini Bottoms
+SLUS_206.83 | Lupin the 3rd - Treasure of the Sorcerer King
+SLUS_206.84 | Whiplash
+SLUS_206.85 | Ape Escape 2
+SLUS_206.88 | Psi-Ops - The Mindgate Conspiracy
+SLUS_206.94 | Onimusha 3 - Demon Siege
+SLUS_206.95 | Chaos Legion
+SLUS_206.97 | Cy Girls [Disc 1]
+SLUS_206.98 | SD Gundam Force Showdown
+SLUS_207.01 | Scooby-Doo! Mystery Mayhem
+SLUS_207.02 | Monster Rancher 4
+SLUS_207.09 | Batman - Rise of Sin-Tzu
+SLUS_207.12 | Gradius V
+SLUS_207.14 | Red Ninja - End of Honor
+SLUS_207.16 | Teenage Mutant Ninja Turtles
+SLUS_207.18 | Sonic Heroes
+SLUS_207.22 | Maximo vs Army of Zin
+SLUS_207.24 | Firefighter FD 18
+SLUS_207.25 | Call of Duty - Finest Hour
+SLUS_207.31 | Tony Hawk's Underground
+SLUS_207.32 | Drakengard
+SLUS_207.33 | Castlevania - Lament of Innocence
+SLUS_207.38 | Van Helsing
+SLUS_207.40 | Mobile Suit Gundam - Encounters in Space
+SLUS_207.42 | Chulip
+SLUS_207.43 | Prince of Persia - Sands of Time
+SLUS_207.45 | Shrek 2
+SLUS_207.53 | Medal of Honor - Rising Sun
+SLUS_207.61 | Dynasty Tactics 2
+SLUS_207.62 | Secret Weapons Over Normandy
+SLUS_207.63 | Beyond Good and Evil
+SLUS_207.64 | Bombastic
+SLUS_207.65 | Resident Evil - Outbreak
+SLUS_207.66 | Fatal Frame 2 - Crimson Butterfly
+SLUS_207.70 | Lord of the Rings, The - The Return of the King
+SLUS_207.73 | Legacy of Kain - Defiance
+SLUS_207.76 | Spider-Man 2
+SLUS_207.77 | Obscure
+SLUS_207.79 | DragonBall Z - Budokai 2
+SLUS_207.80 | R-Type Final
+SLUS_207.82 | Blood Will Tell
+SLUS_207.86 | Metal Arms - Glitch in the System
+SLUS_207.87 | WWE SmackDown! Here Comes the Pain
+SLUS_207.95 | Bloody Roar 4
+SLUS_208.03 | Bard's Tale, The
+SLUS_208.04 | Forgotten Realms - Demon Stone
+SLUS_208.06 | Space Channel 5 - Special Edition
+SLUS_208.07 | Space Channel 5 - Special Edition (Disc 2)
+SLUS_208.09 | Godzilla - Save the Earth
+SLUS_208.10 | Nightshade
+SLUS_208.12 | Dynasty Warriors 4 - Extreme Edition
+SLUS_208.20 | Tom Clancy's Ghost Recon - Jungle Storm
+SLUS_208.22 | Galactic Wrestling
+SLUS_208.27 | Manhunt
+SLUS_208.36 | Digimon World 4
+SLUS_208.42 | Sims, The - Bustin' Out
+SLUS_208.45 | Cold Winter
+SLUS_208.47 | La Pucelle - Tactics
+SLUS_208.50 | Blowout
+SLUS_208.51 | Ace Combat 5 - The Unsung War
+SLUS_208.52 | Terminator 3, The - The Redemption
+SLUS_208.54 | Cy Girls [Disc 2]
+SLUS_208.55 | Destruction Derby Arenas
+SLUS_208.56 | Spy Fiction
+SLUS_208.58 | Corvette 50th Anniversary
+SLUS_208.64 | Punisher, The
+SLUS_208.66 | Asterix & Obelix XXL - Kick Buttix
+SLUS_208.67 | Astro Boy
+SLUS_208.73 | Silent Hill 4 - The Room
+SLUS_208.74 | DragonBall Z - Sagas
+SLUS_208.75 | Predator - Concrete Jungle
+SLUS_208.77 | Crimson Sea 2
+SLUS_208.78 | Samurai Warriors
+SLUS_208.81 | Mortal Kombat - Deception
+SLUS_208.82 | Hitman - Contracts
+SLUS_208.83 | Tom Clancy's Rainbow Six 3
+SLUS_208.84 | Spyro - A Hero's Tail
+SLUS_208.85 | Red Star, The
+SLUS_208.88 | Front Mission 4
+SLUS_208.92 | Xenosaga - Episode II - Jenseits von Gut und Bose [Disc 1]
+SLUS_208.93 | Way of the Samurai 2
+SLUS_208.94 | Worms 3D
+SLUS_208.95 | Bujingai - The Forsaken City
+SLUS_208.96 | Monster Hunter
+SLUS_208.98 | Star Wars Battlefront
+SLUS_208.99 | Samurai Jack - The Shadow of Aku
+SLUS_209.01 | FlatOut
+SLUS_209.02 | Shadow of Rome
+SLUS_209.03 | MegaMan X - Command Mission
+SLUS_209.07 | Serious Sam - Next Encounter
+SLUS_209.09 | Crash Bandicoot Twinsanity
+SLUS_209.11 | Shin Megami Tensei - Nocturne
+SLUS_209.17 | Sonic Mega Collection Plus
+SLUS_209.24 | Duel Masters
+SLUS_209.25 | Shark Tale
+SLUS_209.27 | Time Crisis - Crisis Zone
+SLUS_209.28 | Echo Night - Beyond
+SLUS_209.29 | Gundam Battle Assault 3 featuring Gundam Seed
+SLUS_209.30 | Choro Q
+SLUS_209.32 | Mercenaries - Playground of Destruction
+SLUS_209.37 | Wild ARMs - Alter Code F
+SLUS_209.39 | Viewtiful Joe 2
+SLUS_209.40 | Yu-Gi-Oh! Capsule Monster Coliseum
+SLUS_209.46 | Grand Theft Auto - San Andreas
+SLUS_209.47 | Winback 2nd Operation
+SLUS_209.48 | Crimson Tears
+SLUS_209.51 | Viewtiful Joe
+SLUS_209.52 | Tak 2 - The Staff of Dreams
+SLUS_209.53 | Shaman King - Power of Spirit
+SLUS_209.55 | Phantom Brave
+SLUS_209.57 | Scaler
+SLUS_209.58 | Tom Clancy's Splinter Cell 2 - Pandora Tomorrow
+SLUS_209.60 | MegaMan X8
+SLUS_209.62 | Castle of Shikigami 2
+SLUS_209.67 | Enthusia Professional Racing
+SLUS_209.69 | S.L.A.I. - Steel Lancer Arena International - Phantom Crash
+SLUS_209.73 | Champions - Return to Arms
+SLUS_209.74 | Shin Megami Tensei - Digital Devil Saga
+SLUS_209.75 | One Piece - Grand Battle
+SLUS_209.79 | Suikoden IV
+SLUS_209.80 | Ys - The Ark of Napishtim
+SLUS_209.81 | Teenage Mutant Ninja Turtles 2
+SLUS_209.83 | Musashi Samurai Legend
+SLUS_209.84 | Resident Evil - Outbreak File #2
+SLUS_209.85 | Under the Skin
+SLUS_209.86 | Armored Core - Nexus [Evolution Disc]
+SLUS_209.94 | Full Metal Alchemist and The Broken Angel
+SLUS_209.98 | DragonBall Z - Budokai 3
+SLUS_210.04 | Def Jam - Fight for NY
+SLUS_210.05 | Kingdom Hearts II
+SLUS_210.07 | Kuon
+SLUS_210.08 | Katamari Damacy
+SLUS_210.09 | Sega Classics Collection
+SLUS_210.10 | Nano Breaker
+SLUS_210.13 | Crash 'N' Burn
+SLUS_210.19 | Technic Beat
+SLUS_210.20 | GunGrave - OverDose
+SLUS_210.22 | Prince of Persia - Warrior Within
+SLUS_210.26 | Battlefield 2 - Mordern Combat
+SLUS_210.27 | Lord of the Rings, The - The Third Age
+SLUS_210.33 | Second Sight
+SLUS_210.41 | Shadow Hearts 2 - Covenant [Disc 1]
+SLUS_210.42 | Darkwatch
+SLUS_210.43 | Backyard Wrestling 2 - There Goes the Neighborhood
+SLUS_210.44 | Shadow Hearts 2 - Covenant [Disc 2]
+SLUS_210.50 | Burnout 3 - Takedown
+SLUS_210.59 | Tekken 5
+SLUS_210.66 | Urbz, The - Sims in the City
+SLUS_210.67 | Digimon Rumble Arena 2
+SLUS_210.71 | Nightmare of Druaga
+SLUS_210.75 | Haunting Ground
+SLUS_210.77 | Gauntlet - Seven Sorrows
+SLUS_210.79 | Armored Core - Nexus [Revolution Disc]
+SLUS_210.80 | Samurai Warriors - Xtreme Legends
+SLUS_210.83 | LEGO Star Wars
+SLUS_210.86 | Big Mutha Truckers 2
+SLUS_210.87 | Mortal Kombat - Shaolin Monks
+SLUS_210.88 | Disney's Chicken Little
+SLUS_210.90 | Alien Homind
+SLUS_210.91 | Scooby-Doo! Unmasked
+SLUS_210.93 | Worms Forts - Under Siege!
+SLUS_211.08 | Hitman - Blood Money
+SLUS_211.15 | Okami
+SLUS_211.19 | Kessen 3
+SLUS_211.20 | Psychonauts
+SLUS_211.28 | Blitz - The League
+SLUS_211.29 | Tenchu 4 - Fatal Shadows
+SLUS_211.32 | Stella Deus - The Gate of Eternity
+SLUS_211.33 | Xenosaga - Episode II - Jenseits von Gut und Bose [Disc 2]
+SLUS_211.34 | Resident Evil 4
+SLUS_211.36 | Graffiti Kingdom
+SLUS_211.38 | X-Men Legends II - Rise of Apocalypse
+SLUS_211.40 | Mobile Suit Gundam Seed - Never Ending Tomorrow
+SLUS_211.43 | Star Wars - Episode III - Revenge of the Sith
+SLUS_211.50 | Beatdown - Fists of Vengeance
+SLUS_211.52 | Shin Megami Tensei - Digital Devil Saga 2
+SLUS_211.53 | Dynasty Warriors 5
+SLUS_211.54 | Killer 7
+SLUS_211.63 | Brothers in Arms - Road to Hill 30
+SLUS_211.65 | Arc the Lad - End of Darkness
+SLUS_211.66 | Full Metal Alchemist 2 - Curse of the Crimson Elixir
+SLUS_211.68 | Castlevania - Curse of Dakness
+SLUS_211.70 | Makai Kingdom - Chronicles of the Sacred Tome
+SLUS_211.71 | Harvest Moon - A Wonderful Life [Special Edition]
+SLUS_211.80 | Onimusha - Dawn of Dreams
+SLUS_211.84 | Teenage Mutant Ninja Turtles 3 - Mutant Nightmare
+SLUS_211.87 | Samurai Western
+SLUS_211.89 | Suffering, The - Ties That Bind
+SLUS_211.91 | Crash Tag Team Racing
+SLUS_211.93 | Inuyasha - Feudal Combat
+SLUS_211.94 | Phantasy Star Universe
+SLUS_211.96 | Indigo Prophecy
+SLUS_211.98 | Batman Begins
+SLUS_211.99 | Medal of Honor - European Assault
+SLUS_212.00 | Armored Core - Nine Breaker
+SLUS_212.01 | Tales of Legendia
+SLUS_212.06 | Shining Force Neo
+SLUS_212.12 | Spartan - Total Warrior
+SLUS_212.15 | Warriors, The
+SLUS_212.16 | Soul Calibur III
+SLUS_212.18 | Tak - The Great Juju Challenge
+SLUS_212.27 | DragonBall Z - Budokai Tenkaichi
+SLUS_212.30 | We Love Katamari
+SLUS_212.31 | Sniper Elite
+SLUS_212.42 | Burnout Revenge
+SLUS_212.43 | Metal Gear Solid 3 - (Disc 2) Persistence
+SLUS_212.44 | Fatal Frame 3 - The Tormented
+SLUS_212.45 | Suikoden Tactics
+SLUS_212.48 | Legend of Kay
+SLUS_212.51 | FlatOut 2
+SLUS_212.58 | .hack//G.U. Vol.1 - Rebirth
+SLUS_212.61 | Shadow the Hedgehog
+SLUS_212.63 | Romancing SaGa
+SLUS_212.65 | Sims 2, The
+SLUS_212.70 | MS Saga - A New Dawn
+SLUS_212.82 | James Bond 007 - From Russia with Love
+SLUS_212.83 | Total Overdose - A Gunslinger's Tale in Mexico
+SLUS_212.84 | Nicktoons Unite!
+SLUS_212.85 | Ultimate Spider-Man [Limited Edition]
+SLUS_212.87 | Prince of Persia - The Two Thrones
+SLUS_212.91 | Suikoden V
+SLUS_212.92 | Wild ARMs 4
+SLUS_212.93 | Metal Saga
+SLUS_212.97 | Devil Kings
+SLUS_212.99 | Dynasty Warriors 5 - Xtreme Legends
+SLUS_213.00 | Over the Hedge
+SLUS_213.10 | Brothers in Arms - Earned in Blood
+SLUS_213.15 | 50cent - Bulletproof
+SLUS_213.21 | Alfa Romeo Racing Italiano
+SLUS_213.23 | Rampage - Total Destruction
+SLUS_213.26 | Shadow Hearts - From the New World
+SLUS_213.27 | Atelier Iris 2 - The Azoth of Destiny
+SLUS_213.30 | Monster Rancher 5
+SLUS_213.34 | Grandia III [Disc 1]
+SLUS_213.38 | Armored Core - Last Raven
+SLUS_213.43 | Samurai Champloo - Sidetracked
+SLUS_213.45 | Grandia III [Disc 2]
+SLUS_213.46 | Ace Combat Zero - The Belkan War
+SLUS_213.55 | Midnight Club 3 - DUB Edition Remix
+SLUS_213.56 | Tom Clancy's Splinter Cell - Double Agent
+SLUS_213.58 | Naruto - Ultimate Ninja
+SLUS_213.59 | Metal Gear Solid 3 - (Disc 1) Subsistence
+SLUS_213.61 | Devil May Cry 3 - Dante's Awakening [Special Edition]
+SLUS_213.62 | Onimusha - Dawn of Dreams
+SLUS_213.64 | One Piece - Pirates Carnival
+SLUS_213.70 | MegaMan X Collection
+SLUS_213.73 | Drakengard 2
+SLUS_213.74 | Marvel - Ultimate Alliance
+SLUS_213.76 | Black
+SLUS_213.85 | Godfather, The
+SLUS_213.86 | Tales of the Abyss
+SLUS_213.87 | Warship Gunner 2
+SLUS_213.89 | Xenosaga - Episode III - Also Sprach Zarathustra [Disc 1]
+SLUS_213.90 | Urban Chaos - Riot Response
+SLUS_213.95 | Avatar - The Last Airbender
+SLUS_213.97 | Disgaea 2 - Cursed Memories
+SLUS_214.09 | LEGO Star Wars II - The Original Trilogy
+SLUS_214.13 | Thrillville
+SLUS_214.17 | Xenosaga - Episode III - Also Sprach Zarathustra [Disc 2]
+SLUS_214.19 | Dirge of Cerberus - Final Fantasy VII
+SLUS_214.20 | Disney's Chicken Little - Ace in Action
+SLUS_214.21 | Spy Hunter - Nowhere to Run
+SLUS_214.23 | Grand Theft Auto - Liberty City Stories
+SLUS_214.31 | Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs The Soulless Army
+SLUS_214.35 | One Piece - Grand Adventure
+SLUS_214.36 | Just Cause
+SLUS_214.37 | Disney's Kim Possible - What's the Switch
+SLUS_214.38 | Cartoon Network Racing
+SLUS_214.41 | DragonBall Z - Budokai Tenkaichi 2
+SLUS_214.45 | Ar Tonelico
+SLUS_214.48 | Rule of Rose
+SLUS_214.49 | Fast and the Furious, The - Tokyo Drift
+SLUS_214.52 | Valkyrie Profile 2 - Silmeria
+SLUS_214.54 | Shrek the Third
+SLUS_214.56 | Tony Hawk's Downhill Jam
+SLUS_214.62 | Samurai Warriors 2
+SLUS_214.71 | Tokobot Plus - Mysteries of the Karakuri
+SLUS_214.84 | Flushed Away
+SLUS_214.88 | .hack//G.U. Vol.2 - Reminisce
+SLUS_214.89 | .hack//G.U. Vol.3 - Redemption
+SLUS_214.98 | Naruto - Uzumaki Chronicles
+SLUS_214.99 | Evolution GT
+SLUS_215.01 | Raw Danger
+SLUS_215.03 | God Hand
+SLUS_215.36 | Sims 2, The - Pets
+SLUS_215.43 | Mortal Kombat - Armageddon [Kollector's Edition]
+SLUS_215.52 | Spider-Man 3
+SLUS_215.60 | Family Guy - The Video Game
+SLUS_215.64 | Atelier Iris 3 - Grand Phantasm
+SLUS_215.67 | Shining Force EXA
+SLUS_215.74 | Dawn of Mana
+SLUS_215.75 | Naruto - Ultimate Ninja 2
+SLUS_215.77 | Odin Sphere
+SLUS_215.78 | Biker Mice from Mars
+SLUS_215.84 | Romance of the Three Kingdoms XI
+SLUS_215.88 | Avatar - The Last Airbender - The Burning Earth
+SLUS_215.90 | Grand Theft Auto - Vice City Stories
+SLUS_215.92 | Adventures of Darwin, The
+SLUS_215.94 | Naruto - Uzumaki Chronicles 2
+SLUS_215.95 | T.M.N.T. - Teenage Mutant Ninja Turtles
+SLUS_215.96 | Burnout - Dominator
+SLUS_215.97 | Medal of Honor - Vanguard
+SLUS_216.00 | Spider-Man - Friend or Foe
+SLUS_216.03 | Soul Nomad & The World Eaters
+SLUS_216.04 | GrimGrimoire
+SLUS_216.05 | Nicktoons - Attack of the Toybots
+SLUS_216.11 | Thrillville - Off the Rails
+SLUS_216.15 | Wild ARMs 5
+SLUS_216.21 | Shin Megami Tensei - Persona 3 FES
+SLUS_216.22 | Bee Movie Game
+SLUS_216.26 | Stuntman - Ignition
+SLUS_216.31 | Phantasy Star Universe - Ambition of the Illuminus
+SLUS_216.33 | Aqua Teen Hunger Force - Zombie Ninja Pro-Am
+SLUS_216.37 | Disney-Pixar's Cars - Mater-National
+SLUS_216.41 | Innocent Life - Harvest Moon - Pure
+SLUS_216.62 | Warriors Orochi
+SLUS_216.64 | Sims 2, The - Castaway
+SLUS_216.78 | DragonBall Z - Budokai Tenkaichi 3
+SLUS_217.02 | Fire Pro Wrestling - Returns
+SLUS_217.09 | Obscure - The Aftermath
+SLUS_217.14 | Baroque
+SLUS_217.20 | Arcana Heart
+SLUS_217.21 | Nobunaga's Ambition - Rise to Power
+SLUS_217.22 | Chaos Wars
+SLUS_217.26 | Samurai Warriors 2 - Xtreme Legends
+SLUS_217.27 | Naruto - Ultimate Ninja 3
+SLUS_217.28 | Crash - Mind over Mutant
+SLUS_217.31 | Silent Hill - Origins
+SLUS_217.35 | Mana Khemia - Alchemists of Al-Revis
+SLUS_217.49 | Garfield - Lasagna World Tour
+SLUS_217.56 | Chronicles of Narnia, The - Prince Caspian
+SLUS_217.57 | Kung Fu Panda
+SLUS_217.59 | LEGO Indiana Jones - The Original Adventures
+SLUS_217.61 | B-Boy
+SLUS_217.74 | Dynasty Warriors 6
+SLUS_217.78 | Dokapon Kingdom
+SLUS_217.79 | Eternal Poison
+SLUS_217.82 | Shin Megami Tensei - Persona 4
+SLUS_217.85 | LEGO Batman
+SLUS_217.88 | Ar Tonelico 2 - Melody of Metafalica
+SLUS_217.97 | Tak and the Guardians of Gross
+SLUS_217.99 | Kingdom Hearts - Re- Chain of Memories
+SLUS_218.03 | Warriors Orochi 2
+SLUS_218.04 | Avatar - The Last Airbender - Into the Inferno
+SLUS_218.12 | Speed Racer
+SLUS_218.18 | SpongeBob SquarePants featuring Nicktoons - Globs of Doom
+SLUS_218.31 | Army Men - Soldiers of Misfortune
+SLUS_218.42 | DragonBall Z - Infinite World
+SLUS_218.45 | Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs King Abaddon
+SLUS_218.46 | Sonic Unleashed
+SLUS_218.62 | Naruto Shippuden - Ultimate Ninja 4
+SLUS_218.70 | Dreamwork's Monster's vs Aliens
+SLUS_218.73 | Dynasty Warriors - Gundam 2
+SLUS_218.79 | Marvel - Ultimate Alliance 2
+SLUS_218.82 | Ghostbusters - The Video Game
+SLUS_218.83 | Disney/Pixar Cars - Race-O-Rama
+SLUS_218.84 | Backyard Baseball 2010
+SLUS_218.85 | Indiana Jones and the Staff of Kings
+SLUS_218.90 | Mana Khemia 2 - Fall of Alchemy
+SLUS_218.95 | Astro Boy - The Video Game
+SLUS_218.99 | Silent Hill - Shattered Memories
+SLUS_219.07 | Jurassic - The Hunted
+SLUS_219.14 | NHL 2K10
+SLUS_219.19 | Backyard Football '10
+SLUS_219.31 | !No match on title database!
+SLUS_219.39 | WWE SmackDown vs. Raw 2011
+SLUS_219.40 | WWE All Stars
+SWBFRNT2.ELF | !No match on title database!
 ```

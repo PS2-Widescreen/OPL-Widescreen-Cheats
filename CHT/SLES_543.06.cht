@@ -1,0 +1,19 @@
+﻿"Cartoon Network Racing (Europe) /ID SLES_543.06"
+Mastercode
+9042F6A0 0C10BD50
+
+//Widescreen hack 16:9
+
+//Zoom
+2033f014 3c013f17
+
+//Y-Fov
+//83100046 4c00023c
+2033f060 0808fc98
+
+2023f260 46001083
+2023f264 3c013faa
+2023f268 3421aaab
+2023f26c 4481f000
+2023f270 461e1082
+2023f274 080cfc19

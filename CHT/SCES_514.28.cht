@@ -1,0 +1,10 @@
+﻿"Shinobi /ID SCES_514.28"
+Mastercode
+902E3BF8 0C0B8EA6
+
+//Gameplay 16:9 (50Hz Mode)
+20183a64 3c023f40
+
+//Gameplay 16:9 (60Hz Mode) 
+20183a88 3c023f40
+

@@ -1,0 +1,16 @@
+﻿"Gauntlet Dark Legacy /ID SLES_502.11"
+Mastercode
+90114CB0 0C0452D4
+
+//Gameplay 16:9 
+201ab354 3c013ec0
+201ab358 4481f800
+201ab3f0 461f0002
+
+//Render fix
+201aac78 10000004
+201c2e2c 3c013f40
+201c2e4c 4481f800
+201c2e78 461f0842
+201c2e7c 46011034
+

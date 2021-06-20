@@ -1,0 +1,35 @@
+﻿"Monsters vs. Aliens /ID SLUS_218.70"
+Mastercode
+9010FB18 0C043E6E
+
+//Widescreen hack 16:9
+
+//Zoom (Menu and Cutscenes)
+//003f023c ec0081c6
+201abcf0 3c023f1b
+
+////Y-Fov (Menu and Cutscenes)
+//03081546 1401a0e7
+201abd6c 080a06f0
+
+20281bc0 46150803
+20281bc4 3c013faa
+20281bc8 3421aaab
+20281bcc 4481f800
+20281bd0 461f0002
+20281bd4 0806af5c
+
+
+//Zoom (Gameplay)
+//003f023c 00008244 f00097c4
+20233734 3c023f1b
+
+//Y-Fov (Gameplay)
+2023373c 080a06e8
+
+20281ba0 c49700f0
+20281ba4 3c013f40
+20281ba8 4481f000
+20281bac 461ebdc2
+20281bb0 0808cdd0
+

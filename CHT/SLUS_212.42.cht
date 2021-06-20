@@ -1,0 +1,11 @@
+﻿"Burnout Revenge /ID SLUS_212.42"
+Mastercode
+90449D08 0C1126EA
+
+////Force turn on Internal Widescreen (Full boot bypassing)
+203a6308 24020002
+
+//Zoom Fix
+//9A 99 99 3F 39 8E E3 3F 80 02 00 00 C0 01 00 00
+21bfe890 3faaaaab
+

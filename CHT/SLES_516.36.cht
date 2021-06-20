@@ -1,0 +1,15 @@
+﻿"XGRA: Extreme G Racing Association /ID SLES_516.36"
+Mastercode
+90206EF8 0C081B66
+
+//Widescreen hack 16:9
+
+//Zoom
+2019d5dc 3c013ec0
+
+//Y-Fov
+2019d5fc 3c013faa
+2019d600 3421aaab
+2019d608 4481f000
+2019d60c 461ebdc2
+

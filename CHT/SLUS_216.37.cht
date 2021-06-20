@@ -1,0 +1,18 @@
+﻿"Cars Mater-National Championship /ID SLUS_216.37"
+Mastercode
+903BA890 0C0EE9CC
+
+//Gameplay 16:9 
+20119550 3c033cae
+20119554 34635555
+20119548 3c023fab
+
+//Render fix
+201de9c4 3c03bfab
+201de9c8 3c023fab
+
+//Better match for 2 player mode
+//patch=1,EE,00119550,word,3C033CB0 //3C033C8E Zoom
+//patch=1,EE,00119554,word,34635555 //3463FA34
+//patch=1,EE,00119548,word,3C023FAB //3C023F80 Y-FOV
+
