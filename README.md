@@ -1,4 +1,7 @@
 # Open PS2 Loader Widescreen Hacks
+
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/PS2-Widescreen/OPL-Widescreen-Cheats/Latest/total?label=Downloads)
+
 Drop these cheat files in your /OPL/CHT folder to correct/add widescreen support for your PS2 games!
 
 So you have some sexy component cables on your big widescreen TV and you think you are ballin' hard?
