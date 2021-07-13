@@ -4,9 +4,6 @@ on:
   push:
     paths:
       - '**.cht'
-      - '.github/workflows/*.yml'
-  schedule:
-   - cron: "0 15 * * */25"
 
 jobs:
   check-binaries:
