@@ -1,0 +1,8 @@
+"Haven - Call of the King /ID SLUS_205.17"
+Mastercode
+90000860 003371E7
+
+// Widescreen Hack
+2021cc20 3c013fee
+2021cc24 3421eeee
+21f6f574 3f100000
