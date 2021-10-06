@@ -1,0 +1,31 @@
+name: Update Cheats list
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '**.cht'
+      
+jobs:
+  download-dependencies:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Get short SHA
+      id: slug
+      run: echo "::set-output name=chtcount::$(find . -name "cht/*.cht" | wc -l)"
+
+    
+    - name: Update Cheats list
+      run: |
+          cd cht
+          echo game count ${{ steps.slug.outputs.chtcount }}
+          head -n1 -q *.cht > ../cheat_list.TXT
+          cd ..
+          cat cheat_list.TXT
+#    - uses: EndBug/add-and-commit@v7
+#      with:
+#        default_author: github_actions
+#        message: 'Update uLaunchELF versions'
