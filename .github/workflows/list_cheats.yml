@@ -23,7 +23,7 @@ jobs:
       run: |
           cd CHT
           echo game count ${{ steps.slug.outputs.chtcount }}
-          head -n1 -q *.cht | sed 's/.\(.*\)/\1/' | sed 's/\(.*\)./\1/' > ../cheat_list.TXT
+          head -n1 -q *.cht | sed -e 's/^"//' -e 's/"$//' > ../cheat_list.TXT
           cd ..
           cat cheat_list.TXT
 #    - uses: EndBug/add-and-commit@v7
