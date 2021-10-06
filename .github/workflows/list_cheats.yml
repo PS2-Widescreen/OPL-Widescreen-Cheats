@@ -24,9 +24,10 @@ jobs:
           cd CHT
           echo game count ${{ steps.slug.outputs.chtcount }} > ../cheat_list.TXT
           
-          head -n1 -q *.cht | tr -d \" >> ../cheat_list.TXT
+          head -n1 -q *.cht | tr -d \" > dummy.txt
+          sort dummy.txt >> ../cheat_list.TXT
+          rm dummy.txt
           cd ..
-          cat cheat_list.TXT
           
     - uses: EndBug/add-and-commit@v7
       if: github.ref == 'refs/heads/main'
