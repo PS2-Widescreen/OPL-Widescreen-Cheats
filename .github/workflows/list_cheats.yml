@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - '**.cht'
+      - 'CHT/*.cht'
       
 jobs:
   download-dependencies:
@@ -15,12 +15,12 @@ jobs:
 
     - name: Get short SHA
       id: slug
-      run: echo "::set-output name=chtcount::$(find . -name "cht/*.cht" | wc -l)"
+      run: echo "::set-output name=chtcount::$(find . -name "CHT/*.cht" | wc -l)"
 
     
     - name: Update Cheats list
       run: |
-          cd cht
+          cd CHT
           echo game count ${{ steps.slug.outputs.chtcount }}
           head -n1 -q *.cht > ../cheat_list.TXT
           cd ..
