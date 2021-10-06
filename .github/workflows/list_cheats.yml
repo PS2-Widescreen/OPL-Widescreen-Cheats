@@ -15,14 +15,14 @@ jobs:
 
     - name: Get short SHA
       id: slug
-      run: echo "::set-output name=chtcount::$(find . -name "CHT/*.cht" | wc -l)"
+      run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
 
     
     - name: Update Cheats list
       run: |
           cd CHT
           echo game count ${{ steps.slug.outputs.chtcount }}
-          head -n1 -q *.cht > ../cheat_list.TXT
+          head -n1 -q *.cht | sed -e 's/^"//' -e 's/"$//' > ../cheat_list.TXT
           cd ..
           cat cheat_list.TXT
 #    - uses: EndBug/add-and-commit@v7
