@@ -23,10 +23,7 @@ jobs:
       run: |
           cd CHT
           echo game count ${{ steps.slug.outputs.chtcount }} > ../cheat_list.TXT
-          
-          head -n1 -q *.cht | tr -d \" > dummy.txt
-          sort dummy.txt >> ../cheat_list.TXT
-          rm dummy.txt
+          head -n1 -q *.cht | tr -d \" >> ../cheat_list.TXT
           cd ..
           
     - uses: EndBug/add-and-commit@v7
