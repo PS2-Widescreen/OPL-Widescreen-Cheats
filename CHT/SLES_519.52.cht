@@ -1,0 +1,12 @@
+"R-Type Final /ID SLES_519.52"
+Mastercode
+9011AE78 0C046B46
+
+//comment=Widescreen Hack by sergx12, PAL conversion & black bar fix by FlatOut
+2016edc0 3c033f40
+2016fbac 3c043f40
+2022e010 43d60000
+2022e020 43d60000
+//black bar fix
+2055ead0 00000000
+2055eb50 00000000

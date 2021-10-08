@@ -1,0 +1,12 @@
+"Hitman - Blood Money /ID SLES_530.30"
+Mastercode
+90109F38 0C042776
+
+// comment=Widescreen hack by ElHecht
+
+// 16:9
+20178c2c 3c013f40
+20178c30 4481f000
+20178c6c 461e0003
+202916e0 461ea502
+202b28c4 461ea302

@@ -1,0 +1,9 @@
+"Tekken Tag Tournament /ID SCES_500.01"
+Mastercode
+904032C8 0C100C58
+
+//comment=Tekken Tag Tournament (PAL-M5) (SCES-50001) Widescreen Hack (16:9) by ElHecht
+// 16:9
+2034b014 3c013f40
+2034b018 44810000
+2034b020 4600c602

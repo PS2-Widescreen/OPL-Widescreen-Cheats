@@ -1,0 +1,24 @@
+"Urban Chaos - Riot Response /ID SLES_539.91"
+Mastercode
+91804F18 0C60136E
+
+//comment=Widescreen Hack by ElHecht
+
+// 16:9
+20655260 3c013f40
+20655264 34210000
+
+// 16:10
+//20655260 3c013f55 // 00000000 hor fov
+//20655264 34215555 // 00000000 hor fov
+
+// 16:9 and 16:10 modifications
+// no need to change anything here! all modifications are calculated
+// based on the hor fov value in the upper 16:9/16:10 section
+2018f550 08195498
+2018f554 00000000
+20655268 4481f000
+2065526c 461e2102
+20655270 e7a40000
+20655274 c7b40070
+20655278 08063d55

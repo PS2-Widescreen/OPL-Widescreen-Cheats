@@ -1,0 +1,51 @@
+"Kingdom Hearts /ID SCES-509.69"
+Mastercode
+9025B1F8 0C096C26
+
+//comment=Widescreen hack by ElHecht
+
+// 16:9
+20110634 3c1b3f40
+2011066c 449bf800
+201106a0 461f6e42
+20110670 461fe703
+
+//matrix hack
+202627ac 3c013f40
+202627b8 44810000
+202627bc 4600c602
+
+//textbox calculation
+2010b010 46000383
+2010b014 449b6800
+2010b030 460d7343
+2010b040 46007446
+
+//position fix weapon select
+20207a98 3c0144fa
+
+//font fix hud and menu
+201eedbc 24100020
+201f7cd0 24090020
+
+//font fix subtitle and text box
+//patch=1,EE,0010c980,word,24426fb0 // 24427000
+//patch=1,EE,0010d3d4,word,3c013f1f // 3c013f55
+//patch=1,EE,0010d3d8,word,3421fffc // 3421554f
+//patch=1,EE,0010d3f8,word,3c013f40 // 3c013f80
+//patch=1,EE,0010d820,word,3c014216 // 3c0141e0
+
+//numbers fix
+201f998c 240b0020
+201f9710 24030020
+
+//fmv fix
+2010629c 3c071900
+202a1588 70007000
+
+//black border fix
+2010430c 00000000
+2010442c 00000000
+
+//60 FPS
+//patch=1,EE,001104d8,word,24820000 // 24820001

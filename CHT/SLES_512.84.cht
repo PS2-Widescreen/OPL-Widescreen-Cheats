@@ -1,0 +1,13 @@
+"Contra - Shattered Soldier /ID SLES-512.84"
+
+Mastercode
+905EA7D8 0C17A99E
+
+//comment=Widescreen Hack (16:9) by ElHecht
+
+// 16:9
+205dd10c 3c013f40
+205dd110 44810000
+205dd118 4600c602
+20678f00 44d8aaab
+20678f04 c4d8aaab

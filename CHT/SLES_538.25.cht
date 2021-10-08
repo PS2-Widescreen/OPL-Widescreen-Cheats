@@ -1,0 +1,27 @@
+"Project Zero 3 - The Tormented /ID SLES_538.25"
+Mastercode
+90279200 0C09E428
+
+//comment=- Widescreen & HD pnach by pgert.
+//comment=- Credits to ElHecht, Little giant and nemesis2000.
+
+// HD-fixes for GSdx in HW-mode - makes no difference with Native Resolution or in SW-mode.
+201573fc 00000000
+2036e268 43a30000
+2036e26c 43660000
+2037098c 439f8000
+20370990 435f8000
+
+2032885c 3f400000
+
+203705a8 3f400000
+203705b4 3f400000
+// 203705A8 3F555555 // - 16:10.
+// 203705B4 3F555555 // - 16:10.
+// ==========
+
+// ==========
+// 16:9 Cinematics hacks by pgert (thanks to nemesis2000).
+203713a0 43f00000
+// 44200000h = 640f : 640 * 0,75 = 480 : 480f = 43F00000h
+203713a8 42d40000

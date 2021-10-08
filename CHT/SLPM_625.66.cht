@@ -1,0 +1,17 @@
+"The Typing of the Dead - Zombie Panic /ID SLPM_625.66"
+Mastercode
+9010AE90 0C042B4C
+
+//16:9 Wide screen by Arapapa
+
+//Zoom
+201f74cc 3c023f9e
+201f74d0 34424207
+
+//Y-Fov
+201f74e8 3c023f9f
+201f74ec 344249f1
+
+//Remove 'Black Bar'
+201e6b60 00000000
+201e6b98 00000000

@@ -1,0 +1,23 @@
+"Baldur's Gate - Dark Alliance /ID SLES_506.72"
+Mastercode
+9020D1A0 0C083410
+
+//comment=Widescreen Hack by El_Patas
+
+//Vert fov- 
+20322460 3f1f49f4
+20322418 3f360b62
+203224f0 3f360b62
+20322550 3f360b62
+20323e9c 3f360b62
+
+//Both fov+
+201451d0 3c014440
+2014ccf4 3c014440
+20201e40 3c014440
+2013d280 3c014440
+20152c40 3c014440
+
+//Render fix
+203224c8 3fe2fc96
+203224ec 3fe2fc96

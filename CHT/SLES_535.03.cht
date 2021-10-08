@@ -1,0 +1,15 @@
+"Star Wars - Battlefront II /ID SLES_535.03"
+Mastercode
+905ED6E0 0C17B560
+//901143D8 0C04509E
+
+//comment=Widescreen Hack by nemesis2000 and Arapapa
+
+//Widescreen hack 16:9
+20582814 3c013f40
+20582818 44810000
+20582820 46000003
+
+//Render fix
+20573f6c 3c013f2b
+205b074c 3c013f2b

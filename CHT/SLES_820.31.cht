@@ -1,0 +1,23 @@
+"Shadow Hearts - Covenant - Disc 2 /ID SLES_820.31"
+Mastercode
+9020CDF8 0C083326
+
+//comment=Shadow Hearts 2 Covenant (PAL-M3) (SLES-82030) Widescreen Hack (16:9) by ElHecht
+//
+// 16:9
+20202cac 3c013f40
+20202cb0 44810000
+20202cb8 4600c602
+//
+// Render-Fix
+2022531c 3c033f60
+
+//Flare effects fix by Arapapa
+//700080c4 00000246 700080e4
+202b4b10 08107a58
+2041e960 c4800070
+2041e964 3c013f40
+2041e968 4481f000
+2041e96c 461e0002
+2041e970 080ad2c5
+

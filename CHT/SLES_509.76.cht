@@ -1,0 +1,10 @@
+"Das Ding aus einer anderen Welt /ID SLES_509.76"
+Mastercode
+90123580 0C048D08
+
+//comment=Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+2016ec34 3c023fe3
+2016ec38 34428e38
+
