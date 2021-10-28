@@ -1,0 +1,11 @@
+"Dynasty Warriors 4 /ID SLES_516.63"
+Mastercode
+9010EB78 0C043A86
+
+//comment=Widescreen Hack (16:9) by ElHecht
+
+// 16:9
+20137060 3c0243b4
+20137110 3c0243f0
+20264114 3c023f40
+20183d30 3c023f18

@@ -1,0 +1,13 @@
+"Resident Evil 4 /ID SLES_537.02"
+//comment=Patches by arapapa and Devina, larger FOV codes
+
+Mastercode
+902A4288 0C0A904A
+
+//Hold X and triangle at start for progressive scan
+//Use if doing Leon's campaign (disable if not doing Leon's campaign)
+2031e674 42820000
+2031def4 42820000
+2031c574 42700000
+2031c6f4 42700000
+

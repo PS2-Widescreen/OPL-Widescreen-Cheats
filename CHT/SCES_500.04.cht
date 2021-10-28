@@ -1,0 +1,15 @@
+"Formula One 2001 /ID SCES_500.04"
+Mastercode
+90277D80 0C09DF08
+
+//comment=Widescreen Hack by Arapapa
+//Widescreen hack 16:9
+
+//X-Fov
+//180080e4 0400a2c4 0800a1c4 (1st)
+2011b124 080a7244
+2029c910 3c013f40
+2029c914 4481f000
+2029c918 461e0002
+2029c91c e4800018
+2029c920 08046c4a

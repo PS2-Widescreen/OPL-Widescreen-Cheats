@@ -1,0 +1,17 @@
+"Grand Theft Auto: Vice City /ID SLES_510.61"
+//PAL Ver 1.50 (ELF CRC C498A04F) http://redump.org/disc/1013/
+//Widescreen fix by nemesis2000 (converted to PAL by Riiaz)
+
+Mastercode
+90115C40 0C0456B8
+
+//widescreen fix
+201325bc 3c013f9d
+201325c0 44810000
+201325c4 46006302
+201325c8 03e00008
+201325cc e78c87f8
+
+202434ec 0c04c96f
+2027088c 0c04c972
+20270e64 0c04c972

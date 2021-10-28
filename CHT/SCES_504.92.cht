@@ -1,0 +1,19 @@
+"Final Fantasy X /ID SCES_504.92"
+Mastercode
+902FAA98 0C0BEA4E
+
+//comment=Final Fantasy X (PAL-G) (SCES-50492) 16:9 Widescreen Hack, Render Fix & Progressive Scan
+// 16:9
+201a5974 3c013f19
+201a5978 3421999a
+// Render-Fix
+2011973c 3c014440
+20176144 3c01442b
+// Progressive Scan
+202d98b4 3c050000
+
+//world map
+20263068 3c013f40
+
+//sphere grid
+202649c4 3c013f40

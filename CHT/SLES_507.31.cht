@@ -1,0 +1,16 @@
+"Need for Speed - Hot Pursuit 2 /ID SLES_507.31"
+Mastercode
+90284EE8 0C0A1362
+
+//comment=Widescreen Hack by nemesis2000/pnach by ElHecht
+// Added 16:10 support (ElHecht)
+
+// 16:9
+2032f6fc 3f400000
+2032f850 3f2aaaab
+2010e840 3c013f2b
+
+// 16:10
+//0032f6fc 3f555555 // 3f800000 hor fov
+//0032f850 3f19999a // 3f000000 increase hor fov
+//0010e840 3c013f1a // 3c013f00 renderfix

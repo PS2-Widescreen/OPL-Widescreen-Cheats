@@ -1,0 +1,14 @@
+"Gitaroo Man /ID SLES_506.53"
+Mastercode
+9012D3F8 0C04B4A6
+
+//comment=Widescreen hack by El_Patas
+
+//Gameplay 16:9
+2027ffa0 3f400000
+
+//HUD and menus fix
+20105d4c 3c0243f0
+2010614c 3c0243f0
+20171560 3c0243f0
+2023e5bc 3c0243f0

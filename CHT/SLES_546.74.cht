@@ -1,0 +1,46 @@
+"Tomb Raider - Anniversary /ID SLES_546.74"
+Mastercode
+90361108 0C0D83EA
+
+// comment= pnach by pgert.
+
+// 16:10 support.
+201b8754 3c013f55
+204ad580 3f555555
+204ad588 3f555555
+// - 204AD580 & 204AD588 might not work with all BIOS types & configurations.
+20140e1c 3c013f55
+201513c4 3c013f55
+20151680 3c013f55
+201517b4 3c013f55
+2016f374 3c01bf55
+2016f380 3c013f55
+20192ebc 3c013f55
+20212708 3c013f55
+202147ac 3c013f55
+20241d38 3c013f55
+202a6724 3c013f55
+202c3d1c 3c013f55
+202dba08 3c013f55
+202f1c98 3c013f55
+202f7864 3c013f55
+// ==========
+
+// ==========
+// Widescreen enforcement lazy-hack (optional).
+20398590 3f800000
+203bed10 00000001
+20992524 00000001
+// - Might not work with all BIOS types & configurations.
+// ==========
+// Calcutta-Cinematic Subtitles patches (optional) - only for 50Hz mode.
+//20109cb4 3c013f47
+//201515b4 3c013f83
+//20109cb4 3c013f43
+//201515b4 3c013f82
+// ==========
+// Blackbars hack (optional).
+2016f374 3c01bf60
+2016f380 3c013f60
+// - Set the value of these patches to 3C01BF80 & 3C013F80 to fully remove the Blackbars.
+// ==========

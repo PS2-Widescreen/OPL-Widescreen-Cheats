@@ -1,0 +1,12 @@
+"Armored Core 2 - Another Age /ID SLES_509.05"
+//comment=Widescreen hack by ElHecht
+Mastercode
+902D30B8 0C0B4BD6
+
+// 16:9
+202d7494 3c013f40
+202d74a0 44810000
+202d74a4 4600c602
+201c9570 3c013f40
+201c9588 4481f000
+201c958c 461e6b42

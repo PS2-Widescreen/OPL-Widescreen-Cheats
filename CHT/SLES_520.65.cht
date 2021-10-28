@@ -1,0 +1,11 @@
+"Flipnic - Ultimate Pinball /ID SLES_520.65"
+Mastercode
+901EDC38 0C07B6B6
+//901F5FF4 0C07FDFE
+//901001F4 0C040104
+
+//comment=Widescreen hack by Arapapa
+
+//Gameplay 16:9
+201864ec 3c023f19
+201864f4 3447999a

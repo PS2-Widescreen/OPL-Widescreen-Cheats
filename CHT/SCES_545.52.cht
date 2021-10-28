@@ -1,0 +1,18 @@
+"Rogue Galaxy /ID SCES_545.52"
+//comment=Widescreen pnach by El_Patas
+
+Mastercode
+90119910 0C0465EC
+
+//Gameplay 16:9 
+201c5e40 3c023f10
+
+//Compass
+20377f9c 3c023f10
+
+//Black border fix
+20261fb4 3c020000
+
+//FMV's fix
+201d4e2c 24060000
+201d4e7c 240201c0

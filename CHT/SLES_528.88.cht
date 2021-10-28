@@ -1,0 +1,17 @@
+"Brothers in Arms: Road to Hill 30 /ID SLES_528.88"
+
+Mastercode
+9012ED70 0C04BB04
+
+//comment=Widescreen pnach by El_Patas
+
+//Gameplay 16:9
+203057ec 3c023f40
+
+//Menu font fix
+203e56fc 3c033f40
+203e5704 3c033f80
+203e5708 44830800
+203e570c ae630108
+203e5710 c6600104
+203e5714 46010036

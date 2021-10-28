@@ -1,0 +1,21 @@
+"Beyond Good & Evil /ID SLES_519.17"
+Mastercode
+906D5FB8 0C1B5796
+
+//comment=Widescreen hack by Arapapa
+//Widescreen hack 16:9
+
+//Zoom
+//803f023c 00088244 00000000 03080046 (1st)
+20131cb0 3c023f40
+
+//Y-Fov
+201324cc 08030010
+200c0040 46000802
+200c0044 3c1b3f40
+200c0048 449bf000
+200c004c 461e0003
+200c0050 0804c935
+
+//Render fix
+2013ef70 3c023f40

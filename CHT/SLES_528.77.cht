@@ -1,0 +1,17 @@
+"Haunting Ground /ID SLES_528.77"
+Mastercode
+90241410 0C0904AC
+
+//comment=Widescreen hack by nemesis2000 (pnach by nemesis2000 )
+2010e31c 3c013f40
+2010e320 44810000
+2010e328 4600c602
+
+//cutscenes fix
+2028aecc 34a98c00
+2028aeb4 34a67400
+
+//black borders fix
+2035e628 00000000
+2035e62c 03e00008
+2035e630 00000000

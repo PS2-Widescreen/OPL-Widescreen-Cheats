@@ -1,0 +1,17 @@
+"Die Sims /ID SLES_512.57"
+Mastercode
+90350E98 0C0D434E
+
+//comment=Widescreen hack by Arapapa
+//Widescreen hack 16:9
+
+//X-Fov
+20324af0 08030000
+200c0000 4618b603
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461ec602
+200c0010 080c92bd
+
+//Render fix
+202be530 3c013f2b

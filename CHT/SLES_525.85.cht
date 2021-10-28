@@ -1,0 +1,16 @@
+"Burnout 3 - Takedown /ID SLES_525.85"
+Mastercode
+9010E630 0C043934
+
+//comment=Burnout 3 (PAL-M4) (SLES-52584) 16:9 widescreen patch by XxDEATHB3TCHxX
+20666544 3fe34000
+20666540 3faaaaab
+
+// =========Notes:=======//
+//204C9984 - Controls up arrow height button prompt (Value 1.15)
+//204C999C - Controls bottom arrow height button prompt (Value 1.15)
+//20666540 - Controls FOV/zoom of the camera (Value 1.10)
+//21E909A0 - Controls below menu panel
+//204E0C28 - Controls how italics the text is
+//205175D4 - Controls the width but moves camera
+//21E92DF8 - Controls width of Resume text

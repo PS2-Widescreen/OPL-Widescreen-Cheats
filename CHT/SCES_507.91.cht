@@ -1,0 +1,15 @@
+"Frequency /ID SCES_507.91"
+Mastercode
+90615AD8 0C18565E
+
+//comment=Widescreen hacks by Aced14
+
+//16:9 Widescreen
+204eddcc 08147263
+2051c98c 3c013f40
+2051c990 4481f800
+2051c994 461f07c2
+2051c998 0813b775
+2051c99c e61f0120
+
+//10551334 00000355 // FMV width (WIP)

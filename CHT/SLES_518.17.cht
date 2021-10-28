@@ -1,0 +1,15 @@
+"Final Fantasy X-2 /ID SLES_518.17"
+Mastercode
+9034CF98 0C0D338E
+
+//comment=Final Fantasy X-2 (PAL-Europe/Australia) (SLES-51817) Widescreen Hack (16:9) by ElHecht
+
+// 16:9
+201b49cc 3c013f19
+201b49d0 3421999a
+// Render-Fix
+2012369c 3c014440
+20185f7c 3c01442b
+
+//portraits, dressphere and cursor width on menu
+2021aa64 3c013f40

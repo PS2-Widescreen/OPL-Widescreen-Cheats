@@ -1,0 +1,21 @@
+"Midnight Club 3 - DUB Edition /ID SLES_529.42"
+Mastercode
+90545528 0C1514F2
+
+//comment=Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//43a51846 640103e6
+2052df18 08150c14
+
+20543050 4618a543
+20543054 3c013f40
+20543058 4481f000
+2054305c 461ead42
+20543060 0814b7c7
+
+//Render fix
+//003f013c 00008144 02a50046 (2nd)
+2052de5c 3c013f2b

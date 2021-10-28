@@ -1,0 +1,13 @@
+"Pro Evolution Soccer 2014 /ID SLES_556.74"
+Mastercode
+901086D0 0C04215C
+
+//comment=Widescreen hack (PAL by Arapapa)
+
+// 16:9 (00000000 00000000 43ad1346 00000000)
+201043fc 3c013f40
+20104400 44810000
+20104408 4600c602
+
+// Render fix by El_Patas (803f053c 4400023c)
+20125f3c 3c053fab
