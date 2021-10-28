@@ -1,23 +1,44 @@
-game count 812
+game count 912
 ﻿Syphon Filter - Logan's Shadow /ID HDUS_975.84
 ﻿Splinter Cell - Double Agent /ID SC4_OFF.ELF
+Tekken Tag Tournament /ID SCES_500.01
+Formula One 2001 /ID SCES_500.04
+Drakan - The Ancients' Gates /ID SCES_500.06
+Sky Odyssey /ID SCES_501.05
+Gran Turismo 3 - A-Spec /ID SCES_502.94
+Klonoa 2 - Lunatea's Veil /ID SCES_503.54
+Twisted Metal - Black /ID SCES_503.60
 ﻿Jak and Daxter: The Precursor Legacy /ID SCES_503.61
 ﻿MotoGP 2 /ID SCES_504.09
+Final Fantasy X /ID SCES_504.90
+Final Fantasy X /ID SCES_504.92
+Rez /ID SCES_505.01
 ﻿ICO /ID SCES_507.60
+Frequency /ID SCES_507.91
 ﻿Tekken 4 /ID SCES_508.78
 ﻿Ratchet & Clank /ID SCES_509.16
 ﻿Sly Raccoon /ID SCES_509.17
 ﻿Disney's Stitch: Experiment 626 /ID SCES_509.59
+Kingdom Hearts /ID SCES-509.69
 ﻿MotoGP 3 /ID SCES_509.82
 ﻿The Mark of Kri /ID SCES_511.64
+Dark Chronicle /ID SCES_511.90
 ﻿Shinobi /ID SCES_514.28
+Ratchet & Clank 2 /ID SCES_516.07
 ﻿Jak II: Renegade /ID SCES_516.08
+Amplitude /ID SCES_517.06
+Time Crisis 3 /ID SCES_518.44
+SOCOM II - U.S. Navy SEALs /ID SCES_519.04
+Ace Combat 5 - Squadron Leader /ID SCES_524.24
+Ratchet & Clank 3 /ID SCES_524.56
 ﻿Sly 2: Band of Thieves /ID SCES_525.29
 ﻿Death by Degrees /ID SCES_525.86
 ﻿MotoGP 4 /ID SCES_528.92
 ﻿Tekken 5 /ID SCES_532.02
 ﻿Sly 3: Honor Among Thieves /ID SCES_534.09
 ﻿Forbidden Siren 2 /ID SCES_538.51
+God Of War 2 /ID SCES_542.06
+Rogue Galaxy /ID SCES_545.52
 ﻿Bleach: Erabareshi Tamashii /ID SCPS_150.87
 ﻿Bleach: Blade Battlers /ID SCPS_151.16
 ﻿Bleach: Blade Battlers 2nd /ID SCPS_151.19
@@ -63,74 +84,127 @@ game count 812
 ﻿Rayman Revolution /ID SLES_500.44
 ﻿Street Fighter EX3 /ID SLES_500.72
 ﻿7 Blades /ID SLES_501.09
+Zone of the Enders /ID SLES_501.11
 ﻿Wacky Races Starring Dastardly & Muttley /ID SLES_501.83
 ﻿Alone in the Dark: The New Nightmare /ID SLES_501.85
+Silpheed - The Lost Planet /ID SLES_501.93
 ﻿Evil Twin - Cyprien's Chronicles /ID SLES_502.01
 ﻿XGIII: Extreme G Racing /ID SLES_502.10
 ﻿Gauntlet Dark Legacy /ID SLES_502.11
 ﻿SpyHunter /ID SLES_502.68
+Freak Out /ID SLES_503.10
+Giants - Citizen Kabuto /ID SLES_503.14
 ﻿Grand Theft Auto III /ID SLES_503.30
 ﻿Rune: Viking Warlord /ID SLES_503.35
 ﻿Star Wars Racer Revenge /ID SLES_503.66
+Metal Gear Solid 2: Sons of Liberty /ID SLES_503.83
 ﻿Splashdown /ID SLES_504.86
 ﻿Looney Tunes: Space Race /ID SLES_504.87
+Half-Life /ID SLES_505.05
 ﻿Capcom vs. SNK 2 /ID SLES_505.41
+The Operative - No One Lives Forever /ID SLES_505.92
 ﻿Everblue /ID SLES_506.39
+Gitaroo Man /ID SLES_506.53
+Baldur's Gate - Dark Alliance /ID SLES_506.72
 ﻿Maximo /ID SLES_507.03
+Mortal Kombat - Deadly Alliance /ID SLES_507.17
+Need for Speed - Hot Pursuit 2 /ID SLES_507.31
 ﻿The Simpsons Skateboarding /ID SLES_507.54
+Mr Moskeeto /ID SLES_507.69
 ﻿Spider-Man /ID SLES_508.12
+TimeSplitters 2 /ID SLES_508.77
 ﻿BMX XXX /ID SLES_508.80
+Armored Core 2 - Another Age /ID SLES_509.05
 ﻿Master Rallye /ID SLES_509.06
 ﻿Akira Psycho Ball /ID SLES_509.19
 ﻿Circus Maximus: Chariot Wars /ID SLES_509.35
+Das Ding aus einer anderen Welt /ID SLES_509.76
 ﻿The Scorpion King: Rise of the Akkadian /ID SLES_509.87
 ﻿Knight Rider: The Game /ID SLES_510.11
 ﻿Burnout 2: Point of Impact /ID SLES_510.44
 ﻿Midnight Club II /ID SLES_510.54
 ﻿Grand Theft Auto: Vice City /ID SLES_510.61
+Grand Theft Auto: Vice City /ID SLES_510.61
 ﻿Zone of the Enders: The 2nd Runner /ID SLES_511.13
 ﻿Sega Soccer Slam /ID SLES_511.25
+Red Faction II /ID SLES_511.33
 ﻿LEGO Island Xtreme Stunts /ID SLES_511.53
+Enter The Matrix /ID SLES_512.03
 ﻿Virtua Tennis 2 /ID SLES_512.32
 ﻿Raging Blades /ID SLES_512.35
 ﻿Gungrave /ID SLES_512.36
+XIII /ID SLES_512.44
 ﻿Shox: Rally Reinvented /ID SLES_512.50
+Die Sims /ID SLES_512.57
+Contra - Shattered Soldier /ID SLES-512.84
 ﻿Bomberman Kart /ID SLES_513.02
 ﻿Ben Hur: Blood of Braves /ID SLES_513.50
+Silent Hill 3 /ID SLES_514.34
+Tom Clancy's Splinter Cell /ID SLES_514.66
 ﻿Pro Beach Soccer /ID SLES_514.92
 ﻿Cel Damage: Overdrive /ID SLES_515.54
 ﻿Broken Sword - The Sleeping Dragon /ID SLES_515.57
+Resident Evil - Outbreak /ID SLES_515.89
+Virtua Fighter 4 - Evolution /ID SLES_516.16
 ﻿XGRA: Extreme G Racing Association /ID SLES_516.36
+Dynasty Warriors 4 /ID SLES_516.63
 ﻿Maximo vs. Army of Zin /ID SLES_517.59
 ﻿Harry Potter: Quidditch World Cup /ID SLES_517.87
+Final Fantasy X-2 /ID SLES_518.15
+Final Fantasy X-2 /ID SLES_518.17
 ﻿Monster Attack /ID SLES_518.56
 ﻿The Simpsons: Hit & Run /ID SLES_518.97
 ﻿Choro Q HG 3: Gadget Racers /ID SLES_519.11
 ﻿Onimusha Blade Warriors /ID SLES_519.13
 ﻿Onimusha 3: Demon Siege /ID SLES_519.14
+Beyond Good & Evil /ID SLES_519.17
+Prince of Persia - The Sands of Time /ID SLES_519.18
 ﻿Gregory Horror Show /ID SLES_519.33
+R-Type Final /ID SLES_519.52
 ﻿Need for Speed: Underground /ID SLES_519.67
 ﻿Tak and the Power of Juju /ID SLES_520.11
+Der Herr der Ringe - Die Rückkehr des Königs /ID SLES_520.18
+Manhunt /ID SLES_520.23
+MX Unleashed /ID SLES_520.43
+007 - Alles oder Nichts /ID SLES_520.46
+Die Sims brechen aus /ID SLES_520.47
 ﻿Harry Potter and the Philosopher's Stone /ID SLES_520.55
+Flipnic - Ultimate Pinball /ID SLES_520.65
+Gradius V /ID SLES_520.95
 ﻿Underworld: The Eternal War /ID SLES_521.09
 ﻿Castlevania /ID SLES_521.18
 ﻿Kaan: Barbarian's Blade /ID SLES_521.79
+Project Zero II - Crimson Butterfly /ID SLES_523.84
 ﻿Harry Potter and the Prisoner of Azkaban /ID SLES_524.40
 ﻿Hyper Street Fighter II - The Anniversary Edition /ID SLES_524.44
 ﻿Knights of the Temple - Infernal Crusade /ID SLES_524.48
 ﻿Conan /ID SLES_524.51
+Disgaea - Hour Of Darkness /ID SLES_524.58
 ﻿Bujingai: Swordmaster /ID SLES_524.95
+ObsCure /ID SLES_525.08
 ﻿Adiboo and the Energy Thieves /ID SLES_525.21
 ﻿Crimson Tears /ID SLES_525.34
 ﻿Grand Theft Auto: San Andreas /ID SLES_525.41
+Burnout 3 - Takedown /ID SLES_525.85
 ﻿Colin McRae Rally 2005 /ID SLES_526.36
+Leisure Suit Larry - Magna Cum Laude /ID SLES_526.43
+Viewtiful Joe /ID SLES_526.78
+Psi-Ops - The Mindgate Conspiracy /ID SLES_527.02
+Mortal Kombat - Deception /ID SLES_527.06
+Monster Hunter /ID SLES_527.07
+NBA Live 2005 /ID SLES_527.13
 ﻿One Piece: Round the Land /ID SLES_527.31
+Blood Will Tell - Tezuka Osamu's Dororo /ID SLES_527.55
 ﻿Knight Rider 2: The Game /ID SLES_528.36
 ﻿The King of Fighters 2000/2001 /ID SLES_528.76
+Haunting Ground /ID SLES_528.77
+Brothers in Arms: Road to Hill 30 /ID SLES_528.88
 ﻿Spongebob Squarepants: Movie /ID SLES_528.95
 ﻿KOF: Maximum Impact /ID SLES_528.98
+Midnight Club 3 - DUB Edition /ID SLES_529.42
 ﻿Nanobreaker /ID SLES_529.64
 ﻿Altered Beast /ID SLES_530.24
+Hitman - Blood Money /ID SLES_530.30
 ﻿He-Man: Defender of Grayskull /ID SLES_530.35
 ﻿Tak 2: The Staff of Dreams /ID SLES_530.36
 ﻿SNK vs. Capcom: SVC Chaos /ID SLES_530.65
@@ -140,23 +214,34 @@ game count 812
 ﻿Destroy All Humans! /ID SLES_531.96
 ﻿Saint Seiya: The Sanctuary /ID SLES_532.01
 ﻿Samurai Western /ID SLES_532.34
+7 Sins /ID SLES_532.97
+Killer7 /ID SLES_533.66
 ﻿Metal Slug 4 /ID SLES_533.80
 ﻿Spartan: Total Warrior /ID SLES_533.93
 ﻿Demolition Girl /ID SLES_534.03
 ﻿Kuon /ID SLES_534.11
 ﻿Taito Legends /ID SLES_534.38
+The Warriors /ID SLES-53443
 ﻿Sega Classics Collection /ID SLES_534.61
 ﻿10.000 Bullets /ID SLES_534.81
+Star Wars - Battlefront II /ID SLES_535.03
 ﻿Agent Hugo /ID SLES_535.04
+Fahrenheit /ID SLES_535.39
 ﻿GigaWing Generations /ID SLES_535.48
 ﻿Knights of the Temple II /ID SLES_536.45
 ﻿World Racing 2 /ID SLES_536.46
 ﻿Gauntlet: Seven Sorrows /ID SLES_536.67
 ﻿Tak: The Great Juju Challenge /ID SLES_536.95
+Resident Evil 4 /ID SLES_537.02
 ﻿Castlevania: Curse of Darkness /ID SLES_537.55
 ﻿The Sword of Etheria /ID SLES_537.68
+Project Zero 3 - The Tormented /ID SLES_538.25
+We Love Katamari /ID SLES_538.28
+Psychonauts /ID SLES_538.30
 ﻿Crazy Frog Racer /ID SLES_538.69
+Black /ID SLES_538.86
 ﻿Pac-Man World 3 /ID SLES_539.59
+Urban Chaos - Riot Response /ID SLES_539.91
 ﻿OutRun 2006 - Coast 2 Coast /ID SLES_539.98
 ﻿Kingdom Hearts II /ID SLES_541.14
 ﻿Grand Theft Auto: Liberty City Stories /ID SLES_541.35
@@ -167,6 +252,7 @@ game count 812
 ﻿Lego Star Wars II: The Original Trilogy /ID SLES_542.21
 ﻿KOF: Maximum Impact 2 /ID SLES_542.55
 ﻿Cartoon Network Racing (Europe) /ID SLES_543.06
+Kim Possible - What's the Switch /ID SLES_543.88
 ﻿Justice League Heroes /ID SLES_544.23
 ﻿Okami /ID SLES_544.39
 ﻿Global Defence Force /ID SLES_544.64
@@ -180,12 +266,14 @@ game count 812
 ﻿Grand Theft Auto: Vice City Stories /ID SLES_546.22
 ﻿Mr. Bean /ID SLES_546.66
 ﻿Wacky Races: Mad Motors /ID SLES_546.70
+Tomb Raider - Anniversary /ID SLES_546.74
 ﻿Spider-Man 3 /ID SLES_547.24
 ﻿Spider-Man: Friend or Foe /ID SLES_549.01
 ﻿Agent Hugo: Lemoon Twist /ID SLES_549.18
 ﻿Looney Tunes: Acme Arsenal /ID SLES_549.31
 ﻿MotoGP 07 /ID SLES_549.59
 ﻿Need for Speed: ProStreet /ID SLES_550.05
+Odin Sphere /ID SLES_551.10
 ﻿Lego Batman: The Videogame /ID SLES_551.35
 ﻿MotoGP 08 /ID SLES_552.66
 ﻿Samurai Shodown Anthology /ID SLES_552.92
@@ -193,9 +281,19 @@ game count 812
 ﻿Agent Hugo: Hula Holiday /ID SLES_553.65
 ﻿Tak and the Guardians of Gross /ID SLES_553.76
 ﻿Sonic Unleashed /ID SLES_553.80
+Pro Evolution Soccer 2009 /ID SLES_554.06
+Silent Hill - Shattered Memories /ID SLES_555.69
+Pro Evolution Soccer 2014 /ID SLES_556.74
 Summoner (PAL-G)
+Metal Gear Solid 2 - Substance /ID SLES_820.09
+Devil May Cry 2 - Disc 1 - Dante /ID SLES_820.11
+Devil May Cry 2 - Disc 2 - Lucia /ID SLES_820.12
+Shadow Hearts - Covenant - Disc 1 /ID SLES_820.30
+Shadow Hearts - Covenant - Disc 2 /ID SLES_820.31
+Metal Gear Solid 3 - Snake Eater /ID SLES_820.32
 ﻿Onimusha: Dawn of Dre /ID SLES_820.38
 ﻿Onimusha: Dawn of Dreams (Disc 2) /ID SLES_820.39
+Metal Gear Solid 3 - Subsistence /ID SLES_820.46
 ﻿Bomberman Land 2 /ID SLPM_622.91
 ﻿Sega Ages Vol. 03: Fantasy Zone /ID SLPM_623.66
 ﻿Sega Ages Vol. 04: Space Harrier /ID SLPM_623.84
@@ -207,8 +305,10 @@ Summoner (PAL-G)
 ﻿Bomberman Kart DX /ID SLPM_624.78
 ﻿Sega Ages Vol. 14: Alien Syndrome /ID SLPM_625.00
 ﻿Sega Ages Vol. 16: Virtua Fighter 2 /ID SLPM_625.47
+The Typing of the Dead - Zombie Panic /ID SLPM_625.66
 ﻿Bomberman Land 3 /ID SLPM_626.43
 ﻿Sega Ages Vol. 24: Last Bronx - Tokyo Bangaichi /ID SLPM_626.87
+Sega Rally Championship /ID SLPM_627.03
 ﻿Sega Ages Vol. 26: Dynamite Deka /ID SLPM_627.17
 ﻿Sega Ages Vol. 27: Panzer Dragoon /ID SLPM_627.18
 ﻿Sega Ages Vol. 31: Cyber Troopers Virtual On /ID SLPM_627.67
