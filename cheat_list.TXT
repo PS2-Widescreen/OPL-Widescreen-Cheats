@@ -646,7 +646,7 @@ Grand Theft Auto III /ID SLUS_200.62
 ﻿Wild Arms - Alter Code - F /ID SLUS_209.37
 ﻿Viewtiful Joe 2 /ID SLUS_209.39
 ﻿Yu-Gi-Oh! Capsule Monster Coliseum /ID SLUS_209.40
-﻿GTA - San Andreas /ID SLUS_209.46
+GTA - San Andreas /ID SLUS_209.46
 ﻿Operation WinBack 2 - Project Poseidon /ID SLUS_209.47
 ﻿Crimson Tears /ID SLUS_209.48
 ﻿Viewtiful Joe /ID SLUS_209.51
