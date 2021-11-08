@@ -1,22 +1,260 @@
-﻿"GTA - San Andreas /ID SLUS_209.46"
+"GTA - San Andreas /ID SLUS_209.46"
 Mastercode
 90532640 0C1538EC
 E002FFFF 00700942
 2059D390 0C135858
 2059D3A4 00000000
-//90245718 0C1559A4
-//9053EB10 0C14FA6C
-//90532640 0C1538EC
 
-//widescreen fix
-201130bc 3c013f9d
-201130c0 44810000
-201130c4 46006302
-201130c8 03e00008
-201130cc e78c9a90
 
-//widescreen fix2
-2021df84 0c044c2f
-20242d54 0c044c32
+//------------------------------------------------Fixes------------------------------------------------//
 
-//
+//Linear Filtering for License Plates
+204A48A4 34630002 ori $v1, 2 //RWLINEARFILTER
+
+//Fixed ammo for melee weapons in cheats
+2059D88C 24060001 li $s2 1 //knife
+2059D998 24060001 li $s2 1 //knife
+2059DB60 24060001 li $s2 1 //chainsaw
+2059DC34 24060001 li $s2 1 //chainsaw
+2059F67C 24060001 li $s2 1 //parachute
+2059F3BC 24060001 li $s2 1 //katana
+
+//014C cargen counter fix (by spaceeinstein)
+20295AF0 2C61FFFF //slti => sltiu
+20295AF4 10000004 //beqz => b
+
+// Don't clean the car BEFORE Pay 'n Spray doors close, as it gets cleaned later again anyway!
+202E41CC 00000000 nop
+
+// Fixed muzzleflash not showing from last bullet
+204071F4 00000000 nop
+
+// Help boxes showing with big message
+// Game seems to assume they can show together
+202AE3A0 00000000 nop
+
+// Impound garages working correctly
+201C6088 0C0BAA58 jal CGarages::IsPointWithinAnyGarage(CVector &)
+201C63C0 0C0BAA58 jal CGarages::IsPointWithinAnyGarage(CVector &)
+201C6510 0C0BAA58 jal CGarages::IsPointWithinAnyGarage(CVector &)
+
+// Impounding after busted works
+202A09A4 00000000 nop
+
+// Weapon icon fix (crosshairs mess up rwRENDERSTATEZWRITEENABLE)
+202AAB44 00000000 nop
+202AB284 00000000 nop
+202AB2B4 00000000 nop
+
+//Fix 4th texture memory leak on effects
+203D4D50 8E240018
+203D4D64 AE200018
+
+//-------------------------------------------------HUD-------------------------------------------------//
+
+//20663C00 3f666666 //Wanted Height
+20663C04 3ecccccd //Wanted Width
+//20663C0C 3f8a3d71 //Wanted Shadow Height
+20663C10 3ef5c28f //Wanted Shadow Width
+//202AA78C 3c023fc0 //Wanted Vertical Padding
+
+2026E03C 3c084270 //Radar Width
+2026ED00 3c024270 //Radar Mask Width
+2026EE30 3c034270 //Radar Mask Width
+2026EF18 3c034270 //Radar Mask Width
+20269528 3c024270 //Radar Width unknown
+2026E658 3c024270 //Radar Width plane green overlay
+202AC8F8 3c024248 //Radar Width plane overlay
+202AC964 3c024270 //Radar Heigth plane overlay
+
+202ACC4C 3c0341eb //Radar Disc Width left up - a esquerda dessa porra aqui
+202ACC50 3c0243aa //Radar Disc Width left up - a parte de cima dessa porra aqui
+202ACC60 3c034278 //Radar Disc Width left up - a direita dessa porra aqui
+202ACC64 3c0243bf //Radar Disc Width left up - a parte de baixo dessa porra aqui
+
+202ACC98 3c0342be //Radar Disc Width right up - a esquerda dessa porra aqui
+202ACC9c 3c0243aa //Radar Disc Width right up - a parte de cima dessa porra
+202ACCac 3c034278 //Radar Disc Width right up - a direita dessa porra aqui
+202ACCb0 3c0243bf //Radar Disc Width right up - a parte de baixo dessa porra
+
+202ACCE4 3c0341eb //Radar Disc Width left down - a esquerda dessa porra aqui
+202ACCE8 3c0243d4 //Radar Disc Width left down - a parte de cima dessa porra
+202ACCF8 3c034278 //Radar Disc Width left down - a direita dessa porra aqui
+202ACCFC 3c0243bf //Radar Disc Width left down - a parte de baixo dessa porra
+
+202ACD30 3c0342be //Radar Disc Width right down - a esquerda dessa porra aqui
+202ACD34 3c0243d4 //Radar Disc Width right down - a parte de cima dessa porra
+202ACD44 3c034278 //Radar Disc Width right down - a direita dessa porra aqui
+202ACD48 3c0243bf //Radar Disc Width right down - a parte de baixo dessa porra
+
+2026AE54 3c034270 //Radar Blip disc Width
+
+2026E04C 3c064278 //Radar X Pos
+//2026E0A0 3c0443BF //Radar Y Pos
+2026ED10 3c024278 //Radar Mask X Pos
+2026EE3C 3c044278 //Radar Mask X Pos
+2026EF34 3c044278 //Radar Mask X Pos
+2026AE6C 3c034278 //Radar Blip disc X Pos
+2026E674 3c024278 //Radar X Pos plane green overlay
+202AC900 3c034278 //Radar X Pos plane overlay
+
+202A9EF4 3C024210 //Fist Icon Width
+202A9E34 3c024190 //Weapon Icon Width
+202ABA40 2405020D //Weapon Icon Pos X
+202ABA7C 2405020D //Weapon Icon Pos X - Player 2
+
+20663748 3e800000 //Ammo Width
+202ABA90 2405021F //Ammo X Pos
+202ABACC 2405021F //Ammo X Pos - Player 2
+
+202A9B84 3c0242A8 //Health bar width
+202A9904 2404002F //Armour bar width
+202A9A04 2404002F //Breath bar width
+
+202AB51C 24050231 //Armour bar pos x
+202AB560 24050231 //Armour bar pos x
+202AB6B0 24050231 //Breath bar pos x
+202AB6F8 24050231 //Breath bar pos x
+
+//CHud::DrawBustedWastedMessage width 
+202AF568 3C033F90	//lui     $v1, 0x3f90
+202AF56C 0C0AA200  //jal     _ZN5CFont8SetScaleEf  # Jump And Link
+202AF570 44836000	//mtc1    $v1, $f12
+202AF574 0C0AA2F4  //jal     _ZN5CFont15SetProportionalEh  # Jump And Link
+202AF578 24040001  //li      $a0, 1           # Load Immediate
+202AF57C 0C0AA310  //jal     _ZN5CFont10SetJustifyEh  # Jump And Link
+202AF580 0000202D  //move    $a0, $zero
+202AF584 0C0AA314  //jal     _ZN5CFont14SetOrientationEh  # Jump And Link
+202AF588 0000202D  //move    $a0, $zero
+202AF58C 0C0AA27C  //jal     _ZN5CFont12SetFontStyleEh  # Jump And Link
+202AF590 0000202D  //move    $a0, $zero
+202AF594 0C0AA2EC  //jal     _ZN5CFont7SetEdgeEa  # Jump And Link
+202AF598 24040003  //li      $a0, 3           # Load Immediate
+202AF59C 3C01007C  //lui     $at, 0x7C  # '|'  # Load Upper Immediate
+202AF5A0 3C024F00  //lui     $v0, 0x4F00      # Load Upper Immediate
+202AF5A4 C42132D8  //lwc1    $f1, _styledText3Alpha  # Load Word to FPU
+202AF5A8 44820000  //mtc1    $v0, $f0         # Move to FPU
+
+//CHud::DrawSuccessFailedMessage width
+202AF0FC 3C033f59	//lui     $v1, 0x3f59
+202AF100 0C0AA200   //jal     _ZN5CFont8SetScaleEf  # Jump And Link
+202AF104 44836000	//mtc1    $v1, $f12
+202AF108 0C0AA2F4   //jal     _ZN5CFont15SetProportionalEh  # Jump And Link
+202AF10C 24040001   //li      $a0, 1           # Load Immediate
+202AF110 0C0AA310   //jal     _ZN5CFont10SetJustifyEh  # Jump And Link
+202AF114 0000202D   //move    $a0, $zero
+202AF118 0C0AA314   //jal     _ZN5CFont14SetOrientationEh  # Jump And Link
+202AF11C 0000202D   //move    $a0, $zero
+202AF120 2402024E   //li      $v0, 0x24E       # Load Immediate
+202AF124 44820000   //mtc1    $v0, $f0         # Move to FPU
+202AF128 0C0AA29C   //jal     _ZN5CFont13SetCentreSizeEf  # Jump And Link
+202AF12C 46800320   //cvt.s.w $f12, $f0        # Floating-point Convert to Single Fixed-Point Format
+202AF130 0C0AA27C   //jal     _ZN5CFont12SetFontStyleEh  # Jump And Link
+202AF134 24040003   //li      $a0, 3           # Load Immediate
+202AF138 0C0AA2EC   //jal     _ZN5CFont7SetEdgeEa  # Jump And Link
+202AF13C 24040002   //li      $a0, 2           # Load Immediate
+202AF140 3C01007C   //lui     $at, 0x7C  # '|'  # Load Upper Immediate
+202AF144 3C024F00   //lui     $v0, 0x4F00      # Load Upper Immediate
+202AF148 C42132D0   //lwc1    $f1, flt_7C32D0  # Load Word to FPU
+202AF14C 44820000   //mtc1    $v0, $f0         # Move to FPU
+
+//CRadar::DrawRadarSprite width
+2026D384 3C034100  //lui     $v1, 0x4100      # Load Upper Immediate
+2026D388 0200102D  //move    $v0, $s0
+2026D38C 44831000  //mtc1    $v1, $f2         # Move to FPU
+2026D390 3C0340C6  //lui     $v1, 0x40C6
+2026D394 44831800  //mtc1    $v1, $f3         # Move to FPU
+2026D398 27A50050  //addiu   $a1, $sp, 0x70+var_20  # a2
+2026D39C 27A6006C  //addiu   $a2, $sp, 0x70+var_4  # rgbaColor
+2026D3A0 4603A801  //sub.s   $f0, $f21, $f3   # Floating-point Subtract
+2026D3A4 00021880  //sll     $v1, $v0, 2      # Shift Left Logical
+2026D3A8 3C020070  //li      $v0, dword_703A70  # Load Immediate
+2026D3AC 24423A70  //
+2026D3B0 00432021  //addu    $a0, $v0, $v1    # a1
+2026D3B4 E7A00050  //swc1    $f0, 0x70+var_20($sp)  # Store Word from FPU
+2026D3B8 4603A800  //add.s   $f0, $f21, $f3   # Floating-point Add
+2026D3BC E7A00058  //swc1    $f0, 0x70+var_18($sp)  # Store Word from FPU
+2026D3C0 4602A041  //sub.s   $f1, $f20, $f2   # Floating-point Subtract
+2026D3C4 4602A000  //add.s   $f0, $f20, $f2   # Floating-point Add
+2026D3C8 E7A1005C  //swc1    $f1, 0x70+var_14($sp)  # Store Word from FPU
+2026D3CC 0C0AC258  //jal     _ZN9CSprite2d4DrawERK5CRectRK5CRGBA  # Jump And Link
+2026D3D0 E7A00054  //swc1    $f0, 0x70+var_1C($sp)  # Store Word from FPU
+2026D3D4 0200282D  //move    $a1, $s0
+2026D3D8 0C09A670  //jal     _ZN6CRadar19AddBlipToLegendListEhi  # Jump And Link
+2026D3DC 0000202D  //move    $a0, $zero
+2026D3E0 DFBF0040  //ld      $ra, 0x70+var_30($sp)  # Load Doubleword
+2026D3E4 C7B50004  //lwc1    $f21, 0x70+var_6C($sp)  # Load Word to FPU
+2026D3E8 7BB20030  //lq      $s2, 0x70+var_40($sp)  # Load Quadword
+2026D3EC C7B40000  //lwc1    $f20, 0x70+var_70($sp)  # Load Word to FPU
+2026D3F0 7BB10020  //lq      $s1, 0x70+var_50($sp)  # Load Quadword
+2026D3F4 7BB00010  //lq      $s0, 0x70+var_60($sp)  # Load Quadword
+2026D3F8 03E00008  //jr      $ra              # Jump Register
+2026D3FC 27BD0070  //addiu   $sp, 0x70        # Add Immediate Unsigned
+
+//CRadar::DrawBlips - Radar Centre
+2026863C 24050006
+20268644 24060008
+20268674 24050006
+2026867C 24060008
+
+202ADA20 3c033ecc //mission timers
+202AD82C 3c023f33 //Vehicle name width
+202AFCAC 3c023f33 //Mission title width
+
+202AD29C c78c8384 //Area name width hook - 0x663474
+
+20663bc8 3ecccccd //Money Width
+
+20663C58 3ecccccd //Subtitles Width
+
+20663674 3EB33333 //Help box Width
+
+202AC440 C78C82BC //DrawVitalStats weekday width hook
+202AC438 C78D899C //DrawVitalStats weekday height hook
+
+2023E5C4 3c023f33 //CMenuManager::DrawWindow title width
+
+202ACAB4 3C0341d4 //AltitudeBar width
+202ACC10 3C0241e5 //AltitudeCounter width
+202ACC00 3C034190 //AltitudeCounter X Pos
+
+//Set drop shadows to outline
+202A8B90 3c01007c
+202A8B94 a0202346
+202A8B98 3c01007c
+202A8B9C a024234b
+202A8Ba8 a024234c
+
+//--------------------------------------------------FOV------------------------------------------------//
+
+2021DF84 0C044C2F //SetFOV Call
+20242D54 0C044C2F //SetFOV Call
+2021DF84 0C044C2F //SetFOV Call
+
+201130BC 3C013F9D //New SetFOV
+201130C0 44810000 //New SetFOV
+201130C4 46006302 //New SetFOV
+201130C8 03e00080 //New SetFOV
+201130CC E78C9A90 //New SetFOV
+
+2021DFE0 3c0242a0 // Emergency Vehicles Fix
+
+202EE0E0 3C024120 // Fix sky multitude
+202EE0E8 00000000 // Fix sky multitude
+
+2020A484 3C024302 // Set vehicle max FOV
+
+//-------------------------------------------------Menu------------------------------------------------//
+
+20234A44 24040001 //Set Menu Text Body
+
+20234A14 c78c8b68 //Hook Menu Items Width to Subtitles width
+202354F8 c78c8b68 //Hook Menu Items Width to Subtitles width
+20242190 3c023ecc //Set Menu Labels Width
+
+//-------------------------------------------------Debug-----------------------------------------------//
+
+//20515870 00000000 //Disable radiosity
+//2039B53C 24040001 //Set VSync Mode to 60 FPS
+//20245790 00000000 //Skip MPEG Decoder
+//202457B0 00000000 //Skip MPEG Decoder
