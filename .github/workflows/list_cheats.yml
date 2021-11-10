@@ -22,7 +22,7 @@ jobs:
     - name: Update Cheats list
       run: |
           cd CHT
-          echo game count;${{ steps.slug.outputs.chtcount }} >> ../cheat_list.CSV
+          echo game count\;${{ steps.slug.outputs.chtcount }} >> ../cheat_list.CSV
           head -n1 -q *.cht | tr -d \" >> ../cheat_list.CSV
           cd ..
           sed -i 's/\/ID/;/' cheat_list.CSV
