@@ -22,10 +22,10 @@ jobs:
     - name: Update Cheats list
       run: |
           cd CHT
-          echo game count /ID ${{ steps.slug.outputs.chtcount }} >> ../cheat_list.TSV
-          head -n1 -q *.cht | tr -d \" >> ../cheat_list.TSV
+          echo game count;${{ steps.slug.outputs.chtcount }} >> ../cheat_list.CSV
+          head -n1 -q *.cht | tr -d \" >> ../cheat_list.CSV
           cd ..
-          sed -i 's/\/ID/\t/' cheat_list.TSV
+          sed -i 's/\/ID/;/' cheat_list.CSV
 
     - uses: EndBug/add-and-commit@v7
       if: github.ref == 'refs/heads/main'
