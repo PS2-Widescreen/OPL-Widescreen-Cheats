@@ -27,6 +27,7 @@ jobs:
           head -n1 -q *.cht | tr -d \" >> ../cheat_list.CSV
           cd ..
           sed -i 's/\/ID/; /' cheat_list.CSV
+          sed -i 's/,/\",\"/' cheat_list.CSV
 
     - uses: EndBug/add-and-commit@v7
       if: github.ref == 'refs/heads/main'
