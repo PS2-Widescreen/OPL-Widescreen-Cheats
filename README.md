@@ -4,6 +4,8 @@
 
 Drop these cheat files in your /OPL/CHT folder to correct/add widescreen support for your PS2 games!
 
+#### See available cheats table [here](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)
+
 So you have some sexy component cables on your big widescreen TV and you think you are ballin' hard?
 Well sorry to break it to you but you aren't.
 Most games do not have widescreen support so they just stretch the image.
