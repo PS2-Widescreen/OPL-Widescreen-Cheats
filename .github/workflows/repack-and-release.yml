@@ -14,9 +14,17 @@ jobs:
 
       - name: zip cheats
         run: |
-          
           zip widescreen_hacks CHT/*
     
+      - name: Get CHT count
+        id: slug
+        run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
+      - name: create release body
+        run: |
+            echo "- cheats count: `${{ steps.slug.outputs.chtcount }}`">latest_changes.log
+            echo "- \[List of supported games\](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">>latest_changes.log
+            
+            
       - name: Upload artifacts
         if: ${{ success() }}
         uses: actions/upload-artifact@v2
@@ -24,14 +32,23 @@ jobs:
           name: WIDESCREEN
           path: |
              widescreen_hacks*.zip
-
-      - name: Create pre-release
-        if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main'
-        uses: marvinpinto/action-automatic-releases@latest
+      - name: delete previous tag/release
+        uses: dev-drprasad/delete-tag-and-release@v0.2.0
         with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "Latest"
-          prerelease: false
-          title: "Latest Version"
+          delete_release: true
+          tag_name: Latest
+        env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy release
+        uses: softprops/action-gh-release@v1
+        if: (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main')
+        with:
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          fail_on_unmatched_files: true
           files: |
-                widescreen_hacks*.zip
+               widescreen_hacks*.zip
+          name: "Latest Package"
+          tag_name: "Latest"
+          body_path: 'latest_changes.log'
+          prerelease: false
