@@ -10,18 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
 
       - name: zip cheats
         run: |
           zip widescreen_hacks CHT/*
     
-      - name: Get CHT count
+      - name: Get short SHA
         id: slug
         run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
+        
       - name: create release body
         run: |
-            echo "- __cheats count:__ `${{ steps.slug.outputs.chtcount }}`">latest_changes.log
+            echo "- __cheats count:__ _${{ steps.slug.outputs.chtcount }}_">latest_changes.log
             echo "- [__List of supported games__](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">>latest_changes.log
             
             
