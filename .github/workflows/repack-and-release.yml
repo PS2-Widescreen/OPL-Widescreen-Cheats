@@ -21,8 +21,8 @@ jobs:
         run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
       - name: create release body
         run: |
-            echo "- cheats count: `${{ steps.slug.outputs.chtcount }}`">latest_changes.log
-            echo "- \[List of supported games\](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">>latest_changes.log
+            echo "- __cheats count:__ `${{ steps.slug.outputs.chtcount }}`">latest_changes.log
+            echo "- [__List of supported games__](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">>latest_changes.log
             
             
       - name: Upload artifacts
