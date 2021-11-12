@@ -27,7 +27,7 @@ jobs:
           head -n1 -q *.cht | tr -d \" >> ../temp.MD
           cd ..
           sed -i 's/\/ID/ \| /' temp.MD
-          cat temp.MD >>cheat_list.MD
+          sort temp.MD >>cheat_list.MD
           rm temp.MD
 
     - uses: EndBug/add-and-commit@v7
