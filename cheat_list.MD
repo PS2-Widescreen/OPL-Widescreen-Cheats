@@ -316,19 +316,19 @@ Sega Rally Championship  |  SLPM_627.03
 ﻿Bomberman Jetters  |  SLPM_652.18
 ﻿The Transformers: Call of the Future  |  SLPM_654.07
 ﻿Final Fantasy X-2 - International + Last Mission  |  SLPM_654.78
-﻿[Translated] Dragon Quest V - Tenkuu no Hanayome  |  SLPM_655.55
-﻿[Translated] Berserk - Millennium Falcon Hen Seima Senki no Shou  |  SLPM_656.88
+﻿Dragon Quest V - Tenkuu no Hanayome [Translated]  |  SLPM_655.55
+﻿Berserk - Millennium Falcon Hen Seima Senki no Shou [Translated]  |  SLPM_656.88
 ﻿Future Boy Conan  |  SLPM_659.73
-﻿[Translated] Front Mission 5 - Scars of the War  |  SLPM_662.05
+﻿Front Mission 5 - Scars of the War [Translated]  |  SLPM_662.05
 ﻿Sengoku Basara 2  |  SLPM_664.47
 ﻿Appleseed EX  |  SLPM_665.51
 ﻿Final Fantasy XII - International  |  SLPM_667.50
 ﻿Sengoku Basara 2 Heroes  |  SLPM_668.48
 ﻿Golden Knight Garo  |  SLPS_204.63
 ﻿Final Fantasy X - International  |  SLPS_250.88
-﻿[Translated] Shadow Tower Abyss  |  SLPS_252.17
+﻿Shadow Tower Abyss [Translated]  |  SLPS_252.17
 ﻿One Piece Grand Battle! 3  |  SLPS_253.15
-﻿[Translated] Namco X Capcom  |  SLPS_255.05
+﻿Namco X Capcom [Translated]  |  SLPS_255.05
 ﻿Fighting For One Piece  |  SLPS_255.45
 ﻿KOF: Maximum Impact - Maniax  |  SLPS_256.36
 ﻿Metal Slug (2006)  |  SLPS_256.50
@@ -565,7 +565,7 @@ Grand Theft Auto III  |  SLUS_200.62
 ﻿Call of Duty - Finest Hour  |  SLUS_207.25
 ﻿Tony Hawk's Underground  |  SLUS_207.31
 ﻿Drakengard  |  SLUS_207.32
-﻿Castlevania - Lament of Innocence  |  SLUS_207.33
+Castlevania - Lament of Innocence  |  SLUS_207.33
 ﻿Van Helsing  |  SLUS_207.38
 ﻿Mobile Suit Gundam - Encounters in Space  |  SLUS_207.40
 ﻿Chulip  |  SLUS_207.42
