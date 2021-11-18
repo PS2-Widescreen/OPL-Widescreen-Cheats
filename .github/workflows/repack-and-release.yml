@@ -24,7 +24,7 @@ jobs:
         run: |
             echo "- __cheats count:__ _${{ steps.slug.outputs.chtcount }}_">latest_changes.log
             echo "- [__List of supported games__](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">>latest_changes.log
-            ech0 "![GitHub release (latest by date)](https://img.shields.io/github/downloads/PS2-Widescreen/OPL-Widescreen-Cheats/Latest/total?label=Downloads)">>latest_changes.log
+            echo "![GitHub release (latest by date)](https://img.shields.io/github/downloads/PS2-Widescreen/OPL-Widescreen-Cheats/Latest/total?label=Downloads)">>latest_changes.log
             
       - name: Upload artifacts
         if: ${{ success() }}
