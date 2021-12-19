@@ -88,7 +88,7 @@ Silent Hill 3  |  SLES_514.34
 Silpheed - The Lost Planet  |  SLES_501.93
 Sky Odyssey  |  SCES_501.05
 Star Wars - Battlefront II  |  SLES_535.03
-Summoner (PAL-G)
+Summoner (PAL-G)  |  SLES_820.05
 Tekken Tag Tournament  |  SCES_500.01
 The Operative - No One Lives Forever  |  SLES_505.92
 The Typing of the Dead - Zombie Panic  |  SLPM_625.66
