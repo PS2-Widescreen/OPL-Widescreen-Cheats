@@ -1,4 +1,4 @@
-game count|912
+game count|913
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -64,6 +64,7 @@ NBA Live 2005  |  SLES_527.13
 Need for Speed - Hot Pursuit 2  |  SLES_507.31
 ObsCure  |  SLES_525.08
 Odin Sphere  |  SLES_551.10
+Portal Runner  |  SLES_502.63
 Prince of Persia - The Sands of Time  |  SLES_519.18
 Pro Evolution Soccer 2009  |  SLES_554.06
 Pro Evolution Soccer 2014  |  SLES_556.74
