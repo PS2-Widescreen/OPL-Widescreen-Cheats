@@ -12,10 +12,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         
-    - name: append credits to all cheats
-      run: |
-        chmod +x ./Append.sh
-        ./Append.sh
+      - name: append credits to all cheats
+        run: |
+          chmod +x ./Append.sh
+          ./Append.sh
         
       - name: zip cheats
         run: |
