@@ -1,0 +1,13 @@
+"Stolen /ID SLES_528.82"
+
+Master Code
+//~903B41D8 0C0ED01E	// sceSifSendCmd (recommended)
+903C33D4 0C0EA28F	// scePadRead
+//~9022B39C 0C0EDEE6	// main (unreliable)
+
+/*
+ * Comment: Widescreen hack by dieSkaarj
+ */
+
+Widescreen Code
+20aeadf0 3f400000

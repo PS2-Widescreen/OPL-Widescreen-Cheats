@@ -1,0 +1,19 @@
+"Shadow Hearts 3: From The New World /ID SLES_547.11"
+
+Master Code
+90387C98 0C0E1ECE		 // sceSifSendCmd (recommended)
+//~90379DE8 0C0E55E4 	// scePadRead
+//~9020023C 0C084608 	// main (unreliable)
+
+/* 
+ * Widescreen Hack (16:9) by ElHecht.
+ */
+
+Widescreen Code
+// 16:9
+20378d1c 3c013f40
+20378d20 44810000
+20378d28 4600c602
+
+// Render-Fix
+20208b4c 3c033fc0

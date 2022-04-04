@@ -1,0 +1,9 @@
+"Mystic Heroes /ID SLES_513.58"
+
+Master Code
+902E6D48 0C0B9AFA		// sceSifSendCmd (recommended)
+//~902F4BC4 0C0BF93D	// scePadRead
+//~902B46F4 0C0BED80	// main (unreliable)
+
+Widescreen Code
+20326ae0 3f400000

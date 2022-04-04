@@ -1,0 +1,14 @@
+"Lara Croft Tomb Raider: The Angel Of Darkness /ID SLES_512.27"
+
+Master Code
+90216928 0C0859F2		// sceSifSendCmd (recommended)
+//~90213ED4 0C088D71	// scePadRead
+//~9015BAD4 0C083166	// main (unreliable)
+
+/*
+ * Ported by Arapapa.
+ */
+
+Widescreen Code
+20207494 3c013fe2
+20207498 3421fc93

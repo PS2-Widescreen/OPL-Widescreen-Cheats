@@ -1,0 +1,10 @@
+"Tenchu: Fatal Shadows /ID SLES_530.14"
+
+Master Code
+90112E10 0C044B2C		// sceSifSendCmd (recommended)
+//~90136C2C 0C04E19C	// main (unreliable)
+
+Widescreen Code
+2012ef24 3c023f40
+2012f738 3c02442b
+

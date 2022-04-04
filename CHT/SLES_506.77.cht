@@ -1,0 +1,10 @@
+"Shadow Hearts /ID SLES_506.77"
+
+Master Code
+9020DFD8 0C08379E 		// sceSifSendCmd (recommended)
+//~90213D3C 0C0888B4 	// scePadRead
+//~902FA820 0C0BE9E4 	// main
+
+Widescreen Code
+2028fa98 3c043f40
+20284814 3c023f40

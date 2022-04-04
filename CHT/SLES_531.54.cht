@@ -1,0 +1,22 @@
+"Bard's Tale /ID SLES_531.54"
+
+Master Code
+90151CB0 0C0546D4 		// sceSifSendCmd (recommended)
+//~90108CD8 0C0425F0	// main (unreliable)
+
+/*
+ * Gameplay & render fixes by El_Patas. Font fix by Arapapa.
+ */
+ 
+// Widescreen Code
+2011c0d4 3c023f40
+2012e6ec 3c033f40
+201440f8 3c053f40
+20144174 3c033f40
+201441c4 3c023f40
+
+// Render fix
+2013d9d0 3c023f2b
+
+// Font fix
+2010ec74 3c0341c0

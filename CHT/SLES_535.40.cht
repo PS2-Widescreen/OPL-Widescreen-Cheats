@@ -1,0 +1,8 @@
+"Fahrenheit /ID SLES_535.39"
+
+Master Code
+903A0F38 0C0E8376		// sceSifSendCmd (recommended)
+//~9038F600 0C0EF67E	// scePadRead
+
+Widescreen Code
+20836500 3fe38e38

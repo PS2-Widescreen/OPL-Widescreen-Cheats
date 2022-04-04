@@ -1,0 +1,39 @@
+"Legacy of Kain: Defiance /ID SLES_521.50"
+
+Master Code
+90257470 0C095CC4		// sceSifSendCmd (recommended)
+//~9025F570 0C09111D	// scePad2Read
+//~901C2EC4 0C0938AA	// main (unreliable)
+
+/*
+ * Widescreen hack by nemesis2000.
+ */
+
+Widescreen Code
+
+// Built in widescreen
+2011a644 00000000
+2028e8c0 00000001
+
+// Sub black background off
+2013d458 3c013b30
+
+// Cutscenes black border fix
+201522e0 3c01bf80
+201522ec 3c013f80
+
+// Cutscenes render fix
+20119a34 3c01c340
+20119a50 3c014340
+
+// Partial font size fix
+2013bcac 3c013f40
+2013bcd0 e4200d7c
+2013bcf8 46000003
+2013bcfc e4200d6c
+
+// HUD fix (not fully tested)
+2023d668 3c013b40
+
+// FMV fix
+20213588 24070156

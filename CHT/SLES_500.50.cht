@@ -1,0 +1,11 @@
+"Evergrace /ID SLES_500.50"
+Master Code
+901C7FE8 0C071FA0		// sceSifSendCmd (recommended)
+
+/*
+ * Widescreen hack by Machiavel Dhy'v converted from NTSC-U.
+ */
+
+Widescreen Code
+00101178 3c013f40
+00101218 3c013f40

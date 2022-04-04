@@ -1,0 +1,12 @@
+"Furry Tales /ID SLES_528.24"
+
+Master Code
+9011DA50 0C04763C		// sceSifSendCmd (recommended)
+
+/*
+ * Widescreen hack by Arapapa.
+ */
+
+Widescreen Code
+//X-Fov
+20286ecc 3c023f2a

@@ -1,0 +1,14 @@
+"Viewtiful Joe 2 /ID SLES_528.68"
+
+Master Code
+903BC928 0C0EF1F2		// sceSifSendCmd (recommended)
+//~9039B9F8 0C0ECB83	// scePad2Read
+
+/*
+ * Widescreen hack by El_Patas
+ */
+
+Widescreen Code
+//Gameplay 16:9
+202dfbd0 3c013fd3
+202dfbd4 34218e38

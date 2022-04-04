@@ -1,0 +1,16 @@
+"Bloody Roar 3 /ID SLES_502.03"
+
+Master Code
+901D4148 0C074FFA		// sceSifSendCmd (recommended)
+//~901DB4B4 0C07AE25	// scePadRead
+//~901BAD80 0C079CCA	// main (unreliable)
+
+/*
+ * Widescreen hack by El_Patas.
+ */
+
+Widescreen Code
+//Gameplay 16:9
+201d7b2c 3c013f40
+201d7b30 44810000
+201d7b38 4600c602

@@ -1,0 +1,13 @@
+"Nightshade /ID SLES_522.38"
+
+Master Code
+903A33F8 0C0E8CA6	// sceSifSendCmd (recommended)
+//~901828A8 0C060A7C	// main (unreliable)
+
+/*
+ *	Widescreen pnach by El_Patas 
+ */
+
+Widescreen Code
+20183124 3c023f24	// adjust h-axis
+20183128 34428b44

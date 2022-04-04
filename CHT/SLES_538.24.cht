@@ -1,0 +1,32 @@
+"Trapt /ID SLES_538.24"
+
+Master Code
+90124E38 0C049336		// sceSifSendCmd (recommended)
+//~9013E724 0C04D7AE	// scePadRead
+//~9010075C 0C040174	// main (unreliable)
+
+Widescreen Code
+/*
+ * Widescreen hack by ElHecht.
+ */
+
+// 16:9 vertical fov
+20104974 3c013f40
+20104980 4481f000
+2010498c 461eb582
+
+// 16:9 horizontal fov; causes character popups in cut-scenes
+20104974 3c013f40
+20104980 4481f000
+20104984 461ebdc3
+
+// Loading screen
+2029ce3c 3c0343f0
+2029ce40 3c024415
+
+// Font fix for cut-scenes
+201c628c 3c024190
+
+// Remove black bars in cut-scenes
+201e4e04 3c020000
+201e4e50 3c020000

@@ -1,0 +1,21 @@
+"La Pucelle: Tactics /ID SLES_529.78"
+
+Master Code
+9010BD30 0C042EF4		// sceSifSendCmd (recommended)
+//~90100264 0C050358	// main (unreliable)
+
+/*
+ * Widescreen hack by El_Patas.
+ */
+
+Widescreen Code
+// Gameplay 16:9 
+20108994 3c013f40
+20108998 44810000
+201089a0 4600c602
+
+// 2D Characters fix
+20136728 3c033fc0
+2013673c 3c023fc0
+20136750 3c023fc0
+20136764 3c063fc0

@@ -1,0 +1,16 @@
+"Bloody Roar 4 /ID SLES_518.77"
+
+Master Code
+902D5F20 0C0B5770		// sceSifSendCmd (recommended)
+//~9010024C 0C0BAC66	// main (unreliable)
+
+/*
+ * Widescreen hack by ElHecht.
+ */
+
+Widescreen Code
+// X-Res
+2060ec20 3fa3a283
+
+// Y-Res
+//~2060ec20 40117402

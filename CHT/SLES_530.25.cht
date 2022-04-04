@@ -1,0 +1,27 @@
+"Red Ninja - End of Honor /ID SLES_530.25"
+
+Master Code
+9043BB70 0C10EE84		// sceSifSendCmd (recommended)
+//~90100214 0C044BDE	// main (unreliable)
+/*
+ * Widescreen hack by ElHecht.
+ */
+
+// 16:9
+// Hor fov1
+2036dedc 3c013f40
+2036dee0 44817000
+2036def0 460e7303
+
+// Hor fov2 (background trees)
+20402680 3c013f40
+20402688 4481f000
+204026d8 4602f782
+204026ec 461e0842
+
+// Render fix enemies
+203625c4 3c013f2b
+
+// Remove black bars in cutscenes
+2010a694 3c01c380
+2010a6c8 3c014380
