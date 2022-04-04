@@ -1,0 +1,15 @@
+"Rule of Rose /ID SLES_542.18"
+
+Master Code
+902626D8 0C09895E 		// sceSifSendCmd (recommended)
+//~9026D3A0 0C09ECA7 	// scePad2Read
+
+Widescreen Code
+0013bf48 3c013f12
+0013bf70 3c013f10
+
+// Noise off
+//201cb014 e43f1fa0
+
+// Black borders's fix
+20191430 24050000

@@ -1,0 +1,31 @@
+"Legacy of Kain: Soul Reaver 2 /ID SLES_501.96"
+
+Master Code
+90209158 0C0823FE		// sceSifSendCmd (recommended)
+//~901EFE8C 0C07D6EF	// scePadRead
+
+/*
+ * Widescreen hack by nemesis2000.
+ */
+
+Widescreen Code
+// Built in widescreen
+20240c20 00000001
+20170c8c 3c013f80
+20170c90 00000000
+20170cc8 00000000
+
+// Both fov+
+20113f54 3c0143c0
+20114a70 3c0143c0
+
+// Cutscenes black border fix
+2013e264 3c01bf80
+2013e26c 3c013f80
+
+// Render fix
+2011339c 3c013f40
+
+// FMV fix
+201d4610 24097560
+201d4618 240b1550

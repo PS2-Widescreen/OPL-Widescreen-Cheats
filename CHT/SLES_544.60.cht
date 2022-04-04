@@ -1,0 +1,14 @@
+"Draon Sisters /ID SLES_544.60"
+
+Master Code
+90293958 0C0A4DFE 		// sceSifSendCmd (recommended)
+//~9026D92C 0C0A2956 	// scePadRead
+//~901001F4 0C0A0A8A	// main
+
+/*
+ * Original patch and value by sergx12
+ * Updated to ELf address by ElHecht
+ */
+
+// 16:9
+20252bf8 3c013f40

@@ -1,0 +1,14 @@
+"Time Crisis 2 /ID SCES_503.00"
+
+/* Widescreen hack. Port by
+ * dieSkaarj (PAL.)
+ */
+
+Master Code
+//~902D09F8 0C0B4226	// sceSifSendCmd (recommended)
+902B6CE4 0C0B1C98	// scePadRead
+//~901005A0 0C0B133C	// main (unreliable)
+
+Widescreen Code
+20298818 3c013f40
+0040806c 3f400000

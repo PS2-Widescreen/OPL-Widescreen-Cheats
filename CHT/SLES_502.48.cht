@@ -1,0 +1,14 @@
+"MDK2 - Armageddon /ID SLES_502.48"
+
+Master Code
+901BCCF8 0C06F2E6		// sceSifSendCmd (recommended)
+//~901A0774 0C06BFE7	// scePadRead
+//~901040C8 0C068B0E	// main
+
+/*
+ * Widescreen pnach by El_Patas.
+ */
+
+Widescereen Code
+//Gameplay 16:9 
+2017bc6c 3c0140ab

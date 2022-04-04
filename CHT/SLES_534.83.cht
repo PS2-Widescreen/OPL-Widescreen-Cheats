@@ -1,0 +1,13 @@
+"Magna Carta: Tears of Blood /ID SLES_534.83"
+Master Code
+901089B8 0C042216	// sceSifSendCmd (recommended)
+//~9012085C 0C045B1C	// scePadRead
+//~901D9D84 0C040088	// main (unreliable)
+
+/*
+ * Widescreen Hack (16:9) by ElHecht
+ */
+
+Widescreen Code
+
+202bd698 3c023f40 //3c023f80

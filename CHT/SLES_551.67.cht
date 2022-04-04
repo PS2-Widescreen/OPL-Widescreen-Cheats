@@ -1,0 +1,29 @@
+"Soul Nomad & the World Eaters /ID SLES_551.67"
+
+Master Code
+901130D0 0C044BDC		// sceSifSendCmd (recommended)
+//~901252D8 0C04AA56	// scePadRead
+//~90136DD8 0C058BC8	// main (unreliable)
+
+/*
+ * Widescreen hack by nemesis2000.
+ */
+
+Widescreen Code
+// Gameplay
+201048e4 3c013f40
+201048e8 44810000
+201048f0 4600c602
+
+// Sprite fix
+20150fa0 3c033f40
+20150fb4 3c033f80
+20150fb8 ac830010
+20150fbc ac800014
+20150fc0 ac800018
+20150fc4 ac80001c
+20150fc8 03e00008
+20150fcc ac830020
+
+// Text width
+2012faa4 3c023f40

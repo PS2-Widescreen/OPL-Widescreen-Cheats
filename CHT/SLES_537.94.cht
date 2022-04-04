@@ -1,0 +1,24 @@
+"Drakengard 2 /ID SLES_537.94"
+
+Master Code
+903AFD78 0C0EBF06		// sceSifSendCmd (recommended)
+//~90381968 0C0E9549	// scePad2Read
+//~901A0554 0C0E76F8	// main (unreliable)
+
+/*
+ * Widescreen hack by ElHecht.
+ */
+
+Widescreen Code
+204d0d58 3fe38e32
+20562794 44550000
+
+// 16:9
+202a1818 3c013f40
+202a1820 4481f000
+202a1824 c783c53c
+202a1854 461e18c3
+202d2b0c 3c014456
+
+// Black border fix
+203337e0 3c010000

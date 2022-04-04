@@ -1,0 +1,12 @@
+"Pirates - The Legend Of Black Kat /ID SLES_506.80"
+
+Master Code
+//~902d8020 0C0b5fb0	// sceSifsendCmd (recommended)
+902c964c 0C0ac113	// scePadRead
+
+/*
+ * Comments: Gameplay widescreen hack by dieSkaarj
+ */
+
+Widescreen Code
+20152ff0 3c013f40

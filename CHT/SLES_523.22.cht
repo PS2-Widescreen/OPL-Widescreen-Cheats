@@ -1,0 +1,17 @@
+"Drakengard /ID SLES_523.22"
+
+Master Code
+90322038 0C0C87B6		// sceSifSendCmd (recommended)
+//~90279370 0C0C3CDA	// main (unreliable)
+
+/*
+ * Widescreen hack by ElHecht.
+ */
+
+Widescreen Code
+// 16:9
+2030101c 3c013f40
+20301028 4481f000
+2030102c 461ec602
+20264980 3c0143d6
+2012a0ac 3c014456

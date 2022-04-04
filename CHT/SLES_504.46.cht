@@ -1,0 +1,16 @@
+"Shadow Man: 2econd Coming /ID SLES_504.46"
+
+Master Code
+9023F178 0C08FC06 		// sceSifSendCmd (recommended)
+//~901F6D74 0C07DE78 	// scePadRead
+//~901D3390 0C08ED52 	// main
+
+/*
+ * Widescreen hack by Arapapa.
+ */
+ 
+Widescreen Code
+//Widescreen hack 16:9
+//X-Fov
+202b9534 3fe38e08
+202b955c 3fe38e08
