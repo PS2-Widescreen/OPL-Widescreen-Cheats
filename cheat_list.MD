@@ -1,4 +1,4 @@
-game count|913
+game count|960
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -6,25 +6,40 @@ Ace Combat 5 - Squadron Leader  |  SCES_524.24
 Amplitude  |  SCES_517.06
 Armored Core 2 - Another Age  |  SLES_509.05
 Baldur's Gate - Dark Alliance  |  SLES_506.72
+Barbarian  |  SLES_509.72
+Bard's Tale  |  SLES_531.54
 Beyond Good & Evil  |  SLES_519.17
 Black  |  SLES_538.86
+Black & Bruised  |  SLES_516.20
+Blood Omen 2: Legacy of Kain  |  SLES_507.71
 Blood Will Tell - Tezuka Osamu's Dororo  |  SLES_527.55
+Bloody Roar 3  |  SLES_502.03
+Bloody Roar 4  |  SLES_518.77
 Brothers in Arms: Road to Hill 30  |  SLES_528.88
 Burnout 3 - Takedown  |  SLES_525.85
 Castlevania - Lament of Innocence  |  SLUS_207.33
 Contra - Shattered Soldier  |  SLES-512.84
+Cyclone Circus  |  SLES_526.84
 Dark Chronicle  |  SCES_511.90
 Das Ding aus einer anderen Welt  |  SLES_509.76
+Dead or Alive 2  |  SCES_500.03
 Der Herr der Ringe - Die Rückkehr des Königs  |  SLES_520.18
 Devil May Cry 2 - Disc 1 - Dante  |  SLES_820.11
 Devil May Cry 2 - Disc 2 - Lucia  |  SLES_820.12
 Die Sims  |  SLES_512.57
 Die Sims brechen aus  |  SLES_520.47
+Dino Stalker  |  SLES_509.30
 Disgaea - Hour Of Darkness  |  SLES_524.58
 Drakan - The Ancients' Gates  |  SCES_500.06
+Drakengard  |  SLES_523.22
+Drakengard 2  |  SLES_537.94
+Draon Sisters  |  SLES_544.60
 Dynasty Warriors 4  |  SLES_516.63
 Enter The Matrix  |  SLES_512.03
+Evergrace  |  SLES_500.50
 Fahrenheit  |  SLES_535.39
+Fahrenheit  |  SLES_535.39
+Fighting Angels  |  SLES_534.08
 Final Fantasy X  |  SCES_504.90
 Final Fantasy X  |  SCES_504.92
 Final Fantasy X-2  |  SLES_518.15
@@ -33,6 +48,7 @@ Flipnic - Ultimate Pinball  |  SLES_520.65
 Formula One 2001  |  SCES_500.04
 Freak Out  |  SLES_503.10
 Frequency  |  SCES_507.91
+Furry Tales  |  SLES_528.24
 GTA - San Andreas  |  SLUS_209.46
 Giants - Citizen Kabuto  |  SLES_503.14
 Gitaroo Man  |  SLES_506.53
@@ -44,12 +60,22 @@ Grand Theft Auto: Vice City  |  SLES_510.61
 Half-Life  |  SLES_505.05
 Haunting Ground  |  SLES_528.77
 Hitman - Blood Money  |  SLES_530.30
+Jet Ion GP  |  SLES_505.44
 Killer7  |  SLES_533.66
 Kim Possible - What's the Switch  |  SLES_543.88
 Kingdom Hearts  |  SCES-509.69
 Klonoa 2 - Lunatea's Veil  |  SCES_503.54
+La Pucelle: Tactics  |  SLES_529.78
+Lara Croft Tomb Raider: The Angel Of Darkness  |  SLES_512.27
+Legacy of Kain: Defiance  |  SLES_521.50
+Legacy of Kain: Soul Reaver 2  |  SLES_501.96
 Leisure Suit Larry - Magna Cum Laude  |  SLES_526.43
+Lotus Challenge  |  SLES_502.30
+MDK2 - Armageddon  |  SLES_502.48
 MX Unleashed  |  SLES_520.43
+Mace Griffin - Bounty Hunter  |  SLES_516.53
+Magna Carta: Tears of Blood  |  SLES_534.83
+Maken Shao - Demon Sword  |  SLES_510.58
 Manhunt  |  SLES_520.23
 Metal Gear Solid 2 - Substance  |  SLES_820.09
 Metal Gear Solid 2: Sons of Liberty  |  SLES_503.83
@@ -60,12 +86,18 @@ Monster Hunter  |  SLES_527.07
 Mortal Kombat - Deadly Alliance  |  SLES_507.17
 Mortal Kombat - Deception  |  SLES_527.06
 Mr Moskeeto  |  SLES_507.69
+Mystic Heroes  |  SLES_513.58
 NBA Live 2005  |  SLES_527.13
 Need for Speed - Hot Pursuit 2  |  SLES_507.31
+Nightshade  |  SLES_522.38
 ObsCure  |  SLES_525.08
 Odin Sphere  |  SLES_551.10
+Oni  |  SLES_501.34
+Pirates - The Legend Of Black Kat  |  SLES_506.80
 Portal Runner  |  SLES_502.63
 Prince of Persia - The Sands of Time  |  SLES_519.18
+Prince of Persia: The Two Thrones  |  SLES_537.77
+Prince of Persia: Warrior Within  |  SLES_528.22
 Pro Evolution Soccer 2009  |  SLES_554.06
 Pro Evolution Soccer 2014  |  SLES_556.74
 Project Zero 3 - The Tormented  |  SLES_538.25
@@ -76,31 +108,46 @@ R-Type Final  |  SLES_519.52
 Ratchet & Clank 2  |  SCES_516.07
 Ratchet & Clank 3  |  SCES_524.56
 Red Faction II  |  SLES_511.33
+Red Ninja - End of Honor  |  SLES_530.25
 Resident Evil - Outbreak  |  SLES_515.89
 Resident Evil 4  |  SLES_537.02
 Rez  |  SCES_505.01
 Rogue Galaxy  |  SCES_545.52
+Rule of Rose  |  SLES_542.18
+Rumble Roses S |  SLES_525.35
 SOCOM II - U.S. Navy SEALs  |  SCES_519.04
 Sega Rally Championship  |  SLPM_627.03
+Shadow Hearts  |  SLES_506.77
 Shadow Hearts - Covenant - Disc 1  |  SLES_820.30
 Shadow Hearts - Covenant - Disc 2  |  SLES_820.31
+Shadow Hearts 3: From The New World  |  SLES_547.11
+Shadow Man: 2econd Coming  |  SLES_504.46
 Silent Hill - Shattered Memories  |  SLES_555.69
 Silent Hill 3  |  SLES_514.34
 Silpheed - The Lost Planet  |  SLES_501.93
 Sky Odyssey  |  SCES_501.05
+Soul Calibur III  |  SCES_533.12
+Soul Nomad & the World Eaters  |  SLES_551.67
 Star Wars - Battlefront II  |  SLES_535.03
+Stolen  |  SLES_528.82
 Summoner (PAL-G)  |  SLES_820.05
 Tekken Tag Tournament  |  SCES_500.01
+Tenchu: Fatal Shadows  |  SLES_530.14
+Tenchu: Wrath of Heaven  |  SLES_506.79
 The Operative - No One Lives Forever  |  SLES_505.92
 The Typing of the Dead - Zombie Panic  |  SLPM_625.66
 The Warriors  |  SLES-53443
+Time Crisis 2  |  SCES_503.00
 Time Crisis 3  |  SCES_518.44
+TimeSplitters  |  SLES_500.78
 TimeSplitters 2  |  SLES_508.77
 Tom Clancy's Splinter Cell  |  SLES_514.66
 Tomb Raider - Anniversary  |  SLES_546.74
+Trapt  |  SLES_538.24
 Twisted Metal - Black  |  SCES_503.60
 Urban Chaos - Riot Response  |  SLES_539.91
 Viewtiful Joe  |  SLES_526.78
+Viewtiful Joe 2  |  SLES_528.68
 Virtua Fighter 4 - Evolution  |  SLES_516.16
 We Love Katamari  |  SLES_538.28
 XIII  |  SLES_512.44
