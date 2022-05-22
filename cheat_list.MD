@@ -124,6 +124,7 @@ Shadow Hearts 3: From The New World  |  SLES_547.11
 Shadow Man: 2econd Coming  |  SLES_504.46
 Silent Hill - Shattered Memories  |  SLES_555.69
 Silent Hill 3  |  SLES_514.34
+Silent Hill 4 - The Room  |  SLUS_208.73
 Silpheed - The Lost Planet  |  SLES_501.93
 Sky Odyssey  |  SCES_501.05
 Soul Calibur III  |  SCES_533.12
@@ -758,7 +759,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Silent Hill - Shattered Memories  |  SLUS_218.99
 ﻿Silent Hill 2  |  SLUS_202.28
 ﻿Silent Hill 3  |  SLUS_206.22
-﻿Silent Hill 4 - The Room  |  SLUS_208.73
 ﻿Silent Hill Origins  |  SLUS_217.31
 ﻿Silent Scope 3  |  SLUS_205.14
 ﻿Silpheed - The Lost Planet  |  SLUS_200.85
