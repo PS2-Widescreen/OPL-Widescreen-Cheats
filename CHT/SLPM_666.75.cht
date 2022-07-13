@@ -1,0 +1,63 @@
+"Kingdom Hearts 2 Final Mix + /ID SLPM 666 75"
+
+Mastercode
+MISSING
+//comment=Kingdom Hearts 2 Final Mix + (NTSC-J)
+//comment=ENGLISH PATCH BY CRAZYCATZ00
+
+// old widescreen //
+//203a7bbc 3f19999a
+//2036a0b8 43c00000
+//2037153c 3f19999a
+//2036a0f0 3f19999a
+//203761bc 3f19999a
+
+// new 16:9 hack by - ElHecht
+20106e10 3c013f4c
+20106e28 3421cccc
+20106e2c 4481f800
+20106e30 461fa503
+20106e54 3c1b3f40
+20106e58 449bf000
+20106e70 461effc2
+20106e74 e61f004c
+
+//zoom for cutscenes (hides sudden pop-in)
+2036a0bc 43f90000
+
+//disable depth of field (disables poor cutscene scaling)
+00166db6 000000ef
+
+//font fix
+2036ce94 3f400000
+2036ce98 3f400000
+2036ce9c 3f400000
+
+//black border fix
+2014ad80 24050000
+2014ada8 24050000
+2014add0 24050000
+2014ae00 24050000
+
+//lower subtitles
+201ac8d8 240a0190
+
+//subtitles off //
+//2022d8d4 11e00019
+
+//Disable image map names //
+//00149b52 00000000
+//2036b3b0 00000000
+
+//60 FPS //
+//00349e1c 00000000
+
+//60 FPS toggle on (game play, cutscenes ect) //
+//d034dca8 00000003
+//00349e1c 00000000
+//00349e2c 00000000
+
+//60 FPS toggle off (FMV's) //
+//d034dca8 00000001
+//00349e1c 00000001
+//00349e2c 00000001
