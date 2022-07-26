@@ -38,7 +38,9 @@ jobs:
           name: WIDESCREEN
           path: |
              widescreen_hacks*.zip
+
       - name: delete previous tag/release
+        if: (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main')
         uses: dev-drprasad/delete-tag-and-release@v0.2.0
         with:
           delete_release: true
