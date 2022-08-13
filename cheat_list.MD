@@ -1,4 +1,4 @@
-game count|960
+game count|961
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -64,6 +64,7 @@ Jet Ion GP  |  SLES_505.44
 Killer7  |  SLES_533.66
 Kim Possible - What's the Switch  |  SLES_543.88
 Kingdom Hearts  |  SCES-509.69
+Kingdom Hearts 2 Final Mix +  |  SLPM 666 75
 Klonoa 2 - Lunatea's Veil  |  SCES_503.54
 La Pucelle: Tactics  |  SLES_529.78
 Lara Croft Tomb Raider: The Angel Of Darkness  |  SLES_512.27
