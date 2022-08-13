@@ -132,6 +132,7 @@ Soul Nomad & the World Eaters  |  SLES_551.67
 Star Wars - Battlefront II  |  SLES_535.03
 Stolen  |  SLES_528.82
 Summoner (PAL-G)  |  SLES_820.05
+Syphon Filter - Logan's Shadow  |  SCUS_975.84
 Tekken Tag Tournament  |  SCES_500.01
 Tenchu: Fatal Shadows  |  SLES_530.14
 Tenchu: Wrath of Heaven  |  SLES_506.79
@@ -837,7 +838,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Suikoden V  |  SLUS_212.91
 ﻿Super Dragon Ball Z  |  SLES_541.61
 ﻿Syphon Filter - Dark Mirror  |  SCUS_973.62
-﻿Syphon Filter - Logan's Shadow  |  HDUS_975.84
 ﻿Syphon Filter - The Omega Strain  |  SCUS_972.64
 ﻿TMNT  |  SLES_544.78
 ﻿TMNT  |  SLUS_215.95
