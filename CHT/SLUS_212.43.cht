@@ -34,9 +34,9 @@ E0072882 000802CC
 //wide2
 202050AC 3F400000
 
-//Force 60 FPS
-001d5ad8 00000000
-001d6db8 00000001
-001d6dbc 00000000
+//Force 60 FPS (V3ditata: this cheat makes the game unplayable on real hardware)
+//001d5ad8 00000000
+//001d6db8 00000001
+//001d6dbc 00000000
 
 //
