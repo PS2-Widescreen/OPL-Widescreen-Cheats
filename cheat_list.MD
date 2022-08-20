@@ -1,4 +1,4 @@
-game count|965
+game count|966
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -46,6 +46,7 @@ Final Fantasy X  |  SCES_504.92
 Final Fantasy X  |  SLUS_203.12
 Final Fantasy X-2  |  SLES_518.15
 Final Fantasy X-2  |  SLES_518.17
+Final Fantasy XII  |  SLUS_209.63
 FlatOut 2  |  SLES_540.02
 Flipnic - Ultimate Pinball  |  SLES_520.65
 Formula One 2001  |  SCES_500.04
