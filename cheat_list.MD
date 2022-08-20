@@ -1,4 +1,4 @@
-game count|967
+game count|968
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -118,6 +118,7 @@ Red Ninja - End of Honor  |  SLES_530.25
 Resident Evil - Outbreak  |  SLES_515.89
 Resident Evil 4  |  SLES_537.02
 Rez  |  SCES_505.01
+Ridge Racer V  |  SCES_500.00
 Rogue Galaxy  |  SCES_545.52
 Rule of Rose  |  SLES_542.18
 Rumble Roses S |  SLES_525.35
