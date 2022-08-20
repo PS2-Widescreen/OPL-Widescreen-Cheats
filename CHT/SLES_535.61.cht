@@ -1,0 +1,42 @@
+"Canis Canem Edit /ID SLES_535.61"
+//ELF CRC 7BEF4386
+Mastercode
+901178D8 0C045DDE
+
+//Widescreen fix by nemesis2000 (pnach by nemesis2000)
+//Widescreen fix 
+204720d0 14640007
+204720d4 3c030022
+204720d8 2404bec0
+204720dc a4642dec
+204720e0 24043fc0
+204720e4 3c03001d
+204720e8 a4645124
+204720ec 10000007
+204720f0 2404bf00
+204720f4 a4642dec
+204720f8 24044000
+204720fc 3c03001d
+20472100 a4645124
+20472104 00000000
+20472108 00000000
+patch=1,EE,e0010000,extended,005e1638
+patch=1,EE,2072a3c8,extended,435c0000
+patch=1,EE,e0010000,extended,005e1638
+patch=1,EE,2072a3cc,extended,435c0000
+patch=1,EE,e001aaab,extended,005e1638
+patch=1,EE,2072a3c8,extended,432b0000
+patch=1,EE,e001aaab,extended,005e1638
+patch=1,EE,2072a3cc,extended,432b0000
+//patch=1,EE,e001aaab,extended,005e1638
+//patch=1,EE,204720cc,extended,24030000
+//patch=1,EE,e001aaab,extended,005e1638
+//patch=1,EE,20222dec,extended,3c01bec0
+//patch=1,EE,e001aaab,extended,005e1638
+//patch=1,EE,201d5124,extended,3c023fc0
+//patch=1,EE,e0010000,extended,005e1638
+//patch=1,EE,204720cc,extended,90637c9e
+//patch=1,EE,e0010000,extended,005e1638
+//patch=1,EE,20222dec,extended,3c01bf00
+//patch=1,EE,e0010000,extended,005e1638
+//patch=1,EE,201d5124,extended,3c024000
