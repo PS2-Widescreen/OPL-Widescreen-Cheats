@@ -1,4 +1,4 @@
-game count|966
+game count|967
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -31,6 +31,7 @@ Die Sims  |  SLES_512.57
 Die Sims brechen aus  |  SLES_520.47
 Dino Stalker  |  SLES_509.30
 Disgaea - Hour Of Darkness  |  SLES_524.58
+Disney Pixar Cars  |  SLUS_211.51
 Drakan - The Ancients' Gates  |  SCES_500.06
 Drakengard  |  SLES_523.22
 Drakengard 2  |  SLES_537.94
