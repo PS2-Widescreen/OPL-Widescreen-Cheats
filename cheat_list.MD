@@ -1,4 +1,4 @@
-game count|964
+game count|965
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -43,6 +43,7 @@ Fahrenheit  |  SLES_535.39
 Fighting Angels  |  SLES_534.08
 Final Fantasy X  |  SCES_504.90
 Final Fantasy X  |  SCES_504.92
+Final Fantasy X  |  SLUS_203.12
 Final Fantasy X-2  |  SLES_518.15
 Final Fantasy X-2  |  SLES_518.17
 FlatOut 2  |  SLES_540.02
