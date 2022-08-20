@@ -1,4 +1,4 @@
-game count|962
+game count|963
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -17,6 +17,7 @@ Bloody Roar 3  |  SLES_502.03
 Bloody Roar 4  |  SLES_518.77
 Brothers in Arms: Road to Hill 30  |  SLES_528.88
 Burnout 3 - Takedown  |  SLES_525.85
+Canis Canem Edit  |  SLES_535.61
 Castlevania - Lament of Innocence  |  SLUS_207.33
 Contra - Shattered Soldier  |  SLES-512.84
 Cyclone Circus  |  SLES_526.84
