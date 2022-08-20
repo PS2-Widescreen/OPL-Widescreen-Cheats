@@ -1,0 +1,13 @@
+"Star Wars Battlefront II \ID SLUS_212.40"
+//Widescreen Hack by nemesis2000 and Arapapa
+
+Mastercode
+901143D8 0C04509E
+
+20580784 3c013f40 //hor fov
+20580788 44810000
+20580790 46000003
+
+//Render fix
+20571edc 3c013f2b //3c013f00
+205AE6B4 3c013f2b
