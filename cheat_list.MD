@@ -1,4 +1,4 @@
-game count|961
+game count|962
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -131,6 +131,7 @@ Sky Odyssey  |  SCES_501.05
 Soul Calibur III  |  SCES_533.12
 Soul Nomad & the World Eaters  |  SLES_551.67
 Star Wars - Battlefront II  |  SLES_535.03
+Star Wars Battlefront II \ID SLUS_212.40
 Stolen  |  SLES_528.82
 Summoner (PAL-G)  |  SLES_820.05
 Syphon Filter - Logan's Shadow  |  SCUS_975.84
