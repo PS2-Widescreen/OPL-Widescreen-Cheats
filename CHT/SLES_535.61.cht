@@ -20,23 +20,33 @@ Mastercode
 20472100 a4645124
 20472104 00000000
 20472108 00000000
-patch=1,EE,e0010000,extended,005e1638
-patch=1,EE,2072a3c8,extended,435c0000
-patch=1,EE,e0010000,extended,005e1638
-patch=1,EE,2072a3cc,extended,435c0000
-patch=1,EE,e001aaab,extended,005e1638
-patch=1,EE,2072a3c8,extended,432b0000
-patch=1,EE,e001aaab,extended,005e1638
-patch=1,EE,2072a3cc,extended,432b0000
-//patch=1,EE,e001aaab,extended,005e1638
-//patch=1,EE,204720cc,extended,24030000
-//patch=1,EE,e001aaab,extended,005e1638
-//patch=1,EE,20222dec,extended,3c01bec0
-//patch=1,EE,e001aaab,extended,005e1638
-//patch=1,EE,201d5124,extended,3c023fc0
-//patch=1,EE,e0010000,extended,005e1638
-//patch=1,EE,204720cc,extended,90637c9e
-//patch=1,EE,e0010000,extended,005e1638
-//patch=1,EE,20222dec,extended,3c01bf00
-//patch=1,EE,e0010000,extended,005e1638
-//patch=1,EE,201d5124,extended,3c024000
+
+e0010000 005e1638
+2072a3c8 435c0000
+
+e0010000 005e1638
+2072a3cc 435c0000
+
+e001aaab 005e1638
+2072a3c8 432b0000
+
+e001aaab 005e1638
+2072a3cc 432b0000
+
+//e001aaab 005e1638
+//204720cc 24030000
+
+//e001aaab 005e1638
+//20222dec 3c01bec0
+
+//e001aaab 005e1638
+//201d5124 3c023fc0
+
+//e0010000 005e1638
+//204720cc 90637c9e
+
+//e0010000 005e1638
+//20222dec 3c01bf00
+
+//e0010000 005e1638
+//201d5124 3c024000
