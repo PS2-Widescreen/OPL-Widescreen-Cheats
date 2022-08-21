@@ -25,8 +25,12 @@ Example:
 
 # Contribute to the project
 
+this is the list of cheats that need testing and a mastercode:
+
+You can find the actual cheat files [here](https://github.com/PS2-Widescreen/pnach-DB/tree/main/PNACH_WITH_ID)
+
 <details>
-  <summary> <b> this is the list of cheats that need testing and a mastercode </b> </summary>
+  <summary> <b> Click me to see the list </b> </summary>
 <p>
 
 ```
