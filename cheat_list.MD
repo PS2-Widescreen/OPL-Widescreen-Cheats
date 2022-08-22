@@ -1,4 +1,4 @@
-game count|970
+game count|971
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -116,6 +116,7 @@ Ratchet & Clank 2  |  SCES_516.07
 Ratchet & Clank 3  |  SCES_524.56
 Red Faction II  |  SLES_511.33
 Red Ninja - End of Honor  |  SLES_530.25
+Reign of Fire  |  SLES_508.73
 Resident Evil - Outbreak  |  SLES_515.89
 Resident Evil 4  |  SLES_537.02
 Rez  |  SCES_505.01
