@@ -1,4 +1,4 @@
-game count|971
+game count|972
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -66,6 +66,7 @@ Grand Theft Auto: Vice City  |  SLES_510.61
 Half-Life  |  SLES_505.05
 Haunting Ground  |  SLES_528.77
 Hitman - Blood Money  |  SLES_530.30
+Indiana Jones and the Emperor's Tomb  |  SLES_508.36
 Jet Ion GP  |  SLES_505.44
 Killer7  |  SLES_533.66
 Kim Possible - What's the Switch  |  SLES_543.88
