@@ -1,10 +1,11 @@
-game count|969
+game count|970
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
 Ace Combat 5 - Squadron Leader  |  SCES_524.24
 Amplitude  |  SCES_517.06
 Armored Core 2 - Another Age  |  SLES_509.05
+Athens 2004  |  SCES_524.10
 Baldur's Gate - Dark Alliance  |  SLES_506.72
 Barbarian  |  SLES_509.72
 Bard's Tale  |  SLES_531.54
