@@ -1,4 +1,4 @@
-game count|968
+game count|969
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -134,6 +134,7 @@ Silent Hill 3  |  SLES_514.34
 Silent Hill 4 - The Room  |  SLUS_208.73
 Silpheed - The Lost Planet  |  SLES_501.93
 Sky Odyssey  |  SCES_501.05
+Sonic Heroes  |  SLES_519.50
 Soul Calibur III  |  SCES_533.12
 Soul Nomad & the World Eaters  |  SLES_551.67
 Star Wars - Battlefront II  |  SLES_535.03
