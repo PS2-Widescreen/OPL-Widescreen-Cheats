@@ -3,6 +3,9 @@
 //Widescreen hack by nemesis2000 (pnach by nemesis2000)
 //ported to PAL (ElHecht)
 
+Mastercode
+9010CC70 0C0432C4
+
 //---
 20167bcc 10000042
 20167c24 1000002c
