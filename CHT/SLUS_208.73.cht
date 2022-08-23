@@ -1,4 +1,5 @@
 "Silent Hill 4 - The Room /ID SLUS_208.73"
+Mastercode
 9010f5b0 0c043d14
 
 //Widescreen
@@ -8,8 +9,6 @@
 //FMV
 //202f7954 3c020380
 //202f7998 34021880
-
-//
 
 //Progressive mode + sharp framebuffer + video nopi (felixthecat1970)
 //2010025c 3c050000

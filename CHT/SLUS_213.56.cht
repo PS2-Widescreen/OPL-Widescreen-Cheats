@@ -1,7 +1,7 @@
 ﻿"Splinter Cell - Double Agent /ID SLUS_213.56"
 Mastercode
 9020F310 0C083C6C
-
+//9011A3D0 0C04689C // Mastercode for 'SC4_OFF.ELF'
 //wide
 201f4784 e66000a4
 201f4788 3c02007f
