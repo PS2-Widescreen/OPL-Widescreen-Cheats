@@ -1,4 +1,4 @@
-"Kingdom Hearts /ID SCES-509.69"
+"Kingdom Hearts /ID SCES_509.69"
 Mastercode
 9025B1F8 0C096C26
 
@@ -29,11 +29,11 @@ Mastercode
 201f7cd0 24090020
 
 //font fix subtitle and text box
-//patch=1,EE,0010c980,word,24426fb0 // 24427000
-//patch=1,EE,0010d3d4,word,3c013f1f // 3c013f55
-//patch=1,EE,0010d3d8,word,3421fffc // 3421554f
-//patch=1,EE,0010d3f8,word,3c013f40 // 3c013f80
-//patch=1,EE,0010d820,word,3c014216 // 3c0141e0
+//2010c980 24426fb0 // 24427000
+//2010d3d4 3c013f1f // 3c013f55
+//2010d3d8 3421fffc // 3421554f
+//2010d3f8 3c013f40 // 3c013f80
+//2010d820 3c014216 // 3c0141e0
 
 //numbers fix
 201f998c 240b0020
@@ -48,4 +48,4 @@ Mastercode
 2010442c 00000000
 
 //60 FPS
-//patch=1,EE,001104d8,word,24820000 // 24820001
+//201104d8 24820000 // 24820001
