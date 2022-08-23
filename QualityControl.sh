@@ -4,7 +4,7 @@ cd CHT
 for a in *.cht
 do
   HEAD=""
-  HEAD=$(head -n1 -q "$a" | grep -E [0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z]_[0-9][0-9][0-9].[0-9][0-9])
+  HEAD=$(head -n1 -q "$a" | grep -Eo [0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z]_[0-9][0-9][0-9].[0-9][0-9])
   if [ -z "$HEAD" ]; then
     echo "[$a]: could not find ELF ID on header"
     RETURN_CODE=1
