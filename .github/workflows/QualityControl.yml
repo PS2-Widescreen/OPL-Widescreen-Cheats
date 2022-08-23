@@ -19,6 +19,7 @@ jobs:
       run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
 
     
-    - name: Update Cheats list
+    - name: Run QualityControl
       run: |
+          chmod +x ./QualityControl.sh
           ./QualityControl.sh
