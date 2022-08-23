@@ -15,10 +15,10 @@ do
     RETURN_CODE=1
   fi
   
-  if  grep -qE "Mastercode\n9[0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z] [0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z]" "$a" ; then
+  if  grep -q "Mastercode" "$a" ; then
     :
   else
-    echo "[$a]: could not find a matching mastercode" ;
+    echo "[$a]: could not find a matching mastercode string" ;
     RETURN_CODE=1
   fi
 done
