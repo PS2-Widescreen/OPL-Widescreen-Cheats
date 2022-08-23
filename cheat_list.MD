@@ -1,4 +1,4 @@
-game count|972
+game count|973
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -97,6 +97,7 @@ Mr Moskeeto  |  SLES_507.69
 Mystic Heroes  |  SLES_513.58
 NBA Live 2005  |  SLES_527.13
 Need for Speed - Hot Pursuit 2  |  SLES_507.31
+Need for Speed Underground J-Tune [EA Best Hits]  |  SLPM_656.14
 Nightshade  |  SLES_522.38
 ObsCure  |  SLES_525.08
 Odin Sphere  |  SLES_551.10
