@@ -1,4 +1,4 @@
-game count|972
+game count|971
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -827,7 +827,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿SpyHunter 2  |  SLUS_205.90
 ﻿Spyro - A Hero's Tail  |  SLUS_208.84
 ﻿Star Wars - Battlefront  |  SLUS_208.98
-﻿Star Wars - Battlefront 2  |  SWBFRNT2.ELF
 ﻿Star Wars - Bounty Hunter  |  SLUS_204.20
 ﻿Star Wars - Episode III - Revenge of the Sith  |  SLUS_211.43
 ﻿Star Wars - Jedi Starfighter  |  SLUS_202.93
