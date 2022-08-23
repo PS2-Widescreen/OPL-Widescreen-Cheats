@@ -1,4 +1,4 @@
-game count|973
+game count|972
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -20,7 +20,7 @@ Brothers in Arms: Road to Hill 30  |  SLES_528.88
 Burnout 3 - Takedown  |  SLES_525.85
 Canis Canem Edit  |  SLES_535.61
 Castlevania - Lament of Innocence  |  SLUS_207.33
-Contra - Shattered Soldier  |  SLES-512.84
+Contra - Shattered Soldier  |  SLES_512.84
 Cyclone Circus  |  SLES_526.84
 Dark Chronicle  |  SCES_511.90
 Das Ding aus einer anderen Welt  |  SLES_509.76
@@ -41,7 +41,7 @@ Dynasty Warriors 4  |  SLES_516.63
 Enter The Matrix  |  SLES_512.03
 Evergrace  |  SLES_500.50
 Fahrenheit  |  SLES_535.39
-Fahrenheit  |  SLES_535.39
+Fahrenheit  |  SLES_535.40
 Fighting Angels  |  SLES_534.08
 Final Fantasy X  |  SCES_504.90
 Final Fantasy X  |  SCES_504.92
@@ -71,7 +71,7 @@ Jet Ion GP  |  SLES_505.44
 Killer7  |  SLES_533.66
 Kim Possible - What's the Switch  |  SLES_543.88
 Kingdom Hearts  |  SCES_509.69
-Kingdom Hearts 2 Final Mix +  |  SLPM 666 75
+Kingdom Hearts 2 Final Mix +  |  SLPM_666.75
 Klonoa 2 - Lunatea's Veil  |  SCES_503.54
 La Pucelle: Tactics  |  SLES_529.78
 Lara Croft Tomb Raider: The Angel Of Darkness  |  SLES_512.27
@@ -147,11 +147,11 @@ Stolen  |  SLES_528.82
 Summoner (PAL-G)  |  SLES_820.05
 Syphon Filter - Logan's Shadow  |  SCUS_975.84
 Tekken Tag Tournament  |  SCES_500.01
-Tenchu: Fatal Shadows  |  SLES_530.14
+Tenchu: Fatal Shadows  |  SLES_530.12
 Tenchu: Wrath of Heaven  |  SLES_506.79
 The Operative - No One Lives Forever  |  SLES_505.92
 The Typing of the Dead - Zombie Panic  |  SLPM_625.66
-The Warriors  |  SLES-53443
+The Warriors  |  SLES_534.43
 Time Crisis 2  |  SCES_503.00
 Time Crisis 3  |  SCES_518.44
 TimeSplitters  |  SLES_500.78
@@ -814,7 +814,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Spider-Man: Friend or Foe  |  SLES_549.01
 ﻿Splashdown  |  SLES_504.86
 ﻿Splinter Cell  |  SLUS_206.52
-﻿Splinter Cell - Double Agent  |  SC4_OFF.ELF
 ﻿Splinter Cell - Double Agent  |  SLUS_213.56
 ﻿Splinter Cell - Pandora Tomorrow  |  SLUS_209.58
 ﻿SpongeBob SquarePants featuring Nicktoons: Globs of Doom  |  SLUS_218.18
