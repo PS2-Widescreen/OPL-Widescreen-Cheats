@@ -1,6 +1,6 @@
 "Black & Bruised /ID SLES_516.20"
 
-Master Code
+Mastercode
 901C6CB8 0C071AD6		// sceSifSendCmd (recommended)
 //~9010E76C 0C0743AC	// scePadRead
 //~90114E68 0C0400CC	// main (unreliable)

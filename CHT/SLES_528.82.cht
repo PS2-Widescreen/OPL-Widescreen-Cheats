@@ -1,6 +1,6 @@
 "Stolen /ID SLES_528.82"
 
-Master Code
+Mastercode
 //~903B41D8 0C0ED01E	// sceSifSendCmd (recommended)
 903C33D4 0C0EA28F	// scePadRead
 //~9022B39C 0C0EDEE6	// main (unreliable)

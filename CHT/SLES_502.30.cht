@@ -1,6 +1,6 @@
 "Lotus Challenge /ID SLES_502.30"
 
-Master Code
+Mastercode
 9010D8F8 0C0435E6 		//sceSifSendCmd (recommended)
 //~9013EDF4 0C045F46 	//scePadRead
 //~90122DF4 0C048B6C 	//main

@@ -1,6 +1,6 @@
 "Bard's Tale /ID SLES_531.54"
 
-Master Code
+Mastercode
 90151CB0 0C0546D4 		// sceSifSendCmd (recommended)
 //~90108CD8 0C0425F0	// main (unreliable)
 

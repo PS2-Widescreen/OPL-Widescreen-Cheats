@@ -4,10 +4,10 @@
  * dieSkaarj (PAL.)
  */
 
-Master Code
-//~902D09F8 0C0B4226	// sceSifSendCmd (recommended)
+Mastercode
 902B6CE4 0C0B1C98	// scePadRead
 //~901005A0 0C0B133C	// main (unreliable)
+//~902D09F8 0C0B4226	// sceSifSendCmd (recommended)
 
 Widescreen Code
 20298818 3c013f40

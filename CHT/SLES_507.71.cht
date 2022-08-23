@@ -1,6 +1,6 @@
 "Blood Omen 2: Legacy of Kain /ID SLES_507.71"
  
-Master Code
+Mastercode
 90295E28 0C11DB38		// sceSifSendCmd (recommended)
 //~904628EC 0C11F8BF	// scePadRead
 //~90295E28 0C11DB38	// main (unreliable)

@@ -1,6 +1,6 @@
 "Fighting Angels /ID SLES_534.08"
 
-Master Code
+Mastercode
 901BF3D8 0C06FC9E		// sceSifSendCmd (recommended)
 //~9019A044 0C06DA72	// scePadRead
 //~90100220 0C06BBA6	// main (unreliable)

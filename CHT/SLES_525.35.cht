@@ -1,6 +1,6 @@
 "Rumble Roses S/ID SLES_525.35"
 
-Master Code
+Mastercode
 901007CC 0C049B3C		// sceSifSendCmd (recommended)
 //~90121EF8 0C049E30	// scePadRead
 //~901007CC 0C049B3C	// main (unreliable)

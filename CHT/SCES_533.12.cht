@@ -1,7 +1,7 @@
 "Soul Calibur III /ID SCES_533.12"
 
-Master Code
-9043F558 0C10FCFE 		// sceSifSendCmd (recommended)
+Mastercode
+9043F558 0C10FCFE	// sceSifSendCmd (recommended)
 //~904276E8 0C10C9CB 	// scePadRead
 
 /*

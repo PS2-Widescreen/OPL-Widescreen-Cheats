@@ -1,12 +1,11 @@
 "Dead or Alive 2 /ID SCES_500.03"
-Master Code
 
-903B81E0 0C0EE020		// sceSifSendCmd (recommended)
+Mastercode
+903B81E0 0C0EE020
 
 /*
  * Widescreen hack by nemesis2000.
  */
 
 Widescreen Code
-
 2021c21c 3c014534

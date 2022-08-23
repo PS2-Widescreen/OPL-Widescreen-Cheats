@@ -1,6 +1,6 @@
 "Jet Ion GP /ID SLES_505.44"
 
-Master Code
+Mastercode
 902A6338 0C0A9876		// sceSifSendCmd (recommended)
 //~90299B04 0C0ABCBF	// scePadRead
 //~90294824 0C0AAC2E	// main (unreliable)

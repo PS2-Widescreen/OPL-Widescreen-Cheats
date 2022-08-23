@@ -1,6 +1,6 @@
 "Prince of Persia: Warrior Within /ID SLES_528.22"
 
-Master Code
+Mastercode
 9010C008 0C042FAA 		// sceSifSendCmd (recommended)
 //~90103258 0C04BD10 	// main (unreliable)
 
