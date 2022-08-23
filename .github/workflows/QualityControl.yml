@@ -1,4 +1,4 @@
-name: Update Cheats list
+name: Quality Control
 
 on:
   workflow_dispatch:
