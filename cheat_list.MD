@@ -1,4 +1,4 @@
-game count|971
+game count|970
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -458,7 +458,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Grand Theft Auto III  |  SLES_503.30
 ﻿Grand Theft Auto: Liberty City Stories  |  SLES_541.35
 ﻿Grand Theft Auto: San Andreas  |  SLES_525.41
-﻿Grand Theft Auto: Vice City  |  SLES_510.61
 ﻿Grand Theft Auto: Vice City Stories  |  SLES_546.22
 ﻿Grandia II  |  SLUS_201.94
 ﻿Grandia III (Disc 1)  |  SLUS_213.34
