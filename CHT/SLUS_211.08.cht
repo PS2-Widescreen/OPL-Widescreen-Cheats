@@ -9,10 +9,11 @@ Mastercode
 20291610 461ea502
 202b27f4 461ea302
 
+//Enabling either one of the following options seem to cause the random crashes reported on issue #14
 //force progressive
 //01417AA0 00000002
 
 //force interlaced
-01417AA0 00000001
+//01417AA0 00000001
 
 //
