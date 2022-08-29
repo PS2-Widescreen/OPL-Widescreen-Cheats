@@ -1,0 +1,20 @@
+"Jumper - Griffin's Story /ID SLUS_217.30"
+//ELF CRC=E164CB28
+
+Mastercode
+904299e0 0c10a620
+
+//Widescreen hack  by Arapapa
+//X-Fov
+//06050046 46b30046 (1st)
+203fd5a8 080c3078
+
+2030c1e0 46000506
+2030c1e4 3c013f40
+2030c1e8 4481f000
+2030c1EC 461ea502
+2030c1f0 080ff56b
+
+//////////////////////////
+//701e4700 00000000 0000803f 00000000 Memory hack. needs render fix)
+//204B0430 3F400000 //3f800000
