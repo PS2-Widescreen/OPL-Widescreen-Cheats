@@ -1,0 +1,12 @@
+"Gretzky NHL 06 /ID SCUS_974.66"
+//ELF CRC=CC08ACD4
+
+Mastercode
+904bb794 0c12dff4
+
+//Widescreen hack by El_Patas
+//Works fine for the default "Team" camera, but causes a different zoom in each one of the other camera's view.
+
+//Gameplay 16:9 
+2026F480 3C013C2B //3C013C0E Zoom
+2026F494 3C013F10 //3C013F40 Y-FOV
