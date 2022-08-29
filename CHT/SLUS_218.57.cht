@@ -1,0 +1,12 @@
+"Short Track Racing - Trading Paint /ID SLUS_218.57"
+//ELF CRC=C56B0941
+
+Mastercode
+904fa7f0 0c13e9a4
+
+//Widescreen Hack by Arapapa
+//X-Fov
+20279134 3c013faa //00000000
+20279140 3421aaab //00000000
+20279144 4481f000 //00000000
+20279154 461e0002 //00000000
