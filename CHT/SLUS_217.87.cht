@@ -1,0 +1,13 @@
+"TNA iMPACT! /ID SLUS_217.87"
+//ELF CRC=5A31AA5B
+
+Mastercode
+901ad718 0c06b56e
+
+//Widescreen hack by ElHecht (NTSC-U by Arapapa)
+// note: data is stored in "TNAPOV.ELF"
+e0043f80 00225090 // check 20225090 matches value xxxx3f80
+20225090 3c013f40 // 3c013f80
+20225094 4481f000 // 4481e000
+2022509c 461ef703 // 00000000
+202250a4 4602f083 // 4602e083
