@@ -1,0 +1,14 @@
+"Iridium Runners /ID SLES_550.13"
+//ELF CRC=304497E5
+//Also works for SLUS-21697
+
+Mastercode
+902ac098 0c0aafce
+//90277fd8 0c0a685b
+
+//Widescreen Hack by Arapapa
+//X-Fov
+//aa3f013c 93a92134
+2022f1a8 3c013fe3 //3c013faa
+2022f1ac 34218cc1 //3421a993
+
