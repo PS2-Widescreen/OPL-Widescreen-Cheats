@@ -1,4 +1,4 @@
-game count|970
+game count|1000
 ------------- | --------------- |
 007 - Alles oder Nichts  |  SLES_520.46
 7 Sins  |  SLES_532.97
@@ -9,17 +9,26 @@ Athens 2004  |  SCES_524.10
 Baldur's Gate - Dark Alliance  |  SLES_506.72
 Barbarian  |  SLES_509.72
 Bard's Tale  |  SLES_531.54
+Ben 10 - Alien Force - Vilgax Attacks  |  SLUS_219.21
+Ben 10 - Protector of Earth  |  SLUS_216.61
+Ben 10: Alien Force  |  SLUS_218.15
 Beyond Good & Evil  |  SLES_519.17
+Biathlon 2008  |  SLUS_217.11
 Black  |  SLES_538.86
 Black & Bruised  |  SLES_516.20
 Blood Omen 2: Legacy of Kain  |  SLES_507.71
 Blood Will Tell - Tezuka Osamu's Dororo  |  SLES_527.55
 Bloody Roar 3  |  SLES_502.03
 Bloody Roar 4  |  SLES_518.77
+Bratz - The Movie  |  SLUS_216.43
 Brothers in Arms: Road to Hill 30  |  SLES_528.88
 Burnout 3 - Takedown  |  SLES_525.85
+CSI - Crime Scene Investigation - 3 Dimensions of Murder  |  SLUS_216.55
+Cabela's Trophy Bucks |  SLUS_216.24
 Canis Canem Edit  |  SLES_535.61
+Cars Race-O-Rama  |  SLES_555.36
 Castlevania - Lament of Innocence  |  SLUS_207.33
+Cocoto Fishing Master  |  SLUS_216.63
 Contra - Shattered Soldier  |  SLES_512.84
 Cyclone Circus  |  SLES_526.84
 Dark Chronicle  |  SCES_511.90
@@ -33,10 +42,12 @@ Die Sims brechen aus  |  SLES_520.47
 Dino Stalker  |  SLES_509.30
 Disgaea - Hour Of Darkness  |  SLES_524.58
 Disney Pixar Cars  |  SLUS_211.51
+Dora the Explorer - Dora Saves the Snow Princess  |  SLUS_217.96
 Drakan - The Ancients' Gates  |  SCES_500.06
 Drakengard  |  SLES_523.22
 Drakengard 2  |  SLES_537.94
 Draon Sisters  |  SLES_544.60
+DreamWorks Madagascar 2 - Escape 2 Africa  |  SLUS_218.40
 Dynasty Warriors 4  |  SLES_516.63
 Enter The Matrix  |  SLES_512.03
 Evergrace  |  SLES_500.50
@@ -56,18 +67,25 @@ Freak Out  |  SLES_503.10
 Frequency  |  SCES_507.91
 Furry Tales  |  SLES_528.24
 GTA - San Andreas  |  SLUS_209.46
+George of the Jungle and the Search for the Secret  |  SLUS_216.68
 Giants - Citizen Kabuto  |  SLES_503.14
 Gitaroo Man  |  SLES_506.53
+Go, Diego, Go! Safari Rescue  |  SLUS_217.18
 God Of War 2  |  SCES_542.06
 Gradius V  |  SLES_520.95
 Gran Turismo 3 - A-Spec  |  SCES_502.94
 Grand Theft Auto III  |  SLUS_200.62
 Grand Theft Auto: Vice City  |  SLES_510.61
+Gretzky NHL 06  |  SCUS_974.66
 Half-Life  |  SLES_505.05
 Haunting Ground  |  SLES_528.77
 Hitman - Blood Money  |  SLES_530.30
 Indiana Jones and the Emperor's Tomb  |  SLES_508.36
+Iridium Runners  |  SLES_550.13
+Iridium Runners  |  SLUS_216.97
+Iron Man  |  SLUS_217.39
 Jet Ion GP  |  SLES_505.44
+Jumper - Griffin's Story  |  SLUS_217.30
 Killer7  |  SLES_533.66
 Kim Possible - What's the Switch  |  SLES_543.88
 Kingdom Hearts  |  SCES_509.69
@@ -80,8 +98,12 @@ Legacy of Kain: Soul Reaver 2  |  SLES_501.96
 Leisure Suit Larry - Magna Cum Laude  |  SLES_526.43
 Lotus Challenge  |  SLES_502.30
 MDK2 - Armageddon  |  SLES_502.48
+MLB Power Pros  |  SLUS_216.71
+MLB Power Pros 2008  |  SLUS_217.48
 MX Unleashed  |  SLES_520.43
+MX vs ATV Untamed  |  SLUS_217.01
 Mace Griffin - Bounty Hunter  |  SLES_516.53
+Made Man - Confessions of the Family Blood  |  SLUS_215.87
 Magna Carta: Tears of Blood  |  SLES_534.83
 Maken Shao - Demon Sword  |  SLES_510.58
 Manhunt  |  SLES_520.23
@@ -91,8 +113,10 @@ Metal Gear Solid 3 - Snake Eater  |  SLES_820.32
 Metal Gear Solid 3 - Subsistence  |  SLES_820.46
 Midnight Club 3 - DUB Edition  |  SLES_529.42
 Monster Hunter  |  SLES_527.07
+Monster Jam - Urban Assault  |  SLUS_218.07
 Mortal Kombat - Deadly Alliance  |  SLES_507.17
 Mortal Kombat - Deception  |  SLES_527.06
+MotoGP 08  |  SLUS_218.11
 Mr Moskeeto  |  SLES_507.69
 Mystic Heroes  |  SLES_513.58
 NBA Live 2005  |  SLES_527.13
@@ -133,6 +157,7 @@ Shadow Hearts - Covenant - Disc 1  |  SLES_820.30
 Shadow Hearts - Covenant - Disc 2  |  SLES_820.31
 Shadow Hearts 3: From The New World  |  SLES_547.11
 Shadow Man: 2econd Coming  |  SLES_504.46
+Short Track Racing - Trading Paint  |  SLUS_218.57
 Silent Hill - Shattered Memories  |  SLES_555.69
 Silent Hill 3  |  SLES_514.34
 Silent Hill 4 - The Room  |  SLUS_208.73
@@ -146,10 +171,12 @@ Star Wars Battlefront II  |  SLUS_212.40
 Stolen  |  SLES_528.82
 Summoner (PAL-G)  |  SLES_820.05
 Syphon Filter - Logan's Shadow  |  SCUS_975.84
+TNA iMPACT!  |  SLUS_217.87
 Tekken Tag Tournament  |  SCES_500.01
 Tenchu: Fatal Shadows  |  SLES_530.12
 Tenchu: Wrath of Heaven  |  SLES_506.79
 The Operative - No One Lives Forever  |  SLES_505.92
+The Secret Saturdays - Beasts of the 5th Sun  |  SLES_555.46
 The Typing of the Dead - Zombie Panic  |  SLPM_625.66
 The Warriors  |  SLES_534.43
 Time Crisis 2  |  SCES_503.00
@@ -164,7 +191,10 @@ Urban Chaos - Riot Response  |  SLES_539.91
 Viewtiful Joe  |  SLES_526.78
 Viewtiful Joe 2  |  SLES_528.68
 Virtua Fighter 4 - Evolution  |  SLES_516.16
+WWE SmackDown vs. Raw 2008  |  SLUS_216.45
+WWE SmackDown vs. Raw 2010  |  SLUS_219.01
 We Love Katamari  |  SLES_538.28
+Women's Volleyball Championship  |  SLUS_217.42
 XIII  |  SLES_512.44
 Zone of the Enders  |  SLES_501.11
 ﻿007 - From Russia With Love  |  SLUS_212.82
