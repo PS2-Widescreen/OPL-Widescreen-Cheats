@@ -1,0 +1,12 @@
+"Biathlon 2008 /ID SLUS_217.11"
+//ELF CRC=495F76EF
+
+Mastercode
+90217218 0c085c2e
+
+//Widescreen hack by Arapapa
+//Zoom
+20384af8 3f400000 //3f800000
+
+//Y-Fov
+20385428 412AAAA4 //41000000
