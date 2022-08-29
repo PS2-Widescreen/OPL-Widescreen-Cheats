@@ -1,0 +1,11 @@
+"DreamWorks Madagascar 2 - Escape 2 Africa /ID SLUS_218.40"
+//ELF CRC=6EC0C6C3
+
+Mastercode
+90469a98 0c11a64e
+//90473850 0c11fe7e // Alternative
+
+//Widescreen Hack by Arapapa
+//X-Fov
+//820d0046 003f023c 00008244 (2nd)
+201ff08c 3c023f1e //3c023f00
