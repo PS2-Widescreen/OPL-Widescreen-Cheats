@@ -1,0 +1,17 @@
+"Cocoto Fishing Master /ID SLUS_216.63"
+//ELF CRC=93352BA1
+
+Mastercode
+90411670 0c104544
+//9047a778 0c1008d4
+
+//Widescreen Hack by Arapapa
+
+//Zoom
+2049580c 3c023f40 //3c023f80
+
+//Y-Fov
+20469c6c 3c03bf2a //3c03bf00
+
+//HUD fix 
+2046a168 3c023fc0 //3c024000
