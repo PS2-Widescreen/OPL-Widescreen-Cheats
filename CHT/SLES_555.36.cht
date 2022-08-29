@@ -1,0 +1,32 @@
+"Cars Race-O-Rama /ID SLES_555.36"
+//ELF CRC=E4278493
+//also works for (`SLUS_21883`)
+
+Mastercode
+90316c98 0c0c5ace
+//9032aa68 0c0cc54a //Alternative
+//901eb89c 0c0c0840 //Alternative
+
+//Widescreen Hack by Arapapa
+
+//Zoom
+//0040063c 00c0033c 803f053c
+2014750c 3c063fc0 //3c064000
+
+//Y-Fov
+//c3180446 000080e4 040080ac
+20147540 080c4cd4
+20313350 460418c3
+20313354 3c013f40
+20313358 4481f000
+2031335c 461e18c3
+20313360 08051d51
+
+//-------------------------------------------------//
+//201475b0 3c023f1c //3c023f00
+//Hud Zoom
+//203ce03c 3c0b3f40 //3c0b3f80
+//Y-Fov
+//20112ed4 3c023faa //3c023f80
+//20112edc 3c033cae //3c033c8e
+//20112ee0 34633000 //3c033c8e
