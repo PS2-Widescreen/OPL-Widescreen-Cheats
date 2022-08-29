@@ -11,26 +11,22 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        
+
       - name: append credits to all cheats
         run: |
           chmod +x ./Append.sh
           ./Append.sh
-        
+
       - name: zip cheats
         run: |
           zip widescreen_hacks CHT/*
-    
-      - name: Get short SHA
-        id: slug
-        run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
-        
+
       - name: create release body
         run: |
-            echo "- __cheats count:__ _${{ steps.slug.outputs.chtcount }}_">latest_changes.log
-            echo "- [__List of supported games__](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">>latest_changes.log
+            echo "- [__List of supported games__](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">latest_changes.log
+            echo "![Available cheats count](https://img.shields.io/github/directory-file-count/PS2-Widescreen/OPL-Widescreen-Cheats/CHT?color=gree&extension=cht&label=Available%20cheats&type=file)">>latest_changes.log
             echo "![GitHub release (latest by date)](https://img.shields.io/github/downloads/PS2-Widescreen/OPL-Widescreen-Cheats/Latest/total?label=Downloads)">>latest_changes.log
-            
+
       - name: Upload artifacts
         if: ${{ success() }}
         uses: actions/upload-artifact@v2
