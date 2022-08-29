@@ -1,0 +1,11 @@
+"Ben 10: Alien Force /ID SLUS_218.15"
+//ELF CRC=DB2DE310
+
+Mastercode
+902d1530 0c0b44f4
+//902af720 0c0b0733
+
+//Widescreen Hack by Sergx12
+//Gameplay 16:9
+202A2430 3C013F1C //3C013F00 Zoom
+201124E4 3C013ED6 //3C013F00 Y-FOV
