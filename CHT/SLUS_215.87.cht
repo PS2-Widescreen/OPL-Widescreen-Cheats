@@ -1,0 +1,28 @@
+"Made Man - Confessions of the Family Blood /ID SLUS_215.87"
+//ELF CRC=C339BD7D
+
+Mastercode
+902b43e8 0c0ad0a2
+//902a1e88 00832021
+
+//Widescreen Hack by Arapapa
+//Y-Fov
+//803f013c 00a88144 30001126
+20152dd0 3c013fab //3c013f80
+
+//Zoom
+//003f013c 00608144 0000a67f (2nd)
+202205d8 3c013f20 //3c013f00
+
+//Black Bar Fix
+//2044013c 00c08144
+20100b8c 3c010000 //3c014420 Bottom
+20100ba0 3c010000 //3c014270 Upper
+
+//Black Scene Fix
+//f043013c 00a08144 2d200002
+20100e2c 3c010000 //3c0143f0
+
+//Zoom (Event, Menu)  3F508228
+//201b2e10 3c013f50 //3c013f1c
+//201b2e14 34218228 //342161ab
