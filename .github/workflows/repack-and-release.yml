@@ -11,7 +11,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
+        with:
+          fetch-depth: 0
 #    - name: Install dependencies
 #      run: |
 #        apk add git zip
@@ -35,8 +36,12 @@ jobs:
             echo "- [__List of supported games__](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">>latest_changes.log
             echo "![GitHub release (latest by date)](https://img.shields.io/github/downloads/PS2-Widescreen/OPL-Widescreen-Cheats/Latest/total?label=Downloads)">>latest_changes.log
             echo latest changes:>>latest_changes.log
-            git --no-pager log -8 --pretty=format:"- %h  %<(18)%an: %s">>latest_changes.log
+            git --no-pager log Latest..HEAD --pretty=format:"- %h  %<(18)%an: %s">>latest_changes.log
             cat latest_changes.log
+
+      - name: experiment
+        run: |
+            git --no-pager log --since=1.days --pretty=format:"- %h  %<(18)%an: %s"
 
       - name: Upload artifacts
         if: ${{ success() }}
