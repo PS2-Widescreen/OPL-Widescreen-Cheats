@@ -10,8 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-        
+        uses: actions/checkout@v3
+
+#    - name: Install dependencies
+#      run: |
+#        apk add git zip
+
       - name: append credits to all cheats
         run: |
           chmod +x ./Append.sh
@@ -30,7 +34,10 @@ jobs:
             echo "- __cheats count:__ _${{ steps.slug.outputs.chtcount }}_">latest_changes.log
             echo "- [__List of supported games__](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">>latest_changes.log
             echo "![GitHub release (latest by date)](https://img.shields.io/github/downloads/PS2-Widescreen/OPL-Widescreen-Cheats/Latest/total?label=Downloads)">>latest_changes.log
-            
+            echo latest changes:>>latest_changes.log
+            git --no-pager log -8 --pretty=format:"- %h  %<(18)%an: %s">>latest_changes.log
+            cat latest_changes.log
+
       - name: Upload artifacts
         if: ${{ success() }}
         uses: actions/upload-artifact@v2
