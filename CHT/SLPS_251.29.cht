@@ -1,0 +1,19 @@
+"Victorious Boxer - Championship Version /ID SLPS_251.29"
+
+Mastercode
+9010E350 0C04387C
+
+
+//ELF CRC=4405AA47
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-fov (In Squared Ring)
+2014fab0 3c023f40 //3c023f80
+
+//Zoom (Event)
+20103288 3c013fab //3c013f80
+
+//Y-Fov (Event)
+201bacd4 3c0743B4 //3c0743f0

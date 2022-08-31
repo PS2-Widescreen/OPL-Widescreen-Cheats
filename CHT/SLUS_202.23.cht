@@ -1,0 +1,19 @@
+"Splashdown /ID SLUS_202.23"
+
+Mastercode
+903B2438 0C0EC8B6
+
+
+//ELF CRC=A6D116DB
+//Widescreen Hack by Sergx12 and El_Patas
+
+//Gameplay 16:9
+
+20213eb4 3C023FE4 //3C023FAA Y-FOV
+20213eb8 34428E39 //3442AAAB
+20214BEC 3C023CAC //3C023C8E Zoom
+20214BF0 3442A21D //3442FA34
+202da00c 3C023CAC //3C023C8E Water fix
+202da010 3442A21D //3442FA34
+20214E00 3C033F2B //3C033F00 Fix graphical glitch 2 player vertical split screen
+

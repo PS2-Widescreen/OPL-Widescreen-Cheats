@@ -1,0 +1,24 @@
+"World Destruction League - War Jetz /ID SLUS_200.07"
+
+Mastercode
+902B42F8 0C0AD066
+
+
+//ELF CRC=70C924CC
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//803f013c 00488144 40600146
+202b516c 3c013ee4 //3c013f80
+
+//Y-Fov
+//02000246 42410546
+202b5060 08030000
+200c0000 46020002
+200c0004 3c1b3f40
+200c0008 449bf000
+200c000c 461e0003
+200c0010 080ad419
+

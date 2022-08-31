@@ -1,0 +1,14 @@
+"Fight Club /ID SLUS_208.57"
+
+Mastercode
+902FB948 0C0BEDFA
+
+
+//ELF CRC=7AB8929F
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//003f013c 00008144 2803028e
+2025909c 3c013ec0//3c013f00

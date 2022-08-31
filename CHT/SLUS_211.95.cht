@@ -1,0 +1,21 @@
+"Breeders Cup - World Thoroughbred Championships /ID SLUS_211.95"
+
+Mastercode
+90215538 0C0854F6
+
+
+//ELF CRC=A07F8571
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201b54dc 080848c8
+20212320 46001906
+20212324 3c013f40
+20212328 4481f000
+2021232c 461e2102
+20212330 0806d538
+
+//Render fix
+2011adb4 3c013f2b //3c013f00

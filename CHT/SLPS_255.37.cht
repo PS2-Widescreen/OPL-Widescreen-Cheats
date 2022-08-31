@@ -1,0 +1,18 @@
+"Super Robot Wars - Alpha 3 /ID SLPS_255.37"
+
+Mastercode
+9011DA50 0C04763C
+
+
+//ELF CRC=5D12241C
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+2013c7f4 3c023fab //3c023f80
+2010f2a0 3c013fab //3c013f80
+
+20140f9c 3c023f1f //3c023eee
+20140fa0 344349f1 //3443eeef
+2013d4dc 3c023f1f //3c023eee
+2013d4e0 344249f1 //3442eeef

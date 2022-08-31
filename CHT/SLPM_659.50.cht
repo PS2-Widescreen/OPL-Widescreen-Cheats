@@ -1,0 +1,24 @@
+"Gantz - The Game /ID SLPM_659.50"
+
+Mastercode
+90112850 0C0449BC
+
+
+//ELF CRC=09576267
+//Widescreen Hack by Arapapa
+
+//Widescreen 16:9
+
+//X-Fov
+2013f840 080d7e20
+2035f880 3c013f40
+2035f884 4481f000
+2035f888 461e6302
+2035f88c e7ac0010
+2035f890 afa00038
+2035f894 461e6303
+2035f898 e7ac0024
+2035f89c 0804fe12
+
+//Render fix
+20143b4c 3c023f2b //3c023f00

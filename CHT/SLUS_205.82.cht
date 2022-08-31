@@ -1,0 +1,21 @@
+"Street Racing Syndicate /ID SLUS_205.82"
+
+Mastercode
+9043AC00 0C10EAA8
+
+
+//ELF CRC=B9EA7505
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+203451c0 3c013f1e //3c013f00
+
+//Y-Fov
+20345210 3c013f40
+20345214 4481f000
+20345224 461e2103
+
+
+

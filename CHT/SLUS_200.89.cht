@@ -1,0 +1,15 @@
+"ESPN - Winter X Games - Snowboarding /ID SLUS_200.89"
+
+Mastercode
+90113EB8 0C044F54
+
+
+//ELF CRC=5F491DD1
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix Hack
+2010320c 3c013f40 //00000000
+20103210 44810000 //00000000
+20103218 4600c602 //00000000

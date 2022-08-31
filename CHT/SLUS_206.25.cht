@@ -1,0 +1,25 @@
+"Moto GP 3 /ID SLUS_206.25"
+
+Mastercode
+902E9498 0C0BA4CE
+
+
+//ELF CRC=46B7FEC5
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201139d4 3c013f40 //3c013f80
+
+//Render fix
+201a4040 3c014330 //3c0143a0  Far distance
+201c8354 3c014010 //3c013f9c NPC player
+201c8358 34210000 //342128f5
+202692a0 3c014330 //3c0143a0 Near distance
+
+
+//HUD speedometer fix
+202b5a98 3c013f40 //3c013f80
+202b5ec8 3c013f40 //3c013f80
+202b6510 3c013f40 //3c013f80

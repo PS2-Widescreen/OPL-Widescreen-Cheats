@@ -1,0 +1,37 @@
+"History Channel - Battle for the Pacific /ID SLUS_217.12"
+
+Mastercode
+9011E4F8 0C0478E6
+
+
+//ELF CRC=551E3E7A
+//Widescreen Hack by Arapapa
+
+//Widescreen 16:9
+
+//Zoom
+//003f023c 988a22c4 (2nd)
+202e881c 3c023f20 //3c023f00
+
+//Y-Fov
+//03080046 ec00a0e6
+202e8850 08164f48
+20593d20 46000803
+20593d24 3c013f40
+20593d28 4481f000
+20593d2c 461e0002
+20593d30 080ba215
+
+
+//////////////////////////////////
+//X-Fov (needs render fix)
+//202e7f24 3c033fc0 //3c034000
+//X-Fov
+//0000803f 00000000 0000803f 00000000 00000000 00000000 03000000  
+//205d5de8 3faaaaab //3f800000
+//Render fix
+//0040023c c80283c4
+//202e1690 3c033fc0 //3c034000
+//0040033c 00308344 0800c0e4
+//202e1798 3c03402b //3c034000
+

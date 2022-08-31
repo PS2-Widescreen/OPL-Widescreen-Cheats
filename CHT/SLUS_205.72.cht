@@ -1,0 +1,20 @@
+"Tiger Woods PGA Tour 2003 /ID SLUS_205.72"
+
+Mastercode
+9010BD80 0C042F08
+
+
+//ELF CRC=E14ADB65
+//Widescreen Hack by VIRGIN KLM
+
+//Widescreen hack 16:9
+
+//Menu 3D
+0055A000 3f400000 //3f800000
+
+//Game Play Fov
+005784E0 3f400000 //3f800000
+
+//Game Play Render Fix
+005784F0 44800000 //44000000
+005784F8 40000000 //3f800000

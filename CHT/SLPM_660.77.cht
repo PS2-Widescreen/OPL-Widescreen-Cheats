@@ -1,0 +1,15 @@
+"K-1 World Max 2005 /ID SLPM_660.77"
+
+Mastercode
+90280CD8 0C0A02DE
+
+
+//ELF CRC=08E3C435
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix hack
+2025a3b4 3c013f40 //00000000
+2025a3b8 44810000 //00000000
+2025a3c0 4600c602 //00000000

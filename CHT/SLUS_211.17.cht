@@ -1,0 +1,14 @@
+"World Soccer - Winning Eleven 8 - International /ID SLUS_211.17"
+
+Mastercode
+90108910 0C0421EC
+
+
+//ELF CRC=8B645E10
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+202D7E30 3FAAAAAB //3F800000 (Increases hor. axis)
+
+//Render fix
+20126004 3C023FAB //3C023F80

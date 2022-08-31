@@ -1,0 +1,20 @@
+"Legends of Wrestling 2 /ID SLUS_205.07"
+
+Mastercode
+9010E5B8 0C043916
+
+
+//ELF CRC=6E5692B9
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//03210e46 015a0546
+202b0b84 080c6fd8
+
+2031bf60 460e2103
+2031bf64 3c173f40
+2031bf68 4497f800
+2031bf6c 461f2102
+2031bf70 080ac2e2

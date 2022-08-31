@@ -1,0 +1,14 @@
+"WWE Smackdown - Shut Your Mouth /ID SLUS_204.83"
+
+Mastercode
+9010E6C0 0C043958
+
+
+//ELF CRC=B0AE1898
+//Widescreen hack by ElHecht (NTSC-U by Arapapa)
+
+//Widescreen hack 16:9
+
+201035e4 3c013f40 //00000000
+201035f0 44810000 //00000000
+201035f4 4600c602 //00000000

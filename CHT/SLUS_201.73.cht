@@ -1,0 +1,15 @@
+"Unison /ID SLUS_201.73"
+
+Mastercode
+901F9300 0C07E468
+
+
+//ELF CRC=CE1DF671
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix Hack
+201e4654 3c013f40 //00000000
+201e4658 44810000 //00000000
+201e4660 4600c602 //00000000

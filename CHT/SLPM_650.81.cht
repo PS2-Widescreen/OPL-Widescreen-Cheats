@@ -1,0 +1,17 @@
+"Grandia II /ID SLPM_650.81"
+
+Mastercode
+902A7A38 0C0A9E36
+
+
+//ELF CRC=B6AB7BC2
+//Widescreen Hack (16:9) (pnach NTSC-J by Arapapa)
+
+2025c9e8 3c013f40 //vert fov-
+2025cabc 3c01bf41 //both fov+
+2025c9f0 4481f000
+2025caf8 461e6343
+
+//FMV fix (by flameofrecca)
+20407074 42a00000 //00000000       fmv x-position
+2040707C 43f00000 //44200000       fmv right side stretch

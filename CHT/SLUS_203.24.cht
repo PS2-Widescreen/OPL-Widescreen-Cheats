@@ -1,0 +1,12 @@
+"Paris Dakar Rally /ID SLUS_203.24"
+
+Mastercode
+9010DE78 0C043746
+
+
+//ELF CRC=EC3E8E86
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+201ab57c 3c033f10 //3c033f40 Menu
+2017beb0 3c023f10 //3c023f40 Gameplay

@@ -1,0 +1,19 @@
+"Lowrider /ID SLUS_206.76"
+
+Mastercode
+902B4830 0C0AD1B4
+
+
+//ELF CRC=87D87E3F
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov (Matrix hack)
+2029ed24 3c013f40 //00000000
+2029ed28 44810000 //00000000
+2029ed30 4600c602 //00000000
+
+//Render fix
+//003f013c 00a08144 3e028384
+20271e0c 3c013f2b //3c013f00

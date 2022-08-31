@@ -1,0 +1,23 @@
+"Cabelas Outdoor Adventures 2010 /ID SLUS_219.06"
+
+Mastercode
+9011F078 0C047BC6
+
+
+//ELF CRC=6712AFD7
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+s
+//Zoom
+202508dc 3c023f20 //3c023f00
+
+//Y-Fov
+//03080046 ec00a0e6 f800a0c6
+20250908 08030000 //46001002
+
+200c0000 46000803
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 08094243

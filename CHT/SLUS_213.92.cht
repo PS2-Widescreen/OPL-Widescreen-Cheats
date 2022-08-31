@@ -1,0 +1,21 @@
+"Shrek Smash and Crash /ID SLUS_213.92"
+
+Mastercode
+901A61D0 0C06981C
+
+
+//ELF CRC=34B473E6
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//02080046 5000a0e7 040040c4
+20273cbc 08068a84
+
+201a2a10 46000802
+201a2a14 3c013faa
+201a2a18 3421aaab
+201a2a1c 4481f000
+201a2a20 461e0002
+201a2a24 0809cf30

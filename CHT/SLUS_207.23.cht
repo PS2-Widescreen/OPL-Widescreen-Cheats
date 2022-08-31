@@ -1,0 +1,21 @@
+"Robin Hood - Defender of the Crown /ID SLUS_207.23"
+
+Mastercode
+90150938 0C0541F6
+
+
+//ELF CRC=77E3CBB4
+//Widescreen hack by Devina and Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//42a80146 2700013c
+2022778c 08097c04
+
+2025f010 4601a842
+2025f014 3c013faa
+2025f018 3421aaab
+2025f01c 4481f000
+2025f020 461e0842
+2025f024 08089de4

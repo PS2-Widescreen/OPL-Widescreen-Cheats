@@ -1,0 +1,20 @@
+"Sakura Zakashobotai /ID SLPS_253.63"
+
+Mastercode
+9010B6B8 0C042D56
+
+
+//ELF CRC=7D2AB18C
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+
+//Gameplay
+201520b0 3c023f28 //3c023f61
+201520b8 3442f5c3 //344247af
+
+//Event
+2015218c 3c023f28 //3c023f61
+20152190 3442f5c3 //344247af

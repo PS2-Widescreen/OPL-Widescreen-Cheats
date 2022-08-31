@@ -1,0 +1,11 @@
+"Jojos Bizarre Adventure 5 /ID SLPM_651.40"
+
+Mastercode
+90104F50 0C04137C
+
+
+//ELF CRC=8F82785A
+//Widescreen Hack
+20124f64 3c023f22
+20361ae8 43f00000
+203d23c0 43700000

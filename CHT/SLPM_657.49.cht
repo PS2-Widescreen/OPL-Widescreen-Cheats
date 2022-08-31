@@ -1,0 +1,19 @@
+"Zoids Infinity /ID SLPM_657.49"
+
+Mastercode
+9024F738 0C093D76
+
+
+//ELF CRC=696400C3
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix hack
+2024b1ac 3c013f40 //00000000
+2024b1b0 44810000 //00000000
+2024b1b8 4600c602 //00000000
+
+//Render fix
+//a043013c 00208144 4000b5e7
+2014b23c 3c0143e0 //3c0143a0

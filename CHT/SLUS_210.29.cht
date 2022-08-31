@@ -1,0 +1,24 @@
+"Midnight Club 3 - DUB Edition /ID SLUS_210.29"
+
+Mastercode
+905452E8 0C151462
+
+
+//ELF CRC=4A0E5B3A
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//43a51846 640103e6
+2052dcf8 081529f8
+
+2054a7e0 4618a543
+2054a7e4 3c013f40
+2054a7e8 4481f000
+2054a7ec 461ead42
+2054a7f0 0814b73f
+
+//Render fix
+//003f013c 00008144 02a50046 (2nd)
+2052dc3c 3c013f2b //3c013f00

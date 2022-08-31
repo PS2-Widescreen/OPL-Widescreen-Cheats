@@ -1,0 +1,17 @@
+"Gakkou o Tsukurou - Happy Days!! /ID SLPS_254.71"
+
+Mastercode
+90115BD0 0C04569C
+
+
+//ELF CRC=44D3D2F6
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+201a917c 3c01bec0 //3c01bf00
+
+//Y-Fov
+20222d40 3c023fe3 //3c023faa
+20222d48 34428e2a //3442aaa8

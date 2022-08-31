@@ -1,0 +1,20 @@
+"Scorpion King, The - Rise of the Akkadian /ID SLUS_204.24"
+
+Mastercode
+902042B0 0C081054
+
+
+//ELF CRC=39A8356E
+//Widescreen hack by Arapapa
+
+//Widescreen 16:9
+
+//03a50046 d405d6c4
+20105070 08080644
+
+20201910 4600a503
+20201914 3c013faa
+20201918 3421aaab
+2020191c 4481f000
+20201920 461ea502
+20201924 0804141d

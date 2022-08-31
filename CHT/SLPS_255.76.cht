@@ -1,0 +1,13 @@
+"One Piece - Pirates Carnival /ID SLPS_255.76"
+
+Mastercode
+901106D0 0C04415C
+
+
+//Widescreen Hack by Little Giant
+
+//16:9
+201C93CC 3C023FE3 //3C023FAA vert
+201C93D0 34428E39 //3442AAAB
+
+201D8CBC 3C023F2b //3C023F00 zoom

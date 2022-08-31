@@ -1,0 +1,11 @@
+"RockMan X8 /ID SLPM_657.30"
+
+Mastercode
+9011D8D0 0C0475DC
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+2010f10c 3c013f40 //hor value
+2010f110 44810000
+2010f118 4600c602

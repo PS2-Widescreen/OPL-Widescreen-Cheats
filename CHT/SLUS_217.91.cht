@@ -1,0 +1,14 @@
+"Bratz - Girlz Really Rock /ID SLUS_217.91"
+
+Mastercode
+90484550 0C1210FC
+
+
+//ELF CRC=8071EB8E
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+203bad7c 3c013f40 //00000000
+203bad80 4481f000 //00000000
+203bad88 461eb582 //00000000

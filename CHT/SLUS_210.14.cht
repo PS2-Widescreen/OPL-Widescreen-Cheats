@@ -1,0 +1,22 @@
+"High Roller Casino /ID SLUS_210.14"
+
+Mastercode
+90111850 0C0445BC
+
+
+//ELF CRC=D3C57C9C
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2013f754 3c033f26 //3c033f00
+
+//Y-Fov
+2013f7b4 08030000
+
+200c0000 46010002
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 0804fdee

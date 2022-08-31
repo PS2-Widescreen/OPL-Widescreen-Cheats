@@ -1,0 +1,21 @@
+"Monster Lab /ID SLUS_218.38"
+
+Mastercode
+90320140 0C0C7FF8
+
+
+//ELF CRC=A6BDA6BE
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//02051446 e40100e6
+201857f8 080430d4
+
+2010c350 46140502
+2010c354 3c013faa
+2010c358 3421aaab
+2010c35c 4481f000
+2010c360 461ea502
+2010c364 080615ff

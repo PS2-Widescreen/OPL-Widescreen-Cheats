@@ -1,0 +1,22 @@
+"Backyard Basketball 07 /ID SLUS_214.85"
+
+Mastercode
+90117050 0C045BBC
+
+
+//ELF CRC=2FD3C5A9
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov (Gameplay)
+2024f560 0813fd94
+204ff650 3c013f40
+204ff654 4481f000
+204ff658 461e6303
+204ff65c 08093d59
+
+//Menu Zoom
+//202d3998 3c043f40 //3c043f80
+
+

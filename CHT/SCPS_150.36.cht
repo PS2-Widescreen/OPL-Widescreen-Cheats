@@ -1,0 +1,20 @@
+"Kaitou Sly Cooper /ID SCPS_150.36"
+
+Mastercode
+901FBD98 0C07EF0E
+
+
+//ELF CRC=15C88C7B
+//Widescreen hack (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+20143a50 3c013fdd //3c013fa6
+20143a54 3421a51d //34213bd8
+2012b938 10000003 //11000003
+2015f424 00000000 //0c057cc4
+201907e0 00000000 //0c064238
+201eb448 00000000 //0c07acb8
+
+
+

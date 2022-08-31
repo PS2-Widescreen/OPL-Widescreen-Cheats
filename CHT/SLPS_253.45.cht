@@ -1,0 +1,20 @@
+"Super Robot Wars MX /ID SLPS_253.45"
+
+Mastercode
+90373518 0C0DCCEE
+
+
+//ELF CRC=4FC5B891
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201e9a14 3c013f40 //3c013f80
+
+//Direction Indicator Position
+//206454E0 3faaaaab
+206454E0 3faaaaab //3f800000
+
+//Zoom
+//2010524c 3c013fab //3c013f80

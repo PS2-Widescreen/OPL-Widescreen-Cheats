@@ -1,0 +1,22 @@
+"One Piece - Land Land /ID SLPS_253.82"
+
+Mastercode
+9047AA78 0C11EA46
+
+
+//Widescreen Hack by ElHecht
+
+// 16:9
+//(aa3f013c aaaa2134) first... find address from top (00000000)
+20179e30 3c013fe3 // 3c013faa hor fov gameplay
+20179e34 34218e39 // 3421aaaa hor fov gameplay
+
+//(aa3f013c aaaa2134) tenth... find address from top (00000000)
+2019e9a8 3c013fe3 // 3c013faa hor fov map
+2019e9ac 34218e39 // 3421aaaa hor fov map
+
+// 16:10
+;20179e30 3c013fcc // 3c013faa hor fov gameplay
+;20179e34 3421cccd // 3421aaaa hor fov gameplay
+;2019e9a8 3c013fcc // 3c013faa hor fov map
+;2019e9ac 3421cccd // 3421aaaa hor fov map

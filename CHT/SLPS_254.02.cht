@@ -1,0 +1,21 @@
+"Hagane no Renkinjutsushi - Dream Carnival /ID SLPS_254.02"
+
+Mastercode
+902A7618 0C0A9D2E
+
+
+//ELF CRC=2FE30958
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//0e3c013c 36fa2134 -> 3e3c013c eca42134
+
+201a4930 3c013c3e //3c013c0e
+201a4934 3421a4ec //3421fa36
+
+//Y-Fov
+//983f013c f9d52134 -> 653f013c ee402134
+201a4978 3c013f65 //3c013f98
+201a497c 342140ee //3421d5f9

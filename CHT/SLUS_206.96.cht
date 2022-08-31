@@ -1,0 +1,22 @@
+"Jimmy Neutron - Boy Genius - Jet Fusion /ID SLUS_206.96"
+
+Mastercode
+902690F8 0C09A3E6
+
+
+//ELF CRC=FCC09959
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f023c 4000bfff 00008244
+202338a4 3c023f1d
+
+//Y-Fov
+//80bf033c 00088244 4800013c
+20233900 3c03bfaa
+
+//Render fix
+//400520c6 003f023c 00088244 
+20232018 3c023f2b //3c023f00

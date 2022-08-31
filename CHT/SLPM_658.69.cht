@@ -1,0 +1,12 @@
+"Monster Hunter G /ID SLPM_658.69"
+
+Mastercode
+90200330 0C080074
+
+
+//ELF CRC=29396A53
+//Widescreen hack by nemesis2000 (NTSC-J by Arapapa)
+
+//Wide hack 16:9
+20135064 3c023ff3 //3c023fb6
+2013506c 3442cf35 //3442db6e

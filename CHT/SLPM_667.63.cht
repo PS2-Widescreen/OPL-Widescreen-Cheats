@@ -1,0 +1,15 @@
+"Neon Genesis Evangelion - Battle Orchestra /ID SLPM_667.63"
+
+Mastercode
+90111A50 0C04463C
+
+
+//ELF CRC=7D0C1516
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//00000000 803f023c 500082ac
+//803f023c abaa4234 500082ac
+2028c0c8 3c023faa //00000000
+2028c0cc 3442aaab //3c023f80

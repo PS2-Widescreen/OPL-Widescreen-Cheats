@@ -1,0 +1,16 @@
+"Gallop Racer 2003 - A New Breed /ID SLUS_206.62"
+
+Mastercode
+9034BCB8 0C0D2ED6
+
+
+//ELF CRC=3EFD508C
+//Widescreen hack  by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201f4520 3c013f40 //3c013f80
+
+//Render fix
+201f4788 3c0142d0 //3c014248

@@ -1,0 +1,17 @@
+"King of Fighters - Maximum Impact /ID SLUS_209.23"
+
+Mastercode
+9010C778 0C043186
+
+
+//ELF CRC=833DDCD5
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+//gameplay
+20384384 3c043f24
+203843bc 46010003
+
+//HUD fix
+2038cd88 3c023f24
+2038cdc0 46010842
+2038cdc8 46010903

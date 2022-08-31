@@ -1,0 +1,31 @@
+"NFL Blitz Pro /ID SLUS_206.31"
+
+Mastercode
+90145AB0 0C051654
+
+
+//ELF CRC=52922787
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201a3d4c 08052fd4
+
+2014bf50 46000803
+2014bf54 3c013f40
+2014bf58 4481f000
+2014bf5c 461e0002
+2014bf60 08068f54
+
+
+//Render fix
+//68008bc4 0800a327
+201a2690 08052fd9
+
+2014bf64 c48b0068
+2014bf68 3c013faa
+2014bf6c 3421aaab
+2014bf70 4481f000
+2014bf74 461e5ac2
+2014bf78 080689a5

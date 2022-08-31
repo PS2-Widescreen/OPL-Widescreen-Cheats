@@ -1,0 +1,14 @@
+"LarryBoy and the Bad Apple /ID SLUS_214.40"
+
+Mastercode
+902E3F28 0C0B8F72
+
+
+//ELF CRC=4E838541
+//Widescreen hack by El_Patas (Causes a glitch in the upper left HUD panel)
+
+//Gameplay 16:9
+2021E414 3C014440 //3C014480 (Increases horiz. axis)
+
+//Render fix
+2021271C 3C013C2E //3C013C0E

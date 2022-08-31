@@ -1,0 +1,23 @@
+"Cabelas North American Adventures /ID SLUS_219.35"
+
+Mastercode
+9011F278 0C047C46
+
+
+//ELF CRC=47EB5E7D
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+s
+//Zoom
+2023c03c 3c023f20 //3c023f00
+
+//Y-Fov
+//03080046 ec00a0e6 f800a0c6
+2023c068 08030000 //46001002
+
+200c0000 46000803
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 0808f01b

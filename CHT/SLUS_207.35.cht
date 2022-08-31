@@ -1,0 +1,13 @@
+"Lethal Skies 2 /ID SLUS_207.35"
+
+Mastercode
+902A0A18 0C0A822E
+
+
+//ELF CRC=F523DBC9
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+201262DC 3C0143C0 //3C014400 Zoom
+2010108C 3C0143B4 //3C0143F0 Y-FOV general cameras
+20100D1C 3C0143B4 //3C0143F0 Y-FOV internal cockpit graphic

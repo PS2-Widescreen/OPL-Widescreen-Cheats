@@ -1,0 +1,24 @@
+"Victorious Boxers /ID SLPS_250.12"
+
+Mastercode
+901B6178 0C06D804
+
+
+//ELF CRC=059F0DE7
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+//X-fov (In Squared Ring)
+20114510 3c013f40 //3c013f80
+
+//Event (Zoom)
+20197f10 3c013fab //3c013f80
+
+//Event (Y-Fov)
+2018ede0 3c0143b4 //3c0143f0
+
+//xxx
+//2018ecb8 3c013f40 //3c013f80
+////20197f10 3c013f40 //3c013f80

@@ -1,0 +1,10 @@
+"Ghost Vibration /ID SLPS_251.31"
+
+Mastercode
+9010E550 0C0438FC
+
+
+//ELF CRC=E52F8059
+//Widescreen Hack (pnach by Arapapa)
+
+201ce730 3f400000 //3f800000

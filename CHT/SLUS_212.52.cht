@@ -1,0 +1,20 @@
+"SpongeBob Squarepants - Lights, Camera, PANTS! /ID SLUS_212.52"
+
+Mastercode
+90112BD0 0C044A9C
+
+
+//ELF CRC=9DDF4676
+//Widescreen hack by Arapapa
+ 
+//Widescreen 16:9
+
+//X-Fov
+//680080c4 03080046
+2022fee8 081255ac
+204956b0 c4800068
+204956b4 3c013f40
+204956b8 4481f000
+204956bc 461e0003
+204956c0 e4800068
+204956c4 0808bfbb

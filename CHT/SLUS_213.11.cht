@@ -1,0 +1,20 @@
+"King Kong, Peter Jacksons - The Official Game of the Movie /ID SLUS_213.11"
+
+Mastercode
+905F7A90 0C17DE4C
+
+
+//ELF CRC=2B1CC3FF
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20127ac4 3c033f40 //3c033f80
+
+//Y-Fov
+20134e68 3c033fe3 //3c033faa 4/3 Black Bands Screen Mode
+20134e70 3c033fe3 //3c033faa 4/3 Screen Mode
+
+//Render fix
+201529e0 3c023f40 //3c023f00

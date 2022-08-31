@@ -1,0 +1,14 @@
+"K-1 World Grand Prix 2002 /ID SLPM_652.02"
+
+Mastercode
+902D5808 0C0B55AA
+
+
+//ELF CRC=670E71AC
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+2045c6b0 3f2ccccd //3f666666
+2045cee8 3f2ccccd //3f666666
+2045d4f4 3f2ccccd //3f666666

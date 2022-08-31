@@ -1,0 +1,21 @@
+"MVP Baseball 2005 /ID SLUS_211.35"
+
+Mastercode
+905DC1F0 0C177024
+
+
+//ELF CRC=0544E001
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//803f013c 00008144 380017e6
+2054f920 3c013f40 //3c013f80 zoom
+
+//803f013c 00108144 83b50146
+2054f9b0 3c013fab //3c013f80 fov
+
+
+
+
+

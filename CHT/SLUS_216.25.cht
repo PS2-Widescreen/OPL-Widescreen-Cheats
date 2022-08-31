@@ -1,0 +1,23 @@
+"Cabelas Big Game Hunter III /ID SLUS_216.25"
+
+Mastercode
+9011D2B8 0C047456
+
+
+//ELF CRC=66A43859
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+s
+//Zoom
+202ec38c 3c023f20 //3c023f00
+
+//Y-Fov
+//03080046 ec00a0e6 f800a0c6
+202ec3b8 08030000 //46001002
+
+200c0000 46000803
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 080bb0ef

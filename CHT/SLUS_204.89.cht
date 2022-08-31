@@ -1,0 +1,27 @@
+"Whirl Tour /ID SLUS_204.89"
+
+Mastercode
+90241610 0C09052C
+
+
+//ELF CRC=43E749A2
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+//X-Fov
+201a11ac 3c014440 //3c014480
+
+//Render fix
+20197de4 3c013c30 //3c013c0e
+
+///////////////////////////////////////////////////
+//Zoom
+//201a10f8 3c013fab //3c013f80
+//Y-Fov
+//3f9f49f4 -> 3FD46291
+//20191edc 3c013fd4 //3c013f9f
+//20191ee0 34216291 //342149f4
+//201a11b4 3c01c4ab
+

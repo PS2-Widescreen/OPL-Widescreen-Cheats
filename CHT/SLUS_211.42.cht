@@ -1,0 +1,15 @@
+"Constantine /ID SLUS_211.42"
+
+Mastercode
+904121D8 0C10481E
+
+
+//ELF CRC=314DAA9F
+//Widescreen Hack by Arapapa
+
+//X-Fov - ELF hack
+//803f013c 00108144 0c00438e
+202b52e0 3c013f40 //3c013f80
+
+//Memory Hack
+//20817074 3F400000 // 3F800000

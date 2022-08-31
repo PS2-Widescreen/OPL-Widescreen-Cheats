@@ -1,0 +1,18 @@
+"Air Force - Delta Strike /ID SLUS_207.03"
+
+Mastercode
+90136F78 0C04DB86
+
+
+//ELF CRC=3EC45D14
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Game Play
+//0000803f efee6e3f 00000000
+204AE2AC 3f400000
+
+//Render Fix
+//0000a043 00006043 (2nd)
+204AE2A4 44200000

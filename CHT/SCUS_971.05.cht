@@ -1,0 +1,19 @@
+"Fantavision /ID SCUS_971.05"
+
+Mastercode
+901B8898 0C06E1CC
+
+
+//ELF CRC=40372109
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20191c20 3c0143f0 //3c014420
+
+//Zoom
+//20191cb4 3c013ec0 //3c013f00
+
+//Y-Fov
+//20191c98 3c013eb4 //3c013ef0

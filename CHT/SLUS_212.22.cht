@@ -1,0 +1,15 @@
+"Top Spin /ID SLUS_212.22"
+
+Mastercode
+90120E10 0C04832C
+
+
+//ELF CRC=D8BBFFF3
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//aa3f033c abaa6334 00688344 50e20a0c
+20318c40 3c033fe3 //3c033faa
+20318c44 34638e2a //3463aaab

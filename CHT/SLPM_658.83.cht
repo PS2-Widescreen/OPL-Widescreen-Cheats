@@ -1,0 +1,17 @@
+"Shadow of Rome /ID SLPM_658.83"
+
+Mastercode
+90112050 0C0447BC
+
+
+//ELF CRC=36393CD3
+//Widescreen hack (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+20146c08 3c023f1f //3c023eee
+20146c10 344249f9 //3442eeef
+20146e24 3c023f1f //3c023eee
+20146e2c 344249f9 //3442eeef
+
+201e75bc 3c044328 //3c044360

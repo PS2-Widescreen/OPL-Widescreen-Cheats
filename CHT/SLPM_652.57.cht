@@ -1,0 +1,27 @@
+"Silent Hill 3 /ID SLPM_652.57"
+
+Mastercode
+90103078 0C040BC6
+
+
+//ELF CRC=8CFE667F
+//NTSC-J Widescreen Hack by nemesis2000
+
+201b4a24 3c023f28 //3c023f61
+201b4a28 3442f5c3 //344247ae
+
+//Items & Weapons and Supplies fix
+//4c3f023c cdcc4234 00108544
+202ad938 3c023f19 //3c023f4c
+202ad93c 3442999a //3442cccd
+
+//Oringal FMV's fix by nemesis2000
+202b6078 24112550 //fmv height
+202b6064 24106D50 //fmv y-pos
+202b619c 24100000 //fmv black borders
+202b61a4 24100000 //fmv black borders
+
+202b607c 24032000 //fmv height
+202b6068 24037000 //fmv y-pos
+202b61bc 24100000 //fmv black borders
+202b61c0 24100000 //fmv black borders

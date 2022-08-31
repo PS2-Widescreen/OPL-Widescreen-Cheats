@@ -1,0 +1,25 @@
+"Rogue Galaxy [Directors Cut] /ID SCPS_170.13"
+
+Mastercode
+90119910 0C0465EC
+
+
+//ELF CRC=CDEE4B19
+//Widescreen hack by nemesis2000 (pnach by Arapapa)
+
+//gameplay
+201c5aa0 3c023f10 //403F023C(*) 00608244 FC08050C 2D200002
+
+//compass
+2037413c 3c023f10 //F055050C 9004A0E7 A004AFC7 403F023C(*)
+
+//black border fix
+20261050 3c020000
+
+//FMV's fix
+201d4a3c 24060000 //top 
+201D4A8C 240201c0 //bottom 
+
+//hor FMV's fix
+//201d4a2c 24030040 //left
+//201d4a88 240301c0 //right

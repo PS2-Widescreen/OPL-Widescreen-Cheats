@@ -1,0 +1,32 @@
+"Silent Hill - Shattered Memories /ID SLPM_552.31"
+
+Mastercode
+9042A860 0C10A9C0
+
+
+//ELF CRC=F66FAFB2
+//Widescreen hack by nemesis2000 (NTSC-J by Arapapa)
+
+//widescreen fix
+202c4a0c 3c013faa //3c013fe3
+202c4a10 3421aaaa //34218e39
+202c4a1c 46036302 //e7ac0000
+202c4a20 460318c2 //14800011
+202c4a24 e7ac0000 //afa00004
+202c4a28 1480000f //3c013faa
+202c4a2c afa00004 //3421aaa8
+202c4a30 3c013faa //44810800
+202c4a34 3421aaa8 //3c013eaa
+202c4a38 44810800 //3421aaab
+202c4a3c 3c013eaa //44810000
+202c4a40 3421aaab //00000000
+202c4a44 44810000 //00000000
+
+//fastboot widescreen
+//03004230 1000bfdf
+203895c8 24020002
+
+//noise off
+202b67ec 24040000 //03e00008
+202b67f0 03e00008 //ac44b0c0 
+202b67f4 ac44b0c0 //00000000 NTSC-U ac44abc0

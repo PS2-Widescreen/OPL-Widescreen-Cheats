@@ -1,0 +1,12 @@
+"Arthur and the Invisibles /ID SLUS_213.05"
+
+Mastercode
+90112A90 0C044A4C
+
+
+//ELF CRC=8EBA521C
+//Widescreen hack by Sergx12
+
+//Gameplay 16:9
+2012BBA4 3C023F1E //3C023F00
+2012BBC8 3C023F0F //3C023F40

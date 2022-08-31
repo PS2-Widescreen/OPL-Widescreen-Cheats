@@ -1,0 +1,22 @@
+"Great Escape, The /ID SLUS_206.70"
+
+Mastercode
+903F4B38 0C0FD276
+
+
+//ELF CRC=D600925B
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+202b89cc 3c013b01 //3c013acc
+202b89d0 34210000 //3421cccd
+
+//Y-Fov
+202b8a54 3c013b35 //3c013b08
+202b8a58 3421fe54 //34218889
+
+//Render fix
+202ca178 3c013d00 //3c013c8e
+202ca17c 34210000 //3421fa36

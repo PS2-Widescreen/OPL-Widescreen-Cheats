@@ -1,0 +1,37 @@
+"Warriors of Might and Magic /ID SLUS_200.06"
+
+Mastercode
+9030C5D0 0C0C311C
+
+
+//ELF CRC=43362CD2
+//Widescreen hack by ElHecht and Arapapa
+
+//Widescreen hack 16:9
+
+//Gameplay
+//00000000 34800046 00000000
+202fc470 3c013f81 // 00000000 hor fov
+202fc478 3421de4d // 00000000 hor fov
+
+//000084e4 0800e003
+202fc520 ac810000 // e4840000
+
+//003f013c 00c08144 (2nd)
+2015a30c 3c013ec0 // 3c013f00 renderfix
+
+//Menu Fix
+//89C0013C 92242134
+//40DC013C D8B62134
+20263c08 3c01c04D //46000843 Y-Fov
+20263c0c 3421B6D8 //34212492
+
+//8940013C 92242134
+//40D4013C D8B62134
+20263c14 3c01404D //46000843 Y-Fov
+20263c18 3421B6D8 //34212492
+
+//803f013c 00008144 40780e46
+202fc6e4 3c023fab // 3c013f80 newgame menu zoom
+202fc6e8 3442aaab // 44810000 newgame menu zoom
+202fc6fc ac82003c // e480003c

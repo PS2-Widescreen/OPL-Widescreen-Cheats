@@ -1,0 +1,18 @@
+"Final Fantasy XII /ID SLPM_663.20"
+
+Mastercode
+90482A60 0C120A40
+
+
+//ELF CRC=280AD120
+//NTSC-J Widescreen Hack by synce
+//204dfb50 3fe28f5c
+//204dfbb0 3fe28f5c
+
+202a90d8 3c013fe3 //3c013faa
+202a90dc 34218e2a //3421aaaa
+
+//hud fix (font, mini map and etc)(cause some problem)
+//205b4a80 3f400000
+//or
+//205b4aa0 45400000 //45800000

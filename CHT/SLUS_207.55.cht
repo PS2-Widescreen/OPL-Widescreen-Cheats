@@ -1,0 +1,15 @@
+"NBA Live 2004 /ID SLUS_207.55"
+
+Mastercode
+90346150 0C0D17FC
+
+
+//ELF CRC=09F914F1
+//Widescreen hack by Arapapa
+ 
+//Gameplay 16:9
+
+2011789c 3c013fe3 //3c013faa
+201178a0 34218e2a //3421aaab
+
+2011854c 3c013fab //3c013f80

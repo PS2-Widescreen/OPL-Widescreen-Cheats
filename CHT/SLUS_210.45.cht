@@ -1,0 +1,18 @@
+"Conflict Vietnam /ID SLUS_210.45"
+
+Mastercode
+903FB0C8 0C0FEBDA
+
+
+//ELF CRC=CC6CBF20
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom fix - Internal Widescreen and 4:3 X-Fov
+203095ec 3c013fe3 //3c013faa
+203095f0 34218cc1 //3421a993
+
+//Y-Fov fix - Internal Widescreen 
+//2030962c 3c013f0e //3c013f0a
+//20309630 342190dd //342160dd

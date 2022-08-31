@@ -1,0 +1,26 @@
+"WWII Paratroopers /ID SLUS_207.15"
+
+Mastercode
+9023E818 0C08F9AE
+
+
+//ELF CRC=0712E8FA
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov (3D Layers -Basic 3D graphics, flare and etc)
+//ffff7f3f eeeeee3e 0000803f 00ff7f45
+20399d34 3f400000 //3f7fffff
+20399d8c 3f400000 //3f7fffff
+20399db4 3f400000 //3f7fffff
+2039a614 3f400000 //3f7fffff
+2039a944 3f400000 //3f7fffff
+2039ad88 3f400000 //3f7fffff
+2039ae40 3f400000 //3f7fffff
+
+//Render fix
+2039ae28 3FE30000 //3faa3d71 ?
+2039b140 3FE30000 //3faa3d70 gameplay
+2039b82c 3FE30000 //3faa3d71 cutscene
+2039b894 3FE30000 //3faa3d71 ?

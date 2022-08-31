@@ -1,0 +1,13 @@
+"Monster 4x4 - Masters of Metal /ID SLUS_207.96"
+
+Mastercode
+9010F2D0 0C043C5C
+
+
+//ELF CRC=0CEDE605
+//Widescreen Hack
+20143ae0 3c023ff3 //3c023fb6 car select menu
+20143ae4 3443cf35 //3443db6e
+203a3d98 3c023fab //3c023f80 character select menu
+203fe720 3c033ff3 //3c033fb6 gameplay
+203fe72c 3464cf35 //3464db6e

@@ -1,0 +1,11 @@
+"Metal Gear Solid 3 - Snake Eater /ID SLUS_209.15"
+
+Mastercode
+00000000 00000000
+
+
+//ELF CRC=AA31B5BF
+//MGS3 (NTSC-U) Widescreen Patches by Acem
+
+// 16:9
+2020247c 3F400000

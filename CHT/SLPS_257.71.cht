@@ -1,0 +1,35 @@
+"Grim Grimoire /ID SLPS_257.71"
+
+Mastercode
+9010BA18 0C042E2E
+
+
+//ELF CRC=101CFA06
+//Widescreen hack by Arapapa
+
+//Gameplay 16:9
+
+//Zoom
+//0040033c 00108344 00000000 (1st)
+2016e9a0 3c033fb5 //3c034000
+
+//Y-Fov
+//43d00246 03000246
+2016e9ac 0807fbf4 //4602d043
+
+201fefd0 4602d043 //00000000
+201fefd4 3c013f08 //00000000
+201fefd8 4481f000 //00000000
+201fefdc 461e0842 //00000000
+201fefe0 0805ba6c //00000000
+
+/////////////////////////////////
+//screen Y-scale
+//2016a210 3c023fab //3c023f80
+
+//Back graphic zoom
+//201733b4 3c033f40 //3c033f80
+
+//Zoom
+//201cfa60 3c033f60 //3c033f80
+//201cadc8 3c024296 //3c0242c8

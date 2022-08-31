@@ -1,0 +1,23 @@
+"Froggers Adventures - The Rescue /ID SLUS_207.34"
+
+Mastercode
+9010E138 0C0437F6
+
+
+//ELF CRC=9F53F96D
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2012c764 3c023f25 //3c023f00
+
+//Y-Fov
+202ca7cc 08030000 //c6010074
+
+200c0000 c6010074
+200c0004 3c013faa
+200c0008 3421aaab
+200c000c 4481f000
+200c0010 461e0842
+200c0014 080b29f4

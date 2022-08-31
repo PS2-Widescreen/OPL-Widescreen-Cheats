@@ -1,0 +1,25 @@
+"Cabelas Big Game Hunter /ID SLUS_205.34"
+
+Mastercode
+9011E878 0C0479C6
+
+
+//ELF CRC=05D4EEB3
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f023c 7000b77f 00108344
+202e3ee4 3c023f1c //3c023f00
+
+//Y-Fov
+//03080046 ec00a0e6 f800a0c6
+202e3f40 08030000 //46001002
+
+200c0000 46000803
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 080b8fd1
+

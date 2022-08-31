@@ -1,0 +1,13 @@
+"Zatch Bell! Mamodo Fury /ID SLUS_213.63"
+
+Mastercode
+9023F3F8 0C08FCA6
+
+
+//Widescreen Hack by Little Giant
+
+//16:9
+2022a91c 3c013f40 // 00000000 hor
+2022a920 44810000 // 00000000
+2022a928 4600c602 // 00000000
+201dca68 3C014220 // 3C0141F0 render

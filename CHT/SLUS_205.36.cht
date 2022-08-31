@@ -1,0 +1,15 @@
+"NBA Live 2003 /ID SLUS_205.36"
+
+Mastercode
+902C4A40 0C0B1238
+
+
+//ELF CRC=0BBDBE84
+//Widescreen hack by Arapapa
+ 
+//Gameplay 16:9
+
+2020c8dc 3c013fe3 //3c013faa
+2020c8e0 34218e2a //3421aaab
+
+2021438c 3c013fab //3c013f80

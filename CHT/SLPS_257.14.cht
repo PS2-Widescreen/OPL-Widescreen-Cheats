@@ -1,0 +1,16 @@
+"Naruto - Konoha Spirits /ID SLPS_257.14"
+
+Mastercode
+9010B678 0C042D46
+
+
+//ELF CRC=A91A6865
+// Widescreen Hack (16:9) by ElHecht (NTSC-J by Arapapa)
+
+// 16:9
+// 613f023c af474234 (search twice)
+20206628 3c023f28 // 3c023f61
+2020662c 3442f5c3 // 344247af
+
+20206ee0 3c023f28 // 3c023f61
+20206ee4 3442f5c3 // 344247af

@@ -1,0 +1,17 @@
+"World Championship Poker 2 featuring Howard Lederer /ID SLUS_211.76"
+
+Mastercode
+90478498 0C11E0CE
+
+
+//ELF CRC=9AEECC9D
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+2023c2dc 08030000
+200c0000 46031082
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e1082
+200c0010 0808f0b8

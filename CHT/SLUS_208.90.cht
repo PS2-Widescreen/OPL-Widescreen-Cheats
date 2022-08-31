@@ -1,0 +1,14 @@
+"Rocky - Legends /ID SLUS_208.90"
+
+Mastercode
+901082F0 0C042064
+
+
+//ELF CRC=166EC9E6
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//0000803f 0000003f 0000a043
+20346288 3F400000 //3F800000 fov
+20346290 43E00000 //43A00000 render fix

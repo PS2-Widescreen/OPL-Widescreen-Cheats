@@ -1,0 +1,16 @@
+"King of Fighters, The - Maximum Impact 2 /ID SLPS_256.09"
+
+Mastercode
+9010DF90 0C04378C
+
+
+//ELF CRC=0CC85693
+// Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//abaaaa3f 00006042
+207d2e14 3fe38e38 //3faaaaab Y-Fov
+
+//abaaaa3e 8988083e (1st)
+208a48c0 400ccccd //3eaaaaab Zoom

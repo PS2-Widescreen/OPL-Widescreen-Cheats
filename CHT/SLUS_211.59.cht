@@ -1,0 +1,20 @@
+"Moto GP 4 /ID SLUS_211.59"
+
+Mastercode
+902AFFE0 0C0ABFA0
+
+
+//ELF CRC=AF7BEB14
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov Game play
+//0000803f 5304c23f
+205624a4 3f400000 //3f800000
+
+//Render fix
+2055c608 43000000 //43a00000 Result background
+20564718 43000000 //43a00000 Gameplay
+20596438 43000000 //43a00000 NPC player
+205916f0 40100000 //3f9c28f6 Ground object

@@ -1,0 +1,13 @@
+"Kidou Senshi Gundam 00 - Gundam Meisters /ID SLPS_259.00"
+
+Mastercode
+90111698 0C04454E
+
+
+//ELF CRC=FEEF37A0
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+201f0f40 3c023f19 //3c023f4c
+201f0f48 3443999a //3443cccd

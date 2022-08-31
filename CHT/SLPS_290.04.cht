@@ -1,0 +1,22 @@
+"Lord of the Rings, The - The Two Towers /ID SLPS_290.04"
+
+Mastercode
+902AE9B8 0C0ABA16
+
+
+//ELF CRC=C0E909E9
+//Widescreen Hack by Arapapa
+
+//Widescreen 16:9
+
+//X-Fov
+20107160 3c023fe3
+20107164 34428e39
+
+//Font Fix (Although the spacing between letters should be narrowed. But it is better to read without correcting.)
+201b4758 3c02417f
+201b475c 3442b000
+201b4760 44820000
+
+//HUD Fix (Need push to the right. However, there is not much difference without modification.)
+201b5868 3c02417f

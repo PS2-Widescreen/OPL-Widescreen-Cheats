@@ -1,0 +1,22 @@
+"Mobile Suit Gundam - Lost War Chronicles /ID SLPS_251.23"
+
+Mastercode
+9010E100 0C0437E8
+
+
+//ELF CRC=672F3D8A
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//a043023c 00088244 00000000 (2nd)
+20158c40 3c024370 //3c0243a0
+
+//Y-Fov
+//f043033c 00008344 3200013c
+20158004 3c0343B4 //3c0343f0
+
+///////////////////////////////////////////////
+//Zoom
+//20158c00 3c02402a //3c024000

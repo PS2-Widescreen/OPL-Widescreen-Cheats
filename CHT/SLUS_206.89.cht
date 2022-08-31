@@ -1,0 +1,19 @@
+"Conflict - Desert Storm 2 - Back to Baghdad /ID SLUS_206.89"
+
+Mastercode
+903A42A8 0C0E9052
+
+
+//ELF CRC=2BE460DF
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom fix - Internal Widescreen and 4:3 X-Fov
+//aa3f013c 93a92134 00b08144
+202a36f0 3c013fe3 //3c013faa
+202a36f4 34218cc1 //3421a993
+
+//Y-Fov fix - Internal Widescreen 
+202a3730 3c013f0e //3c013f0a
+202a3734 342190dd //342160dd

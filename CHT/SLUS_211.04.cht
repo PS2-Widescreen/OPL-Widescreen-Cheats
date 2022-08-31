@@ -1,0 +1,13 @@
+"MX vs ATV Unleashed /ID SLUS_211.04"
+
+Mastercode
+90342250 0C0D083C
+
+
+//ELF CRC=95BB1901
+//Widescreen Hack
+2018ee14 3c03bfab //r fix
+2018ee18 3c023fab //r fix
+201b81d4 3c023f18 //fov
+2022c5c8 3c043fe3 // vert fov
+2022c5cc 348e8e39

@@ -1,0 +1,14 @@
+"NBA Live 2005 /ID SLUS_210.58"
+
+Mastercode
+9036C640 0C0DB138
+
+
+//ELF CRC=3DF2B0BE
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//003f013c 00088144 1800028e
+203cc5fc 3c013ec0 //3c013f00

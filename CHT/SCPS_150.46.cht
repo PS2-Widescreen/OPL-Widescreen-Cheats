@@ -1,0 +1,94 @@
+"Hungry Ghosts /ID SCPS_150.46"
+
+Mastercode
+90106578 0C041906
+
+
+//ELF CRC=91AA4B28
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//201482fc 3c0b3f40 //3c0b3f80
+
+//Zoom
+//203da3d8 40000000 //3eaaaaab
+//2012bb7c 3c024300 //3c024334
+//2012bbb8 3c034370 //3c034360
+
+//Zoom
+2012bb74 3c043fC0 //3c044000 Event
+2012bc0c 3c0343ba //3c0343f0 Gameplay
+
+//Y-Fov
+20148300 3c0a3f2a //3c0a3f00
+
+//Render Fix (Event)
+2013b5f0 3c033fc0 //3c034000 Gameplay
+//2014cdb8 3c0240e0 //3c024120 Event
+2013b608 3c03bfc0 //3c03c000
+
+//Font Y-Fov
+2014b050 3c023fc0 //3c024000
+
+//Font Zoom
+20182804 3c024190 //3c0241c0
+201827d0 3c024190 //3c0241c0
+
+//Sprit bar
+//20180e00 3c024340 //3c024380 X-Fov
+//20180dec 3c024240 //3c024100 X-Position
+
+//Spirit Fire
+20180474 3c054308 //3c054334 Y-Position
+//20180468 3c02437b //3c02436b X-Position
+
+//Spirit Slot
+2018035c 3c08430d //3c084339 Y-Position
+
+//Vitality bar
+//20180ba4 3c044340 //3c044380 X-Fov
+//20180b98 3c0643fc //3c0643bc X-Position
+
+//Vitality
+2018005c 3c074308 //3c074334 Y-Position
+
+//Action Select Bar
+20182258 3c024040 //3c024000 Y-Position
+20182268 3c0243e7 //3c0243f7 X-position 3c0243e7
+20178b94 3c024180 //3c0241a0 Text Y-Position
+
+//Action Explanation
+2014af7c 3c024190 //3c0241c0 Text Zoom
+201680d4 3c024170 //3c0241a0 Button X-Fov
+
+//Action Select Zoom
+//20181a20 3c024420 //3c0243f7
+//20181b84 3c024420 //3c0243f7
+//20182268 3c024410 //3c0243f7
+
+//2018203c 3c0342f0 //3c0341a0
+//20182040 3c023f00 //3c0341a0
+
+//Action Select Bar X-Fov
+//20181ff0 3c024030 Action 
+
+//20181fc4 3c034100
+//20182120 3c023f00 //3c0241f0
+//20182158 3c0242f0 //3c0241f0
+
+//201820f8 3c0243f0 //3c0243a0 talk bar X-Position
+
+
+
+
+
+
+
+
+
+
+
+
+//20182100 3c023f00

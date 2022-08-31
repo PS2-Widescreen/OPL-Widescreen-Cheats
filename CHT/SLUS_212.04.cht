@@ -1,0 +1,41 @@
+"Victorious Boxers 2 - Fighting Spirit /ID SLUS_212.04"
+
+Mastercode
+90106FD0 0C041B9C
+
+
+//ELF CRC=DC2C7C01
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov (in Squred Ring)
+2019291c 3c063fab //3c063f80
+
+//Cutscenes
+//02080046 4800a0e7 380080c4
+2013b784 080aed94
+202bb650 46000802
+202bb654 3c013f40
+202bb658 4481f000
+202bb65c 461e0003
+202bb660 0804ede2
+
+/////////////////////////////////////////////////
+//Y-Fov (Event In Squred Ring)
+//20195308 3c063fab //3c063f80
+//20195318 3c074455 //3c074420
+
+//Zoom (All Event)
+//2013b754 3c023f40 //3c023f00
+
+//Y-Fov (Event)
+//201b4d8c 3c074455 //3c074420
+//201beeac 3c074455 //3c074420
+//201c0620 3c024455 //3c024420
+//202af75c 3c074455 //3c074420
+//202b9548 3c074455 //3c074420
+//202bae1c 3c074455 //3c074420
+//202baf14 3c024455 //3c024420
+//202baf48 3c024455 //3c024420
+

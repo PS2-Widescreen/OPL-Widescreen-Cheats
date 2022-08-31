@@ -1,0 +1,14 @@
+"NBA Live 06 /ID SLUS_212.79"
+
+Mastercode
+9024A698 0C09294E
+
+
+//ELF CRC=10118EC4
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//003f013c 00088144 1800028e
+2059bc54 3c013ec0 //3c013f00

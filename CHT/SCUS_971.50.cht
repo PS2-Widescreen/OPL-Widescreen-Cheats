@@ -1,0 +1,21 @@
+"Formula One 2001 /ID SCUS_971.50"
+
+Mastercode
+9029BB90 0C0A6E8C
+
+
+//ELF CRC=272F1C14
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+202ec078 3feccccd //3eaaaaab
+202c2264 3f1a0000 //3f28b439
+
+//Y-Fov
+202c5de0 3f2aaa9f //3f000000
+
+//Rendeer Fix
+202094e8 3c013ff0 //3c013fc9
+202094ec 34210000 //34210fdb

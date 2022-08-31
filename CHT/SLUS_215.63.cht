@@ -1,0 +1,26 @@
+"Horsez /ID SLUS_215.63"
+
+Mastercode
+904268D8 0C1099DE
+
+
+//ELF CRC=F0512849
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+2032ca6c 3c023f00 //3c023f40
+
+//Zoom
+2032ca78 3c023fc0 //3c024000
+
+//Hud Fix
+20222c1c 08040718
+
+20101c60 46010303
+20101c64 3c013faa
+20101c68 3421aaab
+20101c6c 4481f000
+20101c70 461e6302
+20101c74 08088b08

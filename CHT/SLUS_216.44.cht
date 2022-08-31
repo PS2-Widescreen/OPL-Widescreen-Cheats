@@ -1,0 +1,21 @@
+"SpongeBobs Atlantis SquarePantis /ID SLUS_216.44"
+
+Mastercode
+9047AFD0 0C11EB9C
+
+
+//ELF CRC=1FF9C051
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//000000000000000083ad004600000000
+203b343c 3c013f40
+203b3440 4481f000
+203b3448 461eb582
+
+//Render fix
+//003f013c 00a08144 98000cc6 (1st)
+20392f60 3c013f2b //3c013f00
+

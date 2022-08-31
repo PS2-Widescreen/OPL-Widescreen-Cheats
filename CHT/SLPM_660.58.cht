@@ -1,0 +1,16 @@
+"Sengoku Basara /ID SLPM_660.58"
+
+Mastercode
+90282658 0C0A093E
+
+
+//Widescreen Hack by Little Giant
+
+//wide 16:9
+2026470c 3c013f40 //00000000
+20264710 44810000 //00000000
+20264718 4600c602 //00000000
+
+//render fix
+201afdd0 3c013f19 //3c013f4c
+201afdd4 3421999a //3421cccd

@@ -1,0 +1,13 @@
+"Super Robot Taisen - Scramble Commander The 2nd /ID SLPS_257.50"
+
+Mastercode
+901DC2C0 0C077058
+
+
+//ELF CRC=6667E5E4
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+207d0478 3f533333 //3f8ccccd
+207d1668 3f533333 //3f8ccccd

@@ -1,0 +1,16 @@
+"Gallop Racer 2004 /ID SLUS_210.31"
+
+Mastercode
+902DA570 0C0B6904
+
+
+//ELF CRC=157ECF54
+//Widescreen hack  by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+2012bfb8 3c013f40 //3c013f80
+
+//Render fix
+2012c190 3c0142d0 //3c014248

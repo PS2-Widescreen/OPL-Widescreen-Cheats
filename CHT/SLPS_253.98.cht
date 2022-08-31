@@ -1,0 +1,11 @@
+"Naruto - Narutimate Hero 2 /ID SLPS_253.98"
+
+Mastercode
+90123A50 0C048E3C
+
+
+//ELF CRC=531BE810
+//Widescreen Hack (NTSC-J by Arapapa)
+
+//16:9 (0000803f 0000803f 00008043 00004043)
+20AB81B0 3f400000 // 3f800000

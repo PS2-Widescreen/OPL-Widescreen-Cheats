@@ -1,0 +1,18 @@
+"Need for Speed - Underground /ID SLUS_208.11"
+
+Mastercode
+903B4A58 0C0ED23E
+
+
+//ELF CRC=CB99CD12
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+204ff434 3f400000
+204ff628 3f2aaaaa
+204ff630 3f2aaaaa
+
+//FMV's fix
+20229da8 3c01bf2a
+20229dac 44816800
+20229ddc 46007307
+20229de0 46006bc7

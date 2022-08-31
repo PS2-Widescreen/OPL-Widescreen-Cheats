@@ -1,0 +1,11 @@
+"Mission Impossible - Operation Surma /ID SLUS_204.00"
+
+Mastercode
+9048A2E0 0C122860
+
+
+//ELF CRC=B82A0B91
+//Widescreen patch by Arapapa
+
+// 16:9 (0000803f 00000000 00000000 00000000 00000080)
+20657E60 3F400000 // 3F800000

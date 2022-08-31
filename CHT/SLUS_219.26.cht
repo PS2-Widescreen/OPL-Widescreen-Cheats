@@ -1,0 +1,18 @@
+"Nickelodeon Ni Hao, Kai-Lan - Super Game Day /ID SLUS_219.26"
+
+Mastercode
+901DDA58 0C07763E
+
+
+//ELF CRC=C20B1822
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+2011a224 08030000
+
+200c0000 46160083
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e1082
+200c0010 0804688a

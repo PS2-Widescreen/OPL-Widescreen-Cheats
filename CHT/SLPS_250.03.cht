@@ -1,0 +1,15 @@
+"Evergrace /ID SLPS_250.03"
+
+Mastercode
+902C70F8 0C0B1BE4
+
+
+//ELF CRC=66FB2124
+//Widescreen Hack (NTSC-J by Arapapa)
+
+// Wide 16:9
+// 803f013c 00a88144 2e00043c
+202010d0 3c013f40 // 3c013f80
+
+// 803f013c 00a08144 c07b1646
+20201170 3c013f40 // 3c013f80

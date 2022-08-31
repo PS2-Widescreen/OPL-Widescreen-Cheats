@@ -1,0 +1,23 @@
+"Tomb Raider - The Angel of Darkness /ID SLPS_252.46"
+
+Mastercode
+90218728 0C086172
+
+
+//ELF CRC=19D22A40
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Force turn on Native Widescreen (Full boot bypassing)
+20224bf0 24020002 //30420003
+
+//Full Boot 16:9 fix
+202091d0 3c013fe2 //3c013fd5
+202091d4 3421fc93 //3421c28f
+
+////////////////////////////////////////
+//Fast Boot 4:3 fix
+//aa3f013c 713d2134 (Last)
+202091bc 3c013fe2 //3c013faa
+202091c0 3421fc93 //34213d71

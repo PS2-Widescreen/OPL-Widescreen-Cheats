@@ -1,0 +1,13 @@
+"River King - A Wonderful Journey /ID SLUS_212.75"
+
+Mastercode
+9040FE78 0C103F46
+
+
+//ELF CRC=D926BF85
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+20404df4 3c013f40 //00000000
+20404df8 44810000 //00000000
+20404e00 4600c602 //00000000

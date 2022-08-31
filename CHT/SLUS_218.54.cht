@@ -1,0 +1,16 @@
+"Coraline /ID SLUS_218.54"
+
+Mastercode
+903DF618 0C0F7D2E
+
+
+//ELF CRC=64ABECC8
+//Widescreen hack
+201a65f0 3c013c2e //r fix
+202644ec 3c014440 // hor fov
+//20267dd0 3C013F40 //hud zoom in
+
+//Get rid of black bar
+//8642013c 67662134
+20225ffc 3c014000 //3c014286
+20226000 00000000 //34216667

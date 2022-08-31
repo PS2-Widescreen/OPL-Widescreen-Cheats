@@ -1,0 +1,13 @@
+"Biohazard Gun Survivor 4 - Heroes Never Die /ID SLPM_652.45"
+
+Mastercode
+90133170 0C04CC04
+
+
+//ELF CRC=301A78F2
+//Widescreen hack by Little Giant
+
+20108b74 3c013f40 //00000000 hor fov
+20108b78 44810000 //00000000
+20108b80 4600c602 //00000000
+2022eb08 3c0143d6 //3c0143a0 render fix

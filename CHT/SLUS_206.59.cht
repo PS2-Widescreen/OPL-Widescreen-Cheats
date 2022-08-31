@@ -1,0 +1,32 @@
+"Piglets Big Game /ID SLUS_206.59"
+
+Mastercode
+9010C038 0C042FB6
+
+
+//ELF CRC=004B2E96
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//4940023c 00088344 db0f4434
+20295cbc 3c024086 //3c024049
+
+s//Y-Fov
+//aa3f023c abaa4234  00688244(5th, 6th)
+202d9504 3c023fe3 //3c023faa Gameplay
+202d9508 34428e32 //3442aaab
+
+2032aba8 3c023fe3 //3c023faa
+2032abac 34428e32 //3442aaab Cutscene
+
+/////////////////////////////////////////
+//20142df4 08042578
+
+//201095e0 46070202
+//201095e4 3c013f40
+//201095e8 00000000
+//201095ec 4481f000
+//201095f0 461e4202
+//201095f4 08050b7e

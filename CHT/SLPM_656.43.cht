@@ -1,0 +1,11 @@
+"RockMan X - Command Mission /ID SLPM_656.43"
+
+Mastercode
+9011D210 0C04742C
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+2010ea24 3c013f40 //hor value
+2010ea28 44810000
+2010ea30 4600c602

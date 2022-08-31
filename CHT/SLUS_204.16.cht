@@ -1,0 +1,35 @@
+"Headhunter /ID SLUS_204.16"
+
+Mastercode
+9023D8B0 0C08F5D4
+
+
+//ELF CRC=6B64AB86
+//Widescreen Hack by ElHecht
+
+// 16:9
+20196fd4 10400007 // 1040000b
+20196fec 1000fffd // 00000000
+20196ff4 3c013f40 // 00000000 hor fov
+20196ffc 4481f000 // 1000fffa
+20197000 c784bccc // 00000000
+20197014 461e2102 // c784bccc
+2018f9a8 4615ad03 // 3c013f80 renderfix
+2018f9ac 461e2743 // 4481a000 renderfix
+2018f9e0 e79dbcb4 // e784bcb4 renderfix
+
+// 16:10
+//20196fd4 10400007 // 1040000b
+//20196fec 1000fffd // 00000000
+//20196ff4 3c013f55 // 00000000 hor fov
+//20196ff8 34215555 // 00000000 hor fov
+//20196ffc 4481f000 // 1000fffa
+//20197000 c784bccc // 00000000
+//20197014 461e2102 // c784bccc
+//2018f9a8 4615ad03 // 3c013f80 renderfix
+//2018f9ac 461e2743 // 4481a000 renderfix
+//2018f9e0 e79dbcb4 // e784bcb4 renderfix
+
+//Black bar fix by Arapapa (Get rid of 'Black Bar')
+//9a99993f 5555553f 5655553e
+20586d04 00000000 /3f99999a

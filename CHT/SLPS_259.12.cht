@@ -1,0 +1,14 @@
+"Soul Eater - Battle Resonance /ID SLPS_259.12"
+
+Mastercode
+902BE1C8 0C0AF81A
+
+
+//ELF CRC=DD02A95B
+//Widescreen Hack by Little Giant
+
+// 16:9
+204aa348 4016DD95 // 3FE24C60
+
+// 16:10
+//204aa348 4007C76D // 3FE24C60

@@ -1,0 +1,30 @@
+"Kamen Rider - Climax Heroes /ID SLPS_259.44"
+
+Mastercode
+9035B920 0C0D6DF0
+
+
+//ELF CRC=746B14AB
+//Widescreen hack by Arapapa
+
+//Gameplay 16:9
+
+
+//X-Fov
+2030be78 3c013f40 //3c013f80 hor 
+
+//Render fix (Gameplay)
+202bdf3c 3c013fb0 //3c013f80
+
+//menu
+//202d4f04 3c0143bb //3c0143fa
+
+//202fee98 3c0138f0 //3c013f80
+
+//202bdf3c 3c014000 //3c013f80
+
+
+//xx
+//202d4424 3c014000 //3c013f80
+//202d4650 3c014000 //3c013f80
+//2030b49c 3c013fb0 //3c013f80

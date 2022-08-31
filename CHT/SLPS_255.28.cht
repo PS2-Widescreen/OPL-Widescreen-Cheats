@@ -1,0 +1,32 @@
+"Summon Night EX Thesis - Yoake no Tsubasa /ID SLPS_255.28"
+
+Mastercode
+9010F5D0 0C043D1C
+
+
+//ELF CRC=0C3E8D76
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Gameplay
+2013ae3c 3c023f19 //3c023f4c
+2013ae44 3442999a //3442cccd
+
+//Menu
+2014ec3c 3c023f19 //3c023f4c
+2014ec40 3442999a //3442cccd
+
+//Menu 2
+201ee000 3c023f10 //3c023f4c
+201ee004 3442999a //3442cccd
+
+//2D characters and Text Box
+//20256f90 3f400000 //3f800000
+//2016f9a4 3c023f19 //3c023f4c
+//2016f9a8 3442999a //3442cccd
+
+//Text Box Fix
+//2031C390 3f800000
+//2031C470 3f800000
+//2031C390

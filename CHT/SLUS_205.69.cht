@@ -1,0 +1,34 @@
+"All-Star Baseball 2004 /ID SLUS_205.69"
+
+Mastercode
+9040F278 0C103C46
+
+
+//ELF CRC=3A38CD1A
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-fov
+//003f023c 00188344 f001a1c7
+203e6d18 3c023f2b //3c023f00
+
+//Render fix
+//803f033c 0040023c 00108344
+203d2ac8 3c033f20 //3c033f80
+
+///////////////////////////////////////
+//X-Fov
+//803f023c 5c01a0af 47a00046
+//203d11c0 3c023f30 //3c023f80
+
+//Y-Fov
+//203d1308 3c023fab //3c023f80
+
+//zoom
+//203d252c 3c023f20 //3c023f80
+//203fc404 3c023fab //3c023f80
+//20137c04 3c033fab //3c033f80
+
+//Y-fov
+//203e6d14 3c033fab //3c033f80
