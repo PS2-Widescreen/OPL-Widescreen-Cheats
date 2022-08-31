@@ -1,0 +1,39 @@
+"Lemony Snickets A Series of Unfortunate Events /ID SLUS_210.78"
+
+Mastercode
+90358BB8 0C0D6296
+
+
+//ELF CRC=4835F048
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom (Gameplay)
+//003f013c 00608144
+2018cd58 3c013f1b //3c013f00
+
+//Y-Fov (Gameplay)
+//82100046 000002e6
+2018cda4 080dee6c
+
+2037b9b0 46001082
+2037b9b4 3c013f40
+2037b9b8 4481f000
+2037b9bc 461e1082
+2037b9c0 0806336a
+
+//Black bar fix (Gameplay)
+//803f013c 00008144 34100046 00000000
+201af498 3c013a00 //3c013f80
+
+//X-Fov (Menu,Text and Cutscene)
+//0000acc7 803f013c (2nd)
+202bbf24 080dee74
+
+2037b9d0 c7ac0000
+2037b9d4 3c013faa
+2037b9d8 3421aaab
+2037b9dc 4481f000
+2037b9e0 461e6302
+2037b9e4 080aefca

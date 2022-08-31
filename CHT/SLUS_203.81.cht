@@ -1,0 +1,20 @@
+"MX Superfly /ID SLUS_203.81"
+
+Mastercode
+90123B80 0C048E88
+
+
+//ELF CRC=0CD3C2F6
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//020a0746 740062c4 (1st)
+202a86c0 08030000
+
+200c0000 46070a02
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e4202
+200c0010 080aa1b1

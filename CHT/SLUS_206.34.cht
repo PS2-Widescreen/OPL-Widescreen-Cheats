@@ -1,0 +1,15 @@
+"Summer Heat Beach Volleyball /ID SLUS_206.34"
+
+Mastercode
+90216B30 0C085A74
+
+
+//ELF CRC=4C73FB6B
+//Widescreen hack by No.47
+
+201b08a4 3c01464F //3c014622 - both FOV
+
+201b0a38 3c01464F //3c014622 - render fix
+
+201b0a58 3c013f9f //3c013f6f - vert fov
+201b0a5c 3421ea28 //3421df3b

@@ -1,0 +1,20 @@
+"Curious George /ID SLUS_213.54"
+
+Mastercode
+9027EEA8 0C09FB52
+
+
+//ELF CRC=A275B0C0
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//000009e6 280000e6 380001e6
+202255a8 0809ef94
+2027be50 3c013f40
+2027be54 4481f000
+2027be58 461e4a42
+2027be5c e6090000
+2027be60 0808956b
+

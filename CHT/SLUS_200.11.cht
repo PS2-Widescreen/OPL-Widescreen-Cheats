@@ -1,0 +1,11 @@
+"Orphen - Scion of Sorcery /ID SLUS_200.11"
+
+Mastercode
+902F7978 0C0BDE04
+
+
+//ELF CRC=7BF65F9C
+//Pnach by Little Giant
+
+//black borders's fix (optional)
+2025fdc4 24020000 //24020001

@@ -1,0 +1,14 @@
+"Backyard Football 2008 /ID SLUS_216.70"
+
+Mastercode
+9010A510 0C0428EC
+
+
+//ELF CRC=408D540D
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//8041023c 00008244 00000000 (1st)
+20129320 3c024140 //3c024180

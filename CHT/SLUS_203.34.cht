@@ -1,0 +1,12 @@
+"Kelly Slaters Pro Surfer /ID SLUS_203.34"
+
+Mastercode
+903DD5F0 0C0F7524
+
+
+//ELF CRC=EC474179
+//Widescreen hack by Sergx12
+
+//Gameplay 16:9
+2029F198 3C01435F //3C014334 Zoom 
+204AC024 3FE38E39 //3FAAAAAB Y-FOV

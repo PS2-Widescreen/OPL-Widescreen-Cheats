@@ -1,0 +1,20 @@
+"Zathura /ID SLUS_213.36"
+
+Mastercode
+9010A850 0C0429BC
+
+
+//ELF CRC=844EDE02
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//42080246 07080046 3c0000e6 (1st)
+202f5684 0810bfa4
+2042fe90 46020842
+2042fe94 3c013f40
+2042fe98 4481f000
+2042fe9c 461e0843
+2042fea0 080bd5a2
+

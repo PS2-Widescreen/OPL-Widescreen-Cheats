@@ -1,0 +1,15 @@
+"Oz /ID SLPM_660.33"
+
+Mastercode
+904B7410 0C12DCAC
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+//gameplay
+204f6f20 46010082
+204f6f24 e7a20058
+
+//cutscenes
+204f72f0 46010082
+204f72f4 e7a20068

@@ -1,0 +1,26 @@
+"Frogger - Ancient Shadow /ID SLUS_210.98"
+
+Mastercode
+90105B10 0C04166C
+
+
+//ELF CRC=D233C793
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f023c 5000bfff 00008244
+201cfeb4 3c023f25 //3c023f00
+
+//Y-Fov
+//740001c6 020a0746 (1st)
+2012f06c 08094e87
+
+
+20253a1c c6010074
+20253a20 3c013faa
+20253a24 3421aaab
+20253a28 4481f000
+20253a2c 461e0842
+20253a30 0804bc1c

@@ -1,0 +1,22 @@
+"Tom Clancys Ghost Recon 2 /ID SLUS_211.05"
+
+Mastercode
+91406490 0C5018CC
+
+
+//ELF CRC=82E1D0EA
+//Widescreen hack by nemesis2000 (pnach by Arapapa)
+
+//Search value is exactly the same as the Tom Clancy's Ghost Recon
+
+//Single Player
+203a8b94 3c023f40
+203a8bb4 3c0243d6
+
+//Multi Player
+203a8cb4 3c023f40
+203a8cd4 3c0243d6
+
+//Menu
+2053c404 3c043f40
+2053c410 3c0243d6

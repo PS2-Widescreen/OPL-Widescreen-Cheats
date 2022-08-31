@@ -1,0 +1,19 @@
+"Zettai Zetsumei Toshi /ID SLPS_251.13"
+
+Mastercode
+901CB380 0C072C88
+
+
+//Widescreen Hack by Little Giant
+
+//16:9
+2013e3b4 3c023f40 //3c023f80 game play
+2013d9d4 3c023f40 //3c023f80 cutscenes fix
+2013e230 3c023f80 //3c023f80 cutscenes fix
+2025cd40 43E00000 //43a00000 (Increases hor. axis)
+2025cd50 43E00000 //43a00000 render fix
+
+//black borders's fix (optional)
+201945E4 24634230 //24634260
+201947e0 24634230 //24634260
+201948B4 24644230 //24644260

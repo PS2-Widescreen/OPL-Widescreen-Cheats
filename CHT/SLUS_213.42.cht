@@ -1,0 +1,19 @@
+"MLB Slugfest 2006 /ID SLUS_213.42"
+
+Mastercode
+9019F630 0C067D34
+
+
+//ELF CRC=F6D977AE
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201547ac 080696b4 //c4600068
+201a5ad0 c4600068
+201a5ad4 3c013f40
+201a5ad8 4481f000
+201a5adc 461e0003
+201a5ae0 e4800068
+201a5ae4 080551ec

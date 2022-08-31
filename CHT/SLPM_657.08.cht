@@ -1,0 +1,12 @@
+"Hagane no Renkinjutsushi - Akaki Elixir no Akuma /ID SLPM_657.08"
+
+Mastercode
+9010B5F8 0C042D26
+
+
+//ELF CRC=360CE08E
+//Widescreen Hack (pnach NTSC-J by Arapapa)
+
+//Wide hack 16:9 
+20180c58 3c023f28 //613f023c (Search e043033c 613f023c 2c00043c af474234)
+20180c60 3442f5c3 //af474234

@@ -1,0 +1,23 @@
+"Zeonic Front - Mobile Suit Gundam 0079 /ID SLPS_250.48"
+
+Mastercode
+90232F78 0C08CB86
+
+
+//ELF CRC=626CF8C1
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+20213454 3c013f40 //00000000
+20213458 44810000 //00000000
+20213460 4600c602 //00000000
+
+//////////////////////////////////////////////////
+//Zoom
+//803f013c 00008144 2d20a003 (3rd)
+//20213478 3c013fab //3c013f80
+
+//Y-Fov (Except background Picture (Cloud)
+//efeeee3f -> f5491f40
+//2038ad08 401f49f5 //3feeeeef

@@ -1,0 +1,21 @@
+"Full Spectrum Warrior - Ten Hammers /ID SLUS_212.50"
+
+Mastercode
+904EC560 0C13B100
+
+
+//ELF CRC=5D153990
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20186b84 3c013f40 //3c013f80
+
+//Y-Fov
+204d1c94 3c013fb6 //3c013f88
+204d1c98 34219cfe //3421f5c3
+
+//Render fix
+20488144 3c013f40 //3c013f00 Screen
+20577430 3c013f80 //3c013f00 Object (NPC)

@@ -1,0 +1,51 @@
+"Nightmare Before Christmas, Tim Burtons The - Oogies Revenge /ID SLUS_208.60"
+
+Mastercode
+90113290 0C044C4C
+
+
+//ELF CRC=8AD8BA91
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//d7a3f03e 00000045 00000045 0000a040
+2070CDD8 3F206D2F // 3ef0a3d7
+
+2151E1D4 3F19999A // 3D figures
+206FA908 3F400000 // 2D figures
+
+20D5BA90 3F400000 //area 1
+20D5BAE4 3F400000 //area 2
+
+206F9D40 3F400000 //FMV subtitles
+204A4500 3F400000 //cutscene subtitles
+204A1200 3F400000 //conversation subtitles
+204AC350 3F400000 //musical subtitles
+204A1A3C 3F400000 //pumpkin width
+204A0870 3F400000 //closet text
+
+2049771C 3F400000 //inventory item icon
+203A1AF0 3F400000 //inventory item text
+203A1B10 3F400000 //inventory item description text
+
+204988A8 3F400000 //index selected
+20498944 3F400000 //index unselected
+204989E0 3F400000 //index description text
+20498A7C 3F400000 //index residents
+2049880C 3F400000 //index portraits
+
+204A50B4 3F400000 //shop item text
+204A5150 3F400000 //shop item icon
+
+204B72A8 3F400000 //results chapter
+204B7424 3F400000 //results info
+204B74C0 3F400000 //results time rank
+204B755C 3F400000 //results combo rank
+204B75F8 3F400000 //results damage rank
+204B7694 3F400000 //results count rank
+204B7730 3F400000 //results nightmare rank
+204B7904 3F400000 //results "press any button"
+
+204B77CC 3F400000 //results menu 1
+204B7868 3F400000 //results menu 2

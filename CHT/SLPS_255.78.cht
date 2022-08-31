@@ -1,0 +1,14 @@
+"K-1 World Grand Prix 2005 /ID SLPS_255.78"
+
+Mastercode
+902B9818 0C0AE5AE
+
+
+//ELF CRC=F8664E20
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+20292bd4 3c013f40 //00000000
+20292bd8 44810000 //00000000
+20292be0 4600c602 //00000000

@@ -1,0 +1,21 @@
+"Adventure of Tokyo Disney Sea /ID SLPM_650.61"
+
+Mastercode
+90300298 0C0C004E
+
+
+//ELF CRC=9A409943
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom fix
+20107eec 3c0143F0 //3c014420
+
+//X-Fov + Zoom
+20107ee0 3c0143A8 //3c0143e0
+
+//e043013c 00108144 3000043c 2044013c
+//a843013c 00108144 3000043c f043013c
+
+//20107efc 3c014395  //3c014360

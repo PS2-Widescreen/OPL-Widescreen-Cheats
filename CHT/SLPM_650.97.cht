@@ -1,0 +1,13 @@
+"Galacta Meisaku Gekijou - Rakugaki Oukouku /ID SLPM_650.97"
+
+Mastercode
+9010E3E8 0C0438A2
+
+
+//ELF CRC=6B0E0231
+//Widescreen Hack (NTSC-J by Arapapa)
+
+//Wide hack 16:9
+
+203454d4 3f400000 //3f800000
+204c531c 3f206d37 //3ef0a3d7

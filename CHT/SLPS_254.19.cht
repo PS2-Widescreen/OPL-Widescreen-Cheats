@@ -1,0 +1,15 @@
+"Mobile Suit Gundam - Gundam vs Z-Gundam /ID SLPS_254.19"
+
+Mastercode
+90106AF0 0C041A64
+
+
+//ELF CRC=435D8236
+
+//Widescreen hack 16:9
+
+2026cf84 3c023f40 //3c023f80
+
+20843D30 44bff400 //44fff000
+20843EF0 443FE7FF //447fe000
+208440B0 443FE7FF //447fe000

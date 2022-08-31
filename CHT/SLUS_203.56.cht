@@ -1,0 +1,15 @@
+"Transworld Surf /ID SLUS_203.56"
+
+Mastercode
+9026D5F0 0C09B524
+
+
+//ELF CRC=66B7B74E
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//aa3f013c 713d2134 00188144 10008324 -> e23f013c fc932134 00188144 10008324
+20183368 3c013fe2 //3c013faa
+2018336c 3421fc93 //34213d71

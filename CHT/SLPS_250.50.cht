@@ -1,0 +1,23 @@
+"Final Fantasy X /ID SLPS_250.50"
+
+Mastercode
+902EE420 0C0BB8B0
+
+
+//ELF CRC=6A4EFE60
+//Widescreen hack by nemesiss2000
+
+//Widescreen hack 16:9
+
+201ce4ac 3c013f19
+201ce4b0 3421999a
+2011966c 3c014440
+2019f664 3c01442b
+
+//world map
+//803f013c 00008144 01001124
+20258790 3c013f40 //3c013f80
+
+//sphere grid
+//803f013c 00a08144 e601023c
+20259ff4 3c013f40 //3c013f80

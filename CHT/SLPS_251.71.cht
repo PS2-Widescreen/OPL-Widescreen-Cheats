@@ -1,0 +1,20 @@
+"Lupin III - Majutsu no Isan /ID SLPS_251.71"
+
+Mastercode
+9025E358 0C09787E
+
+
+//ELF CRC=5327DC7F
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+2024c214 3c013f40 //00000000
+2024c218 44810000 //00000000
+2024c220 4600c602 //00000000
+
+//Hud Fix (El_Patas)
+201fb174 3c013fab //3c013f80
+
+//Render fix
+201fce14 3c0143e0 //3c0143a0

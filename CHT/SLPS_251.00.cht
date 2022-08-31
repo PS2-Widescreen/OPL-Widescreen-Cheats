@@ -1,0 +1,20 @@
+"Tekken 4 /ID SLPS_251.00"
+
+Mastercode
+902812A8 0C0A0452
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+//gameplay
+202174e8 3c013f40
+
+//partial hud fix
+201f6f20 3C013F40
+
+//rfix 1
+2018d408 3c0143d5
+
+//rfix 2
+20200d84 3c013f40
+20200d88 44810000
+20200d94 46006303

@@ -1,0 +1,25 @@
+"Wild ARMs - Advanced 3rd /ID SCPS_150.24"
+
+Mastercode
+90106A80 0C041A48
+
+
+//Widescreen hack by nemesis2000 (pnach by Little Ginat)
+
+//widescreen
+20115c90 3c023f40 //3c023f80
+20115ca0 3c023f40 //3c023f80
+20115a74 3c023f40 //3c023f80
+201160fc 3c023f40 //3c023f80
+20263c5c 3c023f40 //3c023f80
+
+//render fix
+2011484c 3c033fc0 //3c034000
+
+//black borders fix
+201a962c 24079400 //24076c00
+
+//dialog portraits fix
+2011b150 240501b0 //24050190
+2011b180 240501b0 //24050190
+2012ad38 25850750 //25850780

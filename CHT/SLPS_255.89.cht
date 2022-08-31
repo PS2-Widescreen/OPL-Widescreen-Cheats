@@ -1,0 +1,11 @@
+"Naruto Narutimett Hero 3 /ID SLPS_255.89"
+
+Mastercode
+90159390 0C05648C
+
+
+//ELF CRC=59739DDE
+//Widescreen Hack (NTSC-J by Arapapa)
+
+//16:9 (0000803f 0000803f 00008043)
+20B10B14 3f400000 // 3f800000

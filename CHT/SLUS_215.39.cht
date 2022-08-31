@@ -1,0 +1,23 @@
+"Greg Hastings Tournament Paintball Maxd /ID SLUS_215.39"
+
+Mastercode
+90334EF8 0C0CD366
+
+
+//ELF CRC=40181DDF
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+//aa3f013c be9f2134
+20143980 3c013f80 //3c013faa
+20143984 00000000 //34219fbe
+
+//Zoom
+//cd43013c 00608144 466c0046
+201439a8 3c01439a //3c0143cd
+
+//Render fix
+//803f013c 00088144 02300046
+202a2268 3c013f40 //3c013f80

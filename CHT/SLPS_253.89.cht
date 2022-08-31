@@ -1,0 +1,16 @@
+"Gundam Seed - Never Ending Tomorrow /ID SLPS_253.89"
+
+Mastercode
+90147050 0C051BBC
+
+
+//ELF CRC=21538F32
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20111b04 3c024456 //3c024420
+
+//Render fix
+20101ff8 3c0343e0 //3c0343a0

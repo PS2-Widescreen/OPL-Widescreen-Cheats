@@ -1,0 +1,12 @@
+"Golf Paradise DX /ID SLPS_250.27"
+
+Mastercode
+9020D2E0 0C083460
+
+
+//ELF CRC=D7416293
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+203C50F0 3f400000 //3f800000

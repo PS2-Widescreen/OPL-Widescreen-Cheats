@@ -1,0 +1,15 @@
+"Firefighter F.D. 18 /ID SLPM_654.70"
+
+Mastercode
+9029EB18 0C0A7A6E
+
+
+//ELF CRC=D56DA4AB
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix hack
+202a3fcc 3c013f40 //00000000
+202a3fd0 44810000 //00000000
+202a3fd8 4600c602 //00000000

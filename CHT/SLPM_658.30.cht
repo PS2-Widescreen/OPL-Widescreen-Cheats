@@ -1,0 +1,12 @@
+"Ys - The Ark of Napishtim /ID SLPM_658.30"
+
+Mastercode
+9010DFB8 0C043796
+
+
+//Widescreen Hack (16:9) by ElHecht
+// 16:9
+20102e34 3c013f40 // 00000000 hor fov
+20102e38 44810000 // 00000000
+20102e40 4600c602 // 00000000
+2021419c 3c033fb4 // 3c033ff0 renderfix

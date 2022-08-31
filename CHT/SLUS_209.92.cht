@@ -1,0 +1,16 @@
+"Catwoman /ID SLUS_209.92"
+
+Mastercode
+901D8300 0C076068
+
+
+//ELF CRC=E3DF71E1
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom fix (Internal Widescreen)
+//593f013c 9a992134
+//803f013c 00000000
+20116c64 3c013f80 //3c013f59
+20116c68 00000000 //3421999a

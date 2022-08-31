@@ -1,0 +1,16 @@
+"Front Mission 4 /ID SLPM_654.43"
+
+Mastercode
+9011D3F0 0C0474A4
+
+
+//ELF CRC=CF26A74E
+//Widescreen hack by 99skull (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+20159268 3c024380 //3c024340
+20159304 3c023ee6 //3c023f19
+2015930c 34426666 //3442999a
+20217ee8 3c023ee6 //3c023f19
+20217ef0 34426666 //3442999a

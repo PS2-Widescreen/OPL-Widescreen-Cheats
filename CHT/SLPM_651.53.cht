@@ -1,0 +1,15 @@
+"GunGrave /ID SLPM_651.53"
+
+Mastercode
+901B8C08 0C06E2AA
+
+
+//ELF CRC=C7A7D6EE
+//Widescreen hack by Arapapa and ElHecht
+
+
+201bee9c 3c013f40 //00000000
+201beea0 44810000 //00000000
+201beea8 4600c602 //00000000
+
+20143750 2402010e // 24020168 renderfix

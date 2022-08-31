@@ -1,0 +1,14 @@
+"Lupin III - Lupin ni wa Shi o, Zenigata ni wa Koi o /ID SLPS_257.40"
+
+Mastercode
+9010C5F0 0C043124
+
+
+//ELF CRC=D66FAB80
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f023c 00008244 00000000 43000146
+2035c5b4 3c023fab //3c023f80

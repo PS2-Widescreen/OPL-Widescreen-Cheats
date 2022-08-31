@@ -1,0 +1,15 @@
+"SpongeBob Squarepants - The Movie /ID SLUS_209.04"
+
+Mastercode
+90108690 0C04214C
+
+//Spongebob Squarepants Movie Game (NTSC-U) (SLUS-20904) Widescreen Hack (nemesis2000) (gamemasterplc)
+20437714 46010083 //Multiply Aspect
+20437718 E7A20028 //Store Multiplied Aspect
+2043771C 46010002 //Set Height
+20437720 0C0655BC //Jump to RWCameraSetView
+20437724 E7A0002C //Store Height (Delay Slot)
+20437728 DFBF0010 //Restore RA
+2043772C 7BB00000 //Restore S0
+20437730 03E00008 //Jump to RA
+20437734 27BD0030 //Restore Stack (Delay Slot)

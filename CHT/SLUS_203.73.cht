@@ -1,0 +1,17 @@
+"Men in Black 2 - Alien Escape /ID SLUS_203.73"
+
+Mastercode
+9011A010 0C0467AC
+
+
+//ELF CRC=69CF7BDF
+//Widescreen hack by Arapapa
+ 
+//Widescreen 16:9
+
+//X-Fov
+203a9c2c 3c02bf40 //3c02bf80
+
+//Background effect fix
+201a6fac 3c033f2b //3c033f00
+201a7018 3c033f2b //3c033f00

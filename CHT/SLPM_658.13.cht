@@ -1,0 +1,11 @@
+"Fu-un Bakumatsu Den /ID SLPM_658.13"
+
+Mastercode
+9011B5D0 0C046D1C
+
+
+//ELF CRC=950241D3
+//Widescreen hack by Little Giant
+
+//16:9
+2014a394 3c023f40 //3c02bf80

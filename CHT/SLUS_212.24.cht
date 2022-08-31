@@ -1,0 +1,21 @@
+"Guitar Hero /ID SLUS_212.24"
+
+Mastercode
+90278BE8 0C09E2A2
+
+
+//ELF CRC=B815F724
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2019cc20 3c013ec0 //3c013f00
+//201b1fbc 3c013f20 //3c013f00
+
+
+//Y-Fov
+201b1fd8 3c01bfab //3c01bf80
+
+//Render fix
+2027fcf8 3c013f40 //3c013f80

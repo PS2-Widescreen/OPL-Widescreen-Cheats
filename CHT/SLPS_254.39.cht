@@ -1,0 +1,22 @@
+"Hajime no Ippo - All-Stars /ID SLPS_254.39"
+
+Mastercode
+90106FD0 0C041B9C
+
+
+//ELF CRC=F8CF8013
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20194888 3c023fab //3c023f80
+
+//Cutscenes
+//02080046 4800a0e7 380080c4
+2013b3a4 080af254
+202bc950 46000802
+202bc954 3c013f40
+202bc958 4481f000
+202bc95c 461e0003
+202bc960 0804ecea

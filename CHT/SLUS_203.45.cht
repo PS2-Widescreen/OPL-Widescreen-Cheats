@@ -1,0 +1,20 @@
+"Mike Tyson - Heavyweight Boxing /ID SLUS_203.45"
+
+Mastercode
+901FC778 0C07F186
+
+
+//ELF CRC=61737929
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//03000146 a00040e4
+201d14e0 08085a34
+
+202168d0 46010003
+202168d4 3c013f40
+202168d8 4481f000
+202168dc 461e0002
+202168e0 08074539

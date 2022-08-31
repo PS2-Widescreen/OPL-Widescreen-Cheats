@@ -1,0 +1,16 @@
+"Winning Eleven 8 - Liveware Evolution /ID SLPM_657.88"
+
+Mastercode
+90108990 0C04220C
+
+
+//ELF CRC=7CC133E9
+// Widescreen pnach by Arapapa
+
+// 16:9 (00000000 00000000 43ad1346 00000000)
+201046bc 3c013f40 // 00000000 hor fov
+201046c0 44810000 // 00000000
+201046c8 4600c602 // 00000000
+
+// Render fix (42111446 803f023c)
+2012ac44 3c023FAB //3c023F80 (increases hor. render area)

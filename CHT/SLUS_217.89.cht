@@ -1,0 +1,23 @@
+"Cabelas Legendary Adventures /ID SLUS_217.89"
+
+Mastercode
+9011E678 0C047946
+
+
+//ELF CRC=407F494D
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+s
+//Zoom
+20259cfc 3c023f20 //3c023f00
+
+//Y-Fov
+//03080046 ec00a0e6 f800a0c6
+20259d28 08030000 //46001002
+
+200c0000 46000803
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 0809674b

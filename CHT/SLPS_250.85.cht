@@ -1,0 +1,22 @@
+"Soul Reaver 2 - Legacy of Kain /ID SLPS_250.85"
+
+Mastercode
+90209BD8 0C08269E
+
+
+//ELF CRC=6F991F52
+//Widescreen hack by Arapapa and nemesis2000
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f013c 00108144 2800b5e7 (1st)
+20171918 3c013f40 //3c013f80
+
+//black border fix for cutscenes by nemesis2000
+//2013e504 3c01bf80 //3c01bf40
+//2013e50c 3c013f80 //3c013f40
+ 
+//FMV Fix by nemesis2000
+201d3738 24097604 //24097880
+201d3740 240b1400 //240b0f00

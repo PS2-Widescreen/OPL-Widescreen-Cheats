@@ -1,0 +1,17 @@
+"All-Star Baseball 2003 /ID SLUS_203.11"
+
+Mastercode
+9034D508 0C0D34EA
+
+
+//ELF CRC=E0A54502
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+//Y-fov
+//803f013c 00088144 02631646
+203764a8 3c013fe4 //3c013f80
+
+//Zoom
+//803f013c 00108144 34600046
+2038ee34 3c013f40 //3c013f80

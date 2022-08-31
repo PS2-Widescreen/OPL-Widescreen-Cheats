@@ -1,0 +1,23 @@
+"Disneys Bolt /ID SLUS_218.44"
+
+Mastercode
+905C9900 0C1725E8
+
+1gametitle=Bolt (U)(SLUS-21844)
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+/X-Fov
+//43030d46 07000046 140040e4 0400a4e7
+202d8668 08171b24 //e7a40004
+
+205c6c90 e7a40004
+205c6c94 3c013f40
+205c6c98 4481f000
+205c6c9c 461e6b42
+205c6ca0 080b619b
+
+//Render fix
+//003f013c 00008144 7900023c (1st)
+204b5328 3c013f2b //3c013f00

@@ -1,0 +1,29 @@
+"Brunswick Pro Bowling /ID SLUS_215.66"
+
+Mastercode
+90213D08 0C084EEA
+
+
+//ELF CRC=E04356E2
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//03001246 03150046
+20196ae0 0807c9ac
+201f26b0 46001503
+201f26b4 3c013f40
+201f26b8 4481f000
+201f26bc 461ea503
+201f26c0 08065ab9
+
+/////////////////////////////////////////
+//X-Fov (2D +3D) needs render fix
+//20196d20 08030000
+//200c0000 46030842
+//200c0004 3c013f40
+//200c0008 4481f000
+//200c000c 461e0842
+//200c0010 08065b49
+

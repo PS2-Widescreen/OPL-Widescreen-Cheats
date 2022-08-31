@@ -1,0 +1,16 @@
+"G-Saviour /ID SLPS_250.09"
+
+Mastercode
+901714F8 0C05C4E4
+
+
+//ELF CRC=AA0D46D4
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20116824 3c013f40 //3c013f80
+
+//Render Fix
+20116868 3c0143e0 //3c0143a0

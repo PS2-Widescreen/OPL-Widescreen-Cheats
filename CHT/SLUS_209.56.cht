@@ -1,0 +1,19 @@
+"Leisure Suit Larry - Magna Cum Laude /ID SLUS_209.56"
+
+Mastercode
+9010A9F0 0C042A24
+
+
+//ELF CRC=A1736B07
+//Widescreen hack by ElHecht
+
+// 16:9
+202e4850 080fb09a // 46020082 jump to code-inject 003ec268
+202e4854 00000000 // 46020842
+
+203ec268 3c013f40 // 00000000 hor fov
+203ec26c 4481f000 // 00000000
+203ec270 46020082 // 00000000
+203ec274 46020842 // 00000000
+203ec278 461e0843 // 00000000
+203ec27c 080b9215 // 00000000 jump back to 002e4854

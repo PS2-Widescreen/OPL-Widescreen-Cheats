@@ -1,0 +1,22 @@
+"Code Lyoko - Quest for Infinity /ID SLUS_217.43"
+
+Mastercode
+904112B0 0C104454
+
+
+//ELF CRC=4EECA3D0
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20477770 3c03bfab //3c03bf80
+
+//Y-Fov
+204777fc 3c03bf2a //3c03bf00
+
+//Rendder fix
+2047776c 3c024040 //3c024000
+//80c3033c 00088444 5c00053c
+2045b92c 3c03c340 //3c03c380
+2045b954 3c0243ab //3c024380

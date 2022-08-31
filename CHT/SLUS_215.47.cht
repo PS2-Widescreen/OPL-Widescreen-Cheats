@@ -1,0 +1,18 @@
+"NHRA - Countdown to the Championship 2007 /ID SLUS_215.47"
+
+Mastercode
+9010D910 0C0435EC
+
+
+//ELF CRC=0CE6D8EB
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+2013c408 08030000
+
+200c0000 46010002
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 0804f103

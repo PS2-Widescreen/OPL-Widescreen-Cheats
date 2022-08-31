@@ -1,0 +1,19 @@
+"Terminator, The - Dawn of Fate /ID SLUS_203.91"
+
+Mastercode
+903D6F70 0C0F5B84
+
+
+//ELF CRC=DFA59850
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//2d202002 06bb0046 (3rd)
+20179a74 08030000
+200c0000 4600bb06
+200c0004 3c013f52
+200c0008 4481f000
+200c000c 461e6303
+200c0010 0805e69e

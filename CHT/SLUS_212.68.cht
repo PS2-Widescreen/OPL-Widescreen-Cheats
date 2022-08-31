@@ -1,0 +1,20 @@
+"24 - The Game /ID SLUS_212.68"
+
+Mastercode
+90474CA8 0C11D2D2
+
+
+//ELF CRC=F1C7201E
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//aa3f013c a8aa2134
+//2a8e2134 e33f013c
+//20460364 3c013fe3 //3c013faa
+//20460368 34218e2a //3421aaa8
+
+//Zoom Fix (When turn on the Widescreen option)
+//6000023c 2cbd428c 
+202fbea0 3c020000 //3c020060

@@ -1,0 +1,24 @@
+"Samurai Warriors 2 - Empires /ID SLUS_215.85"
+
+Mastercode
+9012B110 0C04ABEC
+
+
+//ELF CRC=3D3D9A58
+//Widescreen Hack (16:9) by ElHecht converted by Shang
+
+// 16:9
+2017a918 3c023f19 // 3c023f4c hor fov 1-player
+2017a920 3442999a // 3442cccd hor fov 1-player
+2017aad8 3c033f19 // 3c033f4c hor fov 2-players
+2017aae0 3463999a // 3463cccd hor fov 2-players
+2017ad54 3c03440a // 3c0343cf renderfix enemies 1-player
+2017adb4 3c03440a // 3c0343cf renderfix enemies 2-players
+
+// 16:10
+//2017a918 3c023f2a // 3c023f4c hor fov 1-player e
+//2017a920 3442aaab // 3442cccd hor fov 1-player e
+//2017aad8 3c033f2a // 3c033f4c hor fov 2-players
+//2017aae0 3463aaab // 3463cccd hor fov 2-players
+//2017ad54 3c0343f9 // 3c0343cf renderfix enemies 1-player
+//2017adb4 3c0343f9 // 3c0343cf renderfix enemies 2-players

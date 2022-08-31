@@ -1,0 +1,16 @@
+"Gallop Racer 6 - Revolution [PlayStation 2 The Best] /ID SLPS_734.15"
+
+Mastercode
+902ABB88 0C0AAE8A
+
+
+//ELF CRC=D95EACB9
+//Widescreen hack  by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201cfe88 3c013f40 //3c013f80
+
+//Render fix
+201d00f0 3c0142d0 //3c014248

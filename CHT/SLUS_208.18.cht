@@ -1,0 +1,18 @@
+"Bionicle /ID SLUS_208.18"
+
+Mastercode
+901917E0 0C0645A0
+
+
+//ELF CRC=8371B27B
+//Widescreen hack by ElHecht
+
+// 16:9
+2010c248 3c014370 // 3c0143a0 hor fov
+2010c088 3c013faa // 3c013f80 hud fix
+
+// 16:10
+//2010c248 3c194385 // 3c0143a0 hor fov
+//2010c24c 37395555 // 44811000 hor fov
+//2010c288 afb90000 // e7a20000
+//2010c088 3c013f99 // 3c013f80 hud fix

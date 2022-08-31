@@ -1,0 +1,14 @@
+"Silent Hill 4 - The Room /ID SLPM_655.74"
+
+Mastercode
+9010F5B0 0C043D14
+
+
+//ELF CRC=9BF472B8
+//NTSC-J Widescreen Hack by synce
+2045a2b4 3f400000
+2045a2b8 3f15fd8b
+
+//FMV fix by pelvicthrustman
+202f7954 3c020320 //Top
+202f7998 34021820 //Bottom

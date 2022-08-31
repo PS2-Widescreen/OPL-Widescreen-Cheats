@@ -1,0 +1,17 @@
+"NASCAR Heat 2002 /ID SLUS_201.76"
+
+Mastercode
+902813B8 0C0A0496
+
+
+//ELF CRC=D813AF38
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20243550 3c013ec0 //3c013f00
+
+//Y-Fov
+2024356c 3c01bfa0 //3c01bf70
+20243570 34216d37 //3421a3d7

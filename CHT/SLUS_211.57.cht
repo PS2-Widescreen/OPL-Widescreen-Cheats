@@ -1,0 +1,10 @@
+"Flipnic - Ultimate Pinball /ID SLUS_211.57"
+
+Mastercode
+901EDC78 0C07B6C6
+
+
+//ELF CRC=EADDB48E
+//Widescreen Hack
+201865d8 3c043f40 //hor
+201869ac 3c023fab //render fix

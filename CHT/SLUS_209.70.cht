@@ -1,0 +1,18 @@
+"Rumble Roses /ID SLUS_209.70"
+
+Mastercode
+9010F990 0C043E0C
+
+
+//ELF CRC=B95C635E
+//Widescreen hack (Font fix by Arapapa)
+
+//Widescreen hack 16:9
+
+20103fa4 3c013f40
+20103fa8 44810000
+20103fb0 4600c602
+
+//Font fix
+20305bbc 3c033f53 //3c033f8c
+20305bc0 34633333 //3463cccd

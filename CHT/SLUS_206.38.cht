@@ -1,0 +1,20 @@
+"Backyard Wrestling - Dont Try This At Home /ID SLUS_206.38"
+
+Mastercode
+90372BD8 0C0DCA9E
+
+
+//ELF CRC=600709E2
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+202c15b8 3c013fcc //3c013f99
+202c15bc 3421ccc4 //3421999a
+
+//Zoom
+202c159c 3c014456 //3c014420
+
+//Render fix
+202b1254 3c014480 //3c014416

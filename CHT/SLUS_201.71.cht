@@ -1,0 +1,16 @@
+"Motor Mayhem - Vehicular Combat League /ID SLUS_201.71"
+
+Mastercode
+9017F5D8 0C05FD1E
+
+
+//ELF CRC=A1C2092C
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+2011cc84 3c014287 //3c0142b4
+
+//Render fix
+20141fd8 3c013f2b //3c013f00

@@ -1,0 +1,40 @@
+"Kingdom Hearts - Re:Chain of Memories /ID SLPM_666.76"
+
+Mastercode
+90314AA0 0C0C5250
+
+
+//Widescreen correction by nemesis2000 (pnach by Little Giant)
+
+//gameplay by asmodean
+20332fbc 3F19999A // 3F4CCCCD (hor axis)
+//203328C0 3F8CCCCD // 3F4CCCCD (vert axis)
+
+//FMV's fix by nemesis2000
+
+//only vertical stretch
+2019d0e4 24070204 //vert
+
+//alternate values
+//2019d0cc 240601C8 //hor
+//2019d0e4 240701C0 //vert
+
+//60 FPS
+//0043C930 00000000
+
+//60 FPS Ladder Fix by Sirius902
+//2021D7AC 3C013FC6
+//2021D7FC 3C01BFC6
+//201E1950 087FFFD4
+//201E1954 00000000
+//21FFFF50 3C050033
+//21FFFF54 34A5CE20
+//21FFFF58 8CA50000
+//21FFFF5C 24A502E8
+//21FFFF60 8CA50000
+//21FFFF64 38A50002
+//21FFFF68 10A00003
+//21FFFF6C 00000000
+//21FFFF70 0C07858E
+//21FFFF74 0000282D
+//21FFFF78 08078656

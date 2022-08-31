@@ -1,0 +1,23 @@
+"Evolution Skateboarding /ID SLUS_205.40"
+
+Mastercode
+9011A338 0C046876
+
+
+//ELF CRC=536D9565
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//0040033c 42ce0346 
+201a6104 3c033fc0 //3c034000
+
+//Y-Fov
+//43200346 100022e6
+201a614c 080e3b84 //46032043
+2038ee10 46032043
+2038ee14 3c013f40
+2038ee18 4481f000
+2038ee1c 461e0843
+2038ee20 08069854

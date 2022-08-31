@@ -1,0 +1,31 @@
+"Super Robot Wars - Scramble Commander /ID SLPS_252.96"
+
+Mastercode
+901AB140 0C06ABF8
+
+
+//ELF CRC=62D73EA2
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Object
+20197e6c 3c013f40 //00000000
+20197e70 44810000 //00000000
+20197e78 4600c602 //00000000
+
+//Back Ground
+20169ff4 0806ae28
+
+201ab8a0 46006dc6
+201ab8a4 3c013f40
+201ab8a8 44815000
+201ab8ac 460abdc2
+201ab8b0 0805a7fe
+
+////////////////////////////////////
+//xxx
+//2016a0dc 3c013f00 //3c013f80
+
+//20142c98 3c014100 //3c0141a0
+//20142cc0 3c014100 //3c014180

@@ -1,0 +1,31 @@
+"Harry Potter and The Prisoner of Azkaban /ID SLUS_209.26"
+
+Mastercode
+9044B3C8 0C112C9A
+
+
+//ELF CRC=51E019BC
+//Widescreen hack by Devina and Arapapa
+
+//Widescreen hack 16:9
+//to widen the HUD to hide unwanted elements,
+//enable patch in-game, not on boot
+
+//X-Fov
+//00000000 00000000 43ad1a46
+//403f013c 00f08144 43ad1a46 
+20147af8 3c013f40
+20147afc 4481f000
+
+//00000000 03a51946
+//03a51946 02a51e46
+20147b10 4619a503
+20147b14 461ea502
+
+//Render fix
+//803f013c 00608144 aa3f013c
+201223f0 3c013f40 //3c013f80
+
+//Render fix #2 (doesn't seem needed in recent builds and causes graphic errors)
+//803f013c 00208144 2800b4e7
+//201560b8 3c013fab //3c013f80

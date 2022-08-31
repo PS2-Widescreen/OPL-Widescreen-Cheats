@@ -1,0 +1,16 @@
+"Mahoroba Stories /ID SLPM_667.51"
+
+Mastercode
+901D5C70 0C0756C4
+
+
+//ELF CRC=12A01A1B
+//Widescreen hack by Little Giant
+
+//16:9
+201F331C 3C053F40 //3c013f80 hor
+201F334C 3C0343AB //3C034380 render fix
+
+//16:10
+//201F331C 3C053F56 //3c013f80 hor
+//201F334C 3C0343A0 //3C034380 render fix

@@ -1,0 +1,21 @@
+"NPPL Championship Paintball 2009 /ID SLUS_218.55"
+
+Mastercode
+9011EC78 0C047AC6
+
+
+//ELF CRC=1B0BF18E
+//Widescreen Hack by Arapapa
+
+//Widescreen 16:9
+
+//Zoom
+20237f4c 3c023f20 //3c023f00
+
+//Y-Fov
+20237f78 081a8558 //46000803
+206a1560 46000803
+206a1564 3c013f40
+206a1568 4481f000
+206a156c 461e0002
+206a1570 0808dfdf

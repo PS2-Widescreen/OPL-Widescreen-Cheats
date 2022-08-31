@@ -1,0 +1,11 @@
+"Anubis Zone of Enders /ID SLPM_652.36"
+
+Mastercode
+901A0928 0C0681F2
+
+
+//ELF CRC=FB196496
+//Widescreen hack (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+2012a110 3c013f40 //3c013f80

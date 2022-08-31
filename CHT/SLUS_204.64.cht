@@ -1,0 +1,26 @@
+"Fugitive Hunter - War on Terror /ID SLUS_204.64"
+
+Mastercode
+90247520 0C091CF0
+
+
+//ELF CRC=09745632
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov #1
+2022d10c 3c013f40 //00000000
+2022d110 44810000 //00000000
+2022d118 4600c602 //00000000
+
+//X-Fov #2
+201c96d8 08092a44 //4600a346
+2024a910 4600a346
+2024a914 3c013f40
+2024a918 4481f000
+2024a91c 461e6b42
+2024a920 080725b7
+
+//#1 Render fix
+2020447c 3c013f2b //3c013f00

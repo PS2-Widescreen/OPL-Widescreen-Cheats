@@ -1,0 +1,24 @@
+"Hot Wheels - Velocity X /ID SLUS_204.12"
+
+Mastercode
+9020E5B8 0C083916
+
+
+//ELF CRC=E7273BFA
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//42100146 803f023c 
+2023dc5c 08082ed8
+
+2020bb60 46011042
+2020bb64 3c013f40
+2020bb68 4481f000
+2020bb6c 461e0842
+2020bb70 0808f718
+
+//Render fix
+//003f023c 33336434
+20248e3c 3c023f2b //3c023f00

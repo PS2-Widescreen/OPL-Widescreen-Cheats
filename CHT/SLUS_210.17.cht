@@ -1,0 +1,19 @@
+"Showdown - Legends of Wrestling /ID SLUS_210.17"
+
+Mastercode
+9010DD78 0C043706
+
+
+//ELF CRC=E90F7B89
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//000060e4 040062e4 080062e4
+20249638 080c2984
+
+2030a610 3c023f40
+2030a614 4482f000
+2030a618 461e0002
+2030a61c e4600000
+2030a620 0809258f

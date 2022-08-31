@@ -1,0 +1,27 @@
+"Kagero II - Dark Illusion /ID SLPS_254.45"
+
+Mastercode
+90124E78 0C049346
+
+
+//ELF CRC=5FEE89E0
+//Widescreen hack by ElHecht (NTSC-J by Arapapa)
+
+// 16:9 vertical fov
+//00000000 02a80e46 83050c46 00000000 00000000
+201049a4 3c013f40 // 00000000 ver fov
+201049b0 4481f000 // 00000000
+201049bc 461eb582 // 00000000
+
+// loading screen
+//e043023c 200083ac (3rd)
+202b6580 3c024415 // 3c0243e0 loading screen ver fov
+
+// font fix for cut-scenes
+//c041023c 00608244 (1st) 
+201c86f0 3c024190 // 3c0241c0
+
+// remove black bars in cut-scenes
+//2044023c 3000bfff 00608244
+//201e7234 3c020000 // 3c024420
+//201e7280 3c020000 // 3c024420

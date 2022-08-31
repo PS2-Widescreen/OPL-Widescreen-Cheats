@@ -1,0 +1,17 @@
+"Heavy Metal Thunder /ID SLPM_660.30"
+
+Mastercode
+90110F50 0C04437C
+
+
+//ELF CRC=F56C7948
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2012dc5c 3c033fc0 //3c034000
+
+//Y-Fov
+2012de6c 3c023fc7 //3c023f95
+2012de70 3443ae14 //3443c28f

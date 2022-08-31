@@ -1,0 +1,13 @@
+"J-Pheonix Burst Tactics /ID SLPM_651.23"
+
+Mastercode
+9028FB98 0C0A3E8E
+
+
+//ELF CRC=DD993211
+//Widescreen hack by Arapapa
+
+// 16:9 (search 00000000 00000000 43ad1346 00000000)
+2029a184 3c013f40 // 00000000 hor fov
+2029a188 44810000 // 00000000
+2029a190 4600c602 // 00000000

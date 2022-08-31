@@ -1,0 +1,25 @@
+"Formula One 2001 /ID SCPS_150.19"
+
+Mastercode
+9029CC50 0C0A72BC
+
+
+//ELF CRC=BFF0261E
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//abaaaa3e 8988083e
+202ed188 3FECCCCD //3eaaaaab Standards Zoom Out (Car Chase Mode)
+//39b4283f 39b4283f 39b4283f 39b4283f 39b4283f 39b4283f 39b4283f 39b4283f 00000000
+202c3364 3f1a0000 //3f28b439 Fix Zoom in 'Driver's Head Chase Mode'
+
+//Y-Fov
+//0000003f 00000000 0000c042
+202c6ef0 3F2AAA9F //3f000000
+
+//Rendeer Fix
+//c93f013c db0f2134 00c88144
+20209d68 3c013ff0 //3c013fc9
+20209d6c 34210000 //34210fdb

@@ -1,0 +1,23 @@
+"Cabelas Big Game Hunter - 2005 Adventures /ID SLUS_210.11"
+
+Mastercode
+9011E578 0C047906
+
+
+//ELF CRC=F1F4D83F
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+s
+//Zoom
+20350f54 3c023f20 //3c023f00
+
+//Y-Fov
+//03080046 ec00a0e6 f800a0c6
+20350fb0 08030000 //46001002
+
+200c0000 46000803
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 080d43ed

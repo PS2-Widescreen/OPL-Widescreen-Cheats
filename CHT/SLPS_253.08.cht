@@ -1,0 +1,24 @@
+"Crouching Tiger, Hidden Dragon /ID SLPS_253.08"
+
+Mastercode
+90207E38 0C081F36
+
+
+//ELF CRC=63FE356A
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Game play
+////803f013c 00a08144 4c79040c
+2011dfb4 3c013f40 //3c013f80
+
+//Event
+2011e1c0 3c013f40 //3c013f80
+
+//? (Same patttern. Test time is short. Then remain it)
+//2011e3b0 3c013f40 //3c013f80
+
+//Render fix
+//c043013c 00688144 c6a30046
+2011e010 3c014400

@@ -1,0 +1,17 @@
+"Romancing SaGa - Minstrel Song /ID SLPM_659.20"
+
+Mastercode
+9029D178 0C0A7406
+
+
+//ELF CRC=2B9AF3C5
+//Widescreen Hack (16:9) by ElHecht (pnach by Arapapa)
+
+// 16:9 
+2027f7b4 3c013f40 // 00000000 hor fov
+2027f7b8 44810000 // 00000000 hor fov
+2027f7c0 4600c602 // 00000000 hor fov
+2018285c 3c014430 // 3c014400 bg-fix for battles
+//
+// Compass
+20416300 43C00000 // 44000000 hor Compass

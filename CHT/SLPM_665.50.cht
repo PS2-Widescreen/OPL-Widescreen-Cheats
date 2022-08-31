@@ -1,0 +1,18 @@
+"God Hand /ID SLPM_665.50"
+
+Mastercode
+903B1D30 0C0EC6F4
+
+
+//ELF CRC=AEDAEE99
+//Widescreen hack by nemesis2000 and Arapapa
+
+//16:9 (6e3f013c efee2134 00288144 3c00073c)
+2030afe0 3c013f9f // 3c013f6e
+2030afe4 342149f1 // 3421eeef
+
+//Font fix
+//202aedfc 3c013f40 //3c013f80
+//202afdd0 3c013f40 //3c013f80
+202b17e8 3c013f2c //3c013f66
+202b17ec 3421cccd //34216666

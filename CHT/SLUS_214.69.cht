@@ -1,0 +1,25 @@
+"Nicktoons - Battle for Volcano Island /ID SLUS_214.69"
+
+Mastercode
+901C0AC8 0C07025A
+
+
+//ELF CRC=CAF1432F
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//00000000 003f013c 00a08144 
+20286148 3c013f68 //3c013f00
+
+//Y-Fov
+//00000000 0c00a1c7 42080046
+20286194 0806f684 //46000842
+
+201bda10 46000842
+201bda14 3c013faa
+201bda18 3421aaab
+201bda1c 4481f000
+201bda20 461e0842
+201bda24 080a1866

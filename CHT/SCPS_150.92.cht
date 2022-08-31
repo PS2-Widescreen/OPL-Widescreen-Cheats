@@ -1,0 +1,15 @@
+"Wild ARMs - The 4th Detonator /ID SCPS_150.92"
+
+Mastercode
+901121D0 0C04481C
+
+
+//ELF CRC=565B6170
+//Widescreen hack by nemesis2000 (pnach by Arapapa)
+
+//hor fov+
+00159430 3c064500
+001594cc 3c023f40
+
+//render fix
+001592D4 3c05442b

@@ -1,0 +1,15 @@
+"Midnight Club II /ID SLUS_202.09"
+
+Mastercode
+903F7558 0C0FDCFE
+
+
+//ELF CRC=E5F2DF38
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//aa3f013c a8aa2134
+2036c884 3c013fe3 //3c013faa
+2036c888 34218e38 //3421aaa8

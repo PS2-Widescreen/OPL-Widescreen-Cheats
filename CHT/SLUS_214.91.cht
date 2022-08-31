@@ -1,0 +1,20 @@
+"World Series of Poker - Tournament of Champions /ID SLUS_214.91"
+
+Mastercode
+903A0EA0 0C0E8350
+
+
+//ELF CRC=802ED9C2
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2030e17c 3c013f21 //3c013f00
+
+//Y-Fov
+20371b24 3c013f40 //00000000
+20371b28 44810000 //00000000
+20371b30 4600bdc3 //00000000
+
+

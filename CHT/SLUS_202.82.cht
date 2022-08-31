@@ -1,0 +1,23 @@
+"Victorious Boxers - Ippos Road to Glory /ID SLUS_202.82"
+
+Mastercode
+901BB198 0C06EC0E
+
+
+//ELF CRC=4E11E5CC
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+X-Fov (In Squared Ring)
+//803f013c 00a08144
+20114578 3c013f40 //3c013f80
+
+//Event Zoom
+//803f013c 00008144
+2019a3d8 3c013fab //3c013f80
+
+//Event Y-Fov
+//f043013c 00008144
+20190bc8 3c0143b4 //3c0143f0

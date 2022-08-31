@@ -1,0 +1,26 @@
+"Shin Sangoku Musou 2 /ID SLPM_650.53"
+
+Mastercode
+901A1798 0C06858E
+
+
+//ELF CRC=EEC3B310
+//Widescreen hack by 99skull (NTSC-J by Arapapa)
+
+//16:9 widescreen hack 
+
+201759b8 3c0243b4 //3c0243f0 render fix1
+
+2018747c 3c024082 //3c024049 render fix2
+
+2018770c 3c024370 //3c0243a0 zoom
+
+201878bc 3c0243b4 //3c0243f0 vertical FOV
+
+2025e828 3c023faa //3c023f80 vertical FOV(ending scene)
+2025e82c 3442aaab //44820000
+2025e830 44820000 //00000000
+
+2025e83c 3C023FAA //3C023F80 zoom(ending scene)
+2025e840 3442AAAB //44820000
+2025e844 44820000 //00000000

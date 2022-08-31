@@ -1,0 +1,25 @@
+"Hanjuku Hero 4 /ID SLPM_658.39"
+
+Mastercode
+903FADC8 0C0FEB1A
+
+
+//ELF CRC=48D3B2D6
+//Widescreen hack by Arapapa
+
+//Gameplay 16:9
+
+//X-Fov
+2021899c 3c014455 //3c014420
+
+
+//Render Fix
+20218bf4 3c0143e0
+
+
+/////////////////////////////////////
+//Y-Fov
+//202189ac 3c0143B4 //3c0143f0
+
+//Zoom
+//20402f34 3c013fab //3c013f80

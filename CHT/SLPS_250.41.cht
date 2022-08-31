@@ -1,0 +1,21 @@
+"Shadow Hearts /ID SLPS_250.41"
+
+Mastercode
+9020DFD8 0C08379E
+
+
+//ELF CRC=3E46A5F0
+//Widescreen Hack
+
+//Widescreen hack 16:9
+
+//803f043c 00688444 9c45023c
+2028d738 3c043f40
+//803f023c 00688244 7f47023c
+20282564 3c023f40
+//20324530 3c023f40 // field
+
+//Status screen and souls information. plus optional font size reduction (disabled by default) by sergx12
+2039f340 3c023f40 //3c023f80
+203d43c4 3c023f40 //3c023f80
+203ecfec 3c023f40 //3c023f80

@@ -1,0 +1,22 @@
+"Star Trek Voyager - Elite Force /ID SLUS_202.27"
+
+Mastercode
+902A9378 0C0AA486
+
+
+//ELF CRC=9F70EE4F
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//80bf013c 00108144 c0b01446
+20217cd8 3c01bfab //3c01bf80
+
+//Y-Fov
+//803f013c 00108144 0040013c
+2029acec 3c013fab //3c013f80
+
+//Render fix
+//003f013c 00b08144 02001546
+20217e2c 3c013f2b //3c013f00

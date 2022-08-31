@@ -1,0 +1,17 @@
+"Gravity Games Bike - Street Vert. Dirt /ID SLUS_203.10"
+
+Mastercode
+901991D0 0C06641C
+
+
+//ELF CRC=57BF965B
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//06a00046 003f023c 00008244
+201cda4c 3c023f21 //3c023f00
+
+//Y-Fov
+201cda98 3c023f10 //3c023f40

@@ -1,0 +1,16 @@
+"MVP Baseball 2003 /ID SLUS_206.50"
+
+Mastercode
+9053ACB0 0C14EAD4
+
+
+//ELF CRC=55493524
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//803f013c 00008144 380017e6
+204ecfa8 3c013f40 //3c013f80 zoom
+
+//803f013c 00108144 83b50146
+204ed038 3c013fab //3c013f80 fov

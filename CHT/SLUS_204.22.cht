@@ -1,0 +1,24 @@
+"Hulk, The /ID SLUS_204.22"
+
+Mastercode
+90596D50 0C165AFC
+
+
+//ELF CRC=3EA649FB
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//c3b00046 803980e4
+204b9fd0 0813424c
+
+204d0930 4600b0c3
+204d0934 3c013f40
+204d0938 4481f000
+204d093c 461e18c2
+204d0940 0812e7f5
+
+//Render fix
+//003f013c 00608144 3700026a
+203d5c14 3c013f2b //3c013f00

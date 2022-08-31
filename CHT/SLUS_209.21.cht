@@ -1,0 +1,60 @@
+"ESPN - NHL 2K5 /ID SLUS_209.21"
+
+Mastercode
+906B0E90 0C1AC34C
+
+
+//ELF CRC=9B6E69EC
+//Widescreen hack by El_Patas & Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom (gameplay)
+201a3050 3c013f40 //3c013f80
+
+//Zoom (Menu and Cutscene)
+203e9ef8 3c013f40 //3c013f80
+
+//Y-Fov
+//ec678b3f -> d61b513f
+20595d80 3F511BD6 //3f8b67ec
+
+
+//Widescreen hack 21:9
+
+//Zoom (gameplay)
+//201a3050 3c013f10 //3c013f80
+
+//Zoom (Menu and Cutscene)
+//203e9ef8 3c013f10 //3c013f80
+
+//Y-Fov
+//ec678b3f -> d61b513f
+//20595d80 3F1CD4DC //3f8b67ec
+
+
+///////////////////////////////////////////
+//X-Fov (Needs render fix)
+//203d9c4c 080ab89c
+
+//202ae270 46012943
+//202ae274 3c013f40
+//202ae278 4481f000
+//202ae27c 461e2942
+//202ae280 080f6714
+
+//Y-Fov
+//c3390046 1c0020ae
+////203d9c98 08030000
+
+//203d9c98 08030000
+
+//200c0000 460039c3
+//200c0004 3c013faa
+//200c0008 3421aaab
+//200c000c 4481f000
+//200c0010 461e39c2
+//200c0014 080f6727
+
+//Gameplay 16:9
+//201A2FC0 3C013FAA //3C013F80 (Increases hor. axis)

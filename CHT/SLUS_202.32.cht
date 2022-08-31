@@ -1,0 +1,16 @@
+"Thunderstrike - Operation Phoenix /ID SLUS_202.32"
+
+Mastercode
+90159C78 0C0566C6
+
+
+//ELF CRC=7A0494DD
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20564080 3f366666 //3f733333
+
+//Render Fix
+20564094 42a00000 //424ccccd

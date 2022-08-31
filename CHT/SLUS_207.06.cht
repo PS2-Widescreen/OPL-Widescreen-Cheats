@@ -1,0 +1,33 @@
+"Kill Switch /ID SLUS_207.06"
+
+Mastercode
+90390398 0C0E408E
+
+
+//ELF CRC=ECC849C5
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Force turn on Widescreen
+//00 00 00 00 00 00 00 00 04 00 01 00 08 00 02 00 (2nd)
+003C0E1C 00000001
+
+//Zoom fix
+//00a08144 003f013c 00608144
+2023b594 3c013f25 //3c013f00
+
+/////////////////////////////////////////////////////
+//4:3 Y-Fov
+//2023b574 3c013fe3 //3c013faa
+//2023b578 34218ef3 //3421a993
+
+//HUD Y-Size
+//201fefd4 3c013bf8 //3c013b08
+
+//HUD X-Size
+//201fefe8 3c013a99 //3c013acc
+//201fefec 34219dcb //3421cccd
+
+//HUD X-Position
+//201ff010 3c01c254 //3c014220

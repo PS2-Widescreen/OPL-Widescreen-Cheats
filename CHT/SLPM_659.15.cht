@@ -1,0 +1,32 @@
+"Fallout - Brotherhood of Steel /ID SLPM_659.15"
+
+Mastercode
+90241818 0C0905AE
+
+
+//ELF CRC=E518FD91
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f013c 00608144 ee3e013c (1st, 2nd, 3nd and 4th from Bottom)
+201f1b80 3c013f40 //3c013f80 Loading 
+20219cb8 3c013f40 //3c013f80 Shadows
+20219d38 3c013f40 //3c013f80 Characters
+20219da4 3c013f40 //3c013f80 Ground
+
+//X-Fov (Flare and etc)
+2013ae7c 3c013f40 //3c013f80
+//2013aeec 3c013f40 //3c013f80 Inventory
+2013af5c 3c013f40 //3c013f80
+201e09f4 3c013f40 //3c013f80
+201ee1b0 3c013f40 //3c013f80 flare
+201f1b30 3c013f40 //3c013f80
+
+//Render fix
+//aa3f013c 713d2134
+2021026c 3c013ff0 //3c013faa
+20210270 34210000 //34213d71
+20213220 3c013ff0 //3c013faa
+20213224 34210000 //34213d71

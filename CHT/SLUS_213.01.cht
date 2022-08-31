@@ -1,0 +1,15 @@
+"World Series of Poker /ID SLUS_213.01"
+
+Mastercode
+9034F798 0C0D3D8E
+
+
+//ELF CRC=F61754B9
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+20321504 3c013f40 //00000000
+20321508 44810000 //00000000
+20321510 4600c602 //00000000
+
+

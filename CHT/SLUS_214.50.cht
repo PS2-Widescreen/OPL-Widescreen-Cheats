@@ -1,0 +1,14 @@
+"Super Trucks Racing 2 /ID SLUS_214.50"
+
+Mastercode
+9010F710 0C043D6C
+
+
+//ELF CRC=D304FA88
+//Widescreen hack by Sergx12 & El_Patas
+
+//Gameplay 16:9
+201F7FF0 3C023F18 //3C023F00 (Increases hor. axis)
+
+//Cars menus
+20260F48 3C033F67 //3C033F80 (Increases hor. axis)

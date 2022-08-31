@@ -1,0 +1,11 @@
+"Conflict - Desert Storm /ID SLUS_205.49"
+
+Mastercode
+903337F8 0C0CCDA6
+
+
+//ELF CRC=49AF964B
+//Widescreen Hack
+2013f45c 3c0142ae //3c01428c
+2021ef9c 3c013b36 //3c013b08
+2021efa0 342103ce //34218889

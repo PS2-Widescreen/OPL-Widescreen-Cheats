@@ -1,0 +1,16 @@
+"MVP Baseball 2004 /ID SLUS_208.68"
+
+Mastercode
+9062E3C0 0C18B898
+
+
+//ELF CRC=753A1E73
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//803f013c 00008144 380017e6
+205ba998 3c013f40 //3c013f80 zoom
+
+//803f013c 00108144 83b50146
+205baa28 3c013fab //3c013f80 fov

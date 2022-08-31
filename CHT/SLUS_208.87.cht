@@ -1,0 +1,24 @@
+"Adventures of Jimmy Neutron, The - Attack of the Twonkies /ID SLUS_208.87"
+
+Mastercode
+90110A50 0C04423C
+
+
+//ELF CRC=058849D1
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//c2090746 c2380346
+2025c038 08030000 //460709c2
+
+200c0000 460709c2
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e39c2
+200c0010 0809700f
+
+//Render fix
+//003f023c 6000bfff 00008244
+20158dc4 3c023f2b //3c023f00

@@ -1,0 +1,20 @@
+"American Chopper /ID SLUS_210.69"
+
+Mastercode
+901131D0 0C044C1C
+
+
+//ELF CRC=16F94F28
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//82000c46 01000524 02000d46
+2016a590 08043e84
+
+2010fa10 460c0082
+2010fa14 3c013f9b
+2010fa18 3421aaaa
+2010fa1c 4481f000
+2010fa20 461e1082
+2010fa24 0805a965

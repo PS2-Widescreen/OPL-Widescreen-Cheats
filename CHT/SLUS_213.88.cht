@@ -1,0 +1,11 @@
+"Sopranos, The /ID SLUS_213.88"
+
+Mastercode
+903BE038 0C0EF7B6
+
+
+//ELF CRC=7C006C52
+//Widescreen hack by Arapapa
+
+//Wide 16:9 (00000000 3f90a3d7 3fc00000)
+20429870 3fc0d938 // 3f90a3d7

@@ -1,0 +1,20 @@
+"Pro Evolution Soccer 2009 /ID SLUS_218.21"
+
+Mastercode
+901086D0 0C04215C
+
+
+//ELF CRC=7FCDAAAD
+//Widescreen hack by Arapapa
+ 
+//Widescreen 16:9
+
+//X-Fov
+201043fc 3c013f40 //00000000
+20104400 44810000 //00000000
+20104408 4600c602 //00000000
+
+//Render fix
+20125d3c 3c053fab //3c053f80
+
+

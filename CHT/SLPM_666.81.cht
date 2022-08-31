@@ -1,0 +1,15 @@
+"Shin Megami Tensei III - Nocturne Maniax Chronicle Edition /ID SLPM_666.81"
+
+Mastercode
+902DDB58 0C0B767E
+
+
+//ELF CRC=47BA9034
+//Widescreen hack (pnach by Arapapa)
+
+//16:9(03000000 b81e953f 00000000)
+202f5234 3FC6D395 // 3f95a1eb8
+
+//No interlacing by asasega
+//01003126 2d206002 2d380000
+//202b0b68 64040001

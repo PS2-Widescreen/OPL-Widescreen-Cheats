@@ -1,0 +1,17 @@
+"Steamboy /ID SLPS_255.02"
+
+Mastercode
+90110790 0C04418C
+
+
+//ELF CRC=937F9183
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+20132380 3c083fab //3c083f80
+
+//Zoom
+2013c428 3c043f40 //3c043f80
+

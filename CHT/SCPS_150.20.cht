@@ -1,0 +1,12 @@
+"Legaia 2 - Duel Saga /ID SCPS_150.20"
+
+Mastercode
+902EB0B0 0C0BABD4
+
+
+//Widescreen Hack by Little Gaint
+
+20220050 3c013f40 //3c013f80 gameplay hor fov
+202200dc 3c013f40 //3c013f80 battle hor fov
+20134074 3c01c3d5 //3c01c3a0 render fix left
+2013408c 3c0143d5 //3c0143a0 render fix right

@@ -1,0 +1,15 @@
+"Red Card Soccer 2003 /ID SLUS_203.54"
+
+Mastercode
+90116980 0C045A08
+
+
+//ELF CRC=9BC05316
+//Widescreen Hack (NTSC-U by Arapapa)
+
+//Gameplay 16:9 
+
+20206ed4 3c023fe3 //3c023faa
+20206edc 34428e39 //3442aaab
+
+202578dc 3c023f22 //3c023f00

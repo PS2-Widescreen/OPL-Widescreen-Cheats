@@ -1,0 +1,27 @@
+"Shadow Hearts - From the New World /ID SLPM_660.71"
+
+Mastercode
+9020CEB8 0C083356
+
+
+//ELF CRC=D090AC7F
+//Widescreen Hack (pnach NTSC-J by Arapapa)
+
+//black borders fix (optional)
+(c843033c 803f023c to c843033c 0000023c)
+202f76a4 3c020000 //3c023f80
+
+// 16:9
+20202d4c 3c013f40 //00000000
+20202d50 44810000 //00000000
+20202d58 4600c602 //00000000
+// Render-Fix
+202282cc 3c033fc0 //3c034000
+
+// 16:10
+//20202d4c 3c013f55 //00000000
+//20202d50 34215555 //00000000
+//20202d58 44810000 //00000000
+//20202d5c 4600c602 //00000000
+// Render-Fix
+//202282cc 3c033fd5 //3c034000

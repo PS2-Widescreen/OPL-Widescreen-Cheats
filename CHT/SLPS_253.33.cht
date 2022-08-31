@@ -1,0 +1,18 @@
+"Gallop Racer Lucky 7 /ID SLPS_253.33"
+
+Mastercode
+90352430 0C0D48B4
+
+
+//ELF CRC=215E7FBB
+//Widescreen hack by Arapapa
+
+//X-Fov
+2012ba20 3c013f40 //3c013f80
+
+//Render fix
+2012bbf8 3c0142d0 //3c014248
+///////////////////////////////
+// 16:9(0000803f ae47613f 00000045 00000045)  
+//2045CFA4 3f400000 // 3f800000
+//2045D01C 3f400000 // 3f800000

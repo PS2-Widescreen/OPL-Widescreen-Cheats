@@ -1,0 +1,20 @@
+"MVP 06 - NCAA Baseball /ID SLUS_213.67"
+
+Mastercode
+9067C8F0 0C19F1E4
+
+
+//ELF CRC=9315EF73
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//80bf013c 00008144 1000a427
+204494f8 3c01bfab //3c01bf80
+
+//Y-Fov
+//aa3f013c abaa2134 00008144 0800e003 (2nd)
+204515a4 3c013fe3 //3c013faa
+204515a8 34218e39 //3421aaab
+
