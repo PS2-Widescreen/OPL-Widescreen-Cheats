@@ -1,39 +1,112 @@
-game count|1000
+game count|1521
 ------------- | --------------- |
+.hack//Vol.1  |  SLPS_251.21
+.hack//Vol.2 - Mutation  |  SLPS_251.43
+.hack//Vol.3 - Erosion Pollution  |  SLPS_251.58
+.hack//Vol.4 - Zettai Houi  |  SLPS_252.02
 007 - Alles oder Nichts  |  SLES_520.46
+24 - The Game  |  SLUS_212.68
+25 to Life  |  SLUS_210.16
 7 Sins  |  SLES_532.97
 Ace Combat 5 - Squadron Leader  |  SCES_524.24
+Adventure of Tokyo Disney Sea  |  SLPM_650.61
+Adventures of Jimmy Neutron, The - Attack of the Twonkies  |  SLUS_208.87
+Air Force - Delta Strike  |  SLUS_207.03
+All-Star Baseball 2003  |  SLUS_203.11
+All-Star Baseball 2004  |  SLUS_205.69
+Alone in the Dark  |  SLUS_216.90
+American Chopper  |  SLUS_210.69
+American Chopper 2  |  SLUS_212.88
 Amplitude  |  SCES_517.06
+And 1 Streetball  |  SLUS_212.37
+Anubis Zone of Enders  |  SLPM_652.36
+Armored Core 2  |  SLPS_250.07
 Armored Core 2 - Another Age  |  SLES_509.05
+Arthur and the Invisibles  |  SLUS_213.05
 Athens 2004  |  SCES_524.10
+Athens 2004  |  SCUS_973.79
+BIGS 2, The  |  SLUS_218.60
+BIGS, The  |  SLUS_216.23
+Backyard Baseball  |  SLUS_208.65
+Backyard Basketball 07  |  SLUS_214.85
+Backyard Football 2006  |  SLUS_208.76
+Backyard Football 2008  |  SLUS_216.70
+Backyard Football 2009  |  SLUS_217.51
+Backyard Football 2009  |  SLUS_218.09
+Backyard Wrestling - Dont Try This At Home  |  SLUS_206.38
+Bad Boys 2  |  SLUS_209.82
 Baldur's Gate - Dark Alliance  |  SLES_506.72
 Barbarian  |  SLES_509.72
+Barbie Horse Adventures - Riding Camp  |  SLUS_218.06
+Barbie in The 12 Dancing Princesses  |  SLUS_215.79
 Bard's Tale  |  SLES_531.54
+Barnyard  |  SLUS_212.77
 Ben 10 - Alien Force - Vilgax Attacks  |  SLUS_219.21
 Ben 10 - Protector of Earth  |  SLUS_216.61
+Ben 10 - Ultimate Alien - Cosmic Destruction  |  SLUS_219.38
 Ben 10: Alien Force  |  SLUS_218.15
 Beyond Good & Evil  |  SLES_519.17
 Biathlon 2008  |  SLUS_217.11
+Biohazard Gun Survivor 2 - CODE - Veronica [with Guncon]  |  SLPM_650.59
+Biohazard Gun Survivor 4 - Heroes Never Die  |  SLPM_652.45
+Bionicle  |  SLUS_208.18
 Black  |  SLES_538.86
 Black & Bruised  |  SLES_516.20
+Black & Bruised  |  SLUS_205.06
 Blood Omen 2: Legacy of Kain  |  SLES_507.71
 Blood Will Tell - Tezuka Osamu's Dororo  |  SLES_527.55
 Bloody Roar 3  |  SLES_502.03
 Bloody Roar 4  |  SLES_518.77
+Bratz - Forever Diamonds  |  SLUS_214.70
+Bratz - Girlz Really Rock  |  SLUS_217.91
+Bratz - Rock Angels  |  SLUS_212.25
 Bratz - The Movie  |  SLUS_216.43
+Breeders Cup - World Thoroughbred Championships  |  SLUS_211.95
 Brothers in Arms: Road to Hill 30  |  SLES_528.88
+Brunswick Pro Bowling  |  SLUS_215.66
+Bully  |  SLUS_212.69
 Burnout 3 - Takedown  |  SLES_525.85
 CSI - Crime Scene Investigation - 3 Dimensions of Murder  |  SLUS_216.55
 Cabela's Trophy Bucks |  SLUS_216.24
+Cabelas African Safari  |  SLUS_213.79
+Cabelas Alaskan Adventures  |  SLUS_213.84
+Cabelas Big Game Hunter  |  SLUS_205.34
+Cabelas Big Game Hunter - 2005 Adventures  |  SLUS_210.11
+Cabelas Big Game Hunter III  |  SLUS_216.25
+Cabelas Dangerous Hunts  |  SLUS_207.36
+Cabelas Dangerous Hunts 2  |  SLUS_213.50
+Cabelas Dangerous Hunts 2009  |  SLUS_218.41
+Cabelas Deer Hunt - 2004 Season  |  SLUS_206.65
+Cabelas Deer Hunt - 2005 Season  |  SLUS_210.21
+Cabelas Legendary Adventures  |  SLUS_217.89
+Cabelas Moster Bass  |  SLUS_217.15
+Cabelas North American Adventures  |  SLUS_219.35
+Cabelas Outdoor Adventures 2006  |  SLUS_211.92
+Cabelas Outdoor Adventures 2010  |  SLUS_219.06
 Canis Canem Edit  |  SLES_535.61
 Cars Race-O-Rama  |  SLES_555.36
 Castlevania - Lament of Innocence  |  SLUS_207.33
+Catwoman  |  SLUS_209.92
+Charlie and the Chocolate Factory  |  SLUS_212.46
 Cocoto Fishing Master  |  SLUS_216.63
+Code Lyoko - Quest for Infinity  |  SLUS_217.43
+Codename - Kids Next Door - Operation V.I.D.E.O.G.A.M.E.  |  SLUS_211.55
+Conflict - Desert Storm  |  SLUS_205.49
+Conflict - Desert Storm 2 - Back to Baghdad  |  SLUS_206.89
+Conflict - Global Terror  |  SLUS_211.72
+Conflict Vietnam  |  SLUS_210.45
+Conflict Zone  |  SLUS_202.40
+Constantine  |  SLUS_211.42
 Contra - Shattered Soldier  |  SLES_512.84
+Coraline  |  SLUS_218.54
+Crouching Tiger Hidden Dragon  |  SLUS_205.23
+Crouching Tiger, Hidden Dragon  |  SLPS_253.08
+Curious George  |  SLUS_213.54
 Cyclone Circus  |  SLES_526.84
 Dark Chronicle  |  SCES_511.90
 Das Ding aus einer anderen Welt  |  SLES_509.76
 Dead or Alive 2  |  SCES_500.03
+Dead or Alive 2  |  SLPS_250.02
 Der Herr der Ringe - Die Rückkehr des Königs  |  SLES_520.18
 Devil May Cry 2 - Disc 1 - Dante  |  SLES_820.11
 Devil May Cry 2 - Disc 2 - Lucia  |  SLES_820.12
@@ -42,6 +115,7 @@ Die Sims brechen aus  |  SLES_520.47
 Dino Stalker  |  SLES_509.30
 Disgaea - Hour Of Darkness  |  SLES_524.58
 Disney Pixar Cars  |  SLUS_211.51
+Disneys Bolt  |  SLUS_218.44
 Dora the Explorer - Dora Saves the Snow Princess  |  SLUS_217.96
 Drakan - The Ancients' Gates  |  SCES_500.06
 Drakengard  |  SLES_523.22
@@ -49,153 +123,600 @@ Drakengard 2  |  SLES_537.94
 Draon Sisters  |  SLES_544.60
 DreamWorks Madagascar 2 - Escape 2 Africa  |  SLUS_218.40
 Dynasty Warriors 4  |  SLES_516.63
+ESPN - NBA 2K5  |  SLUS_209.20
+ESPN - NFL 2K5  |  SLUS_209.19
+ESPN - NHL 2K5  |  SLUS_209.21
+ESPN - Winter X Games - Snowboarding  |  SLUS_200.89
+ESPN - Winter X Games - Snowboarding 2002  |  SLUS_203.21
 Enter The Matrix  |  SLES_512.03
+Ephemeral Fantasia  |  SLUS_201.69
+Equestriad  |  SLUS_214.01
+Eragon  |  SLUS_213.22
+Eureka Seven - New Vision  |  SLPS_256.46
+Eureka Seven - Vol.1 - The New Wave  |  SLUS_213.53
+Eureka Seven - Vol.2 - The New Vision  |  SLUS_215.38
+Eureka Seven TR1 - New Wave  |  SLPS_255.54
+Eve of Extinction  |  SLUS_202.70
 Evergrace  |  SLES_500.50
+Evergrace  |  SLPS_250.03
+Evolution Skateboarding  |  SLUS_205.40
+FIFA 2002  |  SLUS_202.80
+FIFA 2002 - Road to World Cup  |  SLPS_250.69
 Fahrenheit  |  SLES_535.39
 Fahrenheit  |  SLES_535.40
+Fairly Odd Parents, The - Breakin Da Rules  |  SLUS_206.61
+Fairly Odd Parents, The - Shadow Showdown  |  SLUS_208.80
+Fallout - Brotherhood of Steel  |  SLPM_659.15
+Fantastic 4  |  SLUS_206.15
+Fantastic 4 - Rise of Silver Surfer  |  SLUS_215.44
+Fantavision  |  SCUS_971.05
+Fatal Frame - Zero  |  SLPS_255.44
+Fate/Unlimited Codes  |  SLPM_551.08
+Fight Club  |  SLUS_208.57
 Fighting Angels  |  SLES_534.08
+Fighting Beauty Wulong  |  SLPS_256.57
 Final Fantasy X  |  SCES_504.90
 Final Fantasy X  |  SCES_504.92
+Final Fantasy X  |  SLPS_250.50
 Final Fantasy X  |  SLUS_203.12
 Final Fantasy X-2  |  SLES_518.15
 Final Fantasy X-2  |  SLES_518.17
+Final Fantasy X-2  |  SLUS_206.72
+Final Fantasy XII  |  SLPM_663.20
 Final Fantasy XII  |  SLUS_209.63
+Finny the Fish & The Seven Waters  |  SLUS_210.72
+Firefighter F.D. 18  |  SLPM_654.70
 FlatOut 2  |  SLES_540.02
 Flipnic - Ultimate Pinball  |  SLES_520.65
+Flipnic - Ultimate Pinball  |  SLUS_211.57
+Flow - Urban Dance Uprising  |  SLUS_213.19
+Forever Kingdom  |  SLUS_203.43
 Formula One 2001  |  SCES_500.04
+Formula One 2001  |  SCPS_150.19
+Formula One 2001  |  SCUS_971.50
+Formula One 2002  |  SCPS_150.32
+Franklin - A Birthday Surprise  |  SLUS_213.82
 Freak Out  |  SLES_503.10
 Frequency  |  SCES_507.91
+Frogger  |  SLPM_653.04
+Frogger - Ancient Shadow  |  SLUS_210.98
+Froggers Adventures - The Rescue  |  SLUS_207.34
+Front Mission 4  |  SLPM_654.43
+Fu-un Bakumatsu Den  |  SLPM_658.13
+Fugitive Hunter - War on Terror  |  SLUS_204.64
+Full Spectrum Warrior  |  SLUS_211.45
+Full Spectrum Warrior - Ten Hammers  |  SLUS_212.50
 Furry Tales  |  SLES_528.24
+Fuun Shinsengumi  |  SLPM_654.94
+G-Saviour  |  SLPS_250.09
+G.I. Joe - The Rise of Cobra  |  SLUS_218.86
 GTA - San Andreas  |  SLUS_209.46
+Gakkou o Tsukurou - Happy Days!!  |  SLPS_254.71
+Galacta Meisaku Gekijou - Rakugaki Oukouku  |  SLPM_650.97
+Gallop Racer 2003 - A New Breed  |  SLUS_206.62
+Gallop Racer 2004  |  SLUS_210.31
+Gallop Racer 2006  |  SLUS_213.93
+Gallop Racer 6 - Revolution [PlayStation 2 The Best]  |  SLPS_734.15
+Gallop Racer Lucky 7  |  SLPS_253.33
+Gantz - The Game  |  SLPM_659.50
+Garouden Break Blow  |  SLPS_255.30
+Garouden Break Blow - Fist or Twist  |  SLPS_257.47
+Generation of Chaos 3 [Limited Edition]  |  SLPM_652.78
+Genji - Dawn of the Samurai  |  SCPS_150.95
+Genso Suikoden III  |  SLPM_650.73
+Genso Suikoden V  |  SLPM_662.86
 George of the Jungle and the Search for the Secret  |  SLUS_216.68
+Ghost Vibration  |  SLPS_251.31
 Giants - Citizen Kabuto  |  SLES_503.14
 Gitaroo Man  |  SLES_506.53
+Gladiator - Road to Freedom  |  SLPS_254.56
 Go, Diego, Go! Safari Rescue  |  SLUS_217.18
+God Hand  |  SLPM_665.50
 God Of War 2  |  SCES_542.06
+Gold Gashbell!! Gekitou! Saikyou no Mamonotachi  |  SLPS_254.40
+Golf Paradise DX  |  SLPS_250.27
 Gradius V  |  SLES_520.95
 Gran Turismo 3 - A-Spec  |  SCES_502.94
+Grand Theft Auto - Liberty City Stories  |  SLPM_668.51
+Grand Theft Auto - San Andreas  |  SLPM_659.84
+Grand Theft Auto - Vice City  |  SLPM_654.88
+Grand Theft Auto III  |  SLPM_653.82
 Grand Theft Auto III  |  SLUS_200.62
 Grand Theft Auto: Vice City  |  SLES_510.61
+Grandia Extreme  |  SLPM_650.89
+Grandia II  |  SLPM_650.81
+Grandia III  |  SLPM_659.76
+Gravity Games Bike - Street Vert. Dirt  |  SLUS_203.10
+Great Escape, The  |  SLUS_206.70
+Greg Hastings Tournament Paintball Maxd  |  SLUS_215.39
 Gretzky NHL 06  |  SCUS_974.66
+Gretzky NHL 2005  |  SCUS_974.09
+Grim Adventures of Billy & Mandy, The  |  SLUS_214.51
+Grim Grimoire  |  SLPS_257.71
+Guitar Hero  |  SLUS_212.24
+GunGrave  |  SLPM_651.53
+Gundam - Federation vs Zeon DX  |  SLPM_650.76
+Gundam Musou 2  |  SLPM_551.22
+Gundam Musou Special  |  SLPM_669.40
+Gundam Seed - Never Ending Tomorrow  |  SLPS_253.89
+Gundam Seed Destiny - Generation of C.E.  |  SLPS_255.49
+Gundam True Odyssey  |  SLPS_255.20
+Hagane no Renkinjutsushi - Akaki Elixir no Akuma  |  SLPM_657.08
+Hagane no Renkinjutsushi - Dream Carnival  |  SLPS_254.02
+Hagane no Renkinjutsushi - Tobenai Tenshi  |  SLPM_654.73
+Hagane no Renkinjutsushi 3 - Kami o Tsugu Shoujo  |  SLPM_660.73
+Hajime no Ippo - All-Stars  |  SLPS_254.39
 Half-Life  |  SLES_505.05
+Hanjuku Hero 4  |  SLPM_658.39
+Hanjuku Hero VS 3D  |  SLPM_653.15
+Harry Potter and The Goblet of Fire  |  SLUS_213.25
+Harry Potter and The Order of the Phoenix  |  SLUS_216.19
+Harry Potter and The Prisoner of Azkaban  |  SLUS_209.26
 Haunting Ground  |  SLES_528.77
+Headhunter  |  SLUS_204.16
+Headhunter - Redemption  |  SLUS_208.17
+Heavy Metal Thunder  |  SLPM_660.30
+Heroes of the Pacific  |  SLUS_209.43
+Hidden Invasion  |  SLUS_203.01
+High Roller Casino  |  SLUS_210.14
+Hissatsu Ura-Kagyou  |  SLPM_661.13
+History Channel - Battle for the Pacific  |  SLUS_217.12
 Hitman - Blood Money  |  SLES_530.30
+Hitman 2 - Silent Assassin  |  SLPS_252.69
+Horsez  |  SLUS_215.63
+Hot Shots Golf 3  |  SCUS_971.30
+Hot Wheels - Beat That  |  SLUS_216.28
+Hot Wheels - Stunt Track Challenge  |  SLUS_209.54
+Hot Wheels - Velocity X  |  SLUS_204.12
+Houshin Engi 2  |  SLPM_650.83
+Hulk, The  |  SLUS_204.22
+Hummer Badlands  |  SLUS_213.57
+Hungry Ghosts  |  SCPS_150.46
+Hunter the Reckoning - Wayward  |  SLUS_205.11
+Hustle, The - Detroit Streets - Kats Story  |  SLUS_213.35
+IGPX - Immortal Grand Prix  |  SLUS_214.30
+Ikki Tousen - Shining Dragon  |  SLPS_257.98
+Incredible Hulk, The  |  SLUS_217.65
 Indiana Jones and the Emperor's Tomb  |  SLES_508.36
+Initial D - Special Stage  |  SLPM_652.68
+Inuyasha - The Secret of The Cursed Mask  |  SLUS_209.13
 Iridium Runners  |  SLES_550.13
 Iridium Runners  |  SLUS_216.97
 Iron Man  |  SLUS_217.39
+J-League Winning Eleven Tactics  |  SLPM_654.32
+J-Pheonix Burst Tactics  |  SLPM_651.23
+James Bond 007 - Agent Under Fire  |  SLUS_202.65
+James Bond 007 - Everything or Nothing  |  SLPM_654.46
+James Bond 007 - Everything or Nothing  |  SLUS_207.51
 Jet Ion GP  |  SLES_505.44
+Jikkyou Powerful Major League 2009  |  SLPM_551.55
+Jimmy Neutron - Boy Genius - Jet Fusion  |  SLUS_206.96
+Jojo no Kimyou na Bouken - Phantom Blood  |  SLPS_256.86
+Jojos Bizarre Adventure 5  |  SLPM_651.40
 Jumper - Griffin's Story  |  SLUS_217.30
+Justice League Heroes  |  SLUS_213.04
+K-1 World Grand Prix 2002  |  SLPM_652.02
+K-1 World Grand Prix 2005  |  SLPS_255.78
+K-1 World Max 2005  |  SLPM_660.77
+K1 World Grand Prix  |  SLUS_206.82
+Kagero II - Dark Illusion  |  SLPS_254.45
+Kaitou Sly Cooper  |  SCPS_150.36
+Kamen Rider - Climax Heroes  |  SLPS_259.44
+Kaze no Klonoa 2 - Sekai ga Nozonda Wasuremono  |  SLPS_250.33
+Kelly Slaters Pro Surfer  |  SLUS_203.34
+Keroro Gunsou - Mero Mero Battle Royale  |  SLPS_253.99
+Kidou Senshi Gundam 00 - Gundam Meisters  |  SLPS_259.00
+Kill Switch  |  SLUS_207.06
 Killer7  |  SLES_533.66
 Kim Possible - What's the Switch  |  SLES_543.88
+King Kong, Peter Jacksons - The Official Game of the Movie  |  SLUS_213.11
+King of Fighters - Maximum Impact  |  SLUS_209.23
+King of Fighters, The - Maximum Impact 2  |  SLPS_256.09
 Kingdom Hearts  |  SCES_509.69
+Kingdom Hearts - Re:Chain of Memories  |  SLPM_666.76
 Kingdom Hearts 2 Final Mix +  |  SLPM_666.75
+Kings Field 4  |  SLPS_250.57
 Klonoa 2 - Lunatea's Veil  |  SCES_503.54
+LEGO Star Wars II - The Original Trilogy  |  SLPM_665.72
 La Pucelle: Tactics  |  SLES_529.78
 Lara Croft Tomb Raider: The Angel Of Darkness  |  SLES_512.27
+LarryBoy and the Bad Apple  |  SLUS_214.40
 Legacy of Kain: Defiance  |  SLES_521.50
 Legacy of Kain: Soul Reaver 2  |  SLES_501.96
+Legaia 2 - Duel Saga  |  SCPS_150.20
+Legends of Wrestling 2  |  SLUS_205.07
+Legions Gekitou! Saga Battle  |  SLPS_254.27
 Leisure Suit Larry - Magna Cum Laude  |  SLES_526.43
+Leisure Suit Larry - Magna Cum Laude  |  SLUS_209.56
+Lemony Snickets A Series of Unfortunate Events  |  SLUS_210.78
+Lethal Skies - Elite Pilot - Team SW  |  SLUS_203.86
+Lethal Skies 2  |  SLUS_207.35
+LifeLine - Voice Action Adventure  |  SLUS_208.48
+Lord of the Rings, The - The Return of the King  |  SLPM_655.03
+Lord of the Rings, The - The Two Towers  |  SLPS_290.04
+Lord of the Rings, The - Uchitsu Kuni Daisanki  |  SLPM_658.46
 Lotus Challenge  |  SLES_502.30
+Lowrider  |  SLUS_206.76
+Lupin III - Columbus no Isan wa Akenisomar  |  SLPS_254.30
+Lupin III - Lupin ni wa Shi o, Zenigata ni wa Koi o  |  SLPS_257.40
+Lupin III - Majutsu no Isan  |  SLPS_251.71
 MDK2 - Armageddon  |  SLES_502.48
+MLB 2005  |  SCUS_973.26
 MLB Power Pros  |  SLUS_216.71
 MLB Power Pros 2008  |  SLUS_217.48
+MLB Slugfest - Loaded  |  SLUS_208.89
+MLB Slugfest 2003  |  SLUS_200.49
+MLB Slugfest 2004  |  SLUS_206.18
+MLB Slugfest 2006  |  SLUS_213.42
+MTVs Celebrity Deathmatch  |  SLUS_206.04
+MVP 06 - NCAA Baseball  |  SLUS_213.67
+MVP 07 - NCAA Baseball  |  SLUS_215.82
+MVP Baseball 2003  |  SLUS_206.50
+MVP Baseball 2004  |  SLUS_208.68
+MVP Baseball 2005  |  SLUS_211.35
+MX Rider  |  SLUS_202.34
+MX Superfly  |  SLUS_203.81
 MX Unleashed  |  SLES_520.43
+MX Unleashed  |  SLUS_207.67
+MX World Tour featuring Jamie Little  |  SLUS_210.97
+MX vs ATV Unleashed  |  SLUS_211.04
 MX vs ATV Untamed  |  SLUS_217.01
 Mace Griffin - Bounty Hunter  |  SLES_516.53
 Made Man - Confessions of the Family Blood  |  SLUS_215.87
 Magna Carta: Tears of Blood  |  SLES_534.83
+Mahoroba Stories  |  SLPM_667.51
+Mahou Tsukai Kurohime  |  SLPM_661.64
 Maken Shao - Demon Sword  |  SLES_510.58
 Manhunt  |  SLES_520.23
+Marvel - Super Hero Squad  |  SLUS_219.10
+Matt Hoffmans Pro BMX 2  |  SLUS_203.35
+McFarlane Evil Prophecy  |  SLUS_206.57
+Medal of Honor - Jishousaidai no Sakusen  |  SLPS_251.51
+Men in Black 2 - Alien Escape  |  SLUS_203.73
+Mercury Meltdown - Remix  |  SLUS_215.48
+Metal Gear Solid 2 - Sons of Liberty  |  SLPM_650.78
 Metal Gear Solid 2 - Substance  |  SLES_820.09
+Metal Gear Solid 2 - Substance  |  SLPM_670.02
 Metal Gear Solid 2: Sons of Liberty  |  SLES_503.83
 Metal Gear Solid 3 - Snake Eater  |  SLES_820.32
+Metal Gear Solid 3 - Snake Eater  |  SLUS_209.15
 Metal Gear Solid 3 - Subsistence  |  SLES_820.46
 Midnight Club 3 - DUB Edition  |  SLES_529.42
+Midnight Club 3 - DUB Edition  |  SLUS_210.29
+Midnight Club II  |  SLUS_202.09
+Mike Tyson - Heavyweight Boxing  |  SLUS_203.45
+Mission Impossible - Operation Surma  |  SLUS_204.00
+Mobile Suit Gundam - Gundam vs Z-Gundam  |  SLPS_254.19
+Mobile Suit Gundam - Gundam vs Zeta Gundam  |  SLUS_208.21
+Mobile Suit Gundam - Journey to Jaburo  |  SLUS_201.75
+Mobile Suit Gundam - Lost War Chronicles  |  SLPS_251.23
+Mobile Suit Gundam - Zeonic Front  |  SLUS_202.33
+Monster 4x4 - Masters of Metal  |  SLUS_207.96
+Monster House  |  SLUS_214.00
 Monster Hunter  |  SLES_527.07
+Monster Hunter 2  |  SLPM_662.80
+Monster Hunter G  |  SLPM_658.69
+Monster Jam  |  SLUS_216.35
 Monster Jam - Urban Assault  |  SLUS_218.07
+Monster Lab  |  SLUS_218.38
+Mortal Kombat - Armageddon  |  SLUS_214.10
 Mortal Kombat - Deadly Alliance  |  SLES_507.17
 Mortal Kombat - Deception  |  SLES_527.06
+Moto GP 3  |  SLUS_206.25
+Moto GP 4  |  SLUS_211.59
+MotoGP 07  |  SLUS_216.88
 MotoGP 08  |  SLUS_218.11
+Motor Mayhem - Vehicular Combat League  |  SLUS_201.71
 Mr Moskeeto  |  SLES_507.69
+Muppets Party Cruise, Jim Hensons  |  SLUS_206.35
 Mystic Heroes  |  SLES_513.58
+NASCAR Heat 2002  |  SLUS_201.76
+NBA Ballers  |  SLUS_205.41
+NBA Ballers - Phenom  |  SLUS_211.86
+NBA Live 06  |  SLUS_212.79
+NBA Live 2003  |  SLUS_205.36
+NBA Live 2004  |  SLUS_207.55
 NBA Live 2005  |  SLES_527.13
+NBA Live 2005  |  SLUS_210.58
+NCAA Final Four 2002  |  SCUS_971.36
+NCAA Final Four 2003  |  SCUS_972.04
+NFL Blitz 2003  |  SLUS_204.74
+NFL Blitz Pro  |  SLUS_206.31
+NHL 2003  |  SLUS_205.31
+NHL Hitz 2003  |  SLUS_204.38
+NHL Hitz Pro  |  SLUS_206.91
+NHRA - Countdown to the Championship 2007  |  SLUS_215.47
+NHRA Championship Drag Racing  |  SLUS_211.14
+NPPL Championship Paintball 2009  |  SLUS_218.55
+Naruto - Konoha Spirits  |  SLPS_257.14
+Naruto - Narutimate Hero 2  |  SLPS_253.98
+Naruto Narutimett Hero 3  |  SLPS_255.89
+Naruto Shippuuden Narutimate Accel  |  SLPS_257.68
 Need for Speed - Hot Pursuit 2  |  SLES_507.31
+Need for Speed - Underground  |  SLUS_208.11
 Need for Speed Underground J-Tune [EA Best Hits]  |  SLPM_656.14
+Neo Contra  |  SLUS_209.61
+Neon Genesis Evangelion - Battle Orchestra  |  SLPM_667.63
+Neopets - The Darkest Faerie  |  SCUS_973.67
+Nickelodeon Ni Hao, Kai-Lan - Super Game Day  |  SLUS_219.26
+Nicktoons - Battle for Volcano Island  |  SLUS_214.69
+Nightmare Before Christmas, Tim Burtons The - Oogies Revenge  |  SLUS_208.60
 Nightshade  |  SLES_522.38
+Nitrobike  |  SLUS_217.38
+No One Lives Forever  |  SLUS_200.28
 ObsCure  |  SLES_525.08
 Odin Sphere  |  SLES_551.10
+Odin Sphere  |  SLPM_664.74
+Okami  |  SLPM_663.75
+One Piece - Grand Battle! Combat Rush  |  SLPS_254.73
+One Piece - Land Land  |  SLPS_253.82
+One Piece - Pirates Carnival  |  SLPS_255.76
 Oni  |  SLES_501.34
+Onimusha - Blade Warriors  |  SLUS_207.10
+Open Season  |  SLUS_214.67
+Orphen - Scion of Sorcery  |  SLUS_200.11
+Outlaw Golf 2  |  SLUS_210.30
+Outlaw Tennis  |  SLUS_211.90
+Outlaw Volleyball Remixed  |  SLUS_210.49
+Over the Monochrome Rainbow featuring Shogo Hamada  |  SLPM_652.71
+Oz  |  SLPM_660.33
+PES 2010 - Pro Evolution Soccer  |  SLUS_219.18
+PES 2011 - Pro Evolution Soccer  |  SLUS_219.42
+Paris Dakar Rally  |  SLUS_203.24
+Persona 3 - Fes [Independent Starting Version]  |  SLPM_666.90
+Persona 4 [Konami-style Special Edition]  |  SLPM_669.78
+Piglets Big Game  |  SLUS_206.59
+Pimp my Ride  |  SLUS_215.80
+Pirates - Legend of the Black Buccaneer  |  SLUS_214.78
 Pirates - The Legend Of Black Kat  |  SLES_506.80
+Pirates of the Caribbean - The Legend of Jack Sparrow  |  SLUS_211.10
+Pitfall - The Lost Expedition  |  SLUS_204.08
+Plan, The  |  SLUS_214.66
+PoPoLoCrois - Hajimari no Bouken  |  SCPS_150.27
+Polar Express, The  |  SLUS_209.89
+Popolocrois - The Law of the Moon  |  SCPS_150.63
 Portal Runner  |  SLES_502.63
+Portal Runner  |  SLUS_200.03
+Powerpuff Girls, The - Relish Rampage  |  SLUS_205.85
 Prince of Persia - The Sands of Time  |  SLES_519.18
 Prince of Persia: The Two Thrones  |  SLES_537.77
 Prince of Persia: Warrior Within  |  SLES_528.22
+Pro Evolution Soccer 2008  |  SLUS_216.85
 Pro Evolution Soccer 2009  |  SLES_554.06
+Pro Evolution Soccer 2009  |  SLUS_218.21
 Pro Evolution Soccer 2014  |  SLES_556.74
+Project Zero  |  SLPS_250.74
 Project Zero 3 - The Tormented  |  SLES_538.25
 Project Zero II - Crimson Butterfly  |  SLES_523.84
+Pryzm - Chapter One - The Dark Unicorn  |  SLUS_201.72
 Psi-Ops - The Mindgate Conspiracy  |  SLES_527.02
 Psychonauts  |  SLES_538.30
 R-Type Final  |  SLES_519.52
+Ratchet & Clank  |  SCPS_150.37
 Ratchet & Clank 2  |  SCES_516.07
 Ratchet & Clank 3  |  SCES_524.56
+Red Card Soccer 2003  |  SLUS_203.54
+Red Faction  |  SLUS_200.73
 Red Faction II  |  SLES_511.33
 Red Ninja - End of Honor  |  SLES_530.25
 Reign of Fire  |  SLES_508.73
+Reign of Fire  |  SLUS_205.56
 Resident Evil - Outbreak  |  SLES_515.89
 Resident Evil 4  |  SLES_537.02
 Rez  |  SCES_505.01
 Ridge Racer V  |  SCES_500.00
+Riding Star  |  SLUS_217.37
+River King - A Wonderful Journey  |  SLUS_212.75
+Robin Hood - Defender of the Crown  |  SLUS_207.23
+RockMan X - Command Mission  |  SLPM_656.43
+RockMan X7  |  SLPM_653.31
+RockMan X8  |  SLPM_657.30
+Rocky  |  SLUS_205.59
+Rocky - Legends  |  SLUS_208.90
 Rogue Galaxy  |  SCES_545.52
+Rogue Galaxy [Directors Cut]  |  SCPS_170.13
+Rogue Ops  |  SLUS_207.46
+Romancing SaGa - Minstrel Song  |  SLPM_659.20
+Rugby 2005  |  SLUS_211.58
 Rule of Rose  |  SLES_542.18
+Rumble Roses  |  SLUS_209.70
 Rumble Roses S |  SLES_525.35
+SOCOM - U.S. Navy SEALs  |  SCUS_971.34
 SOCOM II - U.S. Navy SEALs  |  SCES_519.04
+Sacred Blaze  |  SLPS_259.17
+Saint Seiya Meiou Hades Juunikyuu Hen  |  SLPS_257.44
+Sakura Zakashobotai  |  SLPS_253.63
+Samurai Warriors 2 - Empires  |  SLUS_215.85
+Saru Get You - Million Monkeys  |  SCPS_151.15
+Saru Get You 2  |  SCPS_150.25
+Saru Get You! 3  |  SCPS_150.96
+Scorpion King, The - Rise of the Akkadian  |  SLUS_204.24
+Sea-Man  |  SLPS_250.64
+Secret Saturdays, The - Beasts of the 5th Sun  |  SLUS_218.96
+Secret Service  |  SLUS_218.36
 Sega Rally Championship  |  SLPM_627.03
+Sengoku Basara  |  SLPM_660.58
 Shadow Hearts  |  SLES_506.77
+Shadow Hearts  |  SLPS_250.41
 Shadow Hearts - Covenant - Disc 1  |  SLES_820.30
 Shadow Hearts - Covenant - Disc 2  |  SLES_820.31
+Shadow Hearts - From the New World  |  SLPM_660.71
+Shadow Hearts 2 [Directors Cut] [PlayStation 2 The Best]  |  SLPS_732.14
 Shadow Hearts 3: From The New World  |  SLES_547.11
 Shadow Man: 2econd Coming  |  SLES_504.46
+Shadow of Rome  |  SLPM_658.83
+Shaun Palmers Pro Snowboarder  |  SLUS_201.99
+Shin Megami Tensei - Persona 3  |  SLUS_215.69
+Shin Megami Tensei III - Nocturne Maniax Chronicle Edition  |  SLPM_666.81
+Shin Sangoku Musou 2  |  SLPM_650.53
+Shining Force EXA  |  SLPM_666.46
+Shining Force Neo  |  SLPM_659.08
 Short Track Racing - Trading Paint  |  SLUS_218.57
+Showdown - Legends of Wrestling  |  SLUS_210.17
+Shrek Smash and Crash  |  SLUS_213.92
 Silent Hill - Shattered Memories  |  SLES_555.69
+Silent Hill - Shattered Memories  |  SLPM_552.31
+Silent Hill 2  |  SLPM_650.51
 Silent Hill 3  |  SLES_514.34
+Silent Hill 3  |  SLPM_652.57
+Silent Hill 4 - The Room  |  SLPM_655.74
 Silent Hill 4 - The Room  |  SLUS_208.73
 Silpheed - The Lost Planet  |  SLES_501.93
+Siren 2  |  SCPS_151.06
 Sky Odyssey  |  SCES_501.05
+Sly Racoon 2  |  SCPS_150.90
+SnoCross 2 featuring Blair Morgan  |  SLUS_211.30
+Sonic Gems Collection  |  SLPM_660.74
 Sonic Heroes  |  SLES_519.50
+Sonic Heroes  |  SLPM_654.31
+Sopranos, The  |  SLUS_213.88
 Soul Calibur III  |  SCES_533.12
+Soul Eater - Battle Resonance  |  SLPS_259.12
 Soul Nomad & the World Eaters  |  SLES_551.67
+Soul Reaver 2 - Legacy of Kain  |  SLPS_250.85
+Splashdown  |  SLUS_202.23
+SpongeBob Squarepants - Lights, Camera, PANTS!  |  SLUS_212.52
+SpongeBob Squarepants - The Movie  |  SLUS_209.04
+SpongeBobs Atlantis SquarePantis  |  SLUS_216.44
+Star Trek Voyager - Elite Force  |  SLUS_202.27
 Star Wars - Battlefront II  |  SLES_535.03
 Star Wars Battlefront II  |  SLUS_212.40
+Steambot Chronicles  |  SLUS_213.44
+Steamboy  |  SLPS_255.02
 Stolen  |  SLES_528.82
+Stolen  |  SLUS_210.99
+Street Hoops - King of the Court  |  SLUS_202.99
+Street Racing Syndicate  |  SLUS_205.82
+Summer Heat Beach Volleyball  |  SLUS_206.34
+Summon Night EX Thesis - Yoake no Tsubasa  |  SLPS_255.28
+Summoner  |  SLUS_200.74
 Summoner (PAL-G)  |  SLES_820.05
+Super DragonBall Z  |  SLUS_214.42
+Super Robot Taisen - Scramble Commander The 2nd  |  SLPS_257.50
+Super Robot Taisen Impact  |  SLPS_251.04
+Super Robot Taisen OG - Original Generations  |  SLPS_257.33
+Super Robot Wars - Alpha 2nd  |  SLPS_252.28
+Super Robot Wars - Alpha 3  |  SLPS_255.37
+Super Robot Wars - Scramble Commander  |  SLPS_252.96
+Super Robot Wars MX  |  SLPS_253.45
+Super Trucks Racing 2  |  SLUS_214.50
+Superbikes TT  |  SLUS_209.12
+Surfs Up  |  SLUS_215.72
 Syphon Filter - Logan's Shadow  |  SCUS_975.84
 TNA iMPACT!  |  SLUS_217.87
+TXR Drift 2  |  SLUS_213.94
+Tale of Despereaux, The  |  SLUS_218.52
+Tales of Destiny [Directors Cut]  |  SLPS_258.42
+Tales of Legendia  |  SLPS_255.33
+Tales of the Abyss  |  SLPS_255.86
+Tekken 4  |  SLPS_251.00
 Tekken Tag Tournament  |  SCES_500.01
 Tenchu: Fatal Shadows  |  SLES_530.12
 Tenchu: Wrath of Heaven  |  SLES_506.79
+Tengai Makyou II - Manji Maru  |  SLPM_654.01
+Tengai Makyou III - Namida  |  SLPM_659.52
+Terminator, The - Dawn of Fate  |  SLUS_203.91
+Tetsujin 28 Go  |  SLPS_253.62
 The Operative - No One Lives Forever  |  SLES_505.92
 The Secret Saturdays - Beasts of the 5th Sun  |  SLES_555.46
 The Typing of the Dead - Zombie Panic  |  SLPM_625.66
 The Warriors  |  SLES_534.43
+Thunder Force VI  |  SLPM_550.96
+Thunderstrike - Operation Phoenix  |  SLUS_202.32
+Tiger Woods PGA Tour 2002  |  SLUS_203.64
+Tiger Woods PGA Tour 2003  |  SLUS_205.72
+Tiger Woods PGA Tour 2004  |  SLUS_207.57
+Tiger Woods PGA Tour 2005  |  SLUS_210.02
+Tiger Woods PGA Tour 2006  |  SLUS_212.64
 Time Crisis 2  |  SCES_503.00
 Time Crisis 3  |  SCES_518.44
 TimeSplitters  |  SLES_500.78
 TimeSplitters 2  |  SLES_508.77
+Tokyo Bus Guide - Annai  |  SLPM_650.32
+Tokyo Xtreme Racer 3  |  SLUS_208.31
+Tokyo Xtreme Racer Drift  |  SLUS_212.36
+Tokyo Xtreme Racer Zero  |  SLUS_201.89
 Tom Clancy's Splinter Cell  |  SLES_514.66
+Tom Clancys Ghost Recon 2  |  SLUS_211.05
+Tom Clancys Splinter Cell 3 - Chaos Theory  |  SLUS_211.37
 Tomb Raider - Anniversary  |  SLES_546.74
+Tomb Raider - The Angel of Darkness  |  SLPS_252.46
+Top Spin  |  SLUS_212.22
+Transworld Surf  |  SLUS_203.56
 Trapt  |  SLES_538.24
 Twisted Metal - Black  |  SCES_503.60
+UFC - Ultimate Fighting Championship - Throwdown  |  SLUS_202.52
+Ultimate Spider-Man  |  SLUS_208.70
+Ultraman  |  SLPS_253.64
+Ultraman Fighting Evolution - Rebirth  |  SLPS_255.29
+Unison  |  SLUS_201.73
+Unlimited SaGa  |  SLUS_206.78
+Unlimited Saga  |  SLPS_251.99
 Urban Chaos - Riot Response  |  SLES_539.91
+Valkyrie Profile 2 - Silmeria  |  SLPM_664.19
+Victorious Boxer - Championship Version  |  SLPS_251.29
+Victorious Boxers  |  SLPS_250.12
+Victorious Boxers - Ippos Road to Glory  |  SLUS_202.82
+Victorious Boxers 2 - Fighting Spirit  |  SLUS_212.04
+Victorious Boxers 2 - Ippos Road to Glory  |  SLPS_252.87
+Vietcong - Purple Haze  |  SLUS_210.68
 Viewtiful Joe  |  SLES_526.78
 Viewtiful Joe 2  |  SLES_528.68
 Virtua Fighter 4 - Evolution  |  SLES_516.16
+Virtua Fighter Cyber Generation  |  SLUS_209.77
+Virtual On Marz  |  SLUS_206.74
 WWE SmackDown vs. Raw 2008  |  SLUS_216.45
 WWE SmackDown vs. Raw 2010  |  SLUS_219.01
+WWE SmackDown! vs RAW 2006  |  SLUS_212.86
+WWE SmackDown! vs RAW 2007  |  SLUS_214.27
+WWE SmackDown! vs Raw 2009  |  SLUS_218.10
+WWE Smackdown - Shut Your Mouth  |  SLUS_204.83
+WWII Paratroopers  |  SLUS_207.15
+Wallace & Gromit in Project Zoo  |  SLUS_206.47
+Warriors of Might and Magic  |  SLUS_200.06
 We Love Katamari  |  SLES_538.28
+Whirl Tour  |  SLUS_204.89
+Wild ARMs - Advanced 3rd  |  SCPS_150.24
+Wild ARMs - Alter Code F  |  SCPS_170.02
+Wild ARMs - The 4th Detonator  |  SCPS_150.92
+Wild ARMs - The Vth Vanguard  |  SCPS_151.18
+Winning Eleven - Pro Evolution Soccer 2007  |  SLUS_214.64
+Winning Eleven 2008  |  SLPM_668.85
+Winning Eleven 8 - Liveware Evolution  |  SLPM_657.88
 Women's Volleyball Championship  |  SLUS_217.42
+World Championship Cards  |  SLUS_213.40
+World Championship Paintball  |  SLUS_214.57
+World Championship Poker 2 featuring Howard Lederer  |  SLUS_211.76
+World Championship Poker featuring Howard Lederer - All-In  |  SLUS_214.12
+World Destruction League - War Jetz  |  SLUS_200.07
+World Poker Tour 2K6  |  SLUS_213.33
+World Series of Poker  |  SLUS_213.01
+World Series of Poker - Tournament of Champions  |  SLUS_214.91
+World Soccer - Winning Eleven 8 - International  |  SLUS_211.17
+World Soccer - Winning Eleven 9 International  |  SLUS_212.20
+World Soccer Winning Eleven 10  |  SLPM_663.74
+World Soccer Winning Eleven 2009  |  SLPM_551.31
+World Soccer Winning Eleven 2010  |  SLPM_552.09
+World Soccer Winning Eleven 2010 - Aoki Samurai no Chousen  |  SLPM_552.58
+World Soccer Winning Eleven 7 - International  |  SLPM_654.98
+World Soccer Winning Eleven 8  |  SLPM_656.57
+World Soccer Winning Eleven 9 [Bonus Pack]  |  SLPM_660.09
+World Superbikes 07  |  SLUS_216.56
+World Tour Soccer 2003  |  SCUS_972.33
+X-Men - Next Dimension  |  SLUS_202.79
 XIII  |  SLES_512.44
+Xenosaga Episode III - Also Sprach Zarathustra [Disc 1]  |  SLPS_256.40
+Yoshitsuneki  |  SLPS_255.23
+Ys - The Ark of Napishtim  |  SLPM_658.30
+Zach Bell! Mamodo Battles  |  SLUS_212.54
+Zatch Bell! Mamodo Fury  |  SLUS_213.63
+Zathura  |  SLUS_213.36
+Zeonic Front - Mobile Suit Gundam 0079  |  SLPS_250.48
+Zero - Crimson Butterfly  |  SLPS_253.03
+Zettai Zetsumei Toshi  |  SLPS_251.13
+Zettai Zetsumei Toshi 2 - Itetsuita Kioutachi  |  SLPS_256.06
+Zoids Infinity  |  SLPM_657.49
+Zone of Enders  |  SLPM_650.19
 Zone of the Enders  |  SLES_501.11
 ﻿007 - From Russia With Love  |  SLUS_212.82
 ﻿10.000 Bullets  |  SLES_534.81
