@@ -1,4 +1,6 @@
-﻿"Xenosaga Episode III - Also sprach Zarathustra (Disc 1) /ID SLUS_213.89"
+"Xenosaga Episode III - Also sprach Zarathustra (Disc 1) /ID SLUS_213.89"
+//ELF CRC=2088950A
+
 Mastercode
 902f2408 0c0bc8aa
 
@@ -11,11 +13,16 @@ Mastercode
 203e4360 00000174
 
 //480p
-2019adf8 24020001
-2019adfc a2020081
+//2019adf8 24020001
+//2019adfc a2020081
 
 //black borders's fix (optional)
 20244d90 24060000
 20244da4 24c801c0
 
-//
+//black border removal for bosses
+//(CAUSES ISSUES WITH HAKOX - characters not loading in tutorials)
+//20a9e5d8 24060000
+//20a9e5e0 240801c0
+
+//zoom value = 2054E200
