@@ -1,5 +1,20 @@
 "Tales of the Abyss /ID SLPS_255.86"
+//ELF CRC=AA5EC3A3
 
 Mastercode
 90106210 0C04182C
 
+//16:9 Widescreen Hack & Progressive Scan
+// partial hud fix by sergx12
+// 16:9
+2011afb8 3c023fe3
+2011ab18 34428e38
+201a267c 3c013f40
+
+//partial hud fix
+202bad08 3c023f40 //3c023f80 Font X-Fov
+202bc6c4 3c023f40 //3c023f80 dialog box
+
+203a53bc 3C013F95 //3c013f80 portraits zoom
+20369238 3C034415 //3c0343e0 portraits vert
+203692a0 3C024400 //3c0243e0 portraits y position

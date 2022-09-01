@@ -1,5 +1,13 @@
 "Portal Runner /ID SLUS_200.03"
+//ELF CRC=101E8C43
 
 Mastercode
 901EAF30 0C07AB74
 
+//Widescreen Hack by VIRGIN KLM
+
+//P1 Screen
+2030ADD0 3FA1C40E // 3FD7B013
+
+//P2 Screen
+2030B000 3FA1C40E // 3FD7B013

@@ -1,7 +1,10 @@
-﻿"Onimusha - Dawn of Dreams (Disc 1) /ID SLUS_211.80"
+"Onimusha - Dawn of Dreams (Disc 1) /ID SLUS_211.80"
+//ELF CRC=FE44479E
+
 Mastercode
 90111350 0C04447C
 
+comment=Widescreen correction by nemesis2000
 //val1
 2012f960 3c033f19
 2012f968 34649999
