@@ -1,4 +1,6 @@
-﻿"Baldur's Gate - Dark Alliance /ID SLUS_200.35"
+"Baldur's Gate - Dark Alliance /ID SLUS_200.35"
+//ELF CRC = 773A8DAB
+
 Mastercode
 9020C0E0 0C082FE0
 
@@ -20,4 +22,24 @@ Mastercode
 20320fa8 3fe3d70a
 20320fcc 3fe3d70a
 
-//
+
+// 16:10 - pgert
+// ==========
+//vert fov-
+// 20320fd0 3F0F5C2A
+// 2032102c 3F0F5C2A
+// 20322950 3F0F5C2A
+// 20320efc 3F0F5C2A
+// 20320f44 3F0F5C2A
+// ==========
+// both fov+
+// 2014ca8c 3C014455
+// 20152998 3C014455
+// 20200bf8 3C014455
+// 2013d048 3C014455
+// 20144f60 3C014455
+// ==========
+// render fix value by No.47
+// 20320fa8 3FCC49BB
+// 20320fcc 3FCC49BB
+
