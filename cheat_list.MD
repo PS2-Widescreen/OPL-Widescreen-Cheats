@@ -1,4 +1,4 @@
-game count|1521
+game count|1535
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
@@ -20,6 +20,8 @@ American Chopper 2  |  SLUS_212.88
 Amplitude  |  SCES_517.06
 And 1 Streetball  |  SLUS_212.37
 Anubis Zone of Enders  |  SLPM_652.36
+Armored Core - Nexus (Disc 1) (Evolution)  |  SLUS_209.86
+Armored Core - Nexus (Disc 2) (Revolution)  |  SLUS_210.79
 Armored Core 2  |  SLPS_250.07
 Armored Core 2 - Another Age  |  SLES_509.05
 Arthur and the Invisibles  |  SLUS_213.05
@@ -36,6 +38,7 @@ Backyard Football 2009  |  SLUS_218.09
 Backyard Wrestling - Dont Try This At Home  |  SLUS_206.38
 Bad Boys 2  |  SLUS_209.82
 Baldur's Gate - Dark Alliance  |  SLES_506.72
+Baldur's Gate - Dark Alliance  |  SLUS_200.35
 Barbarian  |  SLES_509.72
 Barbie Horse Adventures - Riding Camp  |  SLUS_218.06
 Barbie in The 12 Dancing Princesses  |  SLUS_215.79
@@ -169,6 +172,7 @@ Firefighter F.D. 18  |  SLPM_654.70
 FlatOut 2  |  SLES_540.02
 Flipnic - Ultimate Pinball  |  SLES_520.65
 Flipnic - Ultimate Pinball  |  SLUS_211.57
+Flow - Urban Dance Uprising  |  SLES_538.48
 Flow - Urban Dance Uprising  |  SLUS_213.19
 Forever Kingdom  |  SLUS_203.43
 Formula One 2001  |  SCES_500.04
@@ -202,6 +206,7 @@ Gantz - The Game  |  SLPM_659.50
 Garouden Break Blow  |  SLPS_255.30
 Garouden Break Blow - Fist or Twist  |  SLPS_257.47
 Generation of Chaos 3 [Limited Edition]  |  SLPM_652.78
+Generation of Chaos III - Toki no Fuuin [Limited Edition]  |  SLPM_652.79
 Genji - Dawn of the Samurai  |  SCPS_150.95
 Genso Suikoden III  |  SLPM_650.73
 Genso Suikoden V  |  SLPM_662.86
@@ -250,6 +255,7 @@ Half-Life  |  SLES_505.05
 Hanjuku Hero 4  |  SLPM_658.39
 Hanjuku Hero VS 3D  |  SLPM_653.15
 Harry Potter and The Goblet of Fire  |  SLUS_213.25
+Harry Potter and The Order of the Phoenix  |  SLKA_252.71
 Harry Potter and The Order of the Phoenix  |  SLUS_216.19
 Harry Potter and The Prisoner of Azkaban  |  SLUS_209.26
 Haunting Ground  |  SLES_528.77
@@ -262,6 +268,8 @@ High Roller Casino  |  SLUS_210.14
 Hissatsu Ura-Kagyou  |  SLPM_661.13
 History Channel - Battle for the Pacific  |  SLUS_217.12
 Hitman - Blood Money  |  SLES_530.30
+Hitman - Contracts  |  SLES_521.35
+Hitman - Contracts  |  SLUS_208.82
 Hitman 2 - Silent Assassin  |  SLPS_252.69
 Horsez  |  SLUS_215.63
 Hot Shots Golf 3  |  SCUS_971.30
@@ -371,7 +379,13 @@ Manhunt  |  SLES_520.23
 Marvel - Super Hero Squad  |  SLUS_219.10
 Matt Hoffmans Pro BMX 2  |  SLUS_203.35
 McFarlane Evil Prophecy  |  SLUS_206.57
+Medal of Honor - European Assault  |  SLES_533.32
+Medal of Honor - European Assault  |  SLUS_211.99
 Medal of Honor - Jishousaidai no Sakusen  |  SLPS_251.51
+Medal of Honor - Rising Sun  |  SLES_518.73
+Medal of Honor - Rising Sun  |  SLUS_207.53
+Medal of Honor - Vanguard  |  SLES_546.83
+Medal of Honor - Vanguard  |  SLUS_215.97
 Men in Black 2 - Alien Escape  |  SLUS_203.73
 Mercury Meltdown - Remix  |  SLUS_215.48
 Metal Gear Solid 2 - Sons of Liberty  |  SLPM_650.78
@@ -392,6 +406,8 @@ Mobile Suit Gundam - Journey to Jaburo  |  SLUS_201.75
 Mobile Suit Gundam - Lost War Chronicles  |  SLPS_251.23
 Mobile Suit Gundam - Zeonic Front  |  SLUS_202.33
 Monster 4x4 - Masters of Metal  |  SLUS_207.96
+Monster House  |  SCKA_200.84
+Monster House  |  SLES_542.15
 Monster House  |  SLUS_214.00
 Monster Hunter  |  SLES_527.07
 Monster Hunter 2  |  SLPM_662.80
@@ -453,6 +469,8 @@ One Piece - Land Land  |  SLPS_253.82
 One Piece - Pirates Carnival  |  SLPS_255.76
 Oni  |  SLES_501.34
 Onimusha - Blade Warriors  |  SLUS_207.10
+Onimusha - Dawn of Dreams (Disc 1)  |  SLUS_211.80
+Onimusha - Dawn of Dreams (Disc 2)  |  SLUS_213.62
 Open Season  |  SLUS_214.67
 Orphen - Scion of Sorcery  |  SLUS_200.11
 Outlaw Golf 2  |  SLUS_210.30
@@ -492,6 +510,8 @@ Pryzm - Chapter One - The Dark Unicorn  |  SLUS_201.72
 Psi-Ops - The Mindgate Conspiracy  |  SLES_527.02
 Psychonauts  |  SLES_538.30
 R-Type Final  |  SLES_519.52
+Rampage - Total Destruction  |  SLES_538.00
+Rampage - Total Destruction  |  SLUS_213.23
 Ratchet & Clank  |  SCPS_150.37
 Ratchet & Clank 2  |  SCES_516.07
 Ratchet & Clank 3  |  SCES_524.56
@@ -530,6 +550,8 @@ Samurai Warriors 2 - Empires  |  SLUS_215.85
 Saru Get You - Million Monkeys  |  SCPS_151.15
 Saru Get You 2  |  SCPS_150.25
 Saru Get You! 3  |  SCPS_150.96
+Scooby-Doo! Unmasked  |  SLES_531.00
+Scooby-Doo! Unmasked  |  SLUS_210.91
 Scorpion King, The - Rise of the Akkadian  |  SLUS_204.24
 Sea-Man  |  SLPS_250.64
 Secret Saturdays, The - Beasts of the 5th Sun  |  SLUS_218.96
@@ -609,11 +631,13 @@ Tale of Despereaux, The  |  SLUS_218.52
 Tales of Destiny [Directors Cut]  |  SLPS_258.42
 Tales of Legendia  |  SLPS_255.33
 Tales of the Abyss  |  SLPS_255.86
+Tales of the Abyss  |  SLUS_213.86
 Tekken 4  |  SLPS_251.00
 Tekken Tag Tournament  |  SCES_500.01
 Tenchu: Fatal Shadows  |  SLES_530.12
 Tenchu: Wrath of Heaven  |  SLES_506.79
 Tengai Makyou II - Manji Maru  |  SLPM_654.01
+Tengai Makyou II - Manji Maru  |  SLPM_654.02
 Tengai Makyou III - Namida  |  SLPM_659.52
 Terminator, The - Dawn of Fate  |  SLUS_203.91
 Tetsujin 28 Go  |  SLPS_253.62
@@ -646,7 +670,9 @@ Transworld Surf  |  SLUS_203.56
 Trapt  |  SLES_538.24
 Twisted Metal - Black  |  SCES_503.60
 UFC - Ultimate Fighting Championship - Throwdown  |  SLUS_202.52
+Ultimate Spider-Man  |  SLES_533.91
 Ultimate Spider-Man  |  SLUS_208.70
+Ultimate Spider-Man (Limited Edition)  |  SLUS_212.85
 Ultraman  |  SLPS_253.64
 Ultraman Fighting Evolution - Rebirth  |  SLPS_255.29
 Unison  |  SLUS_201.73
@@ -705,7 +731,12 @@ World Superbikes 07  |  SLUS_216.56
 World Tour Soccer 2003  |  SCUS_972.33
 X-Men - Next Dimension  |  SLUS_202.79
 XIII  |  SLES_512.44
+Xenosaga Episode II - Jenseits von Gut und Boese (Disc 1)  |  SLUS_208.92
+Xenosaga Episode II - Jenseits von Gut und Boese (Disc 2)  |  SLUS_211.33
 Xenosaga Episode III - Also Sprach Zarathustra [Disc 1]  |  SLPS_256.40
+Xenosaga Episode III - Also Sprach Zarathustra [Disc 2]  |  SLPS_256.41
+Xenosaga Episode III - Also sprach Zarathustra (Disc 1)  |  SLUS_213.89
+Xenosaga Episode III - Also sprach Zarathustra (Disc 2)  |  SLUS_214.17
 Yoshitsuneki  |  SLPS_255.23
 Ys - The Ark of Napishtim  |  SLPM_658.30
 Zach Bell! Mamodo Battles  |  SLUS_212.54
@@ -757,8 +788,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Arcana Heart  |  SLUS_217.20
 ﻿Area 51  |  SLUS_205.95
 ﻿Armored Core - Last Raven  |  SLUS_213.38
-﻿Armored Core - Nexus (Disc 1) (Evolution)  |  SLUS_209.86
-﻿Armored Core - Nexus (Disc 2) (Revolution)  |  SLUS_210.79
 ﻿Armored Core - Nine Breaker  |  SLUS_212.00
 ﻿Armored Core - Silent Line  |  SLUS_206.44
 ﻿Armored Core 2  |  SLUS_200.14
@@ -781,7 +810,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Backyard Baseball '10  |  SLUS_218.84
 ﻿Backyard Football '10  |  SLUS_219.19
 ﻿Backyard Wrestling 2 - There Goes the Neighborhood  |  SLUS_210.43
-﻿Baldur's Gate - Dark Alliance  |  SLUS_200.35
 ﻿Baldur's Gate - Dark Alliance II  |  SLUS_206.75
 ﻿Barbarian  |  SLUS_201.36
 ﻿Bard's Tale, The  |  SLUS_208.03
@@ -1030,7 +1058,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿He-Man: Defender of Grayskull  |  SLES_530.35
 ﻿Herdy Gerdy  |  SLUS_202.31
 ﻿Hitman - Blood Money  |  SLUS_211.08
-﻿Hitman - Contracts  |  SLUS_208.82
 ﻿Hitman 2 - Silent Assassin  |  SLUS_203.74
 ﻿Hobbit, The - The Prelude to the Lord of the Rings  |  SLUS_206.55
 ﻿Hyper Street Fighter II - The Anniversary Edition  |  SLES_524.44
@@ -1115,10 +1142,7 @@ Zone of the Enders  |  SLES_501.11
 ﻿Maximo - Ghost to Glory  |  SLUS_200.17
 ﻿Maximo vs Army of Zin  |  SLUS_207.22
 ﻿Maximo vs. Army of Zin  |  SLES_517.59
-﻿Medal of Honor - European Assault  |  SLUS_211.99
 ﻿Medal of Honor - Frontline  |  SLUS_203.68
-﻿Medal of Honor - Rising Sun  |  SLUS_207.53
-﻿Medal of Honor - Vanguard  |  SLUS_215.97
 ﻿Mega Man X - Command Mission  |  SLUS_209.03
 ﻿Mega Man X Collection  |  SLUS_213.70
 ﻿Mega Man X7  |  SLUS_204.87
@@ -1189,8 +1213,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿One Piece: Pirates' Carnival  |  SLUS_213.64
 ﻿One Piece: Round the Land  |  SLES_527.31
 ﻿Oni  |  SLUS_200.64
-﻿Onimusha - Dawn of Dreams (Disc 1)  |  SLUS_211.80
-﻿Onimusha - Dawn of Dreams (Disc 2)  |  SLUS_213.62
 ﻿Onimusha 2 - Samurai's Destiny  |  SLUS_203.93
 ﻿Onimusha 3 - Demon Siege  |  SLUS_206.94
 ﻿Onimusha 3: Demon Siege  |  SLES_519.14
@@ -1216,7 +1238,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿R-Type - Final  |  SLUS_207.80
 ﻿Raging Blades  |  SLES_512.35
 ﻿Rally Fusion: Race of Champions  |  SLUS_203.61
-﻿Rampage - Total Destruction  |  SLUS_213.23
 ﻿Ratchet & Clank  |  SCES_509.16
 ﻿Ratchet & Clank  |  SCUS_971.99
 ﻿Ratchet & Clank: Going Commando  |  SCUS_972.68
@@ -1268,7 +1289,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Scaler  |  SLUS_209.57
 ﻿Scooby-Doo! Mystery Mayhem  |  SLUS_207.01
 ﻿Scooby-Doo! Night of 100 Frights  |  SLUS_203.49
-﻿Scooby-Doo! Unmasked  |  SLUS_210.91
 ﻿Second Sight  |  SLUS_210.33
 ﻿Secret Weapons over Normandy  |  SLUS_207.62
 ﻿Seek and Destroy  |  SLUS_206.06
@@ -1412,7 +1432,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Tak and the Power of Juju  |  SLUS_205.19
 ﻿Tak: The Great Juju Challenge  |  SLES_536.95
 ﻿Tales of Legendia  |  SLUS_212.01
-﻿Tales of the Abyss  |  SLUS_213.86
 ﻿Technic Beat  |  SLUS_210.19
 ﻿Teenage Muta  Turtles 3 - Mutant Nightmare (USA)  |  SLUS_211.84
 ﻿Teenage Mutant  Turtles 2: Battle Nexus  |  SLUS_209.81
@@ -1461,7 +1480,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Turok - Evolution  |  SLUS_203.33
 ﻿Twisted Metal - Black  |  SCUS_971.01
 ﻿Twisted Metal - Head On  |  SCUS_976.21
-﻿Ultimate Spider-Man (Limited Edition)  |  SLUS_212.85
 ﻿Under the Skin  |  SLUS_209.85
 ﻿Underworld: The Eternal War  |  SLES_521.09
 ﻿Urban Chaos - Riot Response  |  SLUS_213.90
@@ -1512,10 +1530,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿XIII  |  SLUS_206.77
 ﻿Xena - Warrior Princess (Europe)  |  SLES_545.41
 ﻿Xenosaga Episode I - Der Wille zur Macht  |  SLUS_204.69
-﻿Xenosaga Episode II - Jenseits von Gut und Boese (Disc 1)  |  SLUS_208.92
-﻿Xenosaga Episode II - Jenseits von Gut und Boese (Disc 2)  |  SLUS_211.33
-﻿Xenosaga Episode III - Also sprach Zarathustra (Disc 1)  |  SLUS_213.89
-﻿Xenosaga Episode III - Also sprach Zarathustra (Disc 2)  |  SLUS_214.17
 ﻿Ys - The Ark of Napishtim  |  SLUS_209.80
 ﻿Yu-Gi-Oh! Capsule Monster Coliseum  |  SLUS_209.40
 ﻿Zone of the Enders  |  SLUS_201.48
