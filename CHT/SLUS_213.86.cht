@@ -1,9 +1,115 @@
-﻿"Tales of the Abyss /ID SLUS_213.86"
+"Tales of the Abyss /ID SLUS_213.86"
+//ELF CRC=14FE77F7
+
 Mastercode
 90106210 0c04182c
 
 //wide
-2032e008 3c023fe3
-2032dfa4 3c034307
+2032E008 3C023FE3
+2032DFA4 3C034307
 
-//
+//The following codes come from PCSX2 widescreen archive:
+
+2032E004 00000000 //Activate Internal Widescreen (Vert-)
+2019435C 3C013F40 //Camera Zoom
+2033E880 3C023F19 //Menu Graphics Scale
+2034133C 3C034555 //Config/Save Background Size
+203B14EC 3C024555 //Black Background Size
+20117E34 240200C0 //Company Logo Screens Width (192px)
+202B2CA0 3C0343D5 //Game Logo X Position
+202B2D4C 3C0343D5 //Trademark X Position
+202B2DF8 3C0343AD //Author Name X Position
+202B2EF0 3C0243D5 //New Game X Position
+202B3050 3C0243D5 //Continue X Position
+202B3130 3C0243D5 //Config X Position
+202B3220 3C0243D5 //Sound Test X Position
+202B3300 3C0243D5 //Game Record X Position
+202B1A3C 3C0243D5 //Game Over Alternate Third Option Text X Position
+202B1A04 3C0243D5 //Game Over View Skit Text X Position
+202B19C8 3C0243D5 //Game Over Quit Game Text X Position
+202B199C 3C0343D5 //Game Over Load Data Text X Position
+202B1A70 3C0243D5 //Game Over Upper Centre Text X Position
+2036892C 3C033F19 //Notice Textbox GFX Scale
+20338CC8 3C023F19 //Action Indicator GFX Position Multiplier
+20338C84 3C1B3F40 //Action Indicator GFX Scale
+20338CA0 449B0000 //Action Indicator GFX Scale Update
+203B1620 3C0343D5 //Checking Memory Card Textbox X Position
+203B0C40 3C0343D5 //Loading System Data Textbox X Position
+203AFCB0 3C0343D5 //System Data Load Complete Textbox X Position
+203877E4 3C0343D5 //Load Selected File Textbox X Position
+203B98E4 3C0343D5 //Exit Sound Test Textbox X Position
+20386C70 3C0343D5 //Save Error Textbox X Position
+20389264 3C0343D5 //Checking Memory Card Textbox X Position
+20386B98 3C0343D5 //Saving Game Data Textbox X Position
+203864E8 3C0343D5 //Saving System Data Textbox X Position
+203865B4 3C0343D5 //Save Complete Textbox X Position
+20385F40 3C0343D5 //Overwrite Save? Textbox X Position
+2057AC90 444EC000 //Action Indicator X Position
+202B46C4 240601AA //Room Names X Position
+202A265C 3C034455 //Character Textbox Viewport Width (Out of Battle)
+202A5080 3C034455 //Character Textbox Viewport Width (In Battle)
+2030837C 3C013F95 //Portraits Zoom
+202CE478 3C034415 //Portraits Vert
+202CE4E0 3C024400 //Portraits Y Position
+205D6878 43D55555 //Skits Text Position
+202A3CF8 3C0543D5 //Get Item Textbox Position
+202A222C 3C074455 //Story Textbox Range Extend
+2011A668 00000000 //Bloom Off
+E01ECCCD 00684180 //Battle Enable Condition
+2068417C 3C063F19 //Battle Status Face Width
+20683A18 3C093F19 //Battle Status Numbers Width
+2066D2D8 3C05444D //Battle Hits Counter X Position
+206A9818 3C024273 //Battle Triangle Fade Size
+2066D980 3C0443D5 //Arte Names X Position
+2068F17C 3C034455 //Battle Fades with Colour Size
+2066EEE0 3C0243D5 //Pause Shadow Position
+2066EF1C 3C0243D5 //Pause Text Position
+2067B04C 3C034455 //Battle Fades with Image Size
+2066BC6C 3C024449 //Battle Enemy Name Header Width
+2066BCB0 3C03444F //Battle Enemy Name Header Edge Position
+2066BE1C 3C03444D //Battle Enemy Name Position
+206523DC 3C034455 //Battle Damage Number Placement Scale
+20696804 3C0543D5 //Starting Position of Battle Rewards
+20694290 3C02442F //Destination Position of Gald Time Grade Rewards
+2069305C 3C024438 //Details Battle End Text Position
+20693000 3C02442B //Details Battle End Box Position
+20696CD8 240301AA //Textbox Position Item Won From Battle
+206969E8 24030335 //Textbox Size Item Won From Battle
+20696A10 240301AA //Textbox Position Item Won From Battle (Part 2)
+20696A0C 24020335 //Textbox Size Item Won From Battle (Part 2)
+20684720 3C023F19 //In Battle Level Change Indicator Size
+206C1DA8 43810000 //Artes Selection Position
+206C1DC8 43A50000 //Strat Selection Position
+206C1DE8 43C90000 //Equip Selection Position
+206C1E08 43ED0000 //Item Selection Position
+206C1E28 44088000 //Escape Selection Position
+2066AE8C 3C034416 //Enemy Name Selection Screen Position
+2066AF0C 3C03445D //Enemy Name Slide Out Position
+2064C4E8 3C034455 //Battle Motion Blur Size
+20579B40 43D55555 //Centered Story Textboxes X Position
+20579B68 43D55555 //Game Over Skit Textboxes X Position
+20579B50 43D55555 //Top Aligned Story Textboxes X Position
+E0173F6E 00673BA0 //World Map Enable Condition
+20673B98 3C023F19 //Upper Left Offset (World Map)
+20673DC8 3C023F19 //Upper Right Offset (World Map)
+20673FF8 3C023F19 //Lower Left Offset (World Map)
+20674228 3C023F19 //Lower Right Offset (World Map)
+20672528 3C023F19 //Upper Left World Map Scissor Offset
+20672758 3C023F19 //Upper Right World Map Scissor Offset
+20672988 3C023F19 //Lower Left World Map Scissor Offset
+20672BB8 3C023F19 //Lower Right World Map Scissor Offset
+2066B790 3C033F19 //East Offset (World Map)
+2066BB40 3C033F19 //West Offset (World Map)
+2066BEF0 3C033F19 //South Offset (World Map)
+2066C2A0 3C033F19 //North Offset (World Map)
+2066C650 3C033F19 //Wanted Direction Shadow 1 Offset (World Map)
+2066CA00 3C033F19 //Wanted Direction Shadow 2 Offset (World Map)
+2066CDB0 3C033F19 //Wanted Direction Shadow 3 Offset (World Map)
+206A47A4 240601AA //Level Names (Places) X Position (World Map)
+206A4A48 240601AA //Level Names (Objects) X Position (World Map)
+206A3F08 240601AA //Level Names (Alternate) X Position (World Map)
+206A47F8 240602A1 //Enter (Places) X Position (World Map)
+206A4AC8 240602A1 //Enter (Objects) X Position (World Map)
+206A3F9C 240602A1 //Enter (Alternate) X Position (World Map)
+206AA610 3C154480 //Fades X Position (World Map)
+206AA654 3C134200 //Fades Size (World Map)
