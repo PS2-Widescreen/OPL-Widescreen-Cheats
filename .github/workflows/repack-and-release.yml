@@ -25,6 +25,7 @@ jobs:
       - name: Make Changelog
         run: |
             git --no-pager log --pretty=format:"- %h  %<(18)%an: %s">FULL_CHANGELOG.TXT
+            cat FULL_CHANGELOG.TXT
 
       - name: zip cheats
         run: |
