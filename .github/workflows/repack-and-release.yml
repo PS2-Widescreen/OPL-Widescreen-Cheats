@@ -21,15 +21,19 @@ jobs:
         run: |
           chmod +x ./Append.sh
           ./Append.sh
-        
+
+      - name: Make Changelog
+        run: |
+            git --no-pager log --pretty=format:"- %h  %<(18)%an: %s">FULL_CHANGELOG.TXT
+
       - name: zip cheats
         run: |
-          zip widescreen_hacks CHT/*
-    
+          zip widescreen_hacks FULL_CHANGELOG.TXT CHT/*
+
       - name: Get short SHA
         id: slug
         run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
-        
+
       - name: create release body
         run: |
             echo "- __cheats count:__ _${{ steps.slug.outputs.chtcount }}_">latest_changes.log
@@ -38,10 +42,6 @@ jobs:
             echo latest changes:>>latest_changes.log
             git --no-pager log Latest..HEAD --pretty=format:"- %h  %<(18)%an: %s">>latest_changes.log
             cat latest_changes.log
-
-      - name: experiment
-        run: |
-            git --no-pager log --since=1.days --pretty=format:"- %h  %<(18)%an: %s"
 
       - name: Upload artifacts
         if: ${{ success() }}
