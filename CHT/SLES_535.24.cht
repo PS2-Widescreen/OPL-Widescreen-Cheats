@@ -1,0 +1,15 @@
+"Mortal Kombat - Shaolin Monks /ID SLES_535.24"
+//ELF CRC 3D02E0BF
+
+Mastercode
+90482F08 0C120B6A
+
+// 16:9
+204f4e08 3f400000
+
+// black border fix
+20323204 3c013f80
+
+//FMV's fix
+202724c8 240302aa
+20272750 240b02aa
