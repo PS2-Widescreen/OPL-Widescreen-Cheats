@@ -1,4 +1,4 @@
-game count|1535
+game count|1541
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
@@ -99,9 +99,11 @@ Conflict - Desert Storm 2 - Back to Baghdad  |  SLUS_206.89
 Conflict - Global Terror  |  SLUS_211.72
 Conflict Vietnam  |  SLUS_210.45
 Conflict Zone  |  SLUS_202.40
+Constantine  |  SLES_528.72
 Constantine  |  SLUS_211.42
 Contra - Shattered Soldier  |  SLES_512.84
 Coraline  |  SLUS_218.54
+Crash Nitro Kart  |  SLES_515.11
 Crouching Tiger Hidden Dragon  |  SLUS_205.23
 Crouching Tiger, Hidden Dragon  |  SLPS_253.08
 Curious George  |  SLUS_213.54
@@ -218,6 +220,8 @@ Gladiator - Road to Freedom  |  SLPS_254.56
 Go, Diego, Go! Safari Rescue  |  SLUS_217.18
 God Hand  |  SLPM_665.50
 God Of War 2  |  SCES_542.06
+God of War  |  SCES_531.33
+Godfather, The  |  SLES_539.71
 Gold Gashbell!! Gekitou! Saikyou no Mamonotachi  |  SLPS_254.40
 Golf Paradise DX  |  SLPS_250.27
 Gradius V  |  SLES_520.95
@@ -418,6 +422,7 @@ Monster Lab  |  SLUS_218.38
 Mortal Kombat - Armageddon  |  SLUS_214.10
 Mortal Kombat - Deadly Alliance  |  SLES_507.17
 Mortal Kombat - Deception  |  SLES_527.06
+Mortal Kombat - Shaolin Monks  |  SLES_535.24
 Moto GP 3  |  SLUS_206.25
 Moto GP 4  |  SLUS_211.59
 MotoGP 07  |  SLUS_216.88
@@ -632,6 +637,7 @@ Tales of Destiny [Directors Cut]  |  SLPS_258.42
 Tales of Legendia  |  SLPS_255.33
 Tales of the Abyss  |  SLPS_255.86
 Tales of the Abyss  |  SLUS_213.86
+Teenage Mutant Ninja Turtles 2 - Battle Nexus  |  SLES_530.17
 Tekken 4  |  SLPS_251.00
 Tekken Tag Tournament  |  SCES_500.01
 Tenchu: Fatal Shadows  |  SLES_530.12
