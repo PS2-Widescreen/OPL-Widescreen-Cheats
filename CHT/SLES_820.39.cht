@@ -1,7 +1,11 @@
-﻿"Onimusha: Dawn of Dreams (Disc 2) /ID SLES_820.39"
+"Onimusha - Dawn of Dreams [Disc 2] /ID SLES_820.39"
+//ELF CRC 812C5A96
+
 Mastercode
 90111350 0C04447C
 
+
+//Widescreen correction by nemesis2000 (pnach by nemesis2000 )
 //gameplay
 
 //val1
@@ -10,8 +14,7 @@ Mastercode
 
 //val2
 2012fb64 3c033f19
-2012fb6c 33463999
-
+2012fb6c 334639999
 
 //val3
 2012f960 3c023f19
@@ -22,4 +25,3 @@ Mastercode
 
 //rfix2
 2012facc 3c024527
-

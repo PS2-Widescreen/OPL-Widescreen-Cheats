@@ -1,0 +1,13 @@
+"Teenage Mutant Ninja Turtles 3 - Mutant Nightmare /ID SLES_538.50"
+//ELF CRC 3692A951
+
+Mastercode
+9010E010 0C0437AC
+
+
+//Widescreen Hack (16:9) by ElHecht
+2028ff90 3c023fe3 // 3c023faa ver fov
+2028ff98 34428e38 // 3442aaab ver fov
+2028fe50 3c013f40 // 00000000 zoom
+2028fe54 44810000 // 00000000
+2028fe58 46006303 // 00000000

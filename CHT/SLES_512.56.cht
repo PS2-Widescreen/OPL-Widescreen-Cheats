@@ -1,0 +1,11 @@
+"Lord of the Rings, The - The Two Towers /ID SLES_512.56"
+//ELF CRC 9ABF90FB
+
+Mastercode
+902ADCB8 0C0AB6D6
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+20107160 3C023FE3 //3C023FAA hor fov
+20107164 34428E39 //3442AAAB hor fov

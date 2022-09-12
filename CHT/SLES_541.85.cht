@@ -1,0 +1,12 @@
+"Dirge of Cerberus - Final Fantasy VII /ID SLES_541.85"
+//ELF CRC 33F7D21A
+
+Mastercode
+904531E0 0C114C20
+
+//Widescreen Hack (16:9) by ElHecht
+
+2040c40c 3c013fff // 3c013fc0 ver fov
+2040c410 3421ff99 // 44810000 ver fov
+2040c414 44810000 // 00000000 
+2040cff0 3c013ec0 // 3c013f00 zoom

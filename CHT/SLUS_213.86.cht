@@ -1,14 +1,13 @@
 "Tales of the Abyss /ID SLUS_213.86"
-//ELF CRC=14FE77F7
-
+//ELF CRC A616A6C2
+//there are two variations of the game, for second variation ELF CRC is 14FE77F7 & mastercode is the same it seems
 Mastercode
-90106210 0c04182c
+90106210 0C04182C
 
-//wide
+//wide?
 2032E008 3C023FE3
 2032DFA4 3C034307
 
-//The following codes come from PCSX2 widescreen archive:
 
 2032E004 00000000 //Activate Internal Widescreen (Vert-)
 2019435C 3C013F40 //Camera Zoom

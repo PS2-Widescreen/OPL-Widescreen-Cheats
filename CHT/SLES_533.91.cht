@@ -1,13 +1,13 @@
 "Ultimate Spider-Man /ID SLES_533.91"
-//ELF CRC=FDD12792
+//ELF CRC FDD12792
 
 Mastercode
 90609A68 0C182642
 //905ED9CC 0C17FA8B
 //90368C70 0C1833A6
 
-//Widescreen hack by Arapapa
 
+//Widescreen hack by Arapapa
 //X-Fov
 //7400033c 3c10e14b
 2058b210 08030000

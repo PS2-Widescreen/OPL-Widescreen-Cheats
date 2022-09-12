@@ -1,0 +1,32 @@
+"Shin Megami Tensei - Persona 3 FES /ID SLES_553.54"
+//ELF CRC E168844E
+
+Mastercode
+90508898 0C1421CE
+
+//16:9 Widescreen, 60fps, & Progressive Scan
+//Persona art fix added by El_Patas
+
+//Gameplay 16:9
+207cd01c 3fe38e38
+
+//Partial HUD fix
+20106ea0 3c043f40
+20106ea8 00701821
+20106eac 24634f2c
+20106eb4 00000000
+20106eb8 24630004
+20106ebc 3c043f80
+
+//Persona art fix
+20115fa8 3c033ec0 //3c033f00
+20115fb8 3c023f90 //3c023f80
+
+//FMV fix by Arapapa
+2010b0bc 3c024415 //3c0243e0 #1
+2010b0c0 34425555 //44821000
+2010b0c4 44821000 //00000000
+
+2010b108 3c0243f5 //3c0243b8 #2
+2010b10c 34425553 //44821000
+2010b110 44821000 //00000000

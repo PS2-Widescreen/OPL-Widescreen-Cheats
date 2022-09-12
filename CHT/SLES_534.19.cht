@@ -1,0 +1,9 @@
+"LA Rush /ID SLES_534.19"
+//ELF CRC EA0CB4B8
+
+Mastercode
+90329F90 0C0CA78C
+
+
+//Widescreen Hack
+202e3900 3c013f40 //ffff8434803f013c to ffff8434403f013c
