@@ -1,0 +1,11 @@
+"Ace Combat - The Belkan War /ID SCES_540.41"
+//ELF CRC 194C9F38
+
+Mastercode
+90308CC0 0C0C22D8
+
+//Widescreen fix by nemesis2000 (PAL-E by mirh)
+
+//widescreen fix
+203FC370 43D638F3
+203FC374 43EB7385

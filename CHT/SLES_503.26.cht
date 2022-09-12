@@ -1,0 +1,17 @@
+"Max Payne /ID SLES_503.26"
+//ELF CRC 52E0597D
+
+Mastercode
+90110E18 0C04432E
+
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+//ELF file is called "MAIN_P.RUN" 
+2050eae0 3c013f40 //00000000 (Increases hor. axis)
+2050eae8 4481f000 //00000000
+2050eaec 0c04821c //00000000
+2050eaf0 00000000 //0c04821c
+2050eaf4 461e0003 //00000000
+2050eb04 461e0082 //c68201f8

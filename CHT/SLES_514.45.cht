@@ -1,0 +1,22 @@
+"Rygar - The Legendary Adventure /ID SLES_514.45"
+//ELF CRC 2DFD9846
+
+Mastercode
+90215CD8 0C0856DE
+
+
+//Widescreen hack by ElHecht
+// 16:9
+2020eb8c 3c013f40 // 00000000 hor fov
+2020eb90 4481f000 // 00000000
+2020eb9c 461ec602 // 00000000
+201efb7c 3c0144b0 // 3c014480 renderfix 1
+202076cc 3c013fab // 3c013f80 renderfix 2
+
+// 16:10
+//2020eb8c 3c013f55 // 00000000 hor fov
+//2020eb90 34215555 // 00000000 hor fov
+//2020eb98 4481f000 // 00000000
+//2020eb9c 461ec602 // 00000000
+//201efb7c 3c0144a0 // 3c014480 renderfix 1
+//202076cc 3c013f9a // 3c013f80 renderfix 2

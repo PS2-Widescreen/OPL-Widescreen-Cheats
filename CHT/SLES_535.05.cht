@@ -1,0 +1,11 @@
+"Beat Down - Fists of Vengeance /ID SLES_535.05"
+//ELF CRC 00C82D94
+
+Mastercode
+90110E50 0C04433C
+
+
+//Widescreen Hack (16:9) by ElHecht
+203753d4 3c013f40 // 00000000 hor fov
+203753e0 4481f000 // 00000000
+203753e8 461ea503 // 00000000

@@ -1,0 +1,12 @@
+"Bouncer, The /ID SCES_502.41"
+//ELF CRC E553C15B
+
+Mastercode
+902F8B58 0C0BE27E
+
+//Widescreen Hack (16:9) by ElHecht
+
+//16:9
+2037EC3C 3F400000 // 3F800000 hor fov
+//2037EC40 3F069536 // 3F069536 ver fov
+//203A4788 3F800000 // 3F800000 zoom

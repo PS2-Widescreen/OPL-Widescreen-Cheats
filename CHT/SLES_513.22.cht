@@ -1,0 +1,11 @@
+"Robotech Battlecry /ID SLES_513.22"
+//ELF CRC 3373407D
+
+Mastercode
+902ABBF8 0C0AAEA6
+
+
+//Widescreen hack by Arapapa
+
+//X-Fov
+20122d5c 3c013f40 //3c013f80

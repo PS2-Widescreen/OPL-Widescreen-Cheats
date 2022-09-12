@@ -1,0 +1,16 @@
+"Resident Evil - Dead Aim /ID SLES_514.48"
+//ELF CRC F79AF536
+
+Mastercode
+90133170 0C04CC04
+
+
+//Widescreen hack by ElHecht
+// 16:9
+20233368 3c1943f0 // 3c013f80 hor fov
+2023336c 46021003 // 44810000
+2023339c ac99000c // e482000c
+
+// Ammo Cheat
+// 20252b68 0000000F // 0000000F Ammo#1
+// 202deadc 0000000F // 0000000F Ammo#2

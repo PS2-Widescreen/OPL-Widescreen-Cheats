@@ -1,0 +1,23 @@
+"Silent Hill 4 - The Room /ID SLES_524.45"
+
+//ELF CRC 0A5E41A5
+Mastercode
+9010F5B0 0C043D14
+
+
+//Widescreen hack by ElHecht
+//FMV hack by Pelvicthrustman
+//Black borders fix by nemesis2000
+
+// 16:9
+201485c4 3c013f40 // 00000000 hor fov
+201485d0 4481f000 // 00000000
+20148600 461ed683 // 4600d647
+20148614 4600d647 // 00000000
+
+//By Pelvicthrustman
+202f9e44 3c0203c0 // 3c020008 FMV top
+202f9e7c 340201a4 // 2662ffe0 FMV bottom
+
+//By Nemesis2000
+201a9980 24030000 // 24030001 Black borders fix

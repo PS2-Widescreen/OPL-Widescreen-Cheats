@@ -1,0 +1,17 @@
+"Forgotten Realms - Demon Stone /ID SLES_526.69"
+//ELF CRC 7C7578F3
+
+Mastercode
+90110A38 0C044236
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+201a50d0 3c013f40
+201a50d4 44810000
+201a50dc 46006b43
+
+2015632c 3c023fe3
+20156330 34438e38
+
+//black border fix
+201d8460 24040001

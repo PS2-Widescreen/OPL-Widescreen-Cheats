@@ -1,0 +1,14 @@
+"Crash Tag Team Racing /ID SLES_534.39"
+//ELF CRC E2FF6D3D
+
+Mastercode
+904E8D68 0C13A302
+
+
+//Widescreen hack by Arapapa
+//X-Fov
+//803f013c 00008144 16000446 100065c4 82100046
+2039b420 3c013fab //3c013f80
+
+//Render fix
+202da688 3c013fe0 //3c013f80

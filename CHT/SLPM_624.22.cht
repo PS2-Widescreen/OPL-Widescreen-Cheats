@@ -1,0 +1,39 @@
+"Hudson Selection Vol.4 - Adventure Island [Takahashi Meijin no Bouken Jima] /ID SLPM_624.22"
+//ELF CRC 2DA90F04
+
+Mastercode
+901762E0 0C05D860
+
+//Widescreen Hack by gamemasterplc
+
+201448EC 08030000 //Jump to Custom Code
+201448F0 C44D0030 //Load Original Aspect into f13 (Delay Slot)
+200C0000 3C1B3F40 //Load Aspect Multiplier into k1
+200C0004 449B7800 //Load Aspect Multiplier into f15
+200C0008 460F6B42 //Multiply f13 by f15
+200C000C 0805123D //Jump back to Original Aspect Code
+200C0010 C44E0034 //Load Y FOV into f14 (Delay Slot)
+20144A18 460D0303 //Render Fix
+2013C798 08030005 //Jump to Image Width Fixes
+2013C79C C66500E0 //Load Image X Scalar (Delay Slot)
+200C0014 46040001 //Original Delay Slot
+200C0018 3C1B3F40 //Load Image Width Multiplier into k1
+200C001C 449B2000 //Load Image Width Multiplier into f4
+200C0020 0804F1E8 //Jump Back to Original Code
+200C0024 46042942 //Multiply Image Width by Multiplier
+2013C92C C66000F4 //Load Original Image X Position
+2013C930 3C1B3F40 //Load Image Position Multiplier into k1
+2013C934 449B0800 //Load Image Position Multiplier into f1
+2013C938 46010002 //Multiply Image Position by Multiplier
+2013C93C 3C1B42A0 //Load Image Offset from Left into k1
+2013C940 449B0800 //Load Image Offset from Left into f1
+2013C944 0804F2BE //Jump to Original Code
+2013C948 46010000 //Add Image Offset from Left to Position
+201411F8 240601AA //Score Counter X Position (426)
+2014123C 240601AA //Timer X Position (426)
+20141214 2404002C //Energy Meter X Position (44)
+201415E0 3C014417 //Lives Counter X Position (606.0f)
+2010EF10 3C0142D5 //Level End Background Scale (106.66f)
+2014396C 3C0142A0 //Title Screen Dark Filter Scale (80.0f)
+2012D6D8 2416FF96 //Tiled Backgrounds Left Offset (-106)
+201C82DC 0190022C //Loading Screen Text Position

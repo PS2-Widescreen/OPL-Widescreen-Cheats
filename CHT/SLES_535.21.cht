@@ -1,0 +1,11 @@
+"Musashi - Samurai Legend /ID SLES_535.21"
+//ELF CRC BC897AC9
+
+Mastercode
+902AD758 0C0AB57E
+
+//ELF CRC=BC897AC9
+// values by sergx12
+// ported to PAL, updated to ELF addresses by ElHecht
+20119344 3c013f19 // 3c013f4c
+20119348 3421999a // 3421cccd
