@@ -1,4 +1,4 @@
-game count|1598
+game count|1599
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
@@ -467,6 +467,7 @@ Mr Moskeeto  |  SLES_507.69
 Muppets Party Cruise, Jim Hensons  |  SLUS_206.35
 Musashi - Samurai Legend  |  SLES_535.21
 Mystic Heroes  |  SLES_513.58
+Mystical Ninja Goemon Zero (Aug 26, 2005 prototype)  |  SLPM_650.14
 NASCAR Heat 2002  |  SLUS_201.76
 NBA Ballers  |  SLUS_205.41
 NBA Ballers - Phenom  |  SLUS_211.86
