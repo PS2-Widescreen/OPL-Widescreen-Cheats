@@ -2,7 +2,7 @@
 //ELF CRC 22E91837
 
 Mastercode
-90229980 0C08A608
+90229980 0c08a608
 
 
 //pgert@180129
@@ -19,87 +19,87 @@ Mastercode
 #==========
 // 16:9 support.
 #==========
-20185B40 3C0145C0 // 3C014500 - HD-rendering fix for 00185B4C.
-20185B4C 3C013F40 // 3C013F80 - X-axis of Cutscenes (including IntroCutscenes).
-2018A2CC 3C013F40 // 3C013F80 - X-axis of GamePlay.
+20185b40 3c0145c0 // 3C014500 - HD-rendering fix for 00185B4C.
+20185b4c 3c013f40 // 3C013F80 - X-axis of Cutscenes (including IntroCutscenes).
+2018a2cc 3c013f40 // 3C013F80 - X-axis of GamePlay.
 #==========
 // Flashlight 16:9 Widescreen hack, ported by pgert from the NTSC-U pnach by nemesis2000,
 //  and modified so that the values are altered with half of the regular amount
 //  (0,875 instead of 0,75) - better.
-20135B18 3C01428C // 3C0142A0
-20135B80 3C0141A8 // 3C0141C0
-20135BC4 3C014128 // 3C014140
-20135BFC 3C01410C // 3C014120
-2013715C 3C013F12 // 3C013F00
+20135b18 3c01428c // 3C0142A0
+20135b80 3c0141a8 // 3C0141C0
+20135bc4 3c014128 // 3C014140
+20135bfc 3c01410c // 3C014120
+2013715c 3c013f12 // 3C013F00
 #==========
 // 16:9 Cinematics hack by nemesis2000.
 20182730 24027100 // 24026C00 - X-axis placement of Cinematics.
 20182740 24027100 // 24026C00 - X-axis placement of Cinematics.
 // - 6C00h = 27648d : width of Cinematics = 640d : 27648 + 1600 - 640/2 = 28160 : 28160d = 7100h
-20182748 24091E00 // 24092800 - width of Cinematics.
+20182748 24091e00 // 24092800 - width of Cinematics.
 // - 2800h = 10240d : width of Cinematics = 640d : 10240 - 1600 - 640*1.5 = 7680 : 7680d = 1E00h
 #==========
 
 #==========
 // 16:10 support.
 #==========
-// 20185B40 3C0145C0 // 3C014500 - can't be set to 3C0145AD.
-// 20185B4C 3C013F55 // 3C013F80
-// 2018A2CC 3C013F55 // 3C013F80
+// 20185b40 3c0145c0 // 3C014500 - can't be set to 3C0145AD.
+// 20185b4c 3c013f55 // 3C013F80
+// 2018a2cc 3c013f55 // 3C013F80
 #==========
 // Flashlight 16:10 Widescreen hack, ported by pgert from the NTSC-U pnach by nemesis2000,
 //  and modified so that the values are altered with half of the regular amount
 //  (0,91666665 instead of 0,8333333) - better.
-// 20135B18 3C014293 // 3C0142A0
-// 20135B80 3C0141B0 // 3C0141C0
-// 20135BC4 3C014130 // 3C014140
-// 20135BFC 3C014113 // 3C014120
-// 2013715C 3C013F0C // 3C013F00
+// 20135b18 3c014293 // 3C0142A0
+// 20135b80 3c0141b0 // 3C0141C0
+// 20135bc4 3c014130 // 3C014140
+// 20135bfc 3c014113 // 3C014120
+// 2013715c 3c013f0c // 3C013F00
 #==========
 // Cinematics hack by nemesis2000, ported to 16:10 by pgert.
 // 20182730 24027080 // 24026C00 - X-axis placement of Cinematics.
 // 20182740 24027080 // 24026C00 - X-axis placement of Cinematics.
 // - 7100h = 28160d : 28160 + 640 = 28800 : 28800d = 7080h
-// 20182748 24091F00 // 24092800 - width of Cinematics.
+// 20182748 24091f00 // 24092800 - width of Cinematics.
 // - 1E00h = 7680d : 7680 + 256 = 7936 : 7936d = 1F00h
 //==========
 
 #==========
 // 15:10 (MS Surface Book) support.
 #==========
-// 20185B40 3C0145C0 // 3C014500
-// 20185B4C 3C013F64 // 3C013F80
-// 2018A2CC 3C013F64 // 3C013F80
+// 20185b40 3c0145c0 // 3C014500
+// 20185b4c 3c013f64 // 3C013F80
+// 2018a2cc 3c013f64 // 3C013F80
 #==========
 // Flashlight 15:10 Widescreen hack, ported by pgert from the NTSC-U pnach by nemesis2000,
 //  and modified so that the values are altered with half of the regular amount
 //  (0,94444445 instead of 0,8888889) - better.
-// 20135B18 3C014297 // 3C0142A0
-// 20135B80 3C0141B5 // 3C0141C0
-// 20135BC4 3C014135 // 3C014140
-// 20135BFC 3C014117 // 3C014120
-// 2013715C 3C013F08 // 3C013F00
+// 20135b18 3c014297 // 3C0142A0
+// 20135b80 3c0141b5 // 3C0141C0
+// 20135bc4 3c014135 // 3C014140
+// 20135bfc 3c014117 // 3C014120
+// 2013715c 3c013f08 // 3C013F00
 #==========
 // Cinematics hack by nemesis2000, ported to 15:10 by pgert.
-// 20182730 240270AB // 24026C00 - X-axis placement of Cinematics.
-// 20182740 240270AB // 24026C00 - X-axis placement of Cinematics.
+// 20182730 240270ab // 24026C00 - X-axis placement of Cinematics.
+// 20182740 240270ab // 24026C00 - X-axis placement of Cinematics.
 // - 7100h = 28160d : 28160 + (640*(16/15)) = 28843 : 28760d = 70ABh
-// 20182748 24091F11 // 24092800 - width of Cinematics.
+// 20182748 24091f11 // 24092800 - width of Cinematics.
 // - 1E00h = 7680d : 7680 + (256*(16/15)) = 7953 : 7953d = 1F11h
 #==========
 
 #==========
 // Optional SpecialFixes.
 #==========
-// 2011C58C 3C013F40 // 3C013F00 - required for the display of the glimmering star of a hidden collectible.
-// 2011C5BC 3C013F40 // 3C013F80 - size (aspect ratio) of the glimmering star of a hidden collectible.
-// 2011DF3C 3C014510 // 3C014500 - detail-richness of the purple smoke dispatching a door-seal.
-// 2013BF98 3C014220 // 3C0141C8 - detail-richness of the blue spirit-torch.
+// 2011c58c 3c013f40 // 3C013F00 - required for the display of the glimmering star of a hidden collectible.
+// 2011c5bc 3c013f40 // 3C013F80 - size (aspect ratio) of the glimmering star of a hidden collectible.
+// 2011df3c 3c014510 // 3C014500 - detail-richness of the purple smoke dispatching a door-seal.
+// 2013bf98 3c014220 // 3C0141C8 - detail-richness of the blue spirit-torch.
 #==========
-// 2011D604 3C014510 // 3C014500 - HD-fixes for GameMenu, GamePlay & CameraView.
-// 201B5F84 3C013C82 // 3C013C80 - corrects the display of the Camera TargetTracker (due to 0011D604).
-// 202039B4 3C014410 // 3C0143A0 - X-axis placement of photos (affected by 0011D604).
-// 202039C0 3C014438 // 3C014360 - Y-axis placement of photos (affected by 0011D604).
+// 2011d604 3c014510 // 3C014500 - HD-fixes for GameMenu, GamePlay & CameraView.
+// 201b5f84 3c013c82 // 3C013C80 - corrects the display of the Camera TargetTracker (due to 0011D604).
+// 202039b4 3c014410 // 3C0143A0 - X-axis placement of photos (affected by 0011D604).
+// 202039c0 3c014438 // 3C014360 - Y-axis placement of photos (affected by 0011D604).
 // - An unfixed side-effect of 0011D604 is that the graining-effect in GameMenu & CameraView disappears.
 #==========
 
@@ -107,14 +107,14 @@ Mastercode
 // Notes (by pgert).
 #==========
 // Original hacks:
-// 202565F0 3F400000 // 3F800000 - X-axis - original hack, by ElHecht.
-// 202565F4 3EBB7FE1 // 3ED05532 - Y-axis - original hack, by pgert.
+// 202565f0 3f400000 // 3F800000 - X-axis - original hack, by ElHecht.
+// 202565f4 3ebb7fe1 // 3ED05532 - Y-axis - original hack, by pgert.
 // Alternative 16:10 support:
-// 2017B39C 3C013EE8 // 3C013F00 - GamePlay Zoom.
-// 2035C7BC 3EBB7FE1 // 3ED05532 - Y-axis of GamePlay.
-// 20185AAC 3C014348 // 3C014334 - Zoom-in of Cutscenes, except the IntroCutscenes.
-// 20185CA0 3C014348 // 3C014334 - Zoom-in of IntroCutscenes.
-// 2035c760 3EA6AA8F // 3ED05532 - Y-axis of Cutscenes (including IntroCutscenes).
+// 2017b39c 3c013ee8 // 3C013F00 - GamePlay Zoom.
+// 2035c7bc 3ebb7fe1 // 3ED05532 - Y-axis of GamePlay.
+// 20185aac 3c014348 // 3C014334 - Zoom-in of Cutscenes, except the IntroCutscenes.
+// 20185ca0 3c014348 // 3C014334 - Zoom-in of IntroCutscenes.
+// 2035c760 3ea6aa8f // 3ED05532 - Y-axis of Cutscenes (including IntroCutscenes).
 // - 3ED05532h = 0,4069f : 0.8 * 0.4069 = 0,32552 : 0,32552f = 3EA6AA8Fh
 #==========
 

@@ -1,7 +1,7 @@
 "Grandia II /ID SLPM_650.81"
 
 Mastercode
-902A7A38 0C0A9E36
+902a7a38 0c0a9e36
 
 
 //ELF CRC=B6AB7BC2
@@ -14,4 +14,4 @@ Mastercode
 
 //FMV fix (by flameofrecca)
 20407074 42a00000 //00000000       fmv x-position
-2040707C 43f00000 //44200000       fmv right side stretch
+2040707c 43f00000 //44200000       fmv right side stretch

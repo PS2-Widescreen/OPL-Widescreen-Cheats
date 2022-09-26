@@ -1,8 +1,8 @@
 "Legacy of Kain: Soul Reaver 2 /ID SLES_501.96"
 
 Mastercode
-90209158 0C0823FE		// sceSifSendCmd (recommended)
-//~901EFE8C 0C07D6EF	// scePadRead
+90209158 0c0823fe		// sceSifSendCmd (recommended)
+//~901efe8c 0c07d6ef	// scePadRead
 
 /*
  * Widescreen hack by nemesis2000.

@@ -2,11 +2,11 @@
 //ELF CRC 8C9576B4
 
 Mastercode
-903AFDD0 0C0EBF1C
+903afdd0 0c0ebf1c
 
 //Widescreen Hack (16:9) by ElHecht and Arapapa
 //Force turn on Internal Widescreen (Full boot bypassing)
 2038b128 24020002 //30420003
 
 //Zoom fix
-2043E8F0 3FAAAAAB // 3F800000 Camera Zoom
+2043e8f0 3faaaaab // 3F800000 Camera Zoom

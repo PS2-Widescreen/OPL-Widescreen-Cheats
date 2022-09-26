@@ -1,7 +1,7 @@
 "Hungry Ghosts /ID SCPS_150.46"
 
 Mastercode
-90106578 0C041906
+90106578 0c041906
 
 
 //ELF CRC=91AA4B28
@@ -18,7 +18,7 @@ Mastercode
 //2012bbb8 3c034370 //3c034360
 
 //Zoom
-2012bb74 3c043fC0 //3c044000 Event
+2012bb74 3c043fc0 //3c044000 Event
 2012bc0c 3c0343ba //3c0343f0 Gameplay
 
 //Y-Fov

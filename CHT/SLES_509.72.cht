@@ -1,9 +1,9 @@
 "Barbarian /ID SLES_509.72"
 
 Mastercode
-902896B0 0C0A2554	// sceSifSendCmd (recommended)
-//~90259674 0C09F861	// scePadRead
-//~90112354 0C099A8E	// main (unreliable)
+902896b0 0c0a2554	// sceSifSendCmd (recommended)
+//~90259674 0c09f861	// scePadRead
+//~90112354 0c099a8e	// main (unreliable)
 
 /*
  * Comments: Widescreen hack. Port
@@ -12,11 +12,11 @@ Mastercode
  */
 
 Widescreen Code
-2012CD0C 3C013F40
+2012cd0c 3c013f40
 
 // Center HUD (Offsets the X position of menu textures)
-//~205359BC BF500000
+//~205359bc bf500000
 
 // Stretch HUD
-20535A1C 3F400000
-20535A44 3F400000
+20535a1c 3f400000
+20535a44 3f400000

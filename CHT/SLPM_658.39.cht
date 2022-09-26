@@ -1,7 +1,7 @@
 "Hanjuku Hero 4 /ID SLPM_658.39"
 
 Mastercode
-903FADC8 0C0FEB1A
+903fadc8 0c0feb1a
 
 
 //ELF CRC=48D3B2D6
@@ -19,7 +19,7 @@ Mastercode
 
 /////////////////////////////////////
 //Y-Fov
-//202189ac 3c0143B4 //3c0143f0
+//202189ac 3c0143b4 //3c0143f0
 
 //Zoom
 //20402f34 3c013fab //3c013f80

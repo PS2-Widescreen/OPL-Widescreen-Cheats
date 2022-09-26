@@ -1,7 +1,7 @@
 "Codename - Kids Next Door - Operation V.I.D.E.O.G.A.M.E. /ID SLUS_211.55"
 
 Mastercode
-9010A850 0C0429BC
+9010a850 0c0429bc
 
 
 //ELF CRC=9AC20A5B
@@ -9,4 +9,4 @@ Mastercode
 
 //Gameplay 16:9 
 //00 00 80 3F 00 00 80 BF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 E0 01 00 00 50 00 00 0E
-20C1a9a4 3F400000 //3F800000 (Increases hor. axis)
+20c1a9a4 3f400000 //3F800000 (Increases hor. axis)

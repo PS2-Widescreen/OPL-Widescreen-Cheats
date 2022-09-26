@@ -1,7 +1,7 @@
 "Tales of Legendia /ID SLPS_255.33"
 
 Mastercode
-90117A50 0C045E3C
+90117a50 0c045e3c
 
 
 //ELF CRC=1F8640E0
@@ -10,10 +10,10 @@ Mastercode
 //Widescreen hack 16:9
 
 //ae47613f 00000045 00000045
-203D5820 3f266666 //3f6147ae
+203d5820 3f266666 //3f6147ae
 
 //abaaaa3e 8988083e da0d5d3d
-203BA330 40133333 //3eaaaaab
+203ba330 40133333 //3eaaaaab
 
 //2D Popup Characters Fix
 
@@ -51,5 +51,5 @@ e0010020 103d5918
 
 //No Interlacing Code by asasega
 //00 10 00 00 00 00 00 00 7C 22 03 02 FF F9 1B 00
-//D03F3FD0 00001000
-//103F3FD0 000010E0
+//d03f3fd0 00001000
+//103f3fd0 000010e0

@@ -1,8 +1,8 @@
 "Prince of Persia: Warrior Within /ID SLES_528.22"
 
 Mastercode
-9010C008 0C042FAA 		// sceSifSendCmd (recommended)
-//~90103258 0C04BD10 	// main (unreliable)
+9010c008 0c042faa 		// sceSifSendCmd (recommended)
+//~90103258 0c04bd10 	// main (unreliable)
 
 /*
  * Widescreen Hack by ElHecht.

@@ -1,7 +1,7 @@
 "ESPN - NHL 2K5 /ID SLUS_209.21"
 
 Mastercode
-906B0E90 0C1AC34C
+906b0e90 0c1ac34c
 
 
 //ELF CRC=9B6E69EC
@@ -17,7 +17,7 @@ Mastercode
 
 //Y-Fov
 //ec678b3f -> d61b513f
-20595d80 3F511BD6 //3f8b67ec
+20595d80 3f511bd6 //3f8b67ec
 
 
 //Widescreen hack 21:9
@@ -30,7 +30,7 @@ Mastercode
 
 //Y-Fov
 //ec678b3f -> d61b513f
-//20595d80 3F1CD4DC //3f8b67ec
+//20595d80 3f1cd4dc //3f8b67ec
 
 
 ///////////////////////////////////////////
@@ -57,4 +57,4 @@ Mastercode
 //200c0014 080f6727
 
 //Gameplay 16:9
-//201A2FC0 3C013FAA //3C013F80 (Increases hor. axis)
+//201a2fc0 3c013faa //3C013F80 (Increases hor. axis)

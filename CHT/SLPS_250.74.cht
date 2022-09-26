@@ -1,7 +1,7 @@
 "Project Zero /ID SLPS_250.74"
 
 Mastercode
-90222B80 0C088A88
+90222b80 0c088a88
 
 
 //Widescreen Hack by nemesis2000 and devina40 (NTSC-J by Arapapa)
@@ -10,11 +10,11 @@ Mastercode
 20186f14 3c013f40 //3c013f80
 
 //Cutscenes by pgert
-201828ec 3C013F40 //3C013F80
+201828ec 3c013f40 //3C013F80
 
 //Cut-scene render fix
 //0045013c 00208144 280040e6
-201828e0 3c0145C0 //3c014500
+201828e0 3c0145c0 //3c014500
 
 //FMV's fix
 2017f520 24027100
@@ -24,18 +24,18 @@ Mastercode
 //Lens Flare's fix
 //Modified based on PAL (0,875 instead of 0,75) - better.   
 2013601c 3c013f12 //3c013f00
-201349a8 3C01428C //3c0142a0
-20134a8c 3C01410C //3c014120
-20134a54 3C014128 //3c014140
-20134a10 3C0141A8 //3c0141c0
+201349a8 3c01428c //3c0142a0
+20134a8c 3c01410c //3c014120
+20134a54 3c014128 //3c014140
+20134a10 3c0141a8 //3c0141c0
 
 //Remove effects (Memory Hack)
 //6666f643 0000803f 0000803f
-//203496CC 00000000 //blurry bloom
+//203496cc 00000000 //blurry bloom
 //00002044 0000e043 0000803f 0000803f 00000000 00000000 (10)
-//20349B4C 00000000 //dark filter
+//20349b4c 00000000 //dark filter
 //00002044 0000e043 0000803f 0000803f 00000000 00000000 (8)
-//203499DC 00000000 //post process and noise
+//203499dc 00000000 //post process and noise
 
 //No interlacing by asasega
 //2022e3cc 00000000

@@ -1,7 +1,7 @@
 "Summon Night EX Thesis - Yoake no Tsubasa /ID SLPS_255.28"
 
 Mastercode
-9010F5D0 0C043D1C
+9010f5d0 0c043d1c
 
 
 //ELF CRC=0C3E8D76
@@ -27,6 +27,6 @@ Mastercode
 //2016f9a8 3442999a //3442cccd
 
 //Text Box Fix
-//2031C390 3f800000
-//2031C470 3f800000
+//2031c390 3f800000
+//2031c470 3f800000
 //2031C390

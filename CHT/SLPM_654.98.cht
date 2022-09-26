@@ -1,7 +1,7 @@
 "World Soccer Winning Eleven 7 - International /ID SLPM_654.98"
 
 Mastercode
-910C7AF8 0C431E66
+910c7af8 0c431e66
 
 
 //ELF CRC=10C8E747
@@ -13,4 +13,4 @@ Mastercode
 210c4598 4600c602 // 00000000
 
 // Render fix (c2081546 803f023c)
-21104cc8 3C023FAB // 3c023f80
+21104cc8 3c023fab // 3c023f80

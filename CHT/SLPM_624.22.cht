@@ -2,38 +2,38 @@
 //ELF CRC 2DA90F04
 
 Mastercode
-901762E0 0C05D860
+901762e0 0c05d860
 
 //Widescreen Hack by gamemasterplc
 
-201448EC 08030000 //Jump to Custom Code
-201448F0 C44D0030 //Load Original Aspect into f13 (Delay Slot)
-200C0000 3C1B3F40 //Load Aspect Multiplier into k1
-200C0004 449B7800 //Load Aspect Multiplier into f15
-200C0008 460F6B42 //Multiply f13 by f15
-200C000C 0805123D //Jump back to Original Aspect Code
-200C0010 C44E0034 //Load Y FOV into f14 (Delay Slot)
-20144A18 460D0303 //Render Fix
-2013C798 08030005 //Jump to Image Width Fixes
-2013C79C C66500E0 //Load Image X Scalar (Delay Slot)
-200C0014 46040001 //Original Delay Slot
-200C0018 3C1B3F40 //Load Image Width Multiplier into k1
-200C001C 449B2000 //Load Image Width Multiplier into f4
-200C0020 0804F1E8 //Jump Back to Original Code
-200C0024 46042942 //Multiply Image Width by Multiplier
-2013C92C C66000F4 //Load Original Image X Position
-2013C930 3C1B3F40 //Load Image Position Multiplier into k1
-2013C934 449B0800 //Load Image Position Multiplier into f1
-2013C938 46010002 //Multiply Image Position by Multiplier
-2013C93C 3C1B42A0 //Load Image Offset from Left into k1
-2013C940 449B0800 //Load Image Offset from Left into f1
-2013C944 0804F2BE //Jump to Original Code
-2013C948 46010000 //Add Image Offset from Left to Position
-201411F8 240601AA //Score Counter X Position (426)
-2014123C 240601AA //Timer X Position (426)
-20141214 2404002C //Energy Meter X Position (44)
-201415E0 3C014417 //Lives Counter X Position (606.0f)
-2010EF10 3C0142D5 //Level End Background Scale (106.66f)
-2014396C 3C0142A0 //Title Screen Dark Filter Scale (80.0f)
-2012D6D8 2416FF96 //Tiled Backgrounds Left Offset (-106)
-201C82DC 0190022C //Loading Screen Text Position
+201448ec 08030000 //Jump to Custom Code
+201448f0 c44d0030 //Load Original Aspect into f13 (Delay Slot)
+200c0000 3c1b3f40 //Load Aspect Multiplier into k1
+200c0004 449b7800 //Load Aspect Multiplier into f15
+200c0008 460f6b42 //Multiply f13 by f15
+200c000c 0805123d //Jump back to Original Aspect Code
+200c0010 c44e0034 //Load Y FOV into f14 (Delay Slot)
+20144a18 460d0303 //Render Fix
+2013c798 08030005 //Jump to Image Width Fixes
+2013c79c c66500e0 //Load Image X Scalar (Delay Slot)
+200c0014 46040001 //Original Delay Slot
+200c0018 3c1b3f40 //Load Image Width Multiplier into k1
+200c001c 449b2000 //Load Image Width Multiplier into f4
+200c0020 0804f1e8 //Jump Back to Original Code
+200c0024 46042942 //Multiply Image Width by Multiplier
+2013c92c c66000f4 //Load Original Image X Position
+2013c930 3c1b3f40 //Load Image Position Multiplier into k1
+2013c934 449b0800 //Load Image Position Multiplier into f1
+2013c938 46010002 //Multiply Image Position by Multiplier
+2013c93c 3c1b42a0 //Load Image Offset from Left into k1
+2013c940 449b0800 //Load Image Offset from Left into f1
+2013c944 0804f2be //Jump to Original Code
+2013c948 46010000 //Add Image Offset from Left to Position
+201411f8 240601aa //Score Counter X Position (426)
+2014123c 240601aa //Timer X Position (426)
+20141214 2404002c //Energy Meter X Position (44)
+201415e0 3c014417 //Lives Counter X Position (606.0f)
+2010ef10 3c0142d5 //Level End Background Scale (106.66f)
+2014396c 3c0142a0 //Title Screen Dark Filter Scale (80.0f)
+2012d6d8 2416ff96 //Tiled Backgrounds Left Offset (-106)
+201c82dc 0190022c //Loading Screen Text Position

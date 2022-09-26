@@ -1,13 +1,13 @@
 ﻿"NHL 2K10 /ID SLUS_219.14"
 Mastercode
-907F9208 0C1FE42A
-//9014A51C 0C04002E
+907f9208 0c1fe42a
+//9014a51c 0c04002e
 
 //X-Fov
 20251238 3c013fab
 
 //OPTIONAL - force in-game camera settings to prevent distortions (Camera: 3/4 Zoom: 80)
-2095F254 41c00000
-2095F244 0000000e
+2095f254 41c00000
+2095f244 0000000e
 
 //

@@ -1,9 +1,9 @@
 "Lotus Challenge /ID SLES_502.30"
 
 Mastercode
-9010D8F8 0C0435E6 		//sceSifSendCmd (recommended)
-//~9013EDF4 0C045F46 	//scePadRead
-//~90122DF4 0C048B6C 	//main
+9010d8f8 0c0435e6 		//sceSifSendCmd (recommended)
+//~9013edf4 0c045f46 	//scePadRead
+//~90122df4 0c048b6c 	//main
 
 /*
  * Widescreen hack by Arapapa.

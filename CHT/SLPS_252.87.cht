@@ -1,7 +1,7 @@
 "Victorious Boxers 2 - Ippos Road to Glory /ID SLPS_252.87"
 
 Mastercode
-90106E30 0C041B34
+90106e30 0c041b34
 
 
 //ELF CRC=D914D83F
@@ -14,7 +14,7 @@ Mastercode
 201acf78 3c023fab //3c023f80
 
 //Boxer's Road Mode Center Information Window X-Fov
-2084BD34 3F99999A
+2084bd34 3f99999a
 
 //Boxer's Road Mode Left Information Window  X-fov
-2084C2B0 3F400000
+2084c2b0 3f400000

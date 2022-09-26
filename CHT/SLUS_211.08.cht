@@ -1,6 +1,6 @@
 ﻿"Hitman - Blood Money /ID SLUS_211.08"
 Mastercode
-9041A308 00832021
+9041a308 00832021
 
 //wide
 20178b58 3c013f40
@@ -11,9 +11,9 @@ Mastercode
 
 //Enabling either one of the following options seem to cause the random crashes reported on issue #14
 //force progressive
-//01417AA0 00000002
+//01417aa0 00000002
 
 //force interlaced
-//01417AA0 00000001
+//01417aa0 00000001
 
 //

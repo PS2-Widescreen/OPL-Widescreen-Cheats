@@ -1,7 +1,7 @@
 "Neopets - The Darkest Faerie /ID SCUS_973.67"
 
 Mastercode
-902CAD98 0C0B2B0E
+902cad98 0c0b2b0e
 
 
 //ELF CRC=934F9081
@@ -10,7 +10,7 @@ Mastercode
 //Widescreen hack 16:9
 
 //zoom
-2032D120 43C00000 //44000000
+2032d120 43c00000 //44000000
 
 //fov
 2043c860 44155555 //43e00000

@@ -1,6 +1,6 @@
 "Amplitude /ID SCES_517.06"
 Mastercode
-903859B0 0C0E1614
+903859b0 0c0e1614
 
 //comment=Widescreen hacks by Aced14 (MIPS code injection/FMV experiment) and 2007excalibur2007 (initial live memory discovery)
 
@@ -13,4 +13,4 @@ e0ff0000 001001e0
 20292d94 0808aa18
 20292d98 e61f0160
 
-//101B7B3C 00000355 // FMV width (WIP)
+//101b7b3c 00000355 // FMV width (WIP)

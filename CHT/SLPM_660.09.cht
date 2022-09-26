@@ -1,7 +1,7 @@
 "World Soccer Winning Eleven 9 [Bonus Pack] /ID SLPM_660.09"
 
 Mastercode
-90108710 0C04216C
+90108710 0c04216c
 
 
 //ELF CRC=D9B8D6EB
@@ -13,4 +13,4 @@ Mastercode
 20104458 4600c602 // 00000000
 
 // Render fix (46170942 803f053c)
-20129e0c 3c053FAB //3c053F80
+20129e0c 3c053fab //3c053F80

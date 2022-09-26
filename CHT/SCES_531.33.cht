@@ -2,7 +2,7 @@
 //ELF CRC CF148C74
 
 Mastercode
-90297638 0C0A5D36
+90297638 0c0a5d36
 
 //Widescreen converted from nemesis2000's NTSC hack (PAL by Some Chump)
 20169268 3c013f11
@@ -134,4 +134,4 @@ Mastercode
 20169460 03e00008
 20169464 27bd0090
 
-2112222C 00000000 // Removes Title screen flames
+2112222c 00000000 // Removes Title screen flames

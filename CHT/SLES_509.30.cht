@@ -1,9 +1,9 @@
 "Dino Stalker /ID SLES_509.30"
 
 Mastercode
-90291DA0 0C0A4710		// sceSifSendCmd (recommended)
-//~90270C9C 0C0A17E5	// scePadRead
-//~901000F8 0C0A0BA2	// main
+90291da0 0c0a4710		// sceSifSendCmd (recommended)
+//~90270c9c 0c0a17e5	// scePadRead
+//~901000f8 0c0a0ba2	// main
 
 /*
  * Widescreen pnach by El_Patas.

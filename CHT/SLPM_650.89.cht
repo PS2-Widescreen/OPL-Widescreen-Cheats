@@ -1,10 +1,10 @@
 "Grandia Extreme /ID SLPM_650.89"
 
 Mastercode
-9048E010 0C1237AC
+9048e010 0c1237ac
 
 
 //ELF CRC=958A6461
 //Widescreen Patches (pnach NTSC-J by Arapapa)
 
-204B4A28 3F400000 // 3F800000
+204b4a28 3f400000 // 3F800000

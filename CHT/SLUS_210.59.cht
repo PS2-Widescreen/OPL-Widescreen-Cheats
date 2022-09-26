@@ -1,16 +1,16 @@
 ﻿"Tekken 5 /ID SLUS_210.59"
 Mastercode
-9010C1D0 00832021
-//901001C4 0C07C1E4
+9010c1d0 00832021
+//901001c4 0c07c1e4
 
 //optional: Force in-game widescreen
-203E4538 01000c0c
+203e4538 01000c0c
 
 //optional: Force in-game sharp image (interlaced)
-203E4578 00000000
+203e4578 00000000
 
 //optional: Force in-game progressive scan
-203EF450 00000001
+203ef450 00000001
 
 //wide
 2032b448 3c013f40

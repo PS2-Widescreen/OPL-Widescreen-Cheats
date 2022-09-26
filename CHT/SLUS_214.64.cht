@@ -1,11 +1,11 @@
 "Winning Eleven - Pro Evolution Soccer 2007 /ID SLUS_214.64"
 
 Mastercode
-901086D0 0C04215C
+901086d0 0c04215c
 
 
 //ELF CRC=DE67BB91
 //Widescreen hack by No.47
 
-2039BAA0 3FAAAAAB //3f800000 hor FOV
-2012A59C 3C053FAB //3C053F80 render fix
+2039baa0 3faaaaab //3f800000 hor FOV
+2012a59c 3c053fab //3C053F80 render fix

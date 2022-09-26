@@ -1,7 +1,7 @@
 "Biohazard Gun Survivor 2 - CODE - Veronica [with Guncon] /ID SLPM_650.59"
 
 Mastercode
-90365A30 0C0D9634
+90365a30 0c0d9634
 
 
 //ELF CRC=35FB8EE2
@@ -13,5 +13,5 @@ Mastercode
 
 // RE4 style camera
 //20375c40 40900000 // tori_x (horizontal)
-//20375c50 C0000000 // tory_y (height)
+//20375c50 c0000000 // tory_y (height)
 //20375c60 41100000 // tori_z (distance)

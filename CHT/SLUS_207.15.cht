@@ -1,7 +1,7 @@
 "WWII Paratroopers /ID SLUS_207.15"
 
 Mastercode
-9023E818 0C08F9AE
+9023e818 0c08f9ae
 
 
 //ELF CRC=0712E8FA
@@ -20,7 +20,7 @@ Mastercode
 2039ae40 3f400000 //3f7fffff
 
 //Render fix
-2039ae28 3FE30000 //3faa3d71 ?
-2039b140 3FE30000 //3faa3d70 gameplay
-2039b82c 3FE30000 //3faa3d71 cutscene
-2039b894 3FE30000 //3faa3d71 ?
+2039ae28 3fe30000 //3faa3d71 ?
+2039b140 3fe30000 //3faa3d70 gameplay
+2039b82c 3fe30000 //3faa3d71 cutscene
+2039b894 3fe30000 //3faa3d71 ?

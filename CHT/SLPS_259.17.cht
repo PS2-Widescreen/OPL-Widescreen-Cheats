@@ -1,7 +1,7 @@
 "Sacred Blaze /ID SLPS_259.17"
 
 Mastercode
-90107CD0 0C041EDC
+90107cd0 0c041edc
 
 
 //ELF CRC=06A7506A
@@ -24,7 +24,7 @@ Mastercode
 //20128eb0 3462999a //3462cccd
 
 //2D Objects X-Fov (Need to modify too many things)
-//201C0A98 3faaaaab //3f800000
+//201c0a98 3faaaaab //3f800000
 
 //2D Objects Position
 //201c0a68 3e700000 //3f000000

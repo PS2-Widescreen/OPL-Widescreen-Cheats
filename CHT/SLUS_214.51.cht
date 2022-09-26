@@ -1,7 +1,7 @@
 "Grim Adventures of Billy & Mandy, The /ID SLUS_214.51"
 
 Mastercode
-9010A790 0C04298C
+9010a790 0c04298c
 
 
 //ELF CRC=D3659615
@@ -9,4 +9,4 @@ Mastercode
 
 //Widescreen hack 16:9 
 //0000803f 000080bf 00000000
-20D467A4 3F400000 // 3f800000
+20d467a4 3f400000 // 3f800000

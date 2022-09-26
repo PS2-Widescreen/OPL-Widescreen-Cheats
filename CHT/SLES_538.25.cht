@@ -1,6 +1,6 @@
 "Project Zero 3 - The Tormented /ID SLES_538.25"
 Mastercode
-90279200 0C09E428
+90279200 0c09e428
 
 //comment=- Widescreen & HD pnach by pgert.
 //comment=- Credits to ElHecht, Little giant and nemesis2000.
@@ -16,8 +16,8 @@ Mastercode
 
 203705a8 3f400000
 203705b4 3f400000
-// 203705A8 3F555555 // - 16:10.
-// 203705B4 3F555555 // - 16:10.
+// 203705a8 3f555555 // - 16:10.
+// 203705b4 3f555555 // - 16:10.
 // ==========
 
 // ==========

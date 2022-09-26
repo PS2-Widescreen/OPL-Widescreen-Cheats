@@ -2,7 +2,7 @@
 //ELF CRC 1ECA1475
 
 Mastercode
-9049C198 0C12700E
+9049c198 0c12700e
 
 
 //Widescreen Hack by nemesis2000
@@ -13,7 +13,7 @@ Mastercode
 20489ff8 4600c602 // 00000000
 
 //Font width
-20736E1C 3F400000 //3F800000 (Person's name)
-20737EEC 3F400000 //3F800000 (Dialogue)
+20736e1c 3f400000 //3F800000 (Person's name)
+20737eec 3f400000 //3F800000 (Dialogue)
 
 

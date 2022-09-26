@@ -1,7 +1,7 @@
 "Super Robot Wars - Alpha 2nd /ID SLPS_252.28"
 
 Mastercode
-9010E778 0C043986
+9010e778 0c043986
 
 
 //ELF CRC=B6D4DABC
@@ -14,12 +14,12 @@ Mastercode
 201294c4 3c023fab //3c023f80
 
 //Y-Fov (3D Graphics)
-2012d72c 3c023F1F //3c023eee
+2012d72c 3c023f1f //3c023eee
 2012d730 344349f1 //3443eeef
 
 
 //Y-Fov (2D Graphics)
-2012a410 3c023F1F //3c023eee
+2012a410 3c023f1f //3c023eee
 2012a414 344249f1 //3442eeef
 
 //Zoom (2D Graphics)

@@ -1,9 +1,9 @@
 "Rumble Roses S/ID SLES_525.35"
 
 Mastercode
-901007CC 0C049B3C		// sceSifSendCmd (recommended)
-//~90121EF8 0C049E30	// scePadRead
-//~901007CC 0C049B3C	// main (unreliable)
+901007cc 0c049b3c		// sceSifSendCmd (recommended)
+//~90121ef8 0c049e30	// scePadRead
+//~901007cc 0c049b3c	// main (unreliable)
 
 /*
  * Widescreen hack by ElHecht. Font fix by Arapapa.

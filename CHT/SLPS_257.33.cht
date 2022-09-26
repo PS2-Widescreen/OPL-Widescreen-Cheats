@@ -1,7 +1,7 @@
 "Super Robot Taisen OG - Original Generations /ID SLPS_257.33"
 
 Mastercode
-90118750 0C04617C
+90118750 0c04617c
 
 
 //ELF CRC=B0E44B93
@@ -10,7 +10,7 @@ Mastercode
 //Widescreen hack 16:9
 
 //X-Fov
-207FAB94 3f400000 //3f800000
+207fab94 3f400000 //3f800000
 
 //Zoom
 //20143810 3c023fab //3c023f80

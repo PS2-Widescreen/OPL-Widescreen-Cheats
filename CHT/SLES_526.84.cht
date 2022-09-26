@@ -1,8 +1,8 @@
 "Cyclone Circus /ID SLES_526.84"
 
 Mastercode
-9021D610 0C08752C		// sceSifSendCmd (recommended)
-//~901083F0 0C087618	// main (unreliable)
+9021d610 0c08752c		// sceSifSendCmd (recommended)
+//~901083f0 0c087618	// main (unreliable)
 
 /*
  * Widescreen hack by Arapapa.

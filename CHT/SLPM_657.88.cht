@@ -1,7 +1,7 @@
 "Winning Eleven 8 - Liveware Evolution /ID SLPM_657.88"
 
 Mastercode
-90108990 0C04220C
+90108990 0c04220c
 
 
 //ELF CRC=7CC133E9
@@ -13,4 +13,4 @@ Mastercode
 201046c8 4600c602 // 00000000
 
 // Render fix (42111446 803f023c)
-2012ac44 3c023FAB //3c023F80 (increases hor. render area)
+2012ac44 3c023fab //3c023F80 (increases hor. render area)

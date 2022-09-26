@@ -1,8 +1,8 @@
 "Soul Calibur III /ID SCES_533.12"
 
 Mastercode
-9043F558 0C10FCFE	// sceSifSendCmd (recommended)
-//~904276E8 0C10C9CB 	// scePadRead
+9043f558 0c10fcfe	// sceSifSendCmd (recommended)
+//~904276e8 0c10c9cb 	// scePadRead
 
 /*
  * Widescreen pnach by El_Patas.

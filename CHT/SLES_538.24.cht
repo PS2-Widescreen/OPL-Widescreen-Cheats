@@ -1,9 +1,9 @@
 "Trapt /ID SLES_538.24"
 
 Mastercode
-90124E38 0C049336		// sceSifSendCmd (recommended)
-//~9013E724 0C04D7AE	// scePadRead
-//~9010075C 0C040174	// main (unreliable)
+90124e38 0c049336		// sceSifSendCmd (recommended)
+//~9013e724 0c04d7ae	// scePadRead
+//~9010075c 0c040174	// main (unreliable)
 
 Widescreen Code
 /*

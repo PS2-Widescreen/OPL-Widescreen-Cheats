@@ -1,7 +1,7 @@
 "Hot Wheels - Stunt Track Challenge /ID SLUS_209.54"
 
 Mastercode
-9044E7D8 0C11399E
+9044e7d8 0c11399e
 
 
 //ELF CRC=E798B2D5
@@ -9,5 +9,5 @@ Mastercode
 
 //Widescreen hack 16:9
 
-20BA949C 3faaaaab //3f800000 fov
-20BCCD3C 3faaaaab //3f800000 fov
+20ba949c 3faaaaab //3f800000 fov
+20bccd3c 3faaaaab //3f800000 fov

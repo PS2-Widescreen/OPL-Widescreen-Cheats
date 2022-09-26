@@ -1,13 +1,13 @@
 "Disney Pixar Cars /ID SLUS_211.51"
 //ELF CRC F2A25D7B
 Mastercode
-904673D0 0C119C9C
+904673d0 0c119c9c
 
 //Widescreen Hack by El_Patas (NTSC-U by Arapapa)
 //Gameplay 16:9 
 
 20116d48 3c023fab //3c023f80
-20116d50 3C033CAE //3C033C8E
+20116d50 3c033cae //3C033C8E
 20116d54 34635555 //3463FA34
 
 //Render fix

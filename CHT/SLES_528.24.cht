@@ -1,7 +1,7 @@
 "Furry Tales /ID SLES_528.24"
 
 Mastercode
-9011DA50 0C04763C		// sceSifSendCmd (recommended)
+9011da50 0c04763c		// sceSifSendCmd (recommended)
 
 /*
  * Widescreen hack by Arapapa.

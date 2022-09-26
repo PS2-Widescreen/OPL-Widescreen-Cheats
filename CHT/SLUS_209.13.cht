@@ -1,24 +1,24 @@
 "Inuyasha - The Secret of The Cursed Mask /ID SLUS_209.13"
 
 Mastercode
-9018E970 0C063A04
+9018e970 0c063a04
 
 //InuYasha - Secret of the Cursed Mask(SLUS-20913) WS patch
 //3D field models
-2020F680 3F400000
-2020F688 3F400000
-//2020F684 3FAAAAA8 //height - leaving in case anyone preffer taller/bigger characters
+2020f680 3f400000
+2020f688 3f400000
+//2020f684 3faaaaa8 //height - leaving in case anyone preffer taller/bigger characters
 //3D menu models
-202353E0 3F400000
-202353E8 3F400000
-//202353E4 3FAAAAA8 //height - same as above
+202353e0 3f400000
+202353e8 3f400000
+//202353e4 3faaaaa8 //height - same as above
 //fights
-2025808C 44555555
+2025808c 44555555
 //"after fight" screen
-D0250222 00000023 //if "after fight screen" do:
-2024F074 3F54924A
+d0250222 00000023 //if "after fight screen" do:
+2024f074 3f54924a
 //"if not" doesn't work, hence another 4 lines of code for wrongly affected stuff;p
-D0250222 00000020
-2024F074 3F8DB6DC
-D0250222 00000021
-2024F074 3F8DB6DC
+d0250222 00000020
+2024f074 3f8db6dc
+d0250222 00000021
+2024f074 3f8db6dc

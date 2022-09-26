@@ -1,20 +1,20 @@
 "Ridge Racer V /ID SCES_500.00"
 
 Mastercode
-902E0368 0C0B8080
+902e0368 0c0b8080
 
 //single player
-2033AC94 43C6C000 // 44048000 - both fov, bumper camera
-2033ACB4 43960000 // 44048000 - both fov, chase camera (SEE NOTE 1)
-2033B4C4 3F1D0364 // 3EEB851F - vertical FOV
+2033ac94 43c6c000 // 44048000 - both fov, bumper camera
+2033acb4 43960000 // 44048000 - both fov, chase camera (SEE NOTE 1)
+2033b4c4 3f1d0364 // 3EEB851F - vertical FOV
 
 //split screen
-2033AC90 43951000 // 43C6C000 - both FOV
-2033B4D0 3F1D0364 // 3EEB851F - vert FOV, top
-2033B4D4 3F1D0364 // 3EEB851F - vert FOV, bottom
+2033ac90 43951000 // 43C6C000 - both FOV
+2033b4d0 3f1d0364 // 3EEB851F - vert FOV, top
+2033b4d4 3f1d0364 // 3EEB851F - vert FOV, bottom
 
 //menu
-2033B580 3F066666 // 3F333333 - horizontal FOV
+2033b580 3f066666 // 3F333333 - horizontal FOV
 
 //NOTE 1:
 //(*) improved chase cam that shows the whole car as in other Ridge Racer games, instead of only the upper half

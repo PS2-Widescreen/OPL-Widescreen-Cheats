@@ -1,7 +1,7 @@
 "Persona 4 [Konami-style Special Edition] /ID SLPM_669.78"
 
 Mastercode
-90431E58 0C10C73E
+90431e58 0c10c73e
 
 
 //Widescreen hack by nemesis2000 and pavachan (NTSC-J by Arapapa)
@@ -58,19 +58,19 @@ Mastercode
 2011e624 27bd0030 // recall $6
 2011e628 03e00008 // recall $7 
 
-2011e004 3C024340
+2011e004 3c024340
 
 //f804048e 8c79040c   
 2011a984 00000000
 
-//2D202002 8c79040c
+//2d202002 8c79040c
 20137330 00000000
 
 //characters art fix by nemesis2000
-20360ed4 3C024340
+20360ed4 3c024340
 
 //partial HUD text fix by nemesis2000
-20123d00 24020BF6
+20123d00 24020bf6
 
 //Progressive Scan & 60fps
 //204246ac 3c050000

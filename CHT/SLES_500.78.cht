@@ -1,9 +1,9 @@
 "TimeSplitters /ID SLES_500.78"
 
 Mastercode
-902D2678 0C0B4944		// sceSifSendCmd (recommended)
-//~902D51F8 0C0B95F6	// scePadRead
-//~902013F0 0C0B85AC	// main
+902d2678 0c0b4944		// sceSifSendCmd (recommended)
+//~902d51f8 0c0b95f6	// scePadRead
+//~902013f0 0c0b85ac	// main
 
 /*
  * Widescreen hack by nemesis2000.

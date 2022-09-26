@@ -1,7 +1,7 @@
 "Shin Megami Tensei - Persona 3 /ID SLUS_215.69"
 
 Mastercode
-90509798 0C14258E
+90509798 0c14258e
 
 
 //ELF CRC=7AE1C04B
@@ -28,7 +28,7 @@ Mastercode
 //Font fix by nemesis2000 (causes spacing errors)
 2039ce64 00118903
 2039ce68 02338818
-2039ce70 8E93001c
+2039ce70 8e93001c
 2039cf18 82970003
 2039d064 24130015
 

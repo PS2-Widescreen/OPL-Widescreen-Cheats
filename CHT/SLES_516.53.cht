@@ -1,9 +1,9 @@
 "Mace Griffin - Bounty Hunter /ID SLES_516.53"
 
 Mastercode
-9012ACB8 0C04AAD6		// sceSifSendCmd (recommended)
-//~90108ED0 0C0474A5	// scePad2Read
-//~90100210 0C0404AE	// main
+9012acb8 0c04aad6		// sceSifSendCmd (recommended)
+//~90108ed0 0c0474a5	// scePad2Read
+//~90100210 0c0404ae	// main
 
 /*
  * Widescreen hack by Some Chump.

@@ -1,9 +1,9 @@
 "Draon Sisters /ID SLES_544.60"
 
 Mastercode
-90293958 0C0A4DFE 		// sceSifSendCmd (recommended)
-//~9026D92C 0C0A2956 	// scePadRead
-//~901001F4 0C0A0A8A	// main
+90293958 0c0a4dfe 		// sceSifSendCmd (recommended)
+//~9026d92c 0c0a2956 	// scePadRead
+//~901001f4 0c0a0a8a	// main
 
 /*
  * Original patch and value by sergx12

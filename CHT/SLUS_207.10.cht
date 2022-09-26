@@ -1,11 +1,11 @@
 "Onimusha - Blade Warriors /ID SLUS_207.10"
 
 Mastercode
-90282CB8 0C0A0AD6
+90282cb8 0c0a0ad6
 
 
 //ELF CRC=CE7451A4
 // Widescreen Hack by VIRGIN KLM
 
 //Widescreen
-204F7040 3F400000 // 3F800000
+204f7040 3f400000 // 3F800000

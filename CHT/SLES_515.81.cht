@@ -2,7 +2,7 @@
 //ELF CRC FAC64195
 
 Mastercode
-9023B920 0C08EDF0
+9023b920 0c08edf0
 
 
 //Widescreen hack by Arapapa
@@ -11,8 +11,8 @@ Mastercode
 
 //Force turn on Widescreen
 //00 00 00 00 01 00 00 00 AB AA AA 3F 00 00 80 3F
-0042FBE0 00000001
+0042fbe0 00000001
 
 //Zoom fix
 //29 5C 8F 3F 00 00 C0 43 00 00 C0 43
-2042FBF4 3f800000 //3f8f5c29
+2042fbf4 3f800000 //3f8f5c29

@@ -1,9 +1,9 @@
 "Blood Omen 2: Legacy of Kain /ID SLES_507.71"
  
 Mastercode
-90295E28 0C11DB38		// sceSifSendCmd (recommended)
-//~904628EC 0C11F8BF	// scePadRead
-//~90295E28 0C11DB38	// main (unreliable)
+90295e28 0c11db38		// sceSifSendCmd (recommended)
+//~904628ec 0c11f8bf	// scePadRead
+//~90295e28 0c11db38	// main (unreliable)
 
 /*
  * Gameplay code based on pavachan elf hack, border and FMV fix by nemesis2000.

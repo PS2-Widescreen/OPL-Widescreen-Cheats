@@ -1,8 +1,8 @@
 "La Pucelle: Tactics /ID SLES_529.78"
 
 Mastercode
-9010BD30 0C042EF4		// sceSifSendCmd (recommended)
-//~90100264 0C050358	// main (unreliable)
+9010bd30 0c042ef4		// sceSifSendCmd (recommended)
+//~90100264 0c050358	// main (unreliable)
 
 /*
  * Widescreen hack by El_Patas.

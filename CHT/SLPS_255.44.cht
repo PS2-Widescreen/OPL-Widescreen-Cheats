@@ -1,14 +1,14 @@
 "Fatal Frame - Zero /ID SLPS_255.44"
 
 Mastercode
-90271980 0C09C608
+90271980 0c09c608
 
 
 //Widescreen Hack (Pnach by Little Giant)
 
 //gameplay
 2032006c 3f400000
-//203E185C 3F400000
+//203e185c 3f400000
 
 //FMV's fix(New)
 20368140 44200000 //44200000
@@ -44,13 +44,13 @@ Mastercode
 //Disable overbloom (cutscene)
 //20156100 00000000 //0c0558f4
 //Decrease overbloom (gameplay)
-//20364FFC 3F400000 //3F800000
+//20364ffc 3f400000 //3F800000
 
 //Focus Effect Off
 2015606c 00000000 //0c0558ee
 //Bloom offset (fixes bloom glitch)
-20365008 43A30000 // 43A00000 - TC X-offset
-2036500C 43660000 // 43600000 - TC Y-offset
+20365008 43a30000 // 43A00000 - TC X-offset
+2036500c 43660000 // 43600000 - TC Y-offset
 
 //FMW's fix (old)
 //20368140 43f00000

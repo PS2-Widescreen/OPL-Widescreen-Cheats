@@ -1,6 +1,6 @@
 ﻿"Ratchet & Clank /ID SCUS_971.99"
 Mastercode
-90124C58 0C045492
+90124c58 0c045492
 
 // DWORD Code patching routine
 200c0000 3c1b000c

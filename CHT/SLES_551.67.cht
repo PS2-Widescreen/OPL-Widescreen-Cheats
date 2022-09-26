@@ -1,9 +1,9 @@
 "Soul Nomad & the World Eaters /ID SLES_551.67"
 
 Mastercode
-901130D0 0C044BDC		// sceSifSendCmd (recommended)
-//~901252D8 0C04AA56	// scePadRead
-//~90136DD8 0C058BC8	// main (unreliable)
+901130d0 0c044bdc		// sceSifSendCmd (recommended)
+//~901252d8 0c04aa56	// scePadRead
+//~90136dd8 0c058bc8	// main (unreliable)
 
 /*
  * Widescreen hack by nemesis2000.

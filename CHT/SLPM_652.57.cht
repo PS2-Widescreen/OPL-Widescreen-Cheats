@@ -1,7 +1,7 @@
 "Silent Hill 3 /ID SLPM_652.57"
 
 Mastercode
-90103078 0C040BC6
+90103078 0c040bc6
 
 
 //ELF CRC=8CFE667F
@@ -17,7 +17,7 @@ Mastercode
 
 //Oringal FMV's fix by nemesis2000
 202b6078 24112550 //fmv height
-202b6064 24106D50 //fmv y-pos
+202b6064 24106d50 //fmv y-pos
 202b619c 24100000 //fmv black borders
 202b61a4 24100000 //fmv black borders
 

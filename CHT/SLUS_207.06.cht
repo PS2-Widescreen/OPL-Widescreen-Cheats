@@ -1,7 +1,7 @@
 "Kill Switch /ID SLUS_207.06"
 
 Mastercode
-90390398 0C0E408E
+90390398 0c0e408e
 
 
 //ELF CRC=ECC849C5
@@ -11,7 +11,7 @@ Mastercode
 
 //Force turn on Widescreen
 //00 00 00 00 00 00 00 00 04 00 01 00 08 00 02 00 (2nd)
-003C0E1C 00000001
+003c0e1c 00000001
 
 //Zoom fix
 //00a08144 003f013c 00608144

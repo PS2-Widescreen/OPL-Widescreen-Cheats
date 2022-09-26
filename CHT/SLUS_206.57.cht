@@ -1,7 +1,7 @@
 "McFarlane Evil Prophecy /ID SLUS_206.57"
 
 Mastercode
-90228420 0C08A0B0
+90228420 0c08a0b0
 
 
 //ELF CRC=6798E3C9
@@ -9,4 +9,4 @@ Mastercode
 
 //Widescreen hack 16:9
 
-203173c0 443B8000 //447a0000
+203173c0 443b8000 //447a0000

@@ -1,8 +1,8 @@
 "Fahrenheit /ID SLES_535.40"
 
 Mastercode
-903A0F38 0C0E8376		// sceSifSendCmd (recommended)
-//~9038F600 0C0EF67E	// scePadRead
+903a0f38 0c0e8376		// sceSifSendCmd (recommended)
+//~9038f600 0c0ef67e	// scePadRead
 
 Widescreen Code
 20836500 3fe38e38

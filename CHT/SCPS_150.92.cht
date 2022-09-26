@@ -1,7 +1,7 @@
 "Wild ARMs - The 4th Detonator /ID SCPS_150.92"
 
 Mastercode
-901121D0 0C04481C
+901121d0 0c04481c
 
 
 //ELF CRC=565B6170
@@ -12,4 +12,4 @@ Mastercode
 001594cc 3c023f40
 
 //render fix
-001592D4 3c05442b
+001592d4 3c05442b

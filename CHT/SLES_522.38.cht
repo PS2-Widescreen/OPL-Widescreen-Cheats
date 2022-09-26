@@ -1,8 +1,8 @@
 "Nightshade /ID SLES_522.38"
 
 Mastercode
-903A33F8 0C0E8CA6	// sceSifSendCmd (recommended)
-//~901828A8 0C060A7C	// main (unreliable)
+903a33f8 0c0e8ca6	// sceSifSendCmd (recommended)
+//~901828a8 0c060a7c	// main (unreliable)
 
 /*
  *	Widescreen pnach by El_Patas 

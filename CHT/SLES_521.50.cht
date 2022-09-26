@@ -1,9 +1,9 @@
 "Legacy of Kain: Defiance /ID SLES_521.50"
 
 Mastercode
-90257470 0C095CC4		// sceSifSendCmd (recommended)
-//~9025F570 0C09111D	// scePad2Read
-//~901C2EC4 0C0938AA	// main (unreliable)
+90257470 0c095cc4		// sceSifSendCmd (recommended)
+//~9025f570 0c09111d	// scePad2Read
+//~901c2ec4 0c0938aa	// main (unreliable)
 
 /*
  * Widescreen hack by nemesis2000.

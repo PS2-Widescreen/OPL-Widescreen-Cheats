@@ -1,9 +1,9 @@
 "Black & Bruised /ID SLES_516.20"
 
 Mastercode
-901C6CB8 0C071AD6		// sceSifSendCmd (recommended)
-//~9010E76C 0C0743AC	// scePadRead
-//~90114E68 0C0400CC	// main (unreliable)
+901c6cb8 0c071ad6		// sceSifSendCmd (recommended)
+//~9010e76c 0c0743ac	// scePadRead
+//~90114e68 0c0400cc	// main (unreliable)
 
 /*
  * Widescreen hack by Arapapa.

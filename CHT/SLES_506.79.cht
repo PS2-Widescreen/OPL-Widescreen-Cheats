@@ -1,9 +1,9 @@
 "Tenchu: Wrath of Heaven /ID SLES_506.79"
 
 Mastercode
-9010F578 0C043D06		// sceSifSendCmd (recommended)
-//~90116AEC 0C0486C8	// scePadRead
-//~9024515C 0C091B14	// main (unreliable)
+9010f578 0c043d06		// sceSifSendCmd (recommended)
+//~90116aec 0c0486c8	// scePadRead
+//~9024515c 0c091b14	// main (unreliable)
 
 Widescreen Code
 2163aea4 3f400000

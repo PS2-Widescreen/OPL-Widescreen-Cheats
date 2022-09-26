@@ -1,7 +1,7 @@
 "Final Fantasy X /ID SLUS_203.12"
 //ELF CRC BB3D833A
 Mastercode
-902F7B18 0C0BDE6E
+902f7b18 0c0bde6e
 
 //Widescreen hack by nemesis2000 (pnach by nemesis2000 )
 201a51cc 3c013f19
@@ -9,8 +9,8 @@ Mastercode
 2011973c 3c014440
 20175a64 3c01442b
 //alternate values
-//20311340 3F34CCCD // x fov
-20311344 3F5EEEEF // y fov - HD remaster
+//20311340 3f34cccd // x fov
+20311344 3f5eeeef // y fov - HD remaster
 //world map
 20260538 3c013f40 //3c013f80
 //sphere grid

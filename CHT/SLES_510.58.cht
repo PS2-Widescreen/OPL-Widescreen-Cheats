@@ -1,9 +1,9 @@
 "Maken Shao - Demon Sword /ID SLES_510.58"
 
 Mastercode
-9021F9B0 0C087E14		// sceSifSendCmd (recommended)
-//~901FF374 0C085D46	// scePadRead
-//~90193280 0C085132	// main
+9021f9b0 0c087e14		// sceSifSendCmd (recommended)
+//~901ff374 0c085d46	// scePadRead
+//~90193280 0c085132	// main
 
 Widescreen Code
 2034ac20 3f533334

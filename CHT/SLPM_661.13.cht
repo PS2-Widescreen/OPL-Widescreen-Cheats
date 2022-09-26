@@ -1,7 +1,7 @@
 "Hissatsu Ura-Kagyou /ID SLPM_661.13"
 
 Mastercode
-90110D50 0C0442FC
+90110d50 0c0442fc
 
 
 //ELF CRC=2C8FDB5E
@@ -19,4 +19,4 @@ Mastercode
 //2012fde4 3c023f9e //3c023f6e
 //2012fdec 3446b852 //34461d7b
 
-//2012fdc4 3c0743A8 //3c0743e0
+//2012fdc4 3c0743a8 //3c0743e0

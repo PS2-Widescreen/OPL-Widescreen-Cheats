@@ -1,7 +1,7 @@
 "Superbikes TT /ID SLUS_209.12"
 
 Mastercode
-901BEC18 0C06FAAE
+901bec18 0c06faae
 
 
 //ELF CRC=8201A07C
@@ -9,11 +9,11 @@ Mastercode
 
 //Widescreen hack 16:9 (Memory Hack)
 //0000803f d7a3703f
-205FBB58 3f400000 //3f800000 
+205fbb58 3f400000 //3f800000 
 
 //Rendering Distance (cause a incorrect graphic of HUD mode)
 //f0ff7f4b 0000803f d7a3703f
-//205FBB54 4cf00000 //4b7ffff0
+//205fbb54 4cf00000 //4b7ffff0
 
 //Render Fix (ELF hack)
 //003f013c 00008144 82300146

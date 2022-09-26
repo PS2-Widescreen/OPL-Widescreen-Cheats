@@ -1,9 +1,9 @@
 "Drakengard 2 /ID SLES_537.94"
 
 Mastercode
-903AFD78 0C0EBF06		// sceSifSendCmd (recommended)
-//~90381968 0C0E9549	// scePad2Read
-//~901A0554 0C0E76F8	// main (unreliable)
+903afd78 0c0ebf06		// sceSifSendCmd (recommended)
+//~90381968 0c0e9549	// scePad2Read
+//~901a0554 0c0e76f8	// main (unreliable)
 
 /*
  * Widescreen hack by ElHecht.

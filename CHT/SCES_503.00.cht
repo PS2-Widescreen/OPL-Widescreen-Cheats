@@ -5,9 +5,9 @@
  */
 
 Mastercode
-902B6CE4 0C0B1C98	// scePadRead
-//~901005A0 0C0B133C	// main (unreliable)
-//~902D09F8 0C0B4226	// sceSifSendCmd (recommended)
+902b6ce4 0c0b1c98	// scePadRead
+//~901005a0 0c0b133c	// main (unreliable)
+//~902d09f8 0c0b4226	// sceSifSendCmd (recommended)
 
 Widescreen Code
 20298818 3c013f40

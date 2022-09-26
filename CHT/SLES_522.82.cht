@@ -2,16 +2,16 @@
 //ELF CRC 7E9B5698
 
 Mastercode
-90407478 0C101CC6
+90407478 0c101cc6
 
 
 //Widescreen Hack by El_Patas, Render fixes by arapapa
 //Gameplay 16:9
-20FFB6B4 3FAB0000 //3F800000 Vertical axis
-20FFB79C 3FAB0000 //3F800000 Horizontal axis
+20ffb6b4 3fab0000 //3F800000 Vertical axis
+20ffb79c 3fab0000 //3F800000 Horizontal axis
 
 //Render fix
-20FFB704 3D000000 //3D4CCCCD
+20ffb704 3d000000 //3D4CCCCD
 
 //Rendering distancce
-20FFB708 44000000 //43660000
+20ffb708 44000000 //43660000

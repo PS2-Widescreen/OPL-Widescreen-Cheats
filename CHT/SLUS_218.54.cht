@@ -1,14 +1,14 @@
 "Coraline /ID SLUS_218.54"
 
 Mastercode
-903DF618 0C0F7D2E
+903df618 0c0f7d2e
 
 
 //ELF CRC=64ABECC8
 //Widescreen hack
 201a65f0 3c013c2e //r fix
 202644ec 3c014440 // hor fov
-//20267dd0 3C013F40 //hud zoom in
+//20267dd0 3c013f40 //hud zoom in
 
 //Get rid of black bar
 //8642013c 67662134

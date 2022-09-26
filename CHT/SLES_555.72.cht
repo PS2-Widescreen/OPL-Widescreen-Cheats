@@ -2,11 +2,11 @@
 //ELF CRC 6E1AC5C9
 
 Mastercode
-9042E2A8 0C10B852
+9042e2a8 0c10b852
 
 //Widescreen hack by El_Patas
 //Inside Battle mode in the Versus Battle causes a zoom, and in Squad Battle causes an Y-FOV.
  
 //Gameplay 16:9 
-2015310C 3C013F25 //3C013F00 Zoom
-202AB728 3C013F40 //3C013F80 Y-FOV
+2015310c 3c013f25 //3C013F00 Zoom
+202ab728 3c013f40 //3C013F80 Y-FOV

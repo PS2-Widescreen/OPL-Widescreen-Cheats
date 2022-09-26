@@ -1,8 +1,8 @@
 "Red Ninja - End of Honor /ID SLES_530.25"
 
 Mastercode
-9043BB70 0C10EE84		// sceSifSendCmd (recommended)
-//~90100214 0C044BDE	// main (unreliable)
+9043bb70 0c10ee84		// sceSifSendCmd (recommended)
+//~90100214 0c044bde	// main (unreliable)
 /*
  * Widescreen hack by ElHecht.
  */

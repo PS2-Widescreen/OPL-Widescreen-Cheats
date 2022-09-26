@@ -1,7 +1,7 @@
 "World Soccer Winning Eleven 2010 - Aoki Samurai no Chousen /ID SLPM_552.58"
 
 Mastercode
-901086D0 0C04215C
+901086d0 0c04215c
 
 
 //ELF CRC=5DB219F4
@@ -13,4 +13,4 @@ Mastercode
 20104408 4600c602 // 00000000
 
 // Render fix by El_Patas (42091746 803f053c)
-20125d8c 3C053FAB //3C053F80 (increases hor. render area)
+20125d8c 3c053fab //3C053F80 (increases hor. render area)

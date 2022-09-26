@@ -1,6 +1,6 @@
 ﻿"Ratchet & Clank: Going Commando /ID SCUS_972.68"
 Mastercode
-9011CD48 0C0472FA
+9011cd48 0c0472fa
 
 // DWORD Code patching routine
 200c0000 3c1b000c

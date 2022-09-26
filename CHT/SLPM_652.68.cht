@@ -1,7 +1,7 @@
 "Initial D - Special Stage /ID SLPM_652.68"
 
 Mastercode
-9010C9B8 0C043216
+9010c9b8 0c043216
 
 
 //ELF CRC=B9FA5764
@@ -21,8 +21,8 @@ Mastercode
 
 //TLM Miss occurs
 //16:9 widescreen hack by 99skull
-//201484EC 0C03FFC0
-//200FFF00 3C013F40
-//200FFF04 44819800
-//200FFF08 460398C3
-//200FFF0C 03E00008
+//201484ec 0c03ffc0
+//200fff00 3c013f40
+//200fff04 44819800
+//200fff08 460398c3
+//200fff0c 03e00008

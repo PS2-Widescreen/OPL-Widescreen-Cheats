@@ -2,7 +2,7 @@
 //ELF CRC=AA5EC3A3
 
 Mastercode
-90106210 0C04182C
+90106210 0c04182c
 
 //16:9 Widescreen Hack & Progressive Scan
 // partial hud fix by sergx12
@@ -15,6 +15,6 @@ Mastercode
 202bad08 3c023f40 //3c023f80 Font X-Fov
 202bc6c4 3c023f40 //3c023f80 dialog box
 
-203a53bc 3C013F95 //3c013f80 portraits zoom
-20369238 3C034415 //3c0343e0 portraits vert
-203692a0 3C024400 //3c0243e0 portraits y position
+203a53bc 3c013f95 //3c013f80 portraits zoom
+20369238 3c034415 //3c0343e0 portraits vert
+203692a0 3c024400 //3c0243e0 portraits y position

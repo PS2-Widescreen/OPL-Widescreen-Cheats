@@ -1,15 +1,15 @@
 "NBA Ballers /ID SLUS_205.41"
 
 Mastercode
-9011CD30 0C0472F4
+9011cd30 0c0472f4
 
 
 //ELF CRC=D9C58F05
 //Widescreen Patch (16:9) by Monsterjamp
 
 //FOV
-21C4E7A0 40400000
+21c4e7a0 40400000
 
 //This value prevents objects disappearing
 //from the sides of the screen
-21C4E798 3ECCCCCD
+21c4e798 3ecccccd

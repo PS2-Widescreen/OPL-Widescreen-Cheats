@@ -1,7 +1,7 @@
 "Romancing SaGa - Minstrel Song /ID SLPM_659.20"
 
 Mastercode
-9029D178 0C0A7406
+9029d178 0c0a7406
 
 
 //ELF CRC=2B9AF3C5
@@ -14,4 +14,4 @@ Mastercode
 2018285c 3c014430 // 3c014400 bg-fix for battles
 //
 // Compass
-20416300 43C00000 // 44000000 hor Compass
+20416300 43c00000 // 44000000 hor Compass

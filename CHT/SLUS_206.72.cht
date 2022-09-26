@@ -1,7 +1,7 @@
 "Final Fantasy X-2 /ID SLUS_206.72"
 
 Mastercode
-9034B6D8 0C0D2D5E
+9034b6d8 0c0d2d5e
 
 
 //ELF CRC=48FE0C71
@@ -12,8 +12,8 @@ Mastercode
 2018645c 3c01442b
 
 //alternate values
-//203670C0 3F34CCCD // x fov
-203670C4 3F5EEEEF // y fov - HD remaster
+//203670c0 3f34cccd // x fov
+203670c4 3f5eeeef // y fov - HD remaster
 
 //portraits, dressphere and cursor width on menu
 202142cc 3c013f40

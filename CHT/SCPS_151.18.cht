@@ -1,15 +1,15 @@
 "Wild ARMs - The Vth Vanguard /ID SCPS_151.18"
 
 Mastercode
-901133D0 0C044C9C
+901133d0 0c044c9c
 
 
 //ELF CRC=2294D322
 //Widescreen hack by nemesis2000 (pnach by Arapapa)
 
 //hor fov+
-20153324 3C024500
-20153388 3C023F40
+20153324 3c024500
+20153388 3c023f40
 
 //render fix
-201532ac 3C02442B
+201532ac 3c02442b

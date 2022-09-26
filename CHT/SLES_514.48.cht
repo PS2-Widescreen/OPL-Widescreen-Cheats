@@ -2,7 +2,7 @@
 //ELF CRC F79AF536
 
 Mastercode
-90133170 0C04CC04
+90133170 0c04cc04
 
 
 //Widescreen hack by ElHecht
@@ -12,5 +12,5 @@ Mastercode
 2023339c ac99000c // e482000c
 
 // Ammo Cheat
-// 20252b68 0000000F // 0000000F Ammo#1
-// 202deadc 0000000F // 0000000F Ammo#2
+// 20252b68 0000000f // 0000000F Ammo#1
+// 202deadc 0000000f // 0000000F Ammo#2

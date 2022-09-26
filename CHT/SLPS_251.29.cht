@@ -1,7 +1,7 @@
 "Victorious Boxer - Championship Version /ID SLPS_251.29"
 
 Mastercode
-9010E350 0C04387C
+9010e350 0c04387c
 
 
 //ELF CRC=4405AA47
@@ -16,4 +16,4 @@ Mastercode
 20103288 3c013fab //3c013f80
 
 //Y-Fov (Event)
-201bacd4 3c0743B4 //3c0743f0
+201bacd4 3c0743b4 //3c0743f0

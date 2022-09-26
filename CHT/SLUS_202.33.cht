@@ -1,7 +1,7 @@
 "Mobile Suit Gundam - Zeonic Front /ID SLUS_202.33"
 
 Mastercode
-902354B8 0C08D4D6
+902354b8 0c08d4d6
 
 
 //ELF CRC=23FFE14B
@@ -21,4 +21,4 @@ Mastercode
 
 //Y-Fov (Except background Picture (Cloud)
 //efeeee3f -> f5491f40
-//203a8008 401F49F5 //3feeeeef
+//203a8008 401f49f5 //3feeeeef

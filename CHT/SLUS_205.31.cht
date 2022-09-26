@@ -1,7 +1,7 @@
 "NHL 2003 /ID SLUS_205.31"
 
 Mastercode
-90183500 0C060CE8
+90183500 0c060ce8
 
 
 //ELF CRC=6A6173DA
@@ -11,11 +11,11 @@ Mastercode
 
 //Zoom (Gameplay)
 //c2f5a83e eb51383e
-2043ea90 3EE147AE //3ea8f5c2
+2043ea90 3ee147ae //3ea8f5c2
 
 //Zoom (Cutscenes)
 //2e4c523f cf66553c (2nd)
-2043b610 3F8C32B1 //3f524c2e
+2043b610 3f8c32b1 //3f524c2e
 
 //Y-Fov
 //aaaaaa3f 3333f33f

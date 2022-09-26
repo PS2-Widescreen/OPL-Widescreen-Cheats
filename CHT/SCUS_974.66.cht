@@ -8,5 +8,5 @@ Mastercode
 //Works fine for the default "Team" camera, but causes a different zoom in each one of the other camera's view.
 
 //Gameplay 16:9 
-2026F480 3C013C2B //3C013C0E Zoom
-2026F494 3C013F10 //3C013F40 Y-FOV
+2026f480 3c013c2b //3C013C0E Zoom
+2026f494 3c013f10 //3C013F40 Y-FOV

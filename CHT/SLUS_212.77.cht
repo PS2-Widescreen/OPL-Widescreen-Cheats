@@ -1,7 +1,7 @@
 "Barnyard /ID SLUS_212.77"
 
 Mastercode
-90446C00 0C111AA8
+90446c00 0c111aa8
 
 
 //ELF CRC=EC8EF2DE
@@ -10,12 +10,12 @@ Mastercode
 //Widescreen hack 16:9
 
 //Y-Fov
-20540d60 3F9F4877 //3f6eecc0
+20540d60 3f9f4877 //3f6eecc0
 
 //Zoom (Select Menu and Game Play)
 //2053e804 3fa80000 //3f860a93
 2053d748 3fd50000 //3eaaaaab
 
 //Black Bar Fix (Event Scene Top and Bottom)  // TLB miss
-//21A1DF04 00000000 //42300000
-//21A1DF7C 00000000 //42300000
+//21a1df04 00000000 //42300000
+//21a1df7c 00000000 //42300000

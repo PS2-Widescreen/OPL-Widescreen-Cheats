@@ -1,7 +1,7 @@
 "Gold Gashbell!! Gekitou! Saikyou no Mamonotachi /ID SLPS_254.40"
 
 Mastercode
-9023D0F8 0C08F3E6
+9023d0f8 0c08f3e6
 
 
 //Widescreen Hack by Little Giant
@@ -10,4 +10,4 @@ Mastercode
 20228604 3c013f40 // 00000000 hor
 20228608 44810000 // 00000000
 20228610 4600c602 // 00000000
-201DB608 3C014220 // 3C0141F0 render
+201db608 3c014220 // 3C0141F0 render

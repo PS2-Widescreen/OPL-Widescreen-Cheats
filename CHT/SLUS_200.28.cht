@@ -1,7 +1,7 @@
 "No One Lives Forever /ID SLUS_200.28"
 
 Mastercode
-902B2958 0C0AC9FE
+902b2958 0c0ac9fe
 
 
 //ELF CRC=E803FE7E
@@ -32,7 +32,7 @@ Mastercode
 200c0030 080bc0f7
 
 ///////////////////////////////////
-//2070CEA8 3FECCCCC // 3FC90FDA X axis
-//2070CEAC 3FAF5C29 // 3F8CBE4C Y axis
+//2070cea8 3feccccc // 3FC90FDA X axis
+//2070ceac 3faf5c29 // 3F8CBE4C Y axis
 
 

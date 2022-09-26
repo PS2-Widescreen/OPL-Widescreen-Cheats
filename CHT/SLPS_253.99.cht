@@ -1,12 +1,12 @@
 "Keroro Gunsou - Mero Mero Battle Royale /ID SLPS_253.99"
 
 Mastercode
-90133758 0C04CD7E
+90133758 0c04cd7e
 
 
 //Widescreen hack by Little Giant
 
 //16:9
-E0025555 009B74C4 //
-2098E1AC 3C013F40 //3c013f80 zoom
-209B74C4 44C71C71 //44955571 vert
+e0025555 009b74c4 //
+2098e1ac 3c013f40 //3c013f80 zoom
+209b74c4 44c71c71 //44955571 vert

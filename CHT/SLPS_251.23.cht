@@ -1,7 +1,7 @@
 "Mobile Suit Gundam - Lost War Chronicles /ID SLPS_251.23"
 
 Mastercode
-9010E100 0C0437E8
+9010e100 0c0437e8
 
 
 //ELF CRC=672F3D8A
@@ -15,7 +15,7 @@ Mastercode
 
 //Y-Fov
 //f043033c 00008344 3200013c
-20158004 3c0343B4 //3c0343f0
+20158004 3c0343b4 //3c0343f0
 
 ///////////////////////////////////////////////
 //Zoom

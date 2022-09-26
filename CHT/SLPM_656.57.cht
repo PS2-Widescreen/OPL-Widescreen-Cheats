@@ -1,7 +1,7 @@
 "World Soccer Winning Eleven 8 /ID SLPM_656.57"
 
 Mastercode
-90108910 0C0421EC
+90108910 0c0421ec
 
 
 //ELF CRC=6FE4B28C
@@ -13,4 +13,4 @@ Mastercode
 20104658 4600c602 // 00000000
 
 // Render fix (42111446 803f023c)
-20126774 3c023FAB //3c023F80 (increases hor. render area)
+20126774 3c023fab //3c023F80 (increases hor. render area)
