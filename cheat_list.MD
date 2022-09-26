@@ -1,4 +1,4 @@
-game count|1605
+game count|1609
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
@@ -14,6 +14,7 @@ Ace Combat: Distant Thunder  |  SCES_504.10
 Adventure of Tokyo Disney Sea  |  SLPM_650.61
 Adventures of Jimmy Neutron, The - Attack of the Twonkies  |  SLUS_208.87
 Air Force - Delta Strike  |  SLUS_207.03
+Airblade  |  SCES_502.46
 All-Star Baseball 2003  |  SLUS_203.11
 All-Star Baseball 2004  |  SLUS_205.69
 Alone in the Dark  |  SLES_552.07
@@ -95,6 +96,7 @@ Cabelas Moster Bass  |  SLUS_217.15
 Cabelas North American Adventures  |  SLUS_219.35
 Cabelas Outdoor Adventures 2006  |  SLUS_211.92
 Cabelas Outdoor Adventures 2010  |  SLUS_219.06
+Call of Duty - Finest Hour  |  SLES_527.83
 Canis Canem Edit  |  SLES_535.61
 Capcom vs SNK 2   |  SCUS_202.46
 Cars Race-O-Rama  |  SLES_555.36
@@ -130,6 +132,7 @@ Dead or Alive 2 - Hardcore  |  SLPS_250.26
 Dead to Rights  |  SLES_515.81
 Der Herr der Ringe - Die Rückkehr des Königs  |  SLES_520.18
 Devil Kings  |  SLES_538.70
+Devil May Cry  |  SLES_503.58
 Devil May Cry 2 - Disc 1 - Dante  |  SLES_820.11
 Devil May Cry 2 - Disc 2 - Lucia  |  SLES_820.12
 Die Sims  |  SLES_512.57
@@ -552,6 +555,7 @@ Pro Evolution Soccer 2008  |  SLUS_216.85
 Pro Evolution Soccer 2009  |  SLES_554.06
 Pro Evolution Soccer 2009  |  SLUS_218.21
 Pro Evolution Soccer 2014  |  SLES_556.74
+Pro Evolution Soccer 6  |  SLES_543.62
 Project Zero  |  SLES_508.21
 Project Zero  |  SLPS_250.74
 Project Zero 3 - The Tormented  |  SLES_538.25
