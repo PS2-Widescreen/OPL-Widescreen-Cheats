@@ -1,4 +1,4 @@
-game count|1599
+game count|1605
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
@@ -10,6 +10,7 @@ game count|1599
 7 Sins  |  SLES_532.97
 Ace Combat - The Belkan War  |  SCES_540.41
 Ace Combat 5 - Squadron Leader  |  SCES_524.24
+Ace Combat: Distant Thunder  |  SCES_504.10 
 Adventure of Tokyo Disney Sea  |  SLPM_650.61
 Adventures of Jimmy Neutron, The - Attack of the Twonkies  |  SLUS_208.87
 Air Force - Delta Strike  |  SLUS_207.03
@@ -95,6 +96,7 @@ Cabelas North American Adventures  |  SLUS_219.35
 Cabelas Outdoor Adventures 2006  |  SLUS_211.92
 Cabelas Outdoor Adventures 2010  |  SLUS_219.06
 Canis Canem Edit  |  SLES_535.61
+Capcom vs SNK 2   |  SCUS_202.46
 Cars Race-O-Rama  |  SLES_555.36
 Castlevania - Lament of Innocence  |  SLUS_207.33
 Catwoman  |  SLUS_209.92
@@ -140,6 +142,7 @@ Disgaea - Hour Of Darkness  |  SLES_524.58
 Disney Pixar Cars  |  SLUS_211.51
 Disneys Bolt  |  SLUS_218.44
 Dora the Explorer - Dora Saves the Snow Princess  |  SLUS_217.96
+Dragon Ball Z - Budokai Tenkaichi 3  |  SLES_549.45
 Drakan - The Ancients' Gates  |  SCES_500.06
 Drakengard  |  SLES_523.22
 Drakengard 2  |  SLES_537.94
@@ -183,6 +186,7 @@ Fighting Angels  |  SLES_534.08
 Fighting Beauty Wulong  |  SLPS_256.57
 Final Fantasy X  |  SCES_504.90
 Final Fantasy X  |  SCES_504.92
+Final Fantasy X  |  SCES_504.94
 Final Fantasy X  |  SLPS_250.50
 Final Fantasy X  |  SLUS_203.12
 Final Fantasy X-2  |  SLES_518.15
@@ -190,6 +194,7 @@ Final Fantasy X-2  |  SLES_518.17
 Final Fantasy X-2  |  SLUS_206.72
 Final Fantasy XII  |  SLPM_663.20
 Final Fantasy XII  |  SLUS_209.63
+Final fantasy X  |  SCES_504.93
 Finny the Fish & The Seven Waters  |  SLUS_210.72
 Firefighter F.D. 18  |  SLPM_654.70
 FlatOut  |  SLES_527.53
@@ -744,6 +749,7 @@ Unlimited Saga  |  SLPS_251.99
 Urban Chaos - Riot Response  |  SLES_539.91
 Valkyrie Profile 2 - Silmeria  |  SLPM_664.19
 Vampire Night  |  SCES_504.11
+Vampire Night (2001)  |  SCUS_202.21
 Victorious Boxer - Championship Version  |  SLPS_251.29
 Victorious Boxers  |  SLPS_250.12
 Victorious Boxers - Ippos Road to Glory  |  SLUS_202.82
