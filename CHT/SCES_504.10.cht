@@ -1,0 +1,16 @@
+"Ace Combat: Distant Thunder /ID SCES_504.10" 
+//ELF CRC=1B9B7563
+
+//Mastercode
+9026CFD0 0C09B39C
+//9026D93C 0C0A4D55
+//901001F8 0C0A2960
+
+
+
+//PAL2NTSC
+//202629B8 24120002
+
+//Widescreen pnach by El_Patas
+//Widescreen fix
+204235CC 441CF7AE //4440499A
