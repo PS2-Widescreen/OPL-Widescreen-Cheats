@@ -35,4 +35,4 @@ jobs:
       with:
         default_author: github_actions
         message: 'Update Widescreen cheat list'
-        commit: '--amend'
+#        commit: '--amend'
