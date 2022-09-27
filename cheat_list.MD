@@ -1,4 +1,4 @@
-game count|1612
+game count|1617
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
@@ -27,6 +27,7 @@ And 1 Streetball  |  SLUS_212.37
 Anubis Zone of Enders  |  SLPM_652.36
 Armored Core - Nexus (Disc 1) (Evolution)  |  SLUS_209.86
 Armored Core - Nexus (Disc 2) (Revolution)  |  SLUS_210.79
+Armored Core 2  |  SLES_500.79
 Armored Core 2  |  SLPS_250.07
 Armored Core 2 - Another Age  |  SLES_509.05
 Arthur and the Invisibles  |  SLUS_213.05
@@ -164,6 +165,7 @@ Enter The Matrix  |  SLES_512.03
 Ephemeral Fantasia  |  SLUS_201.69
 Equestriad  |  SLUS_214.01
 Eragon  |  SLUS_213.22
+Eternal Ring  |  SLES_500.51
 Eureka Seven - New Vision  |  SLPS_256.46
 Eureka Seven - Vol.1 - The New Wave  |  SLUS_213.53
 Eureka Seven - Vol.2 - The New Vision  |  SLUS_215.38
@@ -208,6 +210,7 @@ Flipnic - Ultimate Pinball  |  SLES_520.65
 Flipnic - Ultimate Pinball  |  SLUS_211.57
 Flow - Urban Dance Uprising  |  SLES_538.48
 Flow - Urban Dance Uprising  |  SLUS_213.19
+Forbidden Siren  |  SCES_519.20
 Forbidden Siren - Viviendo la Pesadilla  |  SCES_523.30
 Forever Kingdom  |  SLUS_203.43
 Forgotten Realms - Demon Stone  |  SLES_526.69
@@ -347,6 +350,7 @@ K-1 World Grand Prix 2002  |  SLPM_652.02
 K-1 World Grand Prix 2005  |  SLPS_255.78
 K-1 World Max 2005  |  SLPM_660.77
 K1 World Grand Prix  |  SLUS_206.82
+KILL.SWITCH  |  SCES_521.24
 Kagero II - Dark Illusion  |  SLPS_254.45
 Kaitou Sly Cooper  |  SCPS_150.36
 Kamen Rider - Climax Heroes  |  SLPS_259.44
@@ -572,6 +576,7 @@ Rampage - Total Destruction  |  SLUS_213.23
 Ratchet & Clank  |  SCPS_150.37
 Ratchet & Clank 2  |  SCES_516.07
 Ratchet & Clank 3  |  SCES_524.56
+Ready 2 Rumble Boxing Round 2  |  SLES_500.10
 Red Card Soccer 2003  |  SLUS_203.54
 Red Faction  |  SLUS_200.73
 Red Faction II  |  SLES_511.33
