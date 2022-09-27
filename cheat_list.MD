@@ -1,10 +1,11 @@
-game count|1609
+game count|1612
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
 .hack//Vol.3 - Erosion Pollution  |  SLPS_251.58
 .hack//Vol.4 - Zettai Houi  |  SLPS_252.02
 007 - Alles oder Nichts  |  SLES_520.46
+24 - The Game  |  SCES_533.58
 24 - The Game  |  SLUS_212.68
 25 to Life  |  SLUS_210.16
 7 Sins  |  SLES_532.97
@@ -116,6 +117,7 @@ Constantine  |  SLES_528.72
 Constantine  |  SLUS_211.42
 Contra - Shattered Soldier  |  SLES_512.84
 Coraline  |  SLUS_218.54
+Crash Bandicoot - the wrath of Cortex  |  SLES_503.86
 Crash Nitro Kart  |  SLES_515.11
 Crash Tag Team Racing  |  SLES_534.39
 Crouching Tiger Hidden Dragon  |  SLUS_205.23
@@ -511,6 +513,7 @@ Nightshade  |  SLES_522.38
 Nitrobike  |  SLUS_217.38
 No One Lives Forever  |  SLUS_200.28
 ObsCure  |  SLES_525.08
+Obscure 2  |  SLES_547.82
 Odin Sphere  |  SLES_551.10
 Odin Sphere  |  SLPM_664.74
 Okami  |  SLPM_663.75
