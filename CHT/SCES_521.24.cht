@@ -1,0 +1,13 @@
+"KILL.SWITCH /ID SCES_521.24"
+//ELF CRC=91A65EAE
+
+Mastercode
+903A2FD8 0C0E8B9E
+
+
+//Widescreen hack by Arapapa
+//Force turn on Widescreen
+0058A454 00000001
+
+//Zoom fix
+2024d854 3c013f25 //3c013f00
