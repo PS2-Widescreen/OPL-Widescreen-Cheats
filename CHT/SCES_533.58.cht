@@ -1,0 +1,16 @@
+"24 - The Game /ID SCES_533.58"
+//ELF CRC=D6A99F53
+
+Mastercode
+90474d68 0c11d302
+//90486e40 0c146987
+//90100c9c 0c14955c
+
+
+//Widescreen Hack by Arapapa
+//X-Fov
+//2046042c 3c013fe3 //3c013faa
+//20460430 34218e2a //3421aaa8
+
+//Zoom Fix (When turn on the Widescreen option)
+202fbf20 3c020000 //3c020060
