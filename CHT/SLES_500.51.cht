@@ -1,0 +1,11 @@
+"Eternal Ring /ID SLES_500.51"
+//ELF CRC=C5B61685
+
+Master Code
+901D47B8 0C075194
+
+
+//Widescreen hack by Arapapa
+//X-Fov
+//803f013c 00a88144
+20101160 3c013f40 //3c013f80
