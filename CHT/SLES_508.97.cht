@@ -1,0 +1,13 @@
+" /ID SLES_508.97"
+//ELF CRC=280DAC56
+
+Mastercode
+9017243C 0C04DE4E	
+
+
+//Widescreen hack by El_Patas
+//Gameplay 16:9
+20816364 3F400000 //3F800000 (Increases hor. axis)
+
+//Menu 3D stuff
+2047F5E4 3F400000 //3F800000
