@@ -1,0 +1,15 @@
+"Virtua Fighter 4 /ID SLUS_203.23"
+//ELF CRC=EA131B57
+
+Mastercode
+902E0AF4 0C0BE111
+
+
+//Widescreen hack by ElHecht
+//X-Fov
+2026e6cc 3c194455 // 3c194420 hor fov
+2026e6d0 37395555 // 44811800 hor fov
+2026e6f4 44991800 // 00000000
+
+//2044013c 00a88144 2d28a003
+20249404 3c014456 // 3c014420 renderfix
