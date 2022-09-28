@@ -25,6 +25,7 @@ jobs:
       - name: Make Changelog
         run: |
             git --no-pager log>FULL_CHANGELOG.TXT
+            sed -i 's/commit/----------------------------------------------------------------------------------------------------------------------------\' FULL_CHANGELOG.TXT
             git --no-pager log Latest..HEAD --pretty=format:"- %h  %<(18)%an: %s">PARTIAL_CHANGELOG.TXT
             echo FULL_CHANGELOG-----------------------
             cat FULL_CHANGELOG.TXT
