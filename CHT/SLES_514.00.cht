@@ -1,0 +1,13 @@
+"Tenchu: Sky Rage /ID SLES_514.00"
+
+Mastercode
+9010F578 0C043D06
+
+
+//Widescreen hack by unknown author
+20154998 3C033F40
+201549E0 3C033F40
+
+//Render Fix
+20155168 3C024455
+201553D0 3C024455
