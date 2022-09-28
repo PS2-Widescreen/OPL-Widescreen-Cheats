@@ -1,5 +1,6 @@
-game count|1617
+game count|1641
 ------------- | --------------- |
+  |  SLES_508.97
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
 .hack//Vol.3 - Erosion Pollution  |  SLPS_251.58
@@ -156,6 +157,7 @@ Draon Sisters  |  SLES_544.60
 DreamWorks Madagascar 2 - Escape 2 Africa  |  SLUS_218.40
 Driving Emotion Type S  |  SLUS_201.13
 Dynasty Warriors 4  |  SLES_516.63
+Dynasty Warriors 4: Empires  |  SLUS_209.38
 ESPN - NBA 2K5  |  SLUS_209.20
 ESPN - NFL 2K5  |  SLUS_209.19
 ESPN - NHL 2K5  |  SLUS_209.21
@@ -351,6 +353,7 @@ K-1 World Grand Prix 2005  |  SLPS_255.78
 K-1 World Max 2005  |  SLPM_660.77
 K1 World Grand Prix  |  SLUS_206.82
 KILL.SWITCH  |  SCES_521.24
+Ka 2 - Lets Go Hawaii  |  SCPS_150.45
 Kagero II - Dark Illusion  |  SLPS_254.45
 Kaitou Sly Cooper  |  SCPS_150.36
 Kamen Rider - Climax Heroes  |  SLPS_259.44
@@ -443,9 +446,11 @@ Metal Gear Solid 2 - Sons of Liberty  |  SLPM_650.78
 Metal Gear Solid 2 - Substance  |  SLES_820.09
 Metal Gear Solid 2 - Substance  |  SLPM_670.02
 Metal Gear Solid 2: Sons of Liberty  |  SLES_503.83
+Metal Gear Solid 3 - Snake Eater  |  SLES_820.26
 Metal Gear Solid 3 - Snake Eater  |  SLES_820.32
 Metal Gear Solid 3 - Snake Eater  |  SLUS_209.15
 Metal Gear Solid 3 - Subsistence  |  SLES_820.46
+Metal Gear Solid 3 - Subsistence  |  SLES_820.48
 Metal Slug 6  |  SLPS_256.74
 Midnight Club 3 - DUB Edition  |  SLES_529.42
 Midnight Club 3 - DUB Edition  |  SLUS_210.29
@@ -558,10 +563,16 @@ Powerpuff Girls, The - Relish Rampage  |  SLUS_205.85
 Prince of Persia - The Sands of Time  |  SLES_519.18
 Prince of Persia: The Two Thrones  |  SLES_537.77
 Prince of Persia: Warrior Within  |  SLES_528.22
+Pro Evolution Soccer 2008  |  SLES_549.13
 Pro Evolution Soccer 2008  |  SLUS_216.85
 Pro Evolution Soccer 2009  |  SLES_554.06
 Pro Evolution Soccer 2009  |  SLUS_218.21
+Pro Evolution Soccer 2010 /D SLES_555.89
+Pro Evolution Soccer 2011  |  SLES_556.38
+Pro Evolution Soccer 2012  |  SLES_556.58
+Pro Evolution Soccer 2013  |  SLES_556.69
 Pro Evolution Soccer 2014  |  SLES_556.74
+Pro Evolution Soccer 5  |  SLES_535.44
 Pro Evolution Soccer 6  |  SLES_543.62
 Project Zero  |  SLES_508.21
 Project Zero  |  SLPS_250.74
@@ -583,6 +594,7 @@ Red Faction II  |  SLES_511.33
 Red Ninja - End of Honor  |  SLES_530.25
 Reign of Fire  |  SLES_508.73
 Reign of Fire  |  SLUS_205.56
+Resident Evil - Code Veronica X  |  SLES_503.06
 Resident Evil - Dead Aim  |  SLES_514.48
 Resident Evil - Outbreak  |  SLES_515.89
 Resident Evil 4  |  SLES_537.02
@@ -590,6 +602,7 @@ Rez  |  SCES_505.01
 Ridge Racer V  |  SCES_500.00
 Riding Star  |  SLUS_217.37
 River King - A Wonderful Journey  |  SLUS_212.75
+Road Trip Adventure  |  SLES_513.56
 Robin Hood - Defender of the Crown  |  SLUS_207.23
 Robotech Battlecry  |  SLES_513.22
 RockMan X - Command Mission  |  SLPM_656.43
@@ -639,6 +652,10 @@ Shaun Palmers Pro Snowboarder  |  SLUS_201.99
 Shin Megami Tensei - Persona 3  |  SLUS_215.69
 Shin Megami Tensei - Persona 3 FES  |  SLES_553.54
 Shin Megami Tensei III - Nocturne Maniax Chronicle Edition  |  SLPM_666.81
+Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs the Soulless Army  |  SLES_546.29
+Shin Megami Tensei: Digital Devil Saga  |  SLES_534.58
+Shin Megami Tensei: Digital Devil Saga 2  |  SLES_545.55
+Shin Megami Tensei: Lucifer's Call  |  SLES_533.63
 Shin Sangoku Musou 2  |  SLPM_650.53
 Shining Force EXA  |  SLPM_666.46
 Shining Force Neo  |  SLPM_659.08
@@ -656,6 +673,7 @@ Silent Hill 4 - The Room  |  SLES_524.45
 Silent Hill 4 - The Room  |  SLPM_655.74
 Silent Hill 4 - The Room  |  SLUS_208.73
 Silpheed - The Lost Planet  |  SLES_501.93
+Simple 2000 Vol 101: The Oneechanpon  |  SLPS_204.66
 Siren 2  |  SCPS_151.06
 Sky Odyssey  |  SCES_501.05
 Sly Racoon 2  |  SCPS_150.90
@@ -707,6 +725,7 @@ TXR Drift 2  |  SLUS_213.94
 Tale of Despereaux, The  |  SLUS_218.52
 Tales of Destiny [Directors Cut]  |  SLPS_258.42
 Tales of Legendia  |  SLPS_255.33
+Tales of Symphonia  |  SLPS_254.00
 Tales of the Abyss  |  SLPS_255.86
 Tales of the Abyss  |  SLUS_213.86
 Teenage Mutant Ninja Turtles 2 - Battle Nexus  |  SLES_530.17
@@ -714,6 +733,8 @@ Teenage Mutant Ninja Turtles 3 - Mutant Nightmare  |  SLES_538.50
 Tekken 4  |  SLPS_251.00
 Tekken Tag Tournament  |  SCES_500.01
 Tenchu: Fatal Shadows  |  SLES_530.12
+Tenchu: Fatal Shadows  |  SLES_530.16
+Tenchu: Sky Rage  |  SLES_514.00
 Tenchu: Wrath of Heaven  |  SLES_506.79
 Tengai Makyou II - Manji Maru  |  SLPM_654.01
 Tengai Makyou II - Manji Maru  |  SLPM_654.02
@@ -735,6 +756,7 @@ Tiger Woods PGA Tour 2006  |  SLUS_212.64
 Time Crisis 2  |  SCES_503.00
 Time Crisis 3  |  SCES_518.44
 TimeSplitters  |  SLES_500.78
+TimeSplitters  |  SLUS_200.90
 TimeSplitters 2  |  SLES_508.77
 Tokyo Bus Guide - Annai  |  SLPM_650.32
 Tokyo Xtreme Racer 3  |  SLUS_208.31
@@ -748,6 +770,7 @@ Tomb Raider - The Angel of Darkness  |  SLPS_252.46
 Top Spin  |  SLUS_212.22
 Transworld Surf  |  SLUS_203.56
 Trapt  |  SLES_538.24
+Trapt  |  SLUS_212.55
 Twisted Metal - Black  |  SCES_503.60
 UFC - Ultimate Fighting Championship - Throwdown  |  SLUS_202.52
 Ultimate Spider-Man  |  SLES_533.91
@@ -770,6 +793,7 @@ Victorious Boxers 2 - Ippos Road to Glory  |  SLPS_252.87
 Vietcong - Purple Haze  |  SLUS_210.68
 Viewtiful Joe  |  SLES_526.78
 Viewtiful Joe 2  |  SLES_528.68
+Virtua Fighter 4  |  SLUS_203.23
 Virtua Fighter 4 - Evolution  |  SLES_516.16
 Virtua Fighter Cyber Generation  |  SLUS_209.77
 Virtual On Marz  |  SLUS_206.74
