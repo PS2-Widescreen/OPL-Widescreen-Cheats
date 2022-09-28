@@ -1,0 +1,10 @@
+"Shin Megami Tensei: Digital Devil Saga 2 /ID SLES_545.55"
+//ELF CRC=D568B684
+
+Mastercode
+9033E290 0C0CF84C
+
+
+//Widescreen Hack (16:9) by ElHecht
+203539d4 3fc6d3a0 // 3f951eb8 hor fov
+20353d74 3fc6d3a0 // 3f951eb8 unknown

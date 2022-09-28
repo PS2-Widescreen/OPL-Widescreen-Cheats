@@ -1,0 +1,11 @@
+"Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs the Soulless Army /ID SLES_546.29"
+//ELF CRC=4D76082F
+
+Mastercode
+90397258 0C0E5C3E
+
+
+//Widescreen pnach by El_Patas (Only works for 3D characters, not for prerendered backgrounds)
+
+203AE764 3FC6D3A0 //3F951EB8 hor fov
+203AEB14 3FC6D3A0 //3F951EB8 unknown

@@ -1,0 +1,17 @@
+"Resident Evil - Code Veronica X /ID SLES_503.06"
+//ELF CRC=6EA9DDA9
+
+Mastercode
+9010E2F8 0C043866
+
+
+//Widescreen hack by ElHecht
+// 16:9
+21140300 3f400000 // 3f800000 hor fov
+21E394C0 01aa0280 // 01400280 fmv fix
+21E394C4 000c0000 // 00400000 fmv fix
+
+// 16:10
+//21140300 3f555555 // 3f800000 hor fov
+//21E394C0 01800280 // 01400280 fmv fix
+//21E394C4 00200000 // 00400000 fmv fix
