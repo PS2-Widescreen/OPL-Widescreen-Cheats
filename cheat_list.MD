@@ -1,6 +1,5 @@
 game count|1641
 ------------- | --------------- |
-  |  SLES_508.97
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
 .hack//Vol.3 - Erosion Pollution  |  SLPS_251.58
@@ -717,6 +716,7 @@ Super Robot Wars - Alpha 3  |  SLPS_255.37
 Super Robot Wars - Scramble Commander  |  SLPS_252.96
 Super Robot Wars MX  |  SLPS_253.45
 Super Trucks Racing 2  |  SLUS_214.50
+Super trucks  |  SLES_508.97
 Superbikes TT  |  SLUS_209.12
 Surfs Up  |  SLUS_215.72
 Syphon Filter - Logan's Shadow  |  SCUS_975.84
