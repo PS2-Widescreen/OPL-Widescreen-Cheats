@@ -1,4 +1,5 @@
 ﻿"Champions - Return To Arms /ID SLUS_209.73"
+
 Mastercode
 90355b18 0c0d566e
 //903512d8 0c0ed7c3
@@ -23,4 +24,8 @@ Mastercode
 202a8948 3c013fe2
 202a894c 3421fc95
 
-//
+//In game debug mode
+//When the following cheat is enabled the game will enter in debug mode
+//While in debug mode You can edit save file, since online capabilities have not been restored for this game
+//The following cheat is the only method available to start a New Game on the hidden 5th difficulty
+//204F8EEO 00000001
