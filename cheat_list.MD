@@ -1,4 +1,4 @@
-game count|1641
+game count|1642
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
@@ -596,6 +596,7 @@ Reign of Fire  |  SLUS_205.56
 Resident Evil - Code Veronica X  |  SLES_503.06
 Resident Evil - Dead Aim  |  SLES_514.48
 Resident Evil - Outbreak  |  SLES_515.89
+Resident Evil - Outbreak File #2  |  SLES_533.19
 Resident Evil 4  |  SLES_537.02
 Rez  |  SCES_505.01
 Ridge Racer V  |  SCES_500.00
