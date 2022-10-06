@@ -58,3 +58,7 @@ Mastercode
 203899FC 00021203 //Normalize Number Width for Alignment
 20389A00 08080A9C //Return to Game
 20389A04 02629821 //Add Current Text Size to Number Width for Alignment
+
+
+//No interlacing (GSM ON-NTSC)
+//202cadbc 00000000
