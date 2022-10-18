@@ -1,0 +1,10 @@
+"Le Avventure di Lupin III /ID SLES_549.73"
+//ELF CRC=29C641C6
+
+Mastercode
+9010C630 0C043134
+
+
+// Widescreen hack by Arapapa
+// X-Fov
+2034d474 3c023fab
