@@ -1,0 +1,11 @@
+"King's Field IV /ID SLES_509.20"
+//ELF CRC=401F4726
+
+Mastercode
+90229F70 0C08A784
+
+
+//Widescreen hack by pelvicthrustman
+2022d3bc 3c013f40 //00000000
+2022d3c0 44810000 //00000000
+2022d3c8 4600c602 //00000000
