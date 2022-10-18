@@ -1,0 +1,20 @@
+"Armored Core 3 /ID SLES_513.99"
+//ELF CRC=DE5AF9A8
+
+Mastercode
+902E4A78 0C0B9246
+
+
+//Widescreen hack by ElHecht
+// 16:9
+202e8c7c 3c013f40 // 00000000 hor fov
+202e8c88 44810000 // 00000000
+202e8c8c 4600c602 // 00000000
+2026dbcc 3c0143d6 // 3c0143a0 renderfix
+
+// 16:10
+//202e8c7c 3c013f55 // 00000000 hor fov
+//202e8c80 34215555 // 00000000 hor fov
+//202e8c88 44810000 // 00000000
+//202e8c8c 4600c602 // 00000000
+//2026dbcc 3c0143c1 // 3c0143a0 renderfix
