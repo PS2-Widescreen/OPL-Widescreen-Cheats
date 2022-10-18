@@ -1,0 +1,10 @@
+"Kuri Kuri Mix /ID SLES_502.24"
+//ELF CRC=19D145D7
+
+Mastercode
+901E6A48 0C079A3A
+
+
+//Widescreen hack by El_Patas
+//Gameplay 16:9
+20100280 3C013F40 //3C013F80 (Increases hor. axis)

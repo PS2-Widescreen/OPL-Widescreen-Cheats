@@ -1,0 +1,11 @@
+"Lethal Skies Elite Pilot: Team SW  /ID SLES_508.92"
+//ELF CRC=BBAB0D9A
+
+Mastercode
+902AC6F8 0C0AB166
+
+
+//Widescreen pnach by El_Patas
+//Gameplay 16:9
+2014E450 3C0143C0 //3C014400 Zoom
+201006D4 3C0143B4 //3C0143F0 Y-FOV

@@ -1,0 +1,18 @@
+"Makai Kingdom - Chronicles of the Sacred Tome /ID SLES_536.90"
+//ELF CRC=C97A17F8
+
+Mastercode
+90108A50 0C04223C
+
+
+//Widescreen hack by El_Patas
+//Gameplay 16:9 (ELF hack)
+20104DE4 3C013F40 //00000000 (Increases hor. axis)
+20104DE8 44810000 //00000000
+20104DF0 4600C602 //00000000
+
+//2D Characters X-Fov
+20148fcc 3c023f40 //3c023f80
+
+//(Old previous Memory hack by JLB)
+//2032DCF0 45700000 //45A00000

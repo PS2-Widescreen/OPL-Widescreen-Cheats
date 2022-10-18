@@ -1,0 +1,9 @@
+"Mashed /ID SLES_524.46"
+//ELF CRC=E8F2F813
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//403f013c 00008144 00000000 e42360e4
+201f269c 3c013f10 //3c013f40
