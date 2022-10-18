@@ -1,9 +1,10 @@
-game count|1642
+game count|1663
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
 .hack//Vol.3 - Erosion Pollution  |  SLPS_251.58
 .hack//Vol.4 - Zettai Houi  |  SLPS_252.02
+//Raw Danger!  |  SLES_545.87
 007 - Alles oder Nichts  |  SLES_520.46
 24 - The Game  |  SCES_533.58
 24 - The Game  |  SLUS_212.68
@@ -25,11 +26,13 @@ American Chopper 2  |  SLUS_212.88
 Amplitude  |  SCES_517.06
 And 1 Streetball  |  SLUS_212.37
 Anubis Zone of Enders  |  SLPM_652.36
+Arctic Thunder  |  SLUS_202.17
 Armored Core - Nexus (Disc 1) (Evolution)  |  SLUS_209.86
 Armored Core - Nexus (Disc 2) (Revolution)  |  SLUS_210.79
 Armored Core 2  |  SLES_500.79
 Armored Core 2  |  SLPS_250.07
 Armored Core 2 - Another Age  |  SLES_509.05
+Armored Core 3  |  SLES_513.99
 Arthur and the Invisibles  |  SLUS_213.05
 Athens 2004  |  SCES_524.10
 Athens 2004  |  SCUS_973.79
@@ -118,6 +121,7 @@ Constantine  |  SLES_528.72
 Constantine  |  SLUS_211.42
 Contra - Shattered Soldier  |  SLES_512.84
 Coraline  |  SLUS_218.54
+Crash Bandicoot - The Wrath of Cortex  |  SLUS_202.38
 Crash Bandicoot - the wrath of Cortex  |  SLES_503.86
 Crash Nitro Kart  |  SLES_515.11
 Crash Tag Team Racing  |  SLES_534.39
@@ -366,16 +370,21 @@ Kim Possible - What's the Switch  |  SLES_543.88
 King Kong, Peter Jacksons - The Official Game of the Movie  |  SLUS_213.11
 King of Fighters - Maximum Impact  |  SLUS_209.23
 King of Fighters, The - Maximum Impact 2  |  SLPS_256.09
+King's Field IV  |  SLES_509.20
 Kingdom Hearts  |  SCES_509.69
 Kingdom Hearts - Re:Chain of Memories  |  SLPM_666.76
 Kingdom Hearts 2 Final Mix +  |  SLPM_666.75
 Kings Field 4  |  SLPS_250.57
 Klonoa 2 - Lunatea's Veil  |  SCES_503.54
+Kuri Kuri Mix  |  SLES_502.24
 LA Rush  |  SLES_534.19
+LEGO Indiana Jones - The Original Adventures  |  SLES_551.33
 LEGO Star Wars II - The Original Trilogy  |  SLPM_665.72
 La Pucelle: Tactics  |  SLES_529.78
 Lara Croft Tomb Raider: The Angel Of Darkness  |  SLES_512.27
 LarryBoy and the Bad Apple  |  SLUS_214.40
+Le Avventure di Lupin III  |  SLES_549.73
+Le Mans 24 Hours  |  SLES_501.31
 Legacy of Kain: Defiance  |  SLES_521.50
 Legacy of Kain: Soul Reaver 2  |  SLES_501.96
 Legaia 2 - Duel Saga  |  SCPS_150.20
@@ -383,9 +392,12 @@ Legends of Wrestling 2  |  SLUS_205.07
 Legions Gekitou! Saga Battle  |  SLPS_254.27
 Leisure Suit Larry - Magna Cum Laude  |  SLES_526.43
 Leisure Suit Larry - Magna Cum Laude  |  SLUS_209.56
+Leisure Suit Larry - Magna Cum Laude - Uncut  |  SLES_526.41
 Lemony Snickets A Series of Unfortunate Events  |  SLUS_210.78
 Lethal Skies - Elite Pilot - Team SW  |  SLUS_203.86
 Lethal Skies 2  |  SLUS_207.35
+Lethal Skies Elite Pilot: Team SW   |  SLES_508.92
+Lethal Skies II  |  SLES_518.86
 LifeLine - Voice Action Adventure  |  SLUS_208.48
 Lord of the Rings, The - The Fellowship of the Ring  |  SLES_509.88
 Lord of the Rings, The - The Return of the King  |  SLPM_655.03
@@ -418,18 +430,26 @@ MX Unleashed  |  SLUS_207.67
 MX World Tour featuring Jamie Little  |  SLUS_210.97
 MX vs ATV Unleashed  |  SLUS_211.04
 MX vs ATV Untamed  |  SLUS_217.01
+Mace Griffin  |  SLUS_205.05
 Mace Griffin - Bounty Hunter  |  SLES_516.53
+Mad Maestro!  |  SLES_507.70
+Made Man  |  SLES_544.44
 Made Man - Confessions of the Family Blood  |  SLUS_215.87
 Mafia  |  SLES_522.82
 Magna Carta: Tears of Blood  |  SLES_534.83
 Mahoroba Stories  |  SLPM_667.51
 Mahou Tsukai Kurohime  |  SLPM_661.64
+Makai Kingdom - Chronicles of the Sacred Tome  |  SLES_536.90
 Maken Shao - Demon Sword  |  SLES_510.58
 Manhunt  |  SLES_520.23
 Marvel - Super Hero Squad  |  SLUS_219.10
 Marvel Super Hero Squad  |  SLES_555.72
+Marvel vs Capcom 2  |  SLES_511.74
+Mashed  |  SLES_524.46
+Mat Hoffman's Pro BMX 2  |  SLES_508.70
 Matt Hoffmans Pro BMX 2  |  SLUS_203.35
 Max Payne  |  SLES_503.26
+Maxxed Out Racing  |  SLES_516.22
 McFarlane Evil Prophecy  |  SLUS_206.57
 Medal of Honor - European Assault  |  SLES_533.32
 Medal of Honor - European Assault  |  SLUS_211.99
@@ -559,6 +579,7 @@ Popolocrois - The Law of the Moon  |  SCPS_150.63
 Portal Runner  |  SLES_502.63
 Portal Runner  |  SLUS_200.03
 Powerpuff Girls, The - Relish Rampage  |  SLUS_205.85
+Predator - Concrete Jungle  |  SLES_530.91
 Prince of Persia - The Sands of Time  |  SLES_519.18
 Prince of Persia: The Two Thrones  |  SLES_537.77
 Prince of Persia: Warrior Within  |  SLES_528.22
@@ -845,6 +866,7 @@ Xenosaga Episode III - Also Sprach Zarathustra [Disc 1]  |  SLPS_256.40
 Xenosaga Episode III - Also Sprach Zarathustra [Disc 2]  |  SLPS_256.41
 Xenosaga Episode III - Also sprach Zarathustra (Disc 1)  |  SLUS_213.89
 Xenosaga Episode III - Also sprach Zarathustra (Disc 2)  |  SLUS_214.17
+Yanya Caballista - City Skater  |  SLUS_202.78
 Yoshitsuneki  |  SLPS_255.23
 Ys - The Ark of Napishtim  |  SLES_530.79
 Ys - The Ark of Napishtim  |  SLPM_658.30
@@ -1001,7 +1023,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Crash 'n' Burn  |  SLUS_210.13
 ﻿Crash - Nitro Kart  |  SLUS_206.49
 ﻿Crash - Tag Team Racing  |  SLUS_211.91
-﻿Crash Bandicoot - The Wrath of Cortex  |  SLUS_202.38
 ﻿Crash Twinsanity  |  SLUS_209.09
 ﻿Crash: Mind over Mutant  |  SLUS_217.28
 ﻿Crazy Frog Racer  |  SLES_538.69
