@@ -1,0 +1,13 @@
+"NBA Street Vol 2 /ID SLES_514.81"
+//ELF CRC=92ABE4E1
+
+Mastercode
+903BFD18 0C0EFEEE
+
+//Widescreen Hack by Ko81e24wy
+
+//Gameplay 16:9
+//(Increases hor. axis)
+208d6aa0 3f400000
+208d6ad8 3fa66666
+208d6adc 3fa66666

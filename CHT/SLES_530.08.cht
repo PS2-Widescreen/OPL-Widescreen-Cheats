@@ -1,0 +1,31 @@
+"Mercenaries /ID SLES_530.08"
+//ELF CRC=CBA0623D
+
+Mastercode
+90454818 0C1151AE
+
+
+//Widescreen Hack by El_Patas
+// 16:9 
+2033b098 3c013f40 //00000000 hor fov
+
+// 16:10 
+//2033b098 3c013f55 //00000000 hor fov
+//2033b09c 34215555 //00000000 hor fov
+
+// 16:9 and 16:10 main modifications
+// no need to change anything here! all modifications are calculated
+// based on the hor fov value in the upper 16:9/16:10 section
+2033b0a0 4481f000 //00000000 fov
+2033b940 4600f306 //44816000 fov
+
+2033f7cc 461e0843 //3c013f80 renderfix 1 objects
+2033f7d0 46010d43 //4481a800 renderfix 1 objects
+203476b8 4600f306 //44816000 renderfix 2 smoke and fire
+
+//2033a248 0813cbcb //46030842 hud-identification fix // Makes freeze the game
+2033a24c 00000000 //46030002 hud-identification fix
+204f40b8 46030842 //00000000 hud-identification fix
+204f40bc 46030002 //00000000 hud-identification fix
+204f40c0 461e0002 //00000000 hud-identification fix
+204f40c4 080ce663 //00000000 hud-identification fix

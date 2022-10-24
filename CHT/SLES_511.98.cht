@@ -1,0 +1,14 @@
+"NBA Live 2003 (EFDEI) /ID SLES_511.98"
+//ELF CRC=D682A8B8
+
+Mastercode
+902C4BC8 0C0B129A
+
+
+//Widescreen hack by Arapapa
+//Gameplay 16:9
+
+2020c9dc 3c013fe3 //3c013faa
+2020c9e0 34218e2a //3421aaab
+
+2021448c 3c013fab //3c013f80

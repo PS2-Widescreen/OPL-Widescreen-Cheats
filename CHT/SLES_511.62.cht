@@ -1,0 +1,14 @@
+"Metropolismania /ID SLES_511.62"
+//ELF CRC=9BA3712B
+
+Mastercode
+90110490 0C0440CC
+
+
+// Widescreen hack by Arapapa
+
+// X-Fov
+2012a92c 3c0a3f40
+
+// Y-Fov
+20186564 3c033fb0

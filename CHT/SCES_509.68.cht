@@ -1,0 +1,46 @@
+"Kingdom Hearts (France) /ID SCES_509.68"
+//ELF CRC=F6DC728D
+//Widescreen hack by ElHecht - Port PAL-FR by PuNkY_BoY
+
+Mastercode
+9025B378 0C096C86
+
+
+// 16:9
+20110634 3c1b3f40 // 00000000 hor fov gameplay
+2011066c 449bf800 // 00000000 
+201106a0 461f6e42 // 46006e46
+20110670 461fe703 // 00000000 renderfix calculation
+
+//matrix hack
+2026292c 3c013f40 // 00000000
+20262938 44810000 // 00000000 
+2026293c 4600c602 // 00000000
+
+//textbox calculation
+2010b010 46000383 // 3c013f80
+2010b014 449b6800 // 44816800
+2010b030 460d7343 // 46006b86
+2010b040 46007446 // 46006c46
+
+//position fix weapon select
+20207bc0 3c0144fa // 3c014500
+
+//font fix hud and menu
+201eeee4 24100020 // 24100018
+201f7df8 24090020 // 24090018
+
+//font fix subtitle and text box
+//2010c980 24426fb0 // 24427000
+//2010d3d4 3c013f1f // 3c013f55
+//2010d3d8 3421fffc // 3421554f
+//2010d3f8 3c013f40 // 3c013f80
+//2010d820 3c014216 // 3c0141e0
+
+//numbers fix
+201f9ab4 240b0020 // 240b0018
+201f9838 24030020 // 24030018
+
+//FMV's fix
+202a1708 70007000
+2010629c 3c071900

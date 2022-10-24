@@ -1,0 +1,18 @@
+"Michigan (2005) /ID SLES_530.73"
+//ELF CRC=DCD7104E
+
+Mastercode
+901137D0 0C044D9C
+
+
+//Widescreen hack by nemesis2000
+// Added conditions for PAL50 and PAL60 (ElHecht)
+
+// 16:9
+e0011450 0029c3b8 // xxxxxxxx check 0029c3b8 matches value (0000)1450
+201a70d0 240400c0 // 8444ca00 hor fov pal
+
+e0011446 0029c3b8 // xxxxxxxx check 0029c3b8 matches value (0000)1446
+201a70d0 240400a8 // 8444ca00 hor fov ntsc
+
+20184df0 3c023f06 // render fix

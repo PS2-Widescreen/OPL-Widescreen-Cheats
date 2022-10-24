@@ -1,0 +1,26 @@
+"Kingdom Hearts /ID SCES_509.67"
+
+Mastercode
+9025AF78 0C096B86
+
+
+// Widescreen patch by unknown author
+// render fix
+201105e4 3c0143d6
+
+// hor value first half
+20110ad0 3c013f19
+
+// hor value second half
+20110ad4 3421999a
+
+// FMV's fix
+202a1308 70007000
+2010629c 3c071900
+
+// black border fix
+2010430c 00000000
+2010442c 00000000
+
+// 60 FPS
+//002b67cc 00000000
