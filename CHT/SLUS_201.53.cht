@@ -1,0 +1,14 @@
+"RC Revenge Pro /ID SLUS_201.53"
+
+Mastercode
+901C69D0 0C06DF18
+
+//Widescreen hack by Arapapa
+
+//16:9
+201a3aac 08030000
+200c0000 4618a502
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461ea502
+200c0010 08068eac
