@@ -2,12 +2,12 @@
 //ELF CRC=39C58126
 
 Mastercode
-901086D0 0C04215C
+901086d0 0c04215c
 
 
 // Widescreen pnach by El_Patas
 //Gameplay
-203CED80 3FAAAAAB //3F800000 (increases hor. axis)
+203ced80 3faaaaab //3F800000 (increases hor. axis)
 
 //Render fix
-20125F3C 3C053FAB //3C053F80 (increases hor. render area)
+20125f3c 3c053fab //3C053F80 (increases hor. render area)

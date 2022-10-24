@@ -2,9 +2,9 @@
 //ELF CRC=19D145D7
 
 Mastercode
-901E6A48 0C079A3A
+901e6a48 0c079a3a
 
 
 //Widescreen hack by El_Patas
 //Gameplay 16:9
-20100280 3C013F40 //3C013F80 (Increases hor. axis)
+20100280 3c013f40 //3C013F80 (Increases hor. axis)
