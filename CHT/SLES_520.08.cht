@@ -1,0 +1,15 @@
+"NBA Live 2004 (Europe) /ID SLES_520.08"
+//ELF CRC=5EAC167B
+
+Mastercode
+9032AE90 0C0CAB4C
+
+
+//Widescreen hack by Arapapa
+ 
+//Gameplay 16:9
+
+20117734 3c013fe3 //3c013faa
+20117738 34218e2a //3421aaab
+
+201183e4 3c013fab //3c013f80
