@@ -1,0 +1,27 @@
+name: CI-format-pull-request
+
+# only perform this workflow if a manually triggered it from the actions tab
+on:
+  workflow_dispatch:
+
+jobs:
+  check-format:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: make cheats lowercase
+      run: |
+        chmod +x ./lowercasecheats.sh
+        ./lowercasecheats.sh
+
+    - name: Create Pull Request
+      id: prmaker
+      uses: peter-evans/create-pull-request@v4
+      with:
+        commit-message: "make all cheat codes lowercase"
+        body: "make all cheat codes lowercase"
+        title: "make all cheat codes lowercase"
+        delete-branch: true
+        branch-suffix: random
+        add-paths: |
+          CHT/*
