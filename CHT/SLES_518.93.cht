@@ -1,0 +1,10 @@
+"Naval Ops - Warship Gunner /ID SLES_518.93"
+//ELF CRC=72D11CDF
+
+Mastercode
+9011A838 0C0469B6
+
+
+//Widescreen hack by Arapapa
+//2044023c 00608244 f043023c 00688244
+2027b6fc 3c024460 //3c024420 X-Fov
