@@ -2,62 +2,62 @@
 //ELF CRC=B4A004F2
 
 Mastercode
-902D1338 0C0B83BE	
+902d1338 0c0b83be	
 
 
 //Widescreen hack by nemesis2000 and gamemasterplc (Font Fixes by gamemasterplc)
-20202634 080E2665 //Jump to Code to Fix Button Width
-2020268C 080E2678 //Jump to Code to Fix Button Skip Width
-20202690 240200C0 //Button Skip Width Scale (192)
-20202738 080E265C //Jump to Code to Fix Text Width
-202027AC 080E2672 //Jump to Code to Fix Space Width
-202027B0 96020004 //Get Space Width
-202029BC 24040012 //Button Width for Text Alignment
-20202A48 080E267D //Jump to Code to Fix Number Width for Alignment
-20202A4C 240500C0 //Number Width for Alignment Scale (192)
-20202A68 080E266C //Jump to Code to Fix Text Alignment
-20202A6C 02431807 //Get Shifted Text Width for Alignment
-2022C220 26520018 //Spacing for Secondary Button for Menu Item Text
-2027B3F4 3C014328 //X FOV Value
-2027B3F8 44810000 //Load X FOV Value
-20389970 02A43007 //Get Shifted Text Width
-20389974 240200C0 //Text Width Multiplier (192)
+20202634 080e2665 //Jump to Code to Fix Button Width
+2020268c 080e2678 //Jump to Code to Fix Button Skip Width
+20202690 240200c0 //Button Skip Width Scale (192)
+20202738 080e265c //Jump to Code to Fix Text Width
+202027ac 080e2672 //Jump to Code to Fix Space Width
+202027b0 96020004 //Get Space Width
+202029bc 24040012 //Button Width for Text Alignment
+20202a48 080e267d //Jump to Code to Fix Number Width for Alignment
+20202a4c 240500c0 //Number Width for Alignment Scale (192)
+20202a68 080e266c //Jump to Code to Fix Text Alignment
+20202a6c 02431807 //Get Shifted Text Width for Alignment
+2022c220 26520018 //Spacing for Secondary Button for Menu Item Text
+2027b3f4 3c014328 //X FOV Value
+2027b3f8 44810000 //Load X FOV Value
+20389970 02a43007 //Get Shifted Text Width
+20389974 240200c0 //Text Width Multiplier (192)
 20389978 02420019 //Scale Text Spacing
-2038997C 00009012 //Get Scaled Text Spacing
-20389980 00C20019 //Scale Text Width
+2038997c 00009012 //Get Scaled Text Spacing
+20389980 00c20019 //Scale Text Width
 20389984 00003012 //Get Scaled Text Width
 20389988 00129203 //Normalize Text Spacing
-2038998C 080809D0 //Return to Game
+2038998c 080809d0 //Return to Game
 20389990 00063203 //Normalize Text Width
-20389994 0C0AD060 //Call dlSelectTextureKick
+20389994 0c0ad060 //Call dlSelectTextureKick
 20389998 00000000 //Delay Slot
-2038999C 240700C0 //Button Width Multiplier (192)
-203899A0 02470019 //Scale Button Width
-203899A4 00009012 //Get Scaled Button Width
-203899A8 0808098F //Return to Game
-203899AC 00129203 //Normalize Button Width
-203899B0 240500C0 //Text Width Multiplier for Alignment (192)
-203899B4 00A30019 //Scale Text Width for Alignment
-203899B8 00001812 //Get Scaled Text Width for Alignment
-203899BC 00031A03 //Normalize Text Width for Alignment
-203899C0 08080A9C //Return to Game
-203899C4 02639821 //Goto Next Character for Text Alignment
-203899C8 02A21007 //Get Pre-Scaled Space Width
-203899CC 240400C0 //Space Width X Scale
-203899D0 00820019 //Scale Space Width
-203899D4 00001012 //Get Scaled Space Width
-203899D8 080809ED //Return to Game
-203899DC 00021203 //Normalize Space Width
-203899E0 02420019 //Scale Button Skip Width
-203899E4 00009012 //Get Scaled Button Skip Width
-203899E8 00129203 //Normalize Button Skip Width
-203899EC 080809EE //Return to Game
-203899F0 02328821 //Add Current Text Position to Button Skip Width
-203899F4 00450019 //Scale Number Width for Alignment
-203899F8 00001012 //Get Number Width for Alignment
-203899FC 00021203 //Normalize Number Width for Alignment
-20389A00 08080A9C //Return to Game
-20389A04 02629821 //Add Current Text Size to Number Width for Alignment
+2038999c 240700c0 //Button Width Multiplier (192)
+203899a0 02470019 //Scale Button Width
+203899a4 00009012 //Get Scaled Button Width
+203899a8 0808098f //Return to Game
+203899ac 00129203 //Normalize Button Width
+203899b0 240500c0 //Text Width Multiplier for Alignment (192)
+203899b4 00a30019 //Scale Text Width for Alignment
+203899b8 00001812 //Get Scaled Text Width for Alignment
+203899bc 00031a03 //Normalize Text Width for Alignment
+203899c0 08080a9c //Return to Game
+203899c4 02639821 //Goto Next Character for Text Alignment
+203899c8 02a21007 //Get Pre-Scaled Space Width
+203899cc 240400c0 //Space Width X Scale
+203899d0 00820019 //Scale Space Width
+203899d4 00001012 //Get Scaled Space Width
+203899d8 080809ed //Return to Game
+203899dc 00021203 //Normalize Space Width
+203899e0 02420019 //Scale Button Skip Width
+203899e4 00009012 //Get Scaled Button Skip Width
+203899e8 00129203 //Normalize Button Skip Width
+203899ec 080809ee //Return to Game
+203899f0 02328821 //Add Current Text Position to Button Skip Width
+203899f4 00450019 //Scale Number Width for Alignment
+203899f8 00001012 //Get Number Width for Alignment
+203899fc 00021203 //Normalize Number Width for Alignment
+20389a00 08080a9c //Return to Game
+20389a04 02629821 //Add Current Text Size to Number Width for Alignment
 
 
 //No interlacing (GSM ON-NTSC)

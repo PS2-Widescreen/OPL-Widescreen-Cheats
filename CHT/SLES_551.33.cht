@@ -2,11 +2,11 @@
 //ELF CRC=6B1E796B
 
 Mastercode
-90449D50 0C1126FC
+90449d50 0c1126fc
 
 
 //Widescreen hack by El_Patas
 //Gameplay 16:9
-204EF0DC 00000A01 //00000A00 Internal Wide Option On
-204EF0F0 00000A01 //00000A00 Internal Wide Option On
-2031DB2C 3C013F40 //3C013F28 Zoom ratio
+204ef0dc 00000a01 //00000A00 Internal Wide Option On
+204ef0f0 00000a01 //00000A00 Internal Wide Option On
+2031db2c 3c013f40 //3C013F28 Zoom ratio

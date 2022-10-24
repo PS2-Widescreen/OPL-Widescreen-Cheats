@@ -2,12 +2,12 @@
 //ELF CRC=91A65EAE
 
 Mastercode
-903A2FD8 0C0E8B9E
+903a2fd8 0c0e8b9e
 
 
 //Widescreen hack by Arapapa
 //Force turn on Widescreen
-0058A454 00000001
+0058a454 00000001
 
 //Zoom fix
 2024d854 3c013f25 //3c013f00
