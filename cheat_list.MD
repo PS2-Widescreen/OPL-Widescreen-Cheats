@@ -1,4 +1,4 @@
-game count|1663
+game count|1686
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
@@ -362,6 +362,7 @@ Kaitou Sly Cooper  |  SCPS_150.36
 Kamen Rider - Climax Heroes  |  SLPS_259.44
 Kaze no Klonoa 2 - Sekai ga Nozonda Wasuremono  |  SLPS_250.33
 Kelly Slaters Pro Surfer  |  SLUS_203.34
+Kengo - Master of Bushido  |  SLES_501.14
 Keroro Gunsou - Mero Mero Battle Royale  |  SLPS_253.99
 Kidou Senshi Gundam 00 - Gundam Meisters  |  SLPS_259.00
 Kill Switch  |  SLUS_207.06
@@ -370,10 +371,16 @@ Kim Possible - What's the Switch  |  SLES_543.88
 King Kong, Peter Jacksons - The Official Game of the Movie  |  SLUS_213.11
 King of Fighters - Maximum Impact  |  SLUS_209.23
 King of Fighters, The - Maximum Impact 2  |  SLPS_256.09
+King of Route 66  |  SLUS_205.22
 King's Field IV  |  SLES_509.20
+Kingdom Hearts  |  SCES_509.67
 Kingdom Hearts  |  SCES_509.69
+Kingdom Hearts  |  SCES_509.71
+Kingdom Hearts (France)  |  SCES_509.68
 Kingdom Hearts - Re:Chain of Memories  |  SLPM_666.76
 Kingdom Hearts 2 Final Mix +  |  SLPM_666.75
+Kingdom Hearts II  |  SLES_542.32
+Kingdom Hearts II  |  SLES_542.33
 Kings Field 4  |  SLPS_250.57
 Klonoa 2 - Lunatea's Veil  |  SCES_503.54
 Kuri Kuri Mix  |  SLES_502.24
@@ -450,6 +457,7 @@ Mat Hoffman's Pro BMX 2  |  SLES_508.70
 Matt Hoffmans Pro BMX 2  |  SLUS_203.35
 Max Payne  |  SLES_503.26
 Maxxed Out Racing  |  SLES_516.22
+Maxxed Out Racing Nitro  |  SLES_545.45
 McFarlane Evil Prophecy  |  SLUS_206.57
 Medal of Honor - European Assault  |  SLES_533.32
 Medal of Honor - European Assault  |  SLUS_211.99
@@ -458,8 +466,12 @@ Medal of Honor - Rising Sun  |  SLES_518.73
 Medal of Honor - Rising Sun  |  SLUS_207.53
 Medal of Honor - Vanguard  |  SLES_546.83
 Medal of Honor - Vanguard  |  SLUS_215.97
+Mega Man X - Command  |  SLES_528.32
+Mega Man X7 (Europe)  |  SLES_518.85
 MegaMan X8  |  SLES_529.88
 Men in Black 2 - Alien Escape  |  SLUS_203.73
+Mercenaries  |  SLES_530.08
+Mercenaries (Europe)  |  SLES_525.88
 Mercury Meltdown - Remix  |  SLUS_215.48
 Metal Gear Solid 2 - Sons of Liberty  |  SLPM_650.78
 Metal Gear Solid 2 - Substance  |  SLES_820.09
@@ -471,10 +483,13 @@ Metal Gear Solid 3 - Snake Eater  |  SLUS_209.15
 Metal Gear Solid 3 - Subsistence  |  SLES_820.46
 Metal Gear Solid 3 - Subsistence  |  SLES_820.48
 Metal Slug 6  |  SLPS_256.74
+Metropolismania  |  SLES_511.62
+Michigan (2005)  |  SLES_530.73
 Midnight Club 3 - DUB Edition  |  SLES_529.42
 Midnight Club 3 - DUB Edition  |  SLUS_210.29
 Midnight Club II  |  SLUS_202.09
 Mike Tyson - Heavyweight Boxing  |  SLUS_203.45
+Mission Impossible - Operation Surma  |  SLES_520.01
 Mission Impossible - Operation Surma  |  SLUS_204.00
 Mobile Suit Gundam - Gundam vs Z-Gundam  |  SLPS_254.19
 Mobile Suit Gundam - Gundam vs Zeta Gundam  |  SLUS_208.21
@@ -509,11 +524,16 @@ Mystical Ninja Goemon Zero (Aug 26, 2005 prototype)  |  SLPM_650.14
 NASCAR Heat 2002  |  SLUS_201.76
 NBA Ballers  |  SLUS_205.41
 NBA Ballers - Phenom  |  SLUS_211.86
+NBA Live 06  |  SLES_535.46
 NBA Live 06  |  SLUS_212.79
 NBA Live 2003  |  SLUS_205.36
+NBA Live 2003 (EFDEI)  |  SLES_511.98
 NBA Live 2004  |  SLUS_207.55
+NBA Live 2004 (Europe)  |  SLES_520.08
 NBA Live 2005  |  SLES_527.13
 NBA Live 2005  |  SLUS_210.58
+NBA Street  |  SLES_502.19
+NBA Street Vol 2  |  SLES_514.81
 NCAA Final Four 2002  |  SCUS_971.36
 NCAA Final Four 2003  |  SCUS_972.04
 NFL Blitz 2003  |  SLUS_204.74
@@ -528,9 +548,11 @@ Naruto - Konoha Spirits  |  SLPS_257.14
 Naruto - Narutimate Hero 2  |  SLPS_253.98
 Naruto Narutimett Hero 3  |  SLPS_255.89
 Naruto Shippuuden Narutimate Accel  |  SLPS_257.68
+Naval Ops - Warship Gunner  |  SLES_518.93
 Need for Speed - Hot Pursuit 2  |  SLES_507.31
 Need for Speed - Underground  |  SLUS_208.11
 Need for Speed Underground J-Tune [EA Best Hits]  |  SLPM_656.14
+Neo Contra  |  SLES_525.10
 Neo Contra  |  SLUS_209.61
 Neon Genesis Evangelion - Battle Orchestra  |  SLPM_667.63
 Neopets - The Darkest Faerie  |  SCUS_973.67
@@ -602,6 +624,7 @@ Pryzm - Chapter One - The Dark Unicorn  |  SLUS_201.72
 Psi-Ops - The Mindgate Conspiracy  |  SLES_527.02
 Psychonauts  |  SLES_538.30
 R-Type Final  |  SLES_519.52
+RC Revenge Pro  |  SLUS_201.53
 Rampage - Total Destruction  |  SLES_538.00
 Rampage - Total Destruction  |  SLUS_213.23
 Ratchet & Clank  |  SCPS_150.37
