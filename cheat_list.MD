@@ -1,4 +1,4 @@
-game count|1686
+game count|1718
 ------------- | --------------- |
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
@@ -17,6 +17,9 @@ Adventure of Tokyo Disney Sea  |  SLPM_650.61
 Adventures of Jimmy Neutron, The - Attack of the Twonkies  |  SLUS_208.87
 Air Force - Delta Strike  |  SLUS_207.03
 Airblade  |  SCES_502.46
+Airborne Troops-Countdown To D-Day  |  SLUS_211.25
+Alias  |  SLUS_206.73
+All-Star Baseball 2002  |  SLUS_200.08
 All-Star Baseball 2003  |  SLUS_203.11
 All-Star Baseball 2004  |  SLUS_205.69
 Alone in the Dark  |  SLES_552.07
@@ -70,6 +73,7 @@ Black & Bruised  |  SLUS_205.06
 Blood Omen 2: Legacy of Kain  |  SLES_507.71
 Blood Will Tell - Tezuka Osamu's Dororo  |  SLES_527.55
 Bloody Roar 3  |  SLES_502.03
+Bloody Roar 3  |  SLUS_202.12
 Bloody Roar 4  |  SLES_518.77
 Bouncer, The  |  SCES_502.41
 Bratz - Forever Diamonds  |  SLUS_214.70
@@ -112,6 +116,7 @@ Charlie and the Chocolate Factory  |  SLUS_212.46
 Cocoto Fishing Master  |  SLUS_216.63
 Code Lyoko - Quest for Infinity  |  SLUS_217.43
 Codename - Kids Next Door - Operation V.I.D.E.O.G.A.M.E.  |  SLUS_211.55
+Colosseum - Road To Freedom  |  SLUS_211.79
 Conflict - Desert Storm  |  SLUS_205.49
 Conflict - Desert Storm 2 - Back to Baghdad  |  SLUS_206.89
 Conflict - Global Terror  |  SLUS_211.72
@@ -330,6 +335,7 @@ Hummer Badlands  |  SLUS_213.57
 Hungry Ghosts  |  SCPS_150.46
 Hunter the Reckoning - Wayward  |  SLUS_205.11
 Hustle, The - Detroit Streets - Kats Story  |  SLUS_213.35
+ICO  |  SCUS_971.13
 IGPX - Immortal Grand Prix  |  SLUS_214.30
 Ikki Tousen - Shining Dragon  |  SLPS_257.98
 Incredible Hulk, The  |  SLUS_217.65
@@ -539,6 +545,7 @@ NCAA Final Four 2003  |  SCUS_972.04
 NFL Blitz 2003  |  SLUS_204.74
 NFL Blitz Pro  |  SLUS_206.31
 NHL 2003  |  SLUS_205.31
+NHL Hitz 2003  |  SLES_507.12
 NHL Hitz 2003  |  SLUS_204.38
 NHL Hitz Pro  |  SLUS_206.91
 NHRA - Countdown to the Championship 2007  |  SLUS_215.47
@@ -563,6 +570,7 @@ Nightshade  |  SLES_522.38
 Nitrobike  |  SLUS_217.38
 No One Lives Forever  |  SLUS_200.28
 ObsCure  |  SLES_525.08
+ObsCure  |  SLES_527.37
 Obscure 2  |  SLES_547.82
 Odin Sphere  |  SLES_551.10
 Odin Sphere  |  SLPM_664.74
@@ -577,17 +585,27 @@ Onimusha - Dawn of Dreams (Disc 2)  |  SLUS_213.62
 Onimusha - Dawn of Dreams [Disc 1]  |  SLES_820.38
 Onimusha - Dawn of Dreams [Disc 2]  |  SLES_820.39
 Open Season  |  SLUS_214.67
+Operation WinBack 2  |  SLES_541.16
+Operation Winback  |  SLES_501.55
 Orphen - Scion of Sorcery  |  SLUS_200.11
+Outlaw Golf  |  SLES_519.26
+Outlaw Golf 2  |  SLES_529.65
 Outlaw Golf 2  |  SLUS_210.30
+Outlaw Tennis  |  SLES_534.90
 Outlaw Tennis  |  SLUS_211.90
+Outlaw Volleyball  |  SLES_522.59
 Outlaw Volleyball Remixed  |  SLUS_210.49
 Over the Monochrome Rainbow featuring Shogo Hamada  |  SLPM_652.71
 Oz  |  SLPM_660.33
 PES 2010 - Pro Evolution Soccer  |  SLUS_219.18
 PES 2011 - Pro Evolution Soccer  |  SLUS_219.42
+Panzer Elite Action  |  SLES_534.44
 Paris Dakar Rally  |  SLUS_203.24
 Persona 3 - Fes [Independent Starting Version]  |  SLPM_666.90
 Persona 4 [Konami-style Special Edition]  |  SLPM_669.78
+Peter Jackson's King Kong  |  SLES_537.03
+Phantasy Star Universe  |  SLES_543.08
+Phantasy Star Universe - Ambition of the Illuminus  |  SLES_548.92
 Piglets Big Game  |  SLUS_206.59
 Pimp my Ride  |  SLUS_215.80
 Pirates - Legend of the Black Buccaneer  |  SLUS_214.78
@@ -597,11 +615,13 @@ Pitfall - The Lost Expedition  |  SLUS_204.08
 Plan, The  |  SLUS_214.66
 PoPoLoCrois - Hajimari no Bouken  |  SCPS_150.27
 Polar Express, The  |  SLUS_209.89
+Police 24-7  |  SLES_502.85
 Popolocrois - The Law of the Moon  |  SCPS_150.63
 Portal Runner  |  SLES_502.63
 Portal Runner  |  SLUS_200.03
 Powerpuff Girls, The - Relish Rampage  |  SLUS_205.85
 Predator - Concrete Jungle  |  SLES_530.91
+Pride FC - Fighting Championships  |  SLES_513.71
 Prince of Persia - The Sands of Time  |  SLES_519.18
 Prince of Persia: The Two Thrones  |  SLES_537.77
 Prince of Persia: Warrior Within  |  SLES_528.22
@@ -614,27 +634,38 @@ Pro Evolution Soccer 2011  |  SLES_556.38
 Pro Evolution Soccer 2012  |  SLES_556.58
 Pro Evolution Soccer 2013  |  SLES_556.69
 Pro Evolution Soccer 2014  |  SLES_556.74
+Pro Evolution Soccer 4  |  SLES_527.60
 Pro Evolution Soccer 5  |  SLES_535.44
+Pro Evolution Soccer 6  |  SLES_542.03
 Pro Evolution Soccer 6  |  SLES_543.62
+Pro Tennis WTA tour  |  SLES_507.52
 Project Zero  |  SLES_508.21
 Project Zero  |  SLPS_250.74
 Project Zero 3 - The Tormented  |  SLES_538.25
 Project Zero II - Crimson Butterfly  |  SLES_523.84
+Pryzm - Chapter One  |  SLES_507.21
 Pryzm - Chapter One - The Dark Unicorn  |  SLUS_201.72
 Psi-Ops - The Mindgate Conspiracy  |  SLES_527.02
 Psychonauts  |  SLES_538.30
 R-Type Final  |  SLES_519.52
+RC Revenge Pro  |  SLES_500.77
 RC Revenge Pro  |  SLUS_201.53
+Rally Fusion  |  SLES_509.97
 Rampage - Total Destruction  |  SLES_538.00
 Rampage - Total Destruction  |  SLUS_213.23
 Ratchet & Clank  |  SCPS_150.37
 Ratchet & Clank 2  |  SCES_516.07
 Ratchet & Clank 3  |  SCES_524.56
 Ready 2 Rumble Boxing Round 2  |  SLES_500.10
+Realm of the Dead  |  SLES_543.39
 Red Card Soccer 2003  |  SLUS_203.54
+Red Faction  |  SLES_502.79
 Red Faction  |  SLUS_200.73
 Red Faction II  |  SLES_511.33
 Red Ninja - End of Honor  |  SLES_530.25
+Red Ninja - End of Honor  |  SLES_530.26
+RedCard  |  SLES_507.11
+Reel Fishing 3  |  SLES_513.08
 Reign of Fire  |  SLES_508.73
 Reign of Fire  |  SLUS_205.56
 Resident Evil - Code Veronica X  |  SLES_503.06
@@ -903,6 +934,7 @@ Zettai Zetsumei Toshi 2 - Itetsuita Kioutachi  |  SLPS_256.06
 Zoids Infinity  |  SLPM_657.49
 Zone of Enders  |  SLPM_650.19
 Zone of the Enders  |  SLES_501.11
+“Capcom Vs SNK 2 (2001)  |  SLUS_202.46”
 ﻿007 - From Russia With Love  |  SLUS_212.82
 ﻿10.000 Bullets  |  SLES_534.81
 ﻿50 Cent - Bulletproof  |  SLUS_213.15
