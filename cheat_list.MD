@@ -1,14 +1,23 @@
-game count|1718
+game count|1734
 ------------- | --------------- |
+.Hack-Part 1 Infection  |  SLES_522.37
+.Hack-Part 2 Mutation  |  SLES_524.67
+.Hack-Part 3 Outbreak  |  SLES_524.69
+.Hack-Part 4 Quarantine  |  SLES_524.68
 .hack//Vol.1  |  SLPS_251.21
 .hack//Vol.2 - Mutation  |  SLPS_251.43
 .hack//Vol.3 - Erosion Pollution  |  SLPS_251.58
 .hack//Vol.4 - Zettai Houi  |  SLPS_252.02
 //Raw Danger!  |  SLES_545.87
 007 - Alles oder Nichts  |  SLES_520.46
+007 Everything Or Nothing  |  SLES_520.05
+007 From Russia With Love  |  SLES_535.53
+18 Wheeler-American Pro Trucker  |  SLES_502.14
+2002 FIFA World Cup  |  SLES_507.96
 24 - The Game  |  SCES_533.58
 24 - The Game  |  SLUS_212.68
 25 to Life  |  SLUS_210.16
+50 Cent-Bulletproof  |  SLES_537.34
 7 Sins  |  SLES_532.97
 Ace Combat - The Belkan War  |  SCES_540.41
 Ace Combat 5 - Squadron Leader  |  SCES_524.24
@@ -64,9 +73,11 @@ Ben 10 - Ultimate Alien - Cosmic Destruction  |  SLUS_219.38
 Ben 10: Alien Force  |  SLUS_218.15
 Beyond Good & Evil  |  SLES_519.17
 Biathlon 2008  |  SLUS_217.11
+Bible Game, The  |  SLUS_211.75
 Biohazard Gun Survivor 2 - CODE - Veronica [with Guncon]  |  SLPM_650.59
 Biohazard Gun Survivor 4 - Heroes Never Die  |  SLPM_652.45
 Bionicle  |  SLUS_208.18
+Bionicle - Heroes  |  SLUS_214.28
 Black  |  SLES_538.86
 Black & Bruised  |  SLES_516.20
 Black & Bruised  |  SLUS_205.06
@@ -82,6 +93,7 @@ Bratz - Rock Angels  |  SLUS_212.25
 Bratz - The Movie  |  SLUS_216.43
 Breath of Fire - Dragon Quarter  |  SLES_514.96
 Breeders Cup - World Thoroughbred Championships  |  SLUS_211.95
+Britney's Dance Beat  |  SLUS_204.02
 Brothers in Arms: Road to Hill 30  |  SLES_528.88
 Brunswick Pro Bowling  |  SLUS_215.66
 Bully  |  SLUS_212.69
@@ -320,6 +332,7 @@ High Roller Casino  |  SLUS_210.14
 Hissatsu Ura-Kagyou  |  SLPM_661.13
 History Channel - Battle for the Pacific  |  SLUS_217.12
 Hitman - Blood Money  |  SLES_530.30
+Hitman - Contracts  |  SLES_521.32
 Hitman - Contracts  |  SLES_521.35
 Hitman - Contracts  |  SLUS_208.82
 Hitman 2 - Silent Assassin  |  SLPS_252.69
@@ -556,6 +569,7 @@ Naruto - Narutimate Hero 2  |  SLPS_253.98
 Naruto Narutimett Hero 3  |  SLPS_255.89
 Naruto Shippuuden Narutimate Accel  |  SLPS_257.68
 Naval Ops - Warship Gunner  |  SLES_518.93
+Need For Speed Underground 2  |  SLUS_210.65
 Need for Speed - Hot Pursuit 2  |  SLES_507.31
 Need for Speed - Underground  |  SLUS_208.11
 Need for Speed Underground J-Tune [EA Best Hits]  |  SLPM_656.14
@@ -763,6 +777,7 @@ Soul Eater - Battle Resonance  |  SLPS_259.12
 Soul Nomad & the World Eaters  |  SLES_551.67
 Soul Reaver 2 - Legacy of Kain  |  SLPS_250.85
 Splashdown  |  SLUS_202.23
+Splatter Master  |  SLES_533.68
 SpongeBob Squarepants - Lights, Camera, PANTS!  |  SLUS_212.52
 SpongeBob Squarepants - The Movie  |  SLUS_209.04
 SpongeBobs Atlantis SquarePantis  |  SLUS_216.44
@@ -815,6 +830,7 @@ Tenchu: Wrath of Heaven  |  SLES_506.79
 Tengai Makyou II - Manji Maru  |  SLPM_654.01
 Tengai Makyou II - Manji Maru  |  SLPM_654.02
 Tengai Makyou III - Namida  |  SLPM_659.52
+Terminator 3 - Rise Of The Machines  |  SLUS_207.99
 Terminator, The - Dawn of Fate  |  SLUS_203.91
 Tetsujin 28 Go  |  SLPS_253.62
 The Operative - No One Lives Forever  |  SLES_505.92
