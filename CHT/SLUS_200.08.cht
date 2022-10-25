@@ -1,0 +1,17 @@
+"All-Star Baseball 2002 /ID SLUS_200.08"
+//ELF CRC=193623F8
+
+Mastercode
+902B60D4 0C0A3734
+
+
+//Widescreen hack by Arapapa
+//16:9
+
+//Y-fov
+//803f013c 00088144 02631646
+202625b0 3c013fe4 //3c013f80
+
+//Zoom
+//803f013c 00108144 34600046
+202666e4 3c013f40 //3c013f80
