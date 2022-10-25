@@ -1,0 +1,18 @@
+"Peter Jackson's King Kong /ID SLES_537.03"
+//ELF CRC=2D0F72D6
+
+Mastercode
+905F7A90 0C17DE4C
+
+
+//Widescreen hack by Arapapa
+
+//Zoom
+20127ac4 3c033f40 //3c033f80
+
+//Y-Fov
+20134e68 3c033fe3 //3c033faa 4/3 Black Bands Screen Mode
+20134e70 3c033fe3 //3c033faa 4/3 Screen Mode
+
+//Render fix
+201529e0 3c023f40 //3c023f00
