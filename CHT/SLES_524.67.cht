@@ -1,0 +1,48 @@
+".Hack-Part 2 Mutation /ID SLES_524.67"
+//ELF CRC=BDE7D749
+
+Mastercode
+90102C38 0C040AB6
+//9011997C 0C0431A4
+
+
+//Widescreen Hack by ElHecht
+
+// 16:9
+2010a64c 3c023f40 // 3c023f80 hor fov 1
+201f84c0 3c0a3f40 // 00000000 hor fov 2
+
+// 16:10
+//2010a628 3c193f55 // 00000000 hor fov 1
+//2010a64c 37395555 // 3c023f80 hor fov 1
+//2010a660 44999000 // 44829000
+//201f84c0 3c0a3f55 // 00000000 hor fov 2
+//201f84c4 354a5555 // 00000000 hor fov 2
+
+// 16:9 and 16:10 modifications
+// no need to change anything here! all modifications are calculated
+// based on the hor fov value in the upper 16:9/16:10 section
+201cb7a4 0807e12d // xxxxxxxx offset
+201cb7a8 00000000 // xxxxxxxx offset
+201f84b4 46006346 // 00000000 
+201f84b8 3c093f80 // 00000000
+201f84bc 44899800 // 00000000
+201f84c8 448a9000 // 00000000
+201f84cc 10490006 // 00000000
+201f84d0 00000000 // 00000000
+201f84d4 3c0b0000 // 00000000
+201f84d8 356b0000 // 00000000
+201f84dc 3c0c001d // 00000000
+201f84e0 ad8bb7b0 // 00000000
+201f84e4 ad8bb7b8 // 00000000
+201f84e8 08072dea // 00000000
+
+// Note
+// In general the code for this game would look like this :
+//   2010a64c 3c023f40 // 3c023f80 hor fov 1
+//   201cb79c 3c023f40 // 3c023f80 hor fov 2
+//   201cb7a8 461294c3 // 460094c6 
+// Unfortunately the game uses a different elf file for each language
+// and the spanish version (HACK.02S) has an offset for the
+// hor fov 2. So i wrote a fix which implements the hor fov modification
+// and corrects the screwed up code caused by the offset.
