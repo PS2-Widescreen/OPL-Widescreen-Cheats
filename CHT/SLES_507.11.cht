@@ -1,0 +1,14 @@
+"RedCard /ID SLES_507.11"
+//ELF CRC=F48D1411
+
+Mastercode
+90116980 0C045A08
+
+
+//Widescreen Hack by unknown author
+
+//bc7e2dc4003f023c to bc7e2dc4223f023c
+//aa3f023c040080acabaa4234 to e33f023c040080ac398e4234
+2012b308 3c023f22
+2020a054 3c023fe3
+2020a05c 34428e39
