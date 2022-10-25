@@ -1,0 +1,26 @@
+"Terminator 3 - Rise Of The Machines /ID SLUS_207.99"
+//ELF_CRC=21A1EACF
+
+Mastercode
+902D58BC 0C0BAFA3
+
+
+//Widescreen hack by Arapapa
+
+// 16:9
+
+//X-Fov
+//46a30046 c6c30046 06bc0046
+2026d3d0 080bd578
+202f55e0 4600a346
+202f55e4 3c013f40
+202f55e8 4481f000
+202f55ec 461e6b42
+202f55f0 0809b4f5
+
+//Target Focus (X-Fov)
+//000015e6 2d280000
+20287d64 080bed14
+202fb450 461ead42
+202fb454 e6150000
+202fb458 080a1f5a
