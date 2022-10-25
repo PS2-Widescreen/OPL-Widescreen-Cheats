@@ -1,0 +1,12 @@
+"Pro Evolution Soccer 6 /ID SLES_542.03"
+
+Mastercode
+901086D0 0C04215C
+
+
+// Widescreen pnach by El_Patas
+// Gameplay (increases hor. axis)
+20397920 3faaaaab
+
+//Render fix (increases hor. render area)
+2012a53c 3c053fab

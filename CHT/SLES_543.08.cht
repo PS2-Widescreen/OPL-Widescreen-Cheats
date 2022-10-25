@@ -1,0 +1,23 @@
+"Phantasy Star Universe /ID SLES_543.08"
+//ELF CRC=38A5588B
+
+Mastercode
+90140CD8 0C0502DE
+
+//Widescreen Hack by ElHecht
+// 16:9
+2085cb30 43400000 // 43800000 hor fov
+2068f7a4 3c093c02 // 00000000
+2068f7a8 35293fab // 00000000 renderfix
+2068f7f0 3c0a0028 // 00000000
+2068f7f4 ad493d78 // 00000000
+
+// 16:10
+//2085cb30 43555555 // 43800000 hor fov
+//2068f7a4 3c093c02 // 00000000
+//2068f7a8 35293f9a // 00000000 renderfix
+//2068f7f0 3c0a0028 // 00000000
+//2068f7f4 ad493d78 // 00000000
+
+//optional cut-scenes black bar removal
+//20767F94 40000000

@@ -1,0 +1,13 @@
+"Alias /ID SLUS_206.73"
+
+Mastercode
+90283754 0C09DBAA
+
+
+//Widescreen Hack by Arapapa
+//16:9
+20248178 3c013ec0
+201f3c30 3c013f40
+
+//Disable FMV 
+//20286C78 24020001

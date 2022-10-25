@@ -1,0 +1,13 @@
+"Operation WinBack 2 /ID SLES_541.16"
+//ELF CRC=1E917B2D
+
+Mastercode
+9031DD98 0C0C770E
+
+
+//Widescreen hack by ElHecht
+
+// 16:9
+202f0e50 3c013f40 // 00000000 hor fov
+202f0e54 4481f000 // 00000000
+202f0e5c 461e0003 // 00000000

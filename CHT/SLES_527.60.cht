@@ -1,0 +1,14 @@
+"Pro Evolution Soccer 4 /ID SLES_527.60"
+//ELF CRC=FB8BCB6D
+
+Mastercode
+90108910 0C0421EC
+
+
+
+//Widescreen Hack by El_Patas. both 2.00 and 1.02 versions.
+//Gameplay 16:9
+202D7F40 3FAAAAAB //3F800000 (Increases hor. axis)
+
+//Render fix
+20125F74 3C023FAB //3C023F80

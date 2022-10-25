@@ -1,0 +1,15 @@
+"Outlaw Tennis /ID SLES_534.90"
+//ELF CRC=38E5C48B
+
+Mastercode
+9040AD90 0C102B0C
+
+
+//Widescreen hack by sergx12
+//Ported to PAL (ElHecht)
+
+// 16:9
+205b8868 3f9c71cb // 3f6aaaab hor fov
+
+// 16:10
+//205b8868 3f8ccccd // 3f6aaaab hor fov
