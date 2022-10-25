@@ -56,8 +56,6 @@ jobs:
           name: WIDESCREEN
           path: |
              widescreen_hacks*.zip
-             FULL_CHANGELOG.TXT 
-             PARTIAL_CHANGELOG.TXT
 
       - name: delete previous tag/release
         if: (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main')
@@ -74,9 +72,11 @@ jobs:
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
           fail_on_unmatched_files: true
-          files: |
-               widescreen_hacks*.zip
           name: "Latest Package"
           tag_name: "Latest"
           body_path: 'latest_changes.log'
           prerelease: false
+          files: |
+               widescreen_hacks*.zip
+               FULL_CHANGELOG.TXT 
+               PARTIAL_CHANGELOG.TXT
