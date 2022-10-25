@@ -1,0 +1,33 @@
+"ICO /ID SCUS_971.13"
+//ELF CRC=6F8545DB
+
+Mastercode
+9024BD78 0C092F06
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+//widescreen
+201146c8 3c013f40
+201146cc 44813800
+201146d8 46071082
+201146dc c78780dc
+
+//render fix
+201141a4 240302ab  
+20554790 44800000 //optional
+
+//black borders fix
+20113030 3c010000
+
+//HDTVFix (for component cables) by druchapucha
+20241b34 3c050001
+20241b44 3c070001
+
+//21:9
+//201146c8 3c013f10
+//201146cc 44813800
+//201146d8 46071082
+//201146dc c78780dc
+//201141a4 24030aaa
+//20554790 44800000
