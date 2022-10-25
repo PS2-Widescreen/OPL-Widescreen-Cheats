@@ -1,0 +1,21 @@
+"Phantasy Star Universe - Ambition of the Illuminus /ID SLES_548.92"
+//ELF CRC=17CAC631
+
+Mastercode
+90140CD8 0C0502DE
+
+
+//Widescreen Hack (16:9) by ElHecht
+// 16:9
+208e1bf0 43400000 // 43800000 hor fov
+2067142c 3c093c02 // 00000000
+20671430 35293fab // 00000000 renderfix
+20671478 3c0a0028 // 00000000
+2067147c ad4992f8 // 00000000
+
+// 16:10
+//208e1bf0 43555555 // 43800000 hor fov
+//2067142c 3c093c02 // 00000000
+//20671430 35293f9a // 00000000 renderfix
+//20671478 3c0a0028 // 00000000
+//2067147c ad4992f8 // 00000000
