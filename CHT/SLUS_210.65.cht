@@ -1,0 +1,19 @@
+"Need For Speed Underground 2 /ID SLUS_210.65"
+//ELF_CRC=F5C7B45F
+
+Mastercode
+9042C81C 0C1100EB
+
+
+//Fixes by PsxFan107
+
+//Aspect Ratio and Icons Fix:
+201ccaf4 0c0ed18b
+203b462c 3c03004c
+203b4630 e474d848
+203b4634 03e00008
+203b4638 2404001a
+2056fb44 3f5b8d14
+2056fb48 3f24a9cf
+2056fbf4 3f154000
+2056fbf8 3f470000

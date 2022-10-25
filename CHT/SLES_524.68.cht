@@ -1,0 +1,22 @@
+".Hack-Part 4 Quarantine /ID SLES_524.68"
+
+//Mastercode
+901147B8 0C045196
+//90110DDC 0C040CCA
+//90109954 0C0409D6
+
+
+//Widescreen Hack by ElHecht
+
+// 16:9
+2010a4cc 3c023f40 // 3c023f80 hor fov 1
+201db3ec 3c023f40 // 3c023f80 hor fov 2
+201db3f8 461294c3 // 460094c6
+
+// 16:10
+//2010a4a8 3c193f55 // 00000000 hor fov 1
+//2010a4cc 37395555 // 3c023f80 hor fov 1
+//2010a4e0 44999000 // 44829000
+//201db3e4 3c023f55 // 00000000 hor fov 2
+//201db3ec 34425555 // 3c023f80 hor fov 2
+//201db3f8 461294c3 // 460094c6

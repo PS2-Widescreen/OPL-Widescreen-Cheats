@@ -1,0 +1,12 @@
+"18 Wheeler-American Pro Trucker /ID SLES_502.14"
+//ELF CRC=31166896
+
+Mastercode
+90208328 0C082072
+//901F039C 0C080296
+//901ED528 0C07FB0E
+
+
+//Widescreen Hack by El_Patas
+//16:9
+201D6DDC 3C013F40 //3C013F80 (Increases hor. axis)

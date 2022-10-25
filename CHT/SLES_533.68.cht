@@ -1,0 +1,17 @@
+"Splatter Master /ID SLES_533.68"
+//ELF CRC=1D8EE3CF
+
+Mastercode
+901110D0 0C0443DC
+
+
+//Widescreen Hack by Arapapa
+
+//16:9
+
+//Y-Fov
+20138144 3c023f40 //3c023f80
+
+//Zoom
+201c5fcc 3c024466 //3c024499
+201c5fd4 34427000 //3442a000
