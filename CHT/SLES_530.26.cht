@@ -1,0 +1,23 @@
+"Red Ninja - End of Honor /ID SLES_530.26"
+//ELF CRC=2F4D8BA5
+
+Mastercode
+9043BD70 0C10EF04
+
+
+//Widescreen hack by ElHecht
+
+// 16:9
+2036e0c4 3c013f40 // 3c013f80 hor fov1
+2036e0c8 44817000 // 44816000
+2036e0d8 460e7303 // 46006386
+
+20402868 3c013f40 // 00000000 hor fov2 (background trees)
+20402870 4481f000 // 00000000
+204028c0 4602f782 // 00000000
+204028d4 461e0842 // 46020842
+
+203627ac 3c013f2b // 3c013f00 renderfix enemies
+
+2010a694 3c01c380 // 3c01c316 remove black bars in cut-scenes
+2010a6c8 3c014380 // 3c014316 remove black bars in cut-scenes
