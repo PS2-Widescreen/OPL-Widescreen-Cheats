@@ -1,0 +1,10 @@
+"Reel Fishing 3 /ID SLES_513.08"
+//ELF CRC=AFCAEC88
+
+Mastercode
+90113078 0C044BC6
+
+
+//Widescreen Hack by Arapapa
+2012c0ec 3c063f40 //3c063f80 X-Fov
+2012c100 3c0343e0 //3c0343a0 Render Fix
