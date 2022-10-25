@@ -1,0 +1,19 @@
+"Outlaw Golf /ID SLES_519.26"
+//ELF CRC=35CBC3A9
+
+Mastercode
+90200878 0C0801C6
+
+//Widescreen hack by ElHecht
+// 16:9
+201d589c 3c1b3f40 // 00000000 hor fov
+201d58a8 449bf000 // 00000000
+201d58ac 461e0783 // e7a00028
+201d58bc e7be0028 // 00000000
+
+// 16:10
+//201d589c 3c1b3f55 // 00000000 hor fov
+//201d58a0 377b5555 // 00000000 hor fov
+//201d58a8 449bf000 // 00000000
+//201d58ac 461e0783 // e7a00028
+//201d58bc e7be0028 // 00000000
