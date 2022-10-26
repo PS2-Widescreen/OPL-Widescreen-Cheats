@@ -1,0 +1,34 @@
+"Backyard Wrestling - Don't Try This At Home /ID SLES_519.86"
+//ELF CRC=E1D7F6E5
+
+Mastercode
+90376618 0C0DD92E
+
+
+//Widescreen hack by Arapapa
+// 16:9
+
+//Y-Fov 
+20231728 3c013fcc //3c013f99
+2023172c 1392ccc4 //3421999a
+
+//Zoom
+2023170c 3c014456 //3c014420
+
+//Render fix
+20246264 3c01bff0 //3c01bf80
+
+2022bc7c 3c013ff0 //3c013f8c
+202393d0 3c013ff0 //3c013f8c
+2023941c 3c013ff0 //3c013f8c
+2023a82c 3c013ff0 //3c013f8c
+2023a878 3c013ff0 //3c013f8c
+2023b450 3c013ff0 //3c013f8c
+2023c7f0 3c013ff0 //3c013f8c
+2023f1e4 3c013ff0 //3c013f8c
+20240b10 3c013ff0 //3c013f8c
+20241504 3c013ff0 //3c013f8c
+20246054 3c013ff0 //3c013f8c
+20246be0 3c013ff0 //3c013f8c
+20247924 3c013ff0 //3c013f8c
+2026c7c0 3c013ff0 //3c013f8c
