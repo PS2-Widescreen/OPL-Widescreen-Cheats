@@ -1,0 +1,10 @@
+"Silent Hill 2 /ID SLES_503.82"
+//ELF_CRC=6B149273
+
+Mastercode
+901FB158 0C07EBFE
+
+//Widescreen Hack by ElHecht
+//Widescreen 16:9
+210E4C14 43A8F5C3 // 43E147AE X-RES
+//210E4C18 43E00000 // 43E00000 Y-RES
