@@ -1,0 +1,11 @@
+"Sonic Riders - Zero Gravity /ID SLES_549.15"
+//ELF CRC=CBDF678C
+
+Mastercode
+9010F858 0C043DBE
+
+
+//Widescreen hack by jordenlb/ElHecht
+// 16:9
+205fe9a0 43700000 // 43a00000 hor fov
+20149964 3c023fab // 3c023f80 renderfix
