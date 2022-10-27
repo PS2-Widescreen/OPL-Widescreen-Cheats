@@ -1,0 +1,14 @@
+"Pro Evolution Soccer 2013 /ID SLES_556.66"
+//ELF CRC 34C9DBFE
+
+Mastercode
+901086D0 0C04215C
+
+
+//Widescreen hack by El_Patas
+
+//Gameplay
+203CED80 3FAAAAAB //3F800000 (Increases hor. axis)
+
+//Render fix
+20125F4C 3C053FAB //3C053F80 (Increases hor. render area)

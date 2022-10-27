@@ -1,0 +1,12 @@
+"Football Kingdom [Trial Edition] /ID SLPS_203.74"
+//ELF CRC 3EE9A586
+
+Mastercode
+90301CF8 0C0C06E6
+
+
+//Widescreen hacks by El_Patas (X FOV) and Aced14 (Y FOV)
+
+//Gameplay 16:9
+102AFBB4 00003F40 //3C013F80 - Master X FOV
+10110EC4 00000150 //240701C0 - Master Y FOV

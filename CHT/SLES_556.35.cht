@@ -1,0 +1,16 @@
+"WWE SmackDown vs Raw 2011 /ID SLES_556.35"
+//ELF CRC C7201C26
+
+Mastercode
+901C2B58 0C070A7E
+
+
+//Widescreen hack by nemesis2000
+// Ported to PAL, added 16:10 support (ElHecht)
+
+// 16:9
+2022ed0c 3c033f40 // 3c033f80 hor fov
+
+// 16:10
+//20100514 3c1b3f55 // 00000000 hor fov
+//2022ed0c 37635555 // 4481a000 hor fov

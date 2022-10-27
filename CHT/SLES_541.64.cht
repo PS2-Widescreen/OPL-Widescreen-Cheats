@@ -1,0 +1,20 @@
+"DragonBall Z Budokai - Tenkaichi 2 /ID SLES_541.64"
+//ELF CRC 278722BF
+
+Mastercode
+90333318 0C0CCC6E
+
+
+//Widescreen hack by sergx12
+//Ported to PAL by ElHecht
+
+// 16:9
+2012bd38 3c013f10 // 3c013f40 sky fix
+20388464 44105555 // 43d88000 cut-scenes
+2025aec8 3c013f40 // 3c013f40 cut-scenes
+203884a0 44105555 // 43d88000 gameplay
+2025c6c4 3c013f40 // 3c013f80 gameplay
+203884bc 44105555 // 43d88000 versus 1p
+2025c758 3c013f40 // 3c013f80 versus 1p
+203884c8 44105555 // 43d88000 versus 2p
+2025c7b8 3c013f40 // 3c013f80 versus 2p
