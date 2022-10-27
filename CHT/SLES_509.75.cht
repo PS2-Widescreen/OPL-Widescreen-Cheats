@@ -3,10 +3,10 @@
 
 
 Mastercode
-90123580 0C048D08
+90123580 0c048d08
 
 
 //Widescreen Hack by El_Patas
 //16:9
-2016EC34 3C023FE3 //3C023FAA (Increases hor. axis)
-2016EC38 34428E38 //3442AAAB
+2016ec34 3c023fe3 //3C023FAA (Increases hor. axis)
+2016ec38 34428e38 //3442AAAB
