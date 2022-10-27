@@ -1,4 +1,4 @@
-game count|1771
+game count|1786
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37
 .Hack-Part 2 Mutation  |  SLES_524.67
@@ -108,6 +108,7 @@ Brothers In Arms - Earned In Blood  |  SLES_536.59
 Brothers in Arms: Road to Hill 30  |  SLES_528.88
 Brunswick Pro Bowling  |  SLUS_215.66
 Bully  |  SLUS_212.69
+Burnout 3 - Takedown  |  SLES_525.84
 Burnout 3 - Takedown  |  SLES_525.85
 Burnout Dominator  |  SLES_546.27
 Burnout Revenge  |  SLES_535.06
@@ -175,6 +176,7 @@ Devil Kings  |  SLES_538.70
 Devil May Cry  |  SLES_503.58
 Devil May Cry 2 - Disc 1 - Dante  |  SLES_820.11
 Devil May Cry 2 - Disc 2 - Lucia  |  SLES_820.12
+Devil May Cry 3 - Dantes Awakening  |  SLES_530.38
 Die Sims  |  SLES_512.57
 Die Sims brechen aus  |  SLES_520.47
 Digimon World 4  |  SLES_534.05
@@ -184,8 +186,11 @@ Dirge of Cerberus - Final Fantasy VII  |  SLES_541.85
 Disgaea - Hour Of Darkness  |  SLES_524.58
 Disney Pixar Cars  |  SLUS_211.51
 Disneys Bolt  |  SLUS_218.44
+Disneys Tarzan - Freeride  |  SLES_503.50
 Dora the Explorer - Dora Saves the Snow Princess  |  SLUS_217.96
 Dragon Ball Z - Budokai Tenkaichi 3  |  SLES_549.45
+DragonBall Z - Budokai Tenkaichi  |  SLES_532.00
+DragonBall Z Budokai - Tenkaichi 2  |  SLES_541.64
 Drakan - The Ancients' Gates  |  SCES_500.06
 Drakengard  |  SLES_523.22
 Drakengard 2  |  SLES_537.94
@@ -249,6 +254,7 @@ Flipnic - Ultimate Pinball  |  SLES_520.65
 Flipnic - Ultimate Pinball  |  SLUS_211.57
 Flow - Urban Dance Uprising  |  SLES_538.48
 Flow - Urban Dance Uprising  |  SLUS_213.19
+Football Kingdom [Trial Edition]  |  SLPS_203.74
 Forbidden Siren  |  SCES_519.20
 Forbidden Siren - Viviendo la Pesadilla  |  SCES_523.30
 Forever Kingdom  |  SLUS_203.43
@@ -385,6 +391,8 @@ Iridium Runners  |  SLUS_216.97
 Iron Man  |  SLUS_217.39
 J-League Winning Eleven Tactics  |  SLPM_654.32
 J-Pheonix Burst Tactics  |  SLPM_651.23
+J.League Winning Eleven 2009 - Club Championship  |  SLPM_551.82
+J.League Winning Eleven 2010 Club Championship  |  SLPM_552.62
 James Bond 007 - Agent Under Fire  |  SLUS_202.65
 James Bond 007 - Everything or Nothing  |  SLPM_654.46
 James Bond 007 - Everything or Nothing  |  SLUS_207.51
@@ -593,6 +601,7 @@ NPPL Championship Paintball 2009  |  SLUS_218.55
 Naruto - Konoha Spirits  |  SLPS_257.14
 Naruto - Narutimate Hero 2  |  SLPS_253.98
 Naruto Narutimett Hero 3  |  SLPS_255.89
+Naruto Shippuden - Ultimate Ninja 5  |  SLES_556.05
 Naruto Shippuuden Narutimate Accel  |  SLPS_257.68
 Naval Ops - Warship Gunner  |  SLES_518.93
 Need For Speed Underground 2  |  SLUS_210.65
@@ -639,6 +648,7 @@ Over the Monochrome Rainbow featuring Shogo Hamada  |  SLPM_652.71
 Oz  |  SLPM_660.33
 PES 2010 - Pro Evolution Soccer  |  SLUS_219.18
 PES 2011 - Pro Evolution Soccer  |  SLUS_219.42
+PES 2013 - Pro Evolution Soccer  |  SLUS_219.55
 Panzer Elite Action  |  SLES_534.44
 Paris Dakar Rally  |  SLUS_203.24
 Persona 3 - Fes [Independent Starting Version]  |  SLPM_666.90
@@ -672,8 +682,11 @@ Pro Evolution Soccer 2009  |  SLUS_218.21
 Pro Evolution Soccer 2010 /D SLES_555.89
 Pro Evolution Soccer 2011  |  SLES_556.38
 Pro Evolution Soccer 2012  |  SLES_556.58
+Pro Evolution Soccer 2013  |  SLES_556.66
 Pro Evolution Soccer 2013  |  SLES_556.69
+Pro Evolution Soccer 2014  |  SLES_556.73
 Pro Evolution Soccer 2014  |  SLES_556.74
+Pro Evolution Soccer 2014  |  SLES_556.76
 Pro Evolution Soccer 4  |  SLES_527.60
 Pro Evolution Soccer 5  |  SLES_535.44
 Pro Evolution Soccer 6  |  SLES_542.03
@@ -895,6 +908,7 @@ Tom Clancys Splinter Cell 3 - Chaos Theory  |  SLUS_211.37
 Tomb Raider - Anniversary  |  SLES_546.74
 Tomb Raider - The Angel of Darkness  |  SLPS_252.46
 Top Spin  |  SLUS_212.22
+Total Overdose  |  SLES_534.92
 Transworld Surf  |  SLUS_203.56
 Trapt  |  SLES_538.24
 Trapt  |  SLUS_212.55
@@ -925,6 +939,7 @@ Virtua Fighter 4  |  SLUS_203.23
 Virtua Fighter 4 - Evolution  |  SLES_516.16
 Virtua Fighter Cyber Generation  |  SLUS_209.77
 Virtual On Marz  |  SLUS_206.74
+WWE SmackDown vs Raw 2011  |  SLES_556.35
 WWE SmackDown vs. Raw 2008  |  SLUS_216.45
 WWE SmackDown vs. Raw 2010  |  SLUS_219.01
 WWE SmackDown! vs RAW 2006  |  SLUS_212.86
