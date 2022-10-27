@@ -1,0 +1,12 @@
+"Just Cause /ID SLES_541.37"
+//ELF CRC=5CC61637
+
+Mastercode
+904DFDE0 0C137F20
+
+
+//Widescreen hack  by Arapapa
+//16:9
+
+//0000803f 0000803f 0000003f 66666645
+207BEE08 3FAAAAAB //3f800000
