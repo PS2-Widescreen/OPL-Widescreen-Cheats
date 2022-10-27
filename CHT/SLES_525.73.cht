@@ -1,0 +1,27 @@
+"Conflict - Global Storm /ID SLES_525.73"
+//ELF CRC=73973370
+
+Mastercode
+904D8148 0C135FFA
+
+
+//Widescreen hack by Arapapa
+//16:9
+
+//X-Fov 4:3 Screen
+//aa3f013c 93a92134 00888144
+203f028c 3c013fe3 //3c013faa
+203f0290 34218cc1 //3421a993
+
+//X-Fov fix - Internal Widescreen
+//bb3f013c 61322134 00888144
+203f02b4 3c013fe3 //003f02b4
+203f02b8 34218e39 //34213261
+
+//Y-Fov fix - Internal Widescreen 
+203f02c0 3c013f80 //3c013f4a
+203f02c4 00000000 //34215ffa
+
+//Render fix
+//83a50046 003f013c 00608144
+20407fdc 3c013f2b //3c013f00
