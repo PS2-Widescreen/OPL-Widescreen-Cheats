@@ -2,10 +2,10 @@
 //ELF CRC=66CC8148
 
 Mastercode
-90116C90 0C045ACC
+90116c90 0c045acc
 
 
 //Widescreen Hack by El_Patas
 
 //Gameplay 16:9 
-2018B798 3C033F40 //3C033F80 (Increases hor. axis)
+2018b798 3c033f40 //3C033F80 (Increases hor. axis)
