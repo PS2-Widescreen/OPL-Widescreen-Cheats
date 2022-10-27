@@ -1,0 +1,19 @@
+"Tom Clancy's Ghost Recon /ID SLES_511.81"
+//ELF CRC=11DB467D
+
+Mastercode
+90414C80 0C1052C8
+
+
+//Widescreen hack by nemesis2000 (Converted to PAL by Somechump)
+//sp
+203a89c4 3c023f40
+203a89e4 3c0243d6
+
+//mp
+203a8ae4 3c023f40
+203a8b04 3c0243d6
+
+//menu
+2053ba44 3c023f0c
+2053ba54 3c0243d6
