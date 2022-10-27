@@ -1,0 +1,11 @@
+"Spy Hunter - No Where To Run /ID SLES_541.30"
+//ELF CRC=4731578B
+
+Mastercode
+904BF6F8 0C12FD66
+
+
+//Widescreen hack by El_Patas
+//16:9 
+205FBC84 3FE505E3 //3FA4BC75
+204A8ADC 3C013F83 //3C013F80 Y-FOV
