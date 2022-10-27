@@ -1,4 +1,4 @@
-game count|1734
+game count|1771
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37
 .Hack-Part 2 Mutation  |  SLES_524.67
@@ -31,12 +31,14 @@ Alias  |  SLUS_206.73
 All-Star Baseball 2002  |  SLUS_200.08
 All-Star Baseball 2003  |  SLUS_203.11
 All-Star Baseball 2004  |  SLUS_205.69
+All-Star Fighters  |  SLES_544.59
 Alone in the Dark  |  SLES_552.07
 Alone in the Dark  |  SLUS_216.90
 American Chopper  |  SLUS_210.69
 American Chopper 2  |  SLUS_212.88
 Amplitude  |  SCES_517.06
 And 1 Streetball  |  SLUS_212.37
+Anubis II  |  SLES_535.71
 Anubis Zone of Enders  |  SLPM_652.36
 Arctic Thunder  |  SLUS_202.17
 Armored Core - Nexus (Disc 1) (Evolution)  |  SLUS_209.86
@@ -57,8 +59,11 @@ Backyard Football 2006  |  SLUS_208.76
 Backyard Football 2008  |  SLUS_216.70
 Backyard Football 2009  |  SLUS_217.51
 Backyard Football 2009  |  SLUS_218.09
+Backyard Wrestling - Don't Try This At Home  |  SLES_519.86
 Backyard Wrestling - Dont Try This At Home  |  SLUS_206.38
+Backyard Wrestling 2 - There Goes The Neighborhood  |  SLES_526.86
 Bad Boys 2  |  SLUS_209.82
+Bad Boys II  |  SLES_517.72
 Baldur's Gate - Dark Alliance  |  SLES_506.72
 Baldur's Gate - Dark Alliance  |  SLUS_200.35
 Barbarian  |  SLES_509.72
@@ -66,8 +71,12 @@ Barbie Horse Adventures - Riding Camp  |  SLUS_218.06
 Barbie in The 12 Dancing Princesses  |  SLUS_215.79
 Bard's Tale  |  SLES_531.54
 Barnyard  |  SLUS_212.77
+Battle Engine Aquila  |  SLES_507.77
+Battlefield 2 - Modern Combat  |  SLES_537.29
+Battlestar Galactica  |  SLES_517.02
 Beat Down - Fists of Vengeance  |  SLES_535.05
 Ben 10 - Alien Force - Vilgax Attacks  |  SLUS_219.21
+Ben 10 - Protector Of Earth  |  SLES_549.51
 Ben 10 - Protector of Earth  |  SLUS_216.61
 Ben 10 - Ultimate Alien - Cosmic Destruction  |  SLUS_219.38
 Ben 10: Alien Force  |  SLUS_218.15
@@ -81,6 +90,7 @@ Bionicle - Heroes  |  SLUS_214.28
 Black  |  SLES_538.86
 Black & Bruised  |  SLES_516.20
 Black & Bruised  |  SLUS_205.06
+Blade II  |  SLES_510.13
 Blood Omen 2: Legacy of Kain  |  SLES_507.71
 Blood Will Tell - Tezuka Osamu's Dororo  |  SLES_527.55
 Bloody Roar 3  |  SLES_502.03
@@ -94,12 +104,14 @@ Bratz - The Movie  |  SLUS_216.43
 Breath of Fire - Dragon Quarter  |  SLES_514.96
 Breeders Cup - World Thoroughbred Championships  |  SLUS_211.95
 Britney's Dance Beat  |  SLUS_204.02
+Brothers In Arms - Earned In Blood  |  SLES_536.59
 Brothers in Arms: Road to Hill 30  |  SLES_528.88
 Brunswick Pro Bowling  |  SLUS_215.66
 Bully  |  SLUS_212.69
 Burnout 3 - Takedown  |  SLES_525.85
 Burnout Dominator  |  SLES_546.27
 Burnout Revenge  |  SLES_535.06
+CART Fury - Championship Racing  |  SLUS_201.41
 CSI - Crime Scene Investigation - 3 Dimensions of Murder  |  SLUS_216.55
 Cabela's Trophy Bucks |  SLUS_216.24
 Cabelas African Safari  |  SLUS_213.79
@@ -121,16 +133,20 @@ Call of Duty - Finest Hour  |  SLES_527.83
 Canis Canem Edit  |  SLES_535.61
 Capcom vs SNK 2   |  SCUS_202.46
 Cars Race-O-Rama  |  SLES_555.36
+Casper - Spirit Dimensions  |  SLUS_202.05
 Castlevania - Lament of Innocence  |  SLUS_207.33
 Catwoman  |  SLUS_209.92
 Chaos Field - New Order  |  SLPM_661.76
+Chaos Legion  |  SLES_515.53
 Charlie and the Chocolate Factory  |  SLUS_212.46
 Cocoto Fishing Master  |  SLUS_216.63
 Code Lyoko - Quest for Infinity  |  SLUS_217.43
 Codename - Kids Next Door - Operation V.I.D.E.O.G.A.M.E.  |  SLUS_211.55
+Cold Winter  |  SLES_529.63
 Colosseum - Road To Freedom  |  SLUS_211.79
 Conflict - Desert Storm  |  SLUS_205.49
 Conflict - Desert Storm 2 - Back to Baghdad  |  SLUS_206.89
+Conflict - Global Storm  |  SLES_525.73
 Conflict - Global Terror  |  SLUS_211.72
 Conflict Vietnam  |  SLUS_210.45
 Conflict Zone  |  SLUS_202.40
@@ -183,6 +199,7 @@ ESPN - NFL 2K5  |  SLUS_209.19
 ESPN - NHL 2K5  |  SLUS_209.21
 ESPN - Winter X Games - Snowboarding  |  SLUS_200.89
 ESPN - Winter X Games - Snowboarding 2002  |  SLUS_203.21
+Echo Night - Beyond  |  SLES_534.14
 Enter The Matrix  |  SLES_512.03
 Ephemeral Fantasia  |  SLUS_201.69
 Equestriad  |  SLUS_214.01
@@ -252,6 +269,7 @@ Fugitive Hunter - War on Terror  |  SLUS_204.64
 Full Spectrum Warrior  |  SLUS_211.45
 Full Spectrum Warrior - Ten Hammers  |  SLUS_212.50
 Furry Tales  |  SLES_528.24
+Futurama  |  SLES_515.07
 Fuun Shinsengumi  |  SLPM_654.94
 G-Saviour  |  SLPS_250.09
 G.I. Joe - The Rise of Cobra  |  SLUS_218.86
@@ -264,8 +282,10 @@ Gallop Racer 2006  |  SLUS_213.93
 Gallop Racer 6 - Revolution [PlayStation 2 The Best]  |  SLPS_734.15
 Gallop Racer Lucky 7  |  SLPS_253.33
 Gantz - The Game  |  SLPM_659.50
+Garfield  |  SLES_528.43
 Garouden Break Blow  |  SLPS_255.30
 Garouden Break Blow - Fist or Twist  |  SLPS_257.47
+Gene Troopers  |  SLES_536.44
 Generation of Chaos 3 [Limited Edition]  |  SLPM_652.78
 Generation of Chaos III - Toki no Fuuin [Limited Edition]  |  SLPM_652.79
 Genji  |  SCES_533.28
@@ -282,6 +302,7 @@ God Hand  |  SLPM_665.50
 God Of War 2  |  SCES_542.06
 God of War  |  SCES_531.33
 Godfather, The  |  SLES_539.71
+Godzilla - Save The Earth  |  SLES_527.66
 Gold Gashbell!! Gekitou! Saikyou no Mamonotachi  |  SLPS_254.40
 Golf Paradise DX  |  SLPS_250.27
 Gradius V  |  SLES_520.95
@@ -310,11 +331,13 @@ Gundam Musou Special  |  SLPM_669.40
 Gundam Seed - Never Ending Tomorrow  |  SLPS_253.89
 Gundam Seed Destiny - Generation of C.E.  |  SLPS_255.49
 Gundam True Odyssey  |  SLPS_255.20
+Gungrave - Overdose  |  SLES_529.41
 Hagane no Renkinjutsushi - Akaki Elixir no Akuma  |  SLPM_657.08
 Hagane no Renkinjutsushi - Dream Carnival  |  SLPS_254.02
 Hagane no Renkinjutsushi - Tobenai Tenshi  |  SLPM_654.73
 Hagane no Renkinjutsushi 3 - Kami o Tsugu Shoujo  |  SLPM_660.73
 Hajime no Ippo - All-Stars  |  SLPS_254.39
+Half Life  |  SLES_505.04
 Half-Life  |  SLES_505.05
 Hanjuku Hero 4  |  SLPM_658.39
 Hanjuku Hero VS 3D  |  SLPM_653.15
@@ -322,6 +345,7 @@ Harry Potter and The Goblet of Fire  |  SLUS_213.25
 Harry Potter and The Order of the Phoenix  |  SLKA_252.71
 Harry Potter and The Order of the Phoenix  |  SLUS_216.19
 Harry Potter and The Prisoner of Azkaban  |  SLUS_209.26
+Harry Potter and the Chamber of Secrets  |  SLES_511.92
 Haunting Ground  |  SLES_528.77
 Headhunter  |  SLUS_204.16
 Headhunter - Redemption  |  SLUS_208.17
@@ -335,6 +359,7 @@ Hitman - Blood Money  |  SLES_530.30
 Hitman - Contracts  |  SLES_521.32
 Hitman - Contracts  |  SLES_521.35
 Hitman - Contracts  |  SLUS_208.82
+Hitman 2 - Silent Assassin  |  SLES_509.92
 Hitman 2 - Silent Assassin  |  SLPS_252.69
 Horsez  |  SLUS_215.63
 Hot Shots Golf 3  |  SCUS_971.30
@@ -369,6 +394,7 @@ Jimmy Neutron - Boy Genius - Jet Fusion  |  SLUS_206.96
 Jojo no Kimyou na Bouken - Phantom Blood  |  SLPS_256.86
 Jojos Bizarre Adventure 5  |  SLPM_651.40
 Jumper - Griffin's Story  |  SLUS_217.30
+Just Cause  |  SLES_541.37
 Justice League Heroes  |  SLUS_213.04
 K-1 World Grand Prix 2002  |  SLPM_652.02
 K-1 World Grand Prix 2005  |  SLPS_255.78
@@ -721,6 +747,7 @@ Scooby-Doo! Unmasked  |  SLES_531.00
 Scooby-Doo! Unmasked  |  SLUS_210.91
 Scorpion King, The - Rise of the Akkadian  |  SLUS_204.24
 Sea-Man  |  SLPS_250.64
+Second Sight  |  SLES_526.70
 Secret Saturdays, The - Beasts of the 5th Sun  |  SLUS_218.96
 Secret Service  |  SLUS_218.36
 Sega Rally 2006  |  SLPM_662.12
@@ -754,6 +781,7 @@ Shox - Rally Reinvented  |  SLES_511.44
 Shrek Smash and Crash  |  SLUS_213.92
 Silent Hill - Shattered Memories  |  SLES_555.69
 Silent Hill - Shattered Memories  |  SLPM_552.31
+Silent Hill 2  |  SLES_503.82
 Silent Hill 2  |  SLPM_650.51
 Silent Hill 2 - Directors Cut  |  SLES_511.56
 Silent Hill 3  |  SLES_514.34
@@ -771,6 +799,8 @@ Soldier of Fortune - Gold Edition  |  SLES_507.39
 Sonic Gems Collection  |  SLPM_660.74
 Sonic Heroes  |  SLES_519.50
 Sonic Heroes  |  SLPM_654.31
+Sonic Riders  |  SLES_535.60
+Sonic Riders - Zero Gravity  |  SLES_549.15
 Sopranos, The  |  SLUS_213.88
 Soul Calibur III  |  SCES_533.12
 Soul Eater - Battle Resonance  |  SLPS_259.12
@@ -781,6 +811,7 @@ Splatter Master  |  SLES_533.68
 SpongeBob Squarepants - Lights, Camera, PANTS!  |  SLUS_212.52
 SpongeBob Squarepants - The Movie  |  SLUS_209.04
 SpongeBobs Atlantis SquarePantis  |  SLUS_216.44
+Spy Hunter - No Where To Run  |  SLES_541.30
 Star Trek Voyager - Elite Force  |  SLUS_202.27
 Star Wars - Battlefront II  |  SLES_535.03
 Star Wars Battlefront II  |  SLUS_212.40
@@ -835,6 +866,7 @@ Terminator, The - Dawn of Fate  |  SLUS_203.91
 Tetsujin 28 Go  |  SLPS_253.62
 The Operative - No One Lives Forever  |  SLES_505.92
 The Secret Saturdays - Beasts of the 5th Sun  |  SLES_555.46
+The Thing  |  SLES_509.75
 The Typing of the Dead - Zombie Panic  |  SLPM_625.66
 The Warriors  |  SLES_534.43
 This is Football  |  SLES_515.48
@@ -854,6 +886,9 @@ Tokyo Bus Guide - Annai  |  SLPM_650.32
 Tokyo Xtreme Racer 3  |  SLUS_208.31
 Tokyo Xtreme Racer Drift  |  SLUS_212.36
 Tokyo Xtreme Racer Zero  |  SLUS_201.89
+Tom Clancy's Ghost Recon  |  SLES_511.81
+Tom Clancy's Ghost Recon - Jungle Storm  |  SLES_519.76
+Tom Clancy's Rainbow Six 3  |  SLES_522.88
 Tom Clancy's Splinter Cell  |  SLES_514.66
 Tom Clancys Ghost Recon 2  |  SLUS_211.05
 Tom Clancys Splinter Cell 3 - Chaos Theory  |  SLUS_211.37
@@ -877,6 +912,7 @@ Urban Chaos - Riot Response  |  SLES_539.91
 Valkyrie Profile 2 - Silmeria  |  SLPM_664.19
 Vampire Night  |  SCES_504.11
 Vampire Night (2001)  |  SCUS_202.21
+Vexx  |  SLES_504.81
 Victorious Boxer - Championship Version  |  SLPS_251.29
 Victorious Boxers  |  SLPS_250.12
 Victorious Boxers - Ippos Road to Glory  |  SLUS_202.82
@@ -948,6 +984,7 @@ Zero - Crimson Butterfly  |  SLPS_253.03
 Zettai Zetsumei Toshi  |  SLPS_251.13
 Zettai Zetsumei Toshi 2 - Itetsuita Kioutachi  |  SLPS_256.06
 Zoids Infinity  |  SLPM_657.49
+Zombie Virus  |  SLES_544.62
 Zone of Enders  |  SLPM_650.19
 Zone of the Enders  |  SLES_501.11
 “Capcom Vs SNK 2 (2001)  |  SLUS_202.46”
