@@ -1,0 +1,15 @@
+"Battle Engine Aquila /ID SLES_507.77"
+//ELF CRC=E16618B7
+
+Mastercode
+9037c9f0 0c0df224
+
+
+//Widescreen Hack by Arapapa
+//16:9
+
+//X-Fov
+20471b20 3d030000 //3c088889
+
+//Render fix
+201c055c 3c013f00 //3c014000

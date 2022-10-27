@@ -1,0 +1,14 @@
+"Zombie Virus /ID SLES_544.62"
+//ELF CRC=A64DA833
+
+Mastercode
+90129718 0c04a56e
+
+//Widescreen Hack by Arapapa
+//16:9
+
+//X-Fov
+20137f94 3c033f40
+
+//Render Fix
+20138030 3c023f30

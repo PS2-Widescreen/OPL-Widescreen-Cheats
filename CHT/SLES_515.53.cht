@@ -1,0 +1,17 @@
+"Chaos Legion /ID SLES_515.53"
+//ELF CRC=0ACDD053
+
+Mastercode
+9020e6d0 0c08395c
+
+
+//Widescreen pnach by El_Patas
+
+//Gameplay 16:9
+20243c1c 3c013f40 //46007EC6 (Increases hor. axis)
+20243c2c 4481d800 //00000000
+20243c30 460fdec2 //00000000
+
+//Render fix
+20243d34 3c0243ab //3C024380
+20228064 3c023fab //3C023F80

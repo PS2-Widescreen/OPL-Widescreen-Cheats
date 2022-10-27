@@ -1,0 +1,32 @@
+"Harry Potter and the Chamber of Secrets /ID SLES_511.92"
+
+Mastercode
+904d8398 0c13608e
+
+
+//Widescreen Hack by Arapapa
+//16:9
+
+//Zoom
+204ca798 3c013f24
+204ca79c 34210000
+
+//Y-Fov
+204e8eb0 3c013fe3
+204e8eb4 34218e2a
+
+//Button Fix
+2031cb24 3c013fd0
+2031cb28 342197af
+
+//Font Y-Fov
+20541894 3b0882f1
+
+//Font Y-Position
+205418b4 bf000000
+
+//Font Zoom
+205418bc 3faaaaab
+
+//Widen HUD to Hide Icons
+205e9f30 3f95c28f

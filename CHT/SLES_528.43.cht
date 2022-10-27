@@ -1,0 +1,25 @@
+"Garfield /ID SLES_528.43"
+//ELF CRC=F8F8CD47
+
+Mastercode
+90211b30 0c084674
+
+
+//Widescreen hack  by Arapapa
+//16:9
+
+//Zoom
+//193f023c 9a994234 00608244 (2nd)
+20377b20 3c023f4c //3c023f19
+20377b24 3442cccd //3442999a
+
+//Y-Fov
+//03000246 700001e6
+20314d78 08083bb4  //08083bb4
+
+2020eed0 46020003
+2020eed4 3c013faa
+2020eed8 3421aaab
+2020eedc 4481f000
+2020eee0 461e0002
+2020eee4 080c535f

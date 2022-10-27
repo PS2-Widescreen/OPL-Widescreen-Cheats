@@ -1,0 +1,11 @@
+"Blade II /ID SLES_510.13"
+//ELF CRC=66CC8148
+
+Mastercode
+90116c90 0c045acc
+
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+2018b798 3c033f40 //3C033F80 (Increases hor. axis)

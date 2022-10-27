@@ -2,7 +2,7 @@
 //ELF CRC=38A5588B
 
 Mastercode
-90140CD8 0C0502DE
+90140cd8 0c0502de
 
 //Widescreen Hack by ElHecht
 // 16:9
@@ -20,4 +20,4 @@ Mastercode
 //2068f7f4 ad493d78 // 00000000
 
 //optional cut-scenes black bar removal
-//20767F94 40000000
+//20767f94 40000000

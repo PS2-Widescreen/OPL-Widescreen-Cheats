@@ -1,0 +1,17 @@
+"Echo Night - Beyond /ID SLES_534.14"
+//ELF CRC=BBF8C3D6
+
+Mastercode
+90113330 0c044c74
+
+
+//Widescreen hack by El_Patas and Arapapa
+// 16:9
+
+//Force turn on Internal Widescreen
+//01 00 00 00 00 00 00 3F
+002b4001 00000001
+ 
+//Zoom Fix
+20146ea4 3c023f1f //3C023F00 Zoom 
+//20146ea0 3c033fa0 //3C033F70 Y-FOV

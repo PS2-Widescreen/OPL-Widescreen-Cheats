@@ -1,0 +1,15 @@
+"Ben 10 - Protector Of Earth /ID SLES_549.51"
+//ELF CRC=1712E9F9
+
+Mastercode
+901c7ad8 0c071e5e
+
+//Debug Menus Available
+//2012f79c 00000000
+//2012f454 00000000
+//2012f744 00000000
+
+//Widescreen Hack by El_Patas
+//16:9
+2011940c 3c013f4d
+20119410 3421b6e0

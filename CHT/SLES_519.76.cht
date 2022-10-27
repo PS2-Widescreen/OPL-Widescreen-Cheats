@@ -1,0 +1,20 @@
+"Tom Clancy's Ghost Recon - Jungle Storm /ID SLES_519.76"
+//ELF CRC=FE1720F1
+
+Mastercode
+9017cab0 0c05f254
+
+
+//Converted from NTSC Widescreen hack by nemesis2000 (PAL by Somechump)
+
+//sp
+2051d978 3c023f40
+2051d9b8 3c0243b6
+
+//mp
+20387324 3c023f40
+20387350 3c0243b6
+
+//unk
+2051d8e4 3c053f40
+2051d928 3c0243b6

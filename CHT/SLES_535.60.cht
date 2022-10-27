@@ -1,0 +1,11 @@
+"Sonic Riders /ID SLES_535.60"
+//ELF CRC=F881CD68
+
+Mastercode
+90105850 0c0415bc
+
+
+//Widescreen hack by ElHecht
+//16:9
+2044eab8 43700000 // 43a00000 hor fov
+20134e4c 3c023fab // 3c023f80 renderfix

@@ -1,0 +1,17 @@
+"Battlefield 2 - Modern Combat /ID SLES_537.29"
+//ELF_CRC=186B0D8A
+
+Mastercode
+904f8b38 0c13e276
+
+
+//Widescreen hack by ElHecht
+//16:9
+203bfaf8 3c013f40
+203bfb08 4481f000
+203bfbd4 461e0303
+2040bc14 461e0303
+20234dd8 461e0502
+202353b0 461e0502
+202352cc 461e0003
+2027c398 24020003

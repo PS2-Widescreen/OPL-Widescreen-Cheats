@@ -1,0 +1,11 @@
+"CART Fury - Championship Racing /ID SLUS_201.41"
+//ELF CRC=116154AD
+
+Mastercode
+901e901c 0c077b30
+
+
+//Widescreen fix by BloodRaynare
+
+//16:9 X-FOV
+20104b98 3c024370

@@ -1,0 +1,12 @@
+"Second Sight /ID SLES_526.70"
+//ELF CRC=65087F31
+
+Mastercode
+903fc4e8 0c0ff0e2
+
+
+//Widescreen Hack by ElHecht
+// 16:9
+201a8da8 3c013f40 // 00000000 hor fov
+201a8dac 4481f000 // 00000000
+201a8de8 461e6303 // 00000000

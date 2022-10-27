@@ -1,0 +1,10 @@
+"Vexx /ID SLES_504.81"
+//ELF CRC=A0600111
+
+Mastercode
+901c4878 0c0711c6
+
+
+//Widescreen hack by El_Patas
+//16:9
+2035d87c 3c033f40 //3C033F80 (Increases hor. axis)

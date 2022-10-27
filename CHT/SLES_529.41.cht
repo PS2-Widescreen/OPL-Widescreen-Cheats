@@ -1,0 +1,14 @@
+"Gungrave - Overdose /ID SLES_529.41"
+//ELF CRC=80BB14B2
+
+Mastercode
+902854b0 0c0a14d4
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9  
+2028b6c4 3c013f40 //00000000 (Increases hor. axis)
+2028b6c8 44810000 //00000000
+2028b6d0 4600c602 //00000000
+
+

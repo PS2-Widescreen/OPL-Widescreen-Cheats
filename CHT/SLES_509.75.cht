@@ -1,0 +1,12 @@
+"The Thing /ID SLES_509.75"
+//ELF CRC=F6F9A91D
+
+
+Mastercode
+90123580 0c048d08
+
+
+//Widescreen Hack by El_Patas
+//16:9
+2016ec34 3c023fe3 //3C023FAA (Increases hor. axis)
+2016ec38 34428e38 //3442AAAB
