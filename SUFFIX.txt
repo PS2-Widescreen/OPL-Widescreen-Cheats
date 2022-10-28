@@ -1,2 +1,5 @@
 
-# [https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats]
+# this File is part of a widescreen hacks archive, maintained by El_isra, and hosted on the URL below
+# we have cheats for more than 1900 games that can't be added in this archive because we don't have their mastercode
+# if you would like to colaborate, please ask how here [https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/discussions/39]
+# Main repository: [https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats]
