@@ -17,10 +17,14 @@ jobs:
 #      run: |
 #        apk add git zip
 
+      - name: Get short SHA
+        id: slug
+        run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
+
       - name: append credits to all cheats
         run: |
           chmod +x ./Append.sh
-          ./Append.sh
+          ./Append.sh "# Deploy Information: Hash:${{ steps.slug.outputs.sha8 }}, runner_id:${{ github.run_number }}"
 
       - name: Make Changelog
         run: |
@@ -36,10 +40,6 @@ jobs:
         run: |
           zip widescreen_hacks CHT/*
 
-      - name: Get short SHA
-        id: slug
-        run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
-
       - name: create release body
         run: |
             echo "- __cheats count:__ _${{ steps.slug.outputs.chtcount }}_">latest_changes.log
@@ -49,13 +49,13 @@ jobs:
             git --no-pager log Latest..HEAD --pretty=format:"- %h  %<(18)%an: %s">>latest_changes.log
             cat latest_changes.log
 
-      - name: Upload artifacts
-        if: ${{ success() }}
-        uses: actions/upload-artifact@v2
-        with:
-          name: WIDESCREEN
-          path: |
-             widescreen_hacks*.zip
+#      - name: Upload artifacts
+#        if: ${{ success() }}
+#        uses: actions/upload-artifact@v2
+#        with:
+#          name: WIDESCREEN
+#          path: |
+#             widescreen_hacks*.zip
 
       - name: delete previous tag/release
         if: (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main')
