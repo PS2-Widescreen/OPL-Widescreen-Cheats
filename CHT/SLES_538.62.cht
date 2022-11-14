@@ -1,0 +1,11 @@
+"Dynasty Warriors 5 - Xtreme Legends /ID SLES_538.62"
+//ELF CRC 5A631627
+Mastercode
+901228D0 0C0489DC
+
+//Widescreen Hack (16:9) by ElHecht
+//
+// 16:9
+20146d28 3c0243b4 // 3c0243a0 hor fov value1
+20146ddc 3c0243f0 // 3c0243a0 hor fov value2
+201988cc 3c023f15 // 3c023f00 render fix

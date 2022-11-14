@@ -1,0 +1,22 @@
+"Delta Force - Team Sabre /ID SLUS_214.14"
+//ELF CRC 3115A446
+Mastercode
+903E9968 0C0FA602
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov (4:3)
+//abaaaa3f 00010000 17d0a63f
+204643f8 3fe38e39 //3faaaaab
+
+//Zoom fix (4:3 and 16:9)
+//0000ace7 0000a27b 0008a248 (3rd)
+201b80fc 08030000
+200c0000 3c013f52
+200c0004 4481f000
+200c0008 461e6303
+200c000c e7ac0000
+200c0010 0806e040
+

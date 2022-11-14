@@ -1,0 +1,10 @@
+"Jade Cocoon 2 /ID SLES_507.35"
+Mastercode
+9011C558 0C0470FE
+
+//ELF CRC=7FD7A1B9
+//Widescreen Hack (16:9) by ElHecht
+//
+// 16:9
+21e2edcc 3f340000 // 3F700000 hor fov
+// 21e2edd0 3f000000 // 3F000000 ver fov

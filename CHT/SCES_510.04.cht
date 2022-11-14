@@ -1,0 +1,16 @@
+"Formula One 2002 /ID SCES_510.04"
+//ELF CRC BF513E01
+Mastercode
+90362C88 0C0D8ACA
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+203bd6ac 40100000 //3e088889
+2012f888 3c01409a //3c014080
+
+//Y-Fov
+2012f7f8 3c013fb6 //3c013f88
+2012f7fc 34210b5f //34218889

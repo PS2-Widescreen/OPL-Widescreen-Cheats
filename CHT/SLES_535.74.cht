@@ -1,0 +1,18 @@
+"Bratz - Rock Angelz /ID SLES_535.74"
+//ELF CRC A6CF1D2B
+Mastercode
+903B5138 0C0ED3F6
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//000000000000000083ad004600000000
+202faf64 3c013f40 //00000000
+202faf68 4481f000 //00000000
+202faf70 461eb582 //00000000
+
+//Render fix
+//003f013c 00a88144 2db80002
+2035bfd4 3c013f2b //3c013f00

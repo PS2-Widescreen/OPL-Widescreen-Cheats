@@ -1,0 +1,10 @@
+"Alias /ID SLES_518.21"
+//ELF CRC 83466553
+Mastercode
+902944F0 0C0A50E4
+
+//Widescreen hack by ElHecht
+
+// 16:9
+20248138 3c013ec0 // 3c013f00 hor fov
+201f3c70 3c013f40 // 3c013f80 renderfix

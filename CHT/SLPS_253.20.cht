@@ -1,0 +1,25 @@
+"InuYasha - Juso no Kamen /ID SLPS_253.20"
+//ELF CRC 78E96CCC
+Mastercode
+9018E6F0 0C063964
+﻿gametitle=Inuyasha - Juuso no Kamen [NTSC-J] (SLPS-25320)
+//Widescreen hack by miseru99 
+
+//3D field models
+2020e6e0 3f400000
+2020e6e8 3f400000
+//2020f684 3faaaaa8 //height - leaving in case anyone prefer taller/bigger characters
+//3D menu models
+202329d0 3f400000
+202329d8 3f400000
+//202353e4 3faaaaa8 //height - same as above
+//fights
+2024fb0c 44555555
+//"after fight" screen
+d0247ca2 00000023 //if "after fight screen" do:
+202461cc 3f54924a
+//"if not" doesn't work, hence another 4 lines of code for wrongly affected stuff;p
+d0247ca2 00000020
+202461cc 3f8db6dc
+d0247ca2 00000021
+202461cc 3f8db6dc

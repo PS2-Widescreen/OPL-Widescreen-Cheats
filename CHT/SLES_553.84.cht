@@ -1,0 +1,24 @@
+"Warriors Orochi 2 /ID SLES_553.84"
+//ELF CRC DB5AEC24
+Mastercode
+9013BED0 0C04EF5C
+
+//Widescreen hack by ElHecht
+
+// 16:9
+201ad8f8 3c023f19 // 3c023f4c hor fov 1-player
+201ad900 3442999a // 3442cccd hor fov 1-player
+201ad788 3c033f19 // 3c033f4c hor fov 2-players
+201ad790 3463999a // 3463cccd hor fov 2-players
+201ad4ac 3c02440a // 3c0243cf renderfix enemies 1-player
+201ad3ac 3c02440a // 3c0243cf renderfix enemies 2-players
+2026fca8 3c0243ab // 3c024380 renderfix names and health-bar
+
+// 16:10
+//201ad8f8 3c023f2a // 3c023f4c hor fov 1-player
+//201ad900 3442aaab // 3442cccd hor fov 1-player
+//201ad788 3c033f2a // 3c033f4c hor fov 2-players
+//201ad790 3463aaab // 3463cccd hor fov 2-players
+//201ad4ac 3c0243f9 // 3c0243cf renderfix enemies 1-player
+//201ad3ac 3c0243f9 // 3c0243cf renderfix enemies 2-players
+//2026fca8 3c02439a // 3c024380 renderfix names and health-bar

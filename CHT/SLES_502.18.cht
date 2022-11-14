@@ -1,0 +1,15 @@
+"All-Star Baseball 2002 /ID SLES_502.18"
+//ELF CRC D7ACE82B
+Mastercode
+902D7BB0 0C0B5E94
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+//Y-fov
+//803f013c 00088144 02631646
+20264528 3c013fe4 //3c013f80
+
+//Zoom
+//803f013c 00108144 34600046
+20268664 3c013f40 //3c013f80

@@ -1,0 +1,18 @@
+"Wild Water Adrenaline featuring Salomon /ID SLES_535.95"
+//ELF CRC B194D815
+Mastercode
+902791C0 0C09E418
+
+//Widescreen hack by Arapapa
+
+//Widescreen 16:9
+
+//X-Fov
+//42ad0046 2000037e
+2011a74c 0809d7d4
+20275f50 4600ad42
+20275f54 3c013f40
+20275f58 4481f000
+20275f5c 461ead42
+20275f60 080469d4
+

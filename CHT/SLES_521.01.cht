@@ -1,0 +1,8 @@
+"Wrath Unleashed /ID SLES_521.01"
+//ELF CRC CDD6C078
+Mastercode
+90110F38 0C044376
+
+//Widescreen hack by dieSkaarj
+
+20797cc0 3f400000 //3f800000

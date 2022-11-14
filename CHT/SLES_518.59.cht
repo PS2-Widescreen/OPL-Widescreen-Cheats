@@ -1,0 +1,17 @@
+"Billiards Xciting /ID SLES_518.59"
+Mastercode
+00000000 00000000
+
+//ELF CRC=30BE71D7
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//000018e6 280000ae 00000000 
+208ac5c0 08231fa4
+208c7e90 3c1b3f40
+208c7e94 449bb800
+208c7e98 4617c602
+208c7e9c e6180000
+208c7ea0 0822b171

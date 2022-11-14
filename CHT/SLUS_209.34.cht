@@ -1,0 +1,20 @@
+"Death by Degrees /ID SLUS_209.34"
+//ELF CRC E1D6F85E
+Mastercode
+9010E270 0C043844
+
+//Widescreen Hack
+
+//gameplay by ElHecht
+20188250 3c023fe3
+20188258 3443bbd6
+2018606c 3c023fe3
+20186070 3443bbd6
+201f5c88 3c023fe3
+201f5c90 3442bbd6
+
+//FMV's fix by nemesis2000
+205d9054 3faaaaaa
+
+//black border's fix by nemesis2000
+2032b0a8 3c023f80

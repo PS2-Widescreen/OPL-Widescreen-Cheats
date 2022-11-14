@@ -1,0 +1,12 @@
+"MX Rider /ID SLES_501.32"
+//ELF CRC EB94A7B4
+Mastercode
+9035C320 0C0D7070
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//003f013c 00008144 8e3c013c (2nd)
+202ce274 3c013f20 //3c013f00

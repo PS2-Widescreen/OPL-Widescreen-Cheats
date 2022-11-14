@@ -1,0 +1,12 @@
+"Monster Trux Extreme /ID SLES_527.50"
+//ELF CRC 5E837D57
+Mastercode
+903695A0 0C0DA510
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//00bf013c 00308144 00188344 (1st)
+2016696c 3c01bf2a //3c01bf00

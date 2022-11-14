@@ -1,0 +1,11 @@
+"Final Fantasy XII /ID SLES_543.54"
+//ELF CRC 78DA0252
+Mastercode
+9044D7E0 0C1135A0
+//Final Fantasy XII (SLES-54354)
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+//widescreen fix
+201803c8 3c013f80
+201803cc 34210000
+2033e71c 3c020000

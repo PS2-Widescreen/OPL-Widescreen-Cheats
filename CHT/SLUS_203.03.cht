@@ -1,0 +1,18 @@
+"NBA Live 2002 /ID SLUS_203.03"
+//ELF CRC 78B0222C
+Mastercode
+9019D5B0 0C067514
+
+//Widescreen hack by Arapapa
+ 
+//Gameplay 16:9
+
+//Y-Fov
+//aa3f013c abaa2134 00688144 1c0637e6
+//e33f013c 2a8e2134 00688144 1c0637e6
+20194af8 3c013fe3 //3c013faa
+20194afc 34218e2a //3421aaab
+
+//Zoom
+//403f013c 00608144 1806248e
+20194f88 3c013f80 //3c013f40

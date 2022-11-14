@@ -1,0 +1,13 @@
+"Dynasty Warriors 2 /ID SLES_500.57"
+//ELF CRC E90A5E60
+Mastercode
+9032BB48 0C0CAE78
+
+//Widescreen Hack (16:9) by Machiavel Dhy'v converted from ElHecht PAL-G 
+
+// 16:9
+20202714 3c013f40 // 00000000 zoom - identique
+20202718 4481f000 // 00000000 - identique
+20202728 461e0003 // 46000306 - identique
+203328f4 3faaaaab // 3f800000 ver fov - 003328f4 - orig 00332a74
+20253e04 3c013f2b // 3c013f00 renderfix - identique

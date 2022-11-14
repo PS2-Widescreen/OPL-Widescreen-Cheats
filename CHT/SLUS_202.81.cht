@@ -1,0 +1,12 @@
+"NHL 2002 /ID SLUS_202.81"
+//ELF CRC 533584A7
+Mastercode
+903AA230 0C0EA834
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//003f013c 00988144 42280146
+202fb83c 3c013ec0 //3c013f00

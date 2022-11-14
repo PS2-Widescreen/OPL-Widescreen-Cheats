@@ -1,0 +1,9 @@
+"Eve of Extinction /ID SLES_507.58"
+//ELF CRC 7B01238F
+Mastercode
+90106F80 0C041B88
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+20154814 3c023ec0 //3C023F00 (Increases hor. axis)

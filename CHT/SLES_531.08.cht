@@ -1,0 +1,18 @@
+"American Chopper /ID SLES_531.08"
+//ELF CRC 2B4BD0E0
+Mastercode
+901131D0 0C044C1C
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//82000c46 01000524 02000d46
+2016a720 08043e84
+
+2010fa10 460c0082
+2010fa14 3c013f9b
+2010fa18 3421aaaa
+2010fa1c 4481f000
+2010fa20 461e1082
+2010fa24 0805a9c9

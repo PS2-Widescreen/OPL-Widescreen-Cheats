@@ -1,0 +1,7 @@
+"Ghost Vibration /ID SLES_514.33"
+//ELF CRC CDD0C904
+Mastercode
+90110578 0C044106
+
+//Widescreen Hack
+201f26f0 3f400000 // 3F800000

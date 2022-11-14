@@ -1,0 +1,16 @@
+"TT Superbikes Real Road Racing Championship /ID SLES_546.11"
+//ELF CRC ED669333
+Mastercode
+901C8A58 0C07223E
+
+//Widescreen hack by El_Patas
+
+// Gameplay 16:9 
+205853d8 3f400000 //3F800000 (Increases hor. axis)
+
+// Render Fix
+20161dc8 3c013f40 //3C013F00
+2016281c 3c013f40 //3C013F00
+
+20161d8c 3c013f40 //3C013F80
+20161dd8 3c013f40 //3C013F80

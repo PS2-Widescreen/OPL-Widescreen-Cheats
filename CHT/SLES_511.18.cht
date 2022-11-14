@@ -1,0 +1,9 @@
+"Wizardry - Tales of the Forsaken Land /ID SLES_511.18"
+//ELF CRC 82E47620
+Mastercode
+9042A058 0C10A7BE
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+20119e24 3c0143e0 //3c0143a0

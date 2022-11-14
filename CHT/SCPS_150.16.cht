@@ -1,0 +1,26 @@
+"Minna no Golf 3 /ID SCPS_150.16"
+//ELF CRC 052A5B0B
+Mastercode
+901110D8 0C0443DE
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2030b0f0 42500000 //42200000
+202fdab0 42500000 //42200000
+
+//Y-Fov
+//000060430000a043
+2034da7c 43955553 //43600000
+
+////////////////////////////////////////////////////////
+//Status fix 
+//20da0cb4 43950000 //43d57f64
+
+//Menu Zoom
+//00288484 3c023e00 //43d57f64
+
+//game menu move
+//2030b270 43fddddd //43a00000

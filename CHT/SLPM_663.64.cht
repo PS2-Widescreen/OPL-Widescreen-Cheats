@@ -1,0 +1,19 @@
+"Pro Yakyuu Spirits 3 /ID SLPM_663.64"
+//ELF CRC AB23A441
+Mastercode
+90116E18 0C045B2E
+
+//16:9 widescreen hack by 99skull (pnach by Arapapa)
+//Search values are apply to other series games
+
+//00000000 41b81946 803f083c
+201459a8 3c013f2a //00000000 vert fov 
+
+//00000000 42100146 07000046
+201459e0 44819800 //00000000 vert fov
+
+//02100046 42081546
+201459ec 46009802 //46001002 vert fov
+
+//803f053c 82c80146 
+20145b88 3c053faa //3C053F80 zoom

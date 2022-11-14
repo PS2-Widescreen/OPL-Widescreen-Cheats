@@ -1,0 +1,12 @@
+"Legends of Wrestling /ID SLES_501.07"
+//ELF CRC 13516983
+Mastercode
+90213298 0C084C4E
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//00 00 80 3F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 39 B4 C8 3A F4 FD 7F 3F 00 00 00 00
+2073df10 3f400000

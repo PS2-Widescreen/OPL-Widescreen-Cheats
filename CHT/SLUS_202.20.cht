@@ -1,0 +1,20 @@
+"Dead to Rights /ID SLUS_202.20"
+//ELF CRC 5EA6B8BE
+Mastercode
+902386A0 0C08E150
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Force turn on Widescreen
+//00 00 00 00 01 00 00 00 AB AA AA 3F 00 00 80 3F
+0042b080 00000001
+
+//Zoom fix
+//29 5C 8F 3F 00 00 C0 43 00 00 C0 43
+2042b094 3f800000 //3f8f5c29
+
+/////////////////////////////////////////////////////
+//X-Fov
+//20114d9c 3c013f10 //3c013f40

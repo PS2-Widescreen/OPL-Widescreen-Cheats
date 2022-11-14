@@ -1,0 +1,9 @@
+"Future Tactics - The Uprising /ID SLES_527.01"
+//ELF CRC 5E4C44CF
+Mastercode
+9026A898 0C09A9CE
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+2013c2dc 3c013fe3 //3C013FAA (Increases hor. axis)

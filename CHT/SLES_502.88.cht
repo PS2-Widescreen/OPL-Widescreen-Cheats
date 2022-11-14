@@ -1,0 +1,19 @@
+"Stuntman /ID SLES_502.88"
+//ELF CRC 790A4ACB
+Mastercode
+9025EAF0 0C097A64
+
+//Widescreen hack by Arapapa and FlatOut
+
+//Gameplay 16:9
+
+//Render fix
+201d4c94 3c013f30 //3c013f00
+
+//Zoom
+//Other Zoom : 003f013c 00a88144 06650046
+20293058 3fd66666 //3eaaaaab Fiexed FlatOut
+
+//Y-Fov
+201d4cd8 3c013fe3 //3c013faa
+201d4cdc 34218e3f //3421aaab

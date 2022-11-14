@@ -1,0 +1,28 @@
+"Army Men - Real Time Strategy /ID SLES_507.06"
+//ELF CRC DAB59034
+Mastercode
+901EDB70 0C07B684
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//3D Scene which is proceeding automatically
+//803f013c 00188144 9000b17f
+201a37f4 3c013fab //3c013f80 Fov
+//003f013c 00088144 080002c6
+201a3834 3c013f05 //3c013f00 Zoom
+
+//Game Play 
+//803f013c 00a08144 43480200
+201a32fc 3c013fab //3c013f80 Fov
+//003f013c 00388144 080000c6
+201a3734 3c013f05 //3c013f00 Zoom
+
+//Render fix
+//803f013c 00188144 43200146
+//2020d2ec 3c013fab //3c013f80
+
+//Odd Zoom (able to avoid rendering fix)
+//803f013c 00a08144
+2020cf5c 3c013fb0 //3c013f80

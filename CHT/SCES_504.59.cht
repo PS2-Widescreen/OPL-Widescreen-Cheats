@@ -1,0 +1,17 @@
+"Dropship - United Peace Force /ID SCES_504.59"
+//ELF CRC AAE9E301
+Mastercode
+901137D8 0C044D9E
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//0c000396 58000fc6 (2nd)
+201c1648 08092360
+
+20248d80 c60f0058
+20248d84 3c013f40
+20248d88 4481f000
+20248d8c 461e7bc2
+20248d90 08070593

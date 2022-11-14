@@ -1,0 +1,8 @@
+"International Cue Club /ID SLES_509.14"
+//ELF CRC 4369DC37
+Mastercode
+902C4AB0 0C0B1254
+
+//Widescreen Hack by El_Patas
+
+2031ebfc 3f400000 // 3F800000

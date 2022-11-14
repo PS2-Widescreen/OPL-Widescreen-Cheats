@@ -1,0 +1,11 @@
+"International Super Karts /ID SLES_531.86"
+//ELF CRC FA02D9DB
+Mastercode
+9020E690 0C08394C
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+201cf518 3c013f9e //3c013f6e
+201cf51c 3421e400 //34215604

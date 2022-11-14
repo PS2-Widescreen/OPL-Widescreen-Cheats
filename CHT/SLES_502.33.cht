@@ -1,0 +1,16 @@
+"Army Men - Air Attack - Blades Revenge /ID SLES_502.33"
+//ELF CRC E658A1D9
+Mastercode
+901A96B0 0C06A554
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//fov
+//803f013c 00208144 2001b1ff 
+20142b14 3c014003 //3c013f80
+
+//zoom
+//803f013c 00488144 40600146
+2018749c 3c013ee3 //3c013f80

@@ -1,0 +1,27 @@
+"Disney High School Musical 3 - Senior Year Dance! /ID SLES_553.98"
+//ELF CRC 8ED1E558
+Mastercode
+902C30B8 0C0B0BD6
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//02020746 50004324 (1st))
+202561b4 080b20a8
+
+202c82a0 46070202
+202c82a4 3c013f40
+202c82a8 4481f000
+202c82ac 461e4202
+202c82b0 0809586e
+
+//Hud
+//2b44013c 00402134
+202051b8 3c014464 //3c01442b
+202051bc 34215555 //34214000
+
+//Render fix
+//803f013c 00388144 42080246
+201d0fc8 3c013fab //3c013f80

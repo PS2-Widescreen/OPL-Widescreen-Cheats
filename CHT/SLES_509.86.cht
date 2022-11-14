@@ -1,0 +1,16 @@
+"Twin Caliber /ID SLES_509.86"
+//ELF CRC 86215185
+Mastercode
+90108C38 0C0422B6
+
+//Widescreen hack by Arapapa
+ 
+//Widescreen 16:9
+
+//X-Fov
+//900044ac 4c00a28f
+201c0220 080d9f68 //ac440090
+
+20367da0 3c013f40 //00000000
+20367da4 ac410090 //00000000
+20367da8 08070089 //00000000

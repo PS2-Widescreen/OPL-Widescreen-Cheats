@@ -1,0 +1,10 @@
+"Warhammer 40,000 - Firewarrior /ID SLES_509.58"
+//ELF CRC 09147CE4
+Mastercode
+90110E70 0C044344
+
+
+// Widescreen is always enabled no matter what ingame setting is selected
+
+206680ec 3f400000 // 3f800000 (X axis)
+206680f0 3f800000 // 3FAAAAAB (Y axis)

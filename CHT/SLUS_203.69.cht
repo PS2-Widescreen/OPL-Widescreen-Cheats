@@ -1,0 +1,15 @@
+"Knockout Kings 2002 /ID SLUS_203.69"
+//ELF CRC 36FEEE3A
+Mastercode
+90239AE0 0C08E660
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix hack
+20219a94 3c013f40 //00000000
+20219a98 44810000 //00000000
+20219aa0 4600c602 //00000000
+
+

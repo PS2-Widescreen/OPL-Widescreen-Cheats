@@ -1,0 +1,16 @@
+"Garfield - Saving Arlene /ID SLES_535.87"
+//ELF CRC C124F105
+Mastercode
+9017FA90 0C05FE4C
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//803f033c 4940023c 00188344
+2010ed84 3c033f40 //3c033f80
+
+//Fov
+//803f033c 00088344 00000000 02a80046
+2010ee8c 3c033f40 //3c033f80

@@ -1,0 +1,22 @@
+"Delta Force - Black Hawk Down /ID SLUS_211.24"
+//ELF CRC FAF7FA20
+Mastercode
+903CB5E8 0C0F2D22
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov (4:3)
+//abaaaa3f 00010000 17d0a63f
+2043a3e0 3fe38e39 //3faaaaab
+
+//Zoom fix (4:3 and 16:9)
+//0000ace7 0000a27b 0008a248 (3rd)
+201a8744 080c5798
+20315e60 3c013f52
+20315e64 4481f000
+20315e68 461e6303
+20315e6c e7ac0000
+20315e70 0806a1d2
+

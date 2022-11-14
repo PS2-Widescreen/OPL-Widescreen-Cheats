@@ -1,0 +1,14 @@
+"Action Girlz Racing /ID SLES_529.56"
+//ELF CRC 5E82A640
+Mastercode
+90368C60 0C0DA2C0
+
+//Widescreen hack by Arapapa
+ 
+//Gameplay 16:9
+
+//X-Fov
+20165cac 3c01bf2a //3c01bf00
+20165cb0 3421aaab //44813000
+20165cb4 44813000 //44831800
+20165cb8 44831800 //00000000

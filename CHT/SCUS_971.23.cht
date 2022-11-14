@@ -1,0 +1,19 @@
+"Disneys Monsters Inc. /ID SCUS_971.23"
+//ELF CRC E157ACB8
+Mastercode
+9010EA18 0C043A2E
+
+//Widescreen hack by ElHecht (NTSC-U by Arapapa)
+
+// 16:9
+201c7528 080abe2b // c6010068 jump to code-inject 002af8ac
+201c752c 00000000 // c602006c
+
+
+202af8ac 3c013f40 // 00000000 hor  fov
+202af8b0 4481f000 // 00000000
+202af8b4 c6010068 // 00000000
+202af8b8 c602006c // 00000000
+202af8bc 461e0843 // 00000000
+202af8c0 e6010068 // 00000000
+202af8c4 08071d4b // 00000000 jump back to 001c752c

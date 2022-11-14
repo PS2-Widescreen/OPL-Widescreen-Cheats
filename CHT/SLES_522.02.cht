@@ -1,0 +1,55 @@
+"Downhill Domination /ID SLES_522.02"
+//ELF CRC 73671EFD
+Mastercode
+90262720 0C098970
+
+//Downhill Domination Widescreen Hacks (by Aced14)
+
+//16:9 Widescreen
+
+101bdc50 00004401 //3C01442C - Shell Menu Master X FOV
+
+//2028b080 43870000 //43B40000 - Loading Screen Master X FOV
+//2028b0a0 3f360b16 //3F088851 - Loading Screen Master Y FOV
+
+101ba55c 00004401 //3C01442C - Title Menu Master X FOV
+20272790 434fc000 //438A8000 - Tree Sprite Width #1
+202728d0 434fc000 //438A8000 - Tree Sprite Width #2
+20272928 434fc000 //438A8000 - Tree Sprite Width #3
+
+101fd7e0 00004401 //3C01442C - Bike Shop Menu Goggles Default Master X FOV (added to close-up float by game engine to produce a "final" close-up X FOV)
+101fd7c8 000044d8 //3C014510 - Bike Shop Menu Goggles Close-up Master X FOV #1
+101fd7cc 0000c000 //34218000 - Bike Shop Menu Goggles Close-up Master X FOV #2
+e0030002 00a095d0 //Conditional live memory fixes for Bike Shop menu
+20a095d0 3faa3d71 //00000000 - Bike Shop Top HUD Width (Live Memory)
+20a09610 3faa3d71 //00000000 - Bike Shop Bottom HUD Width (Live Memory)
+20a5fd58 c2de0000 //00000000 - Bike Shop Shadow Shape/Width (Live Memory)
+
+2028ac20 3f360b5e //3F088888 - Menu Master Y FOV
+
+1016d258 0000434f //3C01438A - 1P P1 Master X FOV #1
+1016d25c 0000c000 //34218000 - 1P P1 Master X FOV #2
+101ac824 0000434f //3C01438A - 1P P1 Replay Master X FOV #1
+101ac828 0000c000 //34218000 - 1P P1 Replay Master X FOV #2
+2028a860 3f360b15 //3F088851 - 1P P1 Master Y FOV
+
+2028aa80 43268000 //435E0000 - 2P Vertical P1 Master X FOV
+2028aaa0 3f360b16 //3F088851 - 2P Vertical P1 Master Y FOV
+2028ab40 43268000 //435E0000 - 2P Vertical P2 Master X FOV
+2028ab60 3f360b16 //3F088851 - 2P Vertical P2 Master Y FOV
+
+2028a900 434fc000 //438A8000 - 2P Horizontal P1 Master X FOV
+2028a920 3f360b16 //3F088851 - 2P Horizontal P1 Master Y FOV
+2028a9c0 434fc000 //438A8000 - 2P Horizontal P2 Master X FOV
+2028a9e0 3f360b16 //3F088883 - 2P Horizontal P2 Master Y FOV
+
+2028acc0 431d8000 //43520000 - 4P P1 Master X FOV
+2028ace0 3f360b60 //3F088888 - 4P P1 Master Y FOV
+2028ad80 431d8000 //43520000 - 4P P2 Master X FOV
+2028ada0 3f360b59 //3F088883 - 4P P2 Master Y FOV
+2028ae40 431d8000 //43520000 - 4P P3 Master X FOV
+2028ae60 3f360b59 //3F088883 - 4P P3 Master Y FOV
+2028af00 431d8000 //43520000 - 4P P4 Master X FOV
+2028af20 3f360b59 //3F088883 - 4P P4 Master Y FOV
+
+2028a840 434fc000 //438A8000 - 2-4P P1-4 Paused Master X FOV

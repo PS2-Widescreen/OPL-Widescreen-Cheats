@@ -1,0 +1,18 @@
+"World Super Police /ID SLES_540.80"
+//ELF CRC 436F4549
+Mastercode
+90163320 0C058C70
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//00001fe6 2d280002
+201055b0 08030000
+
+200c0000 3c013f40
+200c0004 44811800
+200c0008 4603ffc2
+200c000c e61f0000
+200c0010 0804156d

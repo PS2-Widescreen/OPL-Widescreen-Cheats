@@ -1,0 +1,10 @@
+"Tank Elite /ID SLES_518.55"
+//ELF CRC 09A48207
+Mastercode
+9010DA78 0C043646
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+20218be0 43e0a000 //4415c000 X-Fov

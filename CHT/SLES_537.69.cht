@@ -1,0 +1,19 @@
+"Suikoden Tactics /ID SLES_537.69"
+//ELF CRC 3E205556
+Mastercode
+90392F58 0C0E4B7E
+
+//Widescreen pnach by El_Patas
+
+//Gameplay 16:9
+2038130c 3c013f40 //00000000 (Increases hor. axis)
+20381310 44810000 //00000000
+20381318 4600c602 //00000000
+
+//Font width
+2061d94c 3f400000 //3F800000 (Person's name)
+2061ea3c 3f400000 //3F800000 (Dialogue)
+
+//FMV's fix
+203bdf4c 24101e00 //00108100 (Width)
+203be100 24110190 //00118843 (X-pos.)

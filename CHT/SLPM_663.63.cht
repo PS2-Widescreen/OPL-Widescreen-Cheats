@@ -1,0 +1,11 @@
+"Dragon Quest - Shounen Yangus no Fushigi na Daibouken /ID SLPM_663.63"
+//ELF CRC AE22A564
+Mastercode
+9032F820 0C0CBDB0
+
+//Widescreen hack by Arapapa
+
+// 16:9 (00000000 00000000 43ad1346 00000000)
+202feb04 3c013f40 // 00000000 hor fov
+202feb08 44810000 // 00000000
+202feb10 4600c602 // 00000000

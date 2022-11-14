@@ -1,0 +1,16 @@
+"TT Superbikes /ID SLES_519.80"
+//ELF CRC B42446DC
+Mastercode
+901BE0D8 0C06F7DE
+
+//Widescreen hack by El_Patas
+
+// Gameplay 16:9
+205f9b58 3f400000 //3F800000 (Increases hor. axis)
+
+// Render Fix
+20159440 3c013f40 //3C013F00
+20159e94 3c013f40 //3C013F00
+
+20159404 3c013f40 //3C013F80
+20159450 3c013f40 //3C013F80

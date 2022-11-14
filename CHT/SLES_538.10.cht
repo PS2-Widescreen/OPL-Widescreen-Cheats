@@ -1,0 +1,20 @@
+"Sensible Soccer 2006 /ID SLES_538.10"
+//ELF CRC A1B752C7
+Mastercode
+90361EA8 0C0D8752
+
+//Widescreen hack by ElHecht
+
+// 16:9
+200ee2cc 3c1b3f40 // 3c013f80 hor fov
+200ee2d0 377b0000 // 44810800 hor fov
+200ee2d8 ad3b001c // e521001c
+2029c620 449b6000 // 44816000
+201ea204 449b6000 // 44816000
+
+// 16:10
+//200ee2cc 3c1b3f55 // 3c013f80 hor fov
+//200ee2d0 377b5555 // 44810800 hor fov
+//200ee2d8 ad3b001c // e521001c
+//2029c620 449b6000 // 44816000
+//201ea204 449b6000 // 44816000

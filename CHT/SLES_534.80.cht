@@ -1,0 +1,22 @@
+"Harvest Moon - A Wonderful Life [Special Edition] /ID SLES_534.80"
+//ELF CRC 8AF9A6A5
+Mastercode
+90446978 0C111A06
+
+//Widescreen Hack by ElHecht
+
+// 16:9
+2043c8ec 3c013f40 // 00000000 hor fov
+2043c8f8 44810000 // 00000000
+2043c8fc 4600c602 // 00000000
+20403028 3c043fab // 3c043f80 renderfix 1
+20403030 3c05bfab // 3c05bf80 renderfix 2
+
+// 16:10
+//2043c8ec 3c013f55 // 00000000 hor fov
+//2043c8f0 34215555 // 00000000 hor fov
+//2043c8f8 44810000 // 00000000
+//2043c8fc 4600c602 // 00000000
+//20403028 3c043f9a // 3c043f80 renderfix 1
+//20403030 3c05bf9a // 3c05bf80 renderfix 2
+

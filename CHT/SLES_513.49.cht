@@ -1,0 +1,21 @@
+"Evolution Skateboarding /ID SLES_513.49"
+//ELF CRC 7EA8E7C5
+Mastercode
+9011A338 0C046876
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//0040033c 42ce0346 
+201a8354 3c033fc0 //3c034000
+
+//Y-Fov
+//43200346 100022e6
+201a839c 080e72b4 //46032043
+2039cad0 46032043
+2039cad4 3c013f40
+2039cad8 4481f000
+2039cadc 461e0843
+2039cae0 0806a0e8

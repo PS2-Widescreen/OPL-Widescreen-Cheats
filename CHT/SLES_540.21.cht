@@ -1,0 +1,9 @@
+"Ruff Trigger /ID SLES_540.21"
+//ELF CRC B02C81E5
+Mastercode
+902F0AD8 0C0BC25E
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+2018aa90 3c013fe9 //3C013FAF (Increases hor. axis)

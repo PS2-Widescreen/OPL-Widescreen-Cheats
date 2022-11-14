@@ -1,0 +1,22 @@
+"Disney-Pixars Finding Nemo /ID SLES_517.55"
+//ELF CRC 14AE6410
+Mastercode
+9029A338 0C0A6876
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//07a80046 803f013c
+201157a4 080a5be8
+
+20296fa0 3c013f40
+20296fa4 4481f000
+20296fa8 461eb582
+20296fac 4600a807
+20296fb0 080455ea
+
+//Render fix
+//003f013c 00088144 a891e724 (1st)
+201157e8 3c013f2b //3c013f00

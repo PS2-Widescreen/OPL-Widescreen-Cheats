@@ -1,0 +1,21 @@
+"Over the Hedge /ID SLES_538.66"
+//ELF CRC 290C8D74
+Mastercode
+903D5EE0 0C0F5760
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//066e0046 1800b5e7 (1st)
+20319920 08030000
+200c0000 46006e06
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461ec603
+200c0010 080c6649
+
+//Render fix
+//003f013c 00088144 38004cc4
+20271d5c 3c013f2b //3c013f00

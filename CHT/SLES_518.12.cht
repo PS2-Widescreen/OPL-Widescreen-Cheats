@@ -1,0 +1,19 @@
+"Homerun /ID SLES_518.12"
+//ELF CRC 6A7039A3
+Mastercode
+902E1558 0C0B84FE
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+201cf6e0 3c014388 //3c0143b4
+
+//Y-Fov
+202506bc 3c01bf2a //3c01bf00
+
+//2D fix
+202ae968 3c013fab //3c013f80
+
+//20250540 3c01bec0 //3c013f00 X-Fov (Needs render fix)
