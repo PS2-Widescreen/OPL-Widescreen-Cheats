@@ -1,0 +1,23 @@
+"Ar tonelico - Melody of Elemia /ID SLES_545.86"
+//ELF CRC 6C0CEFFD
+Mastercode
+90348438 0C0D20B6
+
+//Widescreen pnach by El_Patas
+
+//3D Scenes
+20344c9c 3c013f40 //00000000 hor value
+20344ca0 44810000 //00000000
+20344ca8 4600c602 //00000000
+
+//Battle's fix
+20a90054 44400000 //44800000 right side fix
+20a9005c c4400000 //C4800000 left side fix
+
+//2D Scenes
+201a3f8c 3c014440 //3C0E00A9 hor value
+201a3f90 44810800 //25CE0D04
+201a3f94 46010042 //C5C10000
+201a3f98 e6810090 //46010002
+201a3f9c 3c014480 //E6800090 vert value
+201a3fa0 44810800 //C62000E8

@@ -1,0 +1,22 @@
+"Jimmy Neutron - Attack of the Twonkies /ID SLES_527.00"
+//ELF CRC EA50B9F5
+Mastercode
+90110A50 0C04423C
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//00000000 02150146 (1st)
+2025be48 08030000 //460709c2
+
+200c0000 460709c2
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e39c2
+200c0010 08096f93
+
+//Render fix
+//003f023c 6000bfff 00008244
+20158db4 3c023f2b //3c023f00

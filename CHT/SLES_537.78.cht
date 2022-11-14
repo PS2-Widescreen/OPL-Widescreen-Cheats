@@ -1,0 +1,16 @@
+"Jacked /ID SLES_537.78"
+//ELF CRC D7F36BB4
+Mastercode
+9039C538 0C0E70F6
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom and XY-Fov
+//803f013c 00008144 c3000146 04000010
+202fe580 3c013f97 //3c013f80
+
+//Zoom
+//00bf013c 00388144 2000b07f 1000bfff (1st)
+20302974 3c01bec0 //3c01bf00

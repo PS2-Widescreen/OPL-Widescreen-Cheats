@@ -1,0 +1,16 @@
+"Mana Khemia - Alchemists of Al-Revis /ID SLES_554.43"
+//ELF CRC 44194750
+Mastercode
+904710C0 0C11C3D8
+
+//Widescreen Hack (16:9) by nemesis2000
+// ported to PAL (elhecht)
+//3D scenes
+2046d834 3c013f40 //hor value
+2046d838 44810000
+2046d840 4600c602
+
+//battle's fix
+20bb16d0 44400000 //right side fix
+20bb16d8 c4400000 //left side fix
+20bb0a00 3faaaaab //menu fix

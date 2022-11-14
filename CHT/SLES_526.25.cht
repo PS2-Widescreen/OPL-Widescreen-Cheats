@@ -1,0 +1,18 @@
+"X-Men Legends /ID SLES_526.25"
+//ELF CRC 6900A74B
+Mastercode
+9010D730 0C043574
+
+//Widescreen hack by ElHecht
+
+// 16:9
+20298cd4 3c033f40 // 3c033f80 hor fov
+20298cec 460318c3 // 00000000
+2072154c 3f19999a // 3f4ccccd font fix
+
+// 16:10
+//20298cd4 3c033f55 // 3c033f80 hor fov
+//20298cd8 34635555 // 44831800 hor fov
+//20298cdc 44831800 // 00000000
+//20298cec 460318c3 // 00000000
+//2072154c 3f2aaaab // 3f4ccccd font fix

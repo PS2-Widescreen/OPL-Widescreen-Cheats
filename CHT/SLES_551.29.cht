@@ -1,0 +1,18 @@
+"Jumper - Griffins Story /ID SLES_551.29"
+//ELF CRC 08944D35
+Mastercode
+90428FE0 0C10A3A0
+
+//Widescreen hack  by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//06050046 46b30046 (1st)
+203fd598 080c3084
+
+2030c210 46000506
+2030c214 3c013f40
+2030c218 4481f000
+2030c21c 461ea502
+2030c220 080ff567

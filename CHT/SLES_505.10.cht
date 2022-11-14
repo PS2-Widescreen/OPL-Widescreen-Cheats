@@ -1,0 +1,18 @@
+"Mummy Returns, The /ID SLES_505.10"
+//ELF CRC B9254C98
+Mastercode
+90249808 0C0925AA
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//640015c6 58000cc6
+201f9a94 08030000
+
+200c0000 c6150064
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461ead42
+200c0010 0807e6a6

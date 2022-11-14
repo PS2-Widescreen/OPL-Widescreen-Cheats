@@ -1,0 +1,15 @@
+"X-Men - The Next Dimension /ID SLES_508.98"
+//ELF CRC AF1CACC7
+Mastercode
+9021CAF0 0C087264
+
+//Widescreen hack (Pal by Arapapa)
+
+//Widescreen hack 16:9
+
+201a5bfc 3c014455 //3c014420
+201a5c18 3c013fe3
+201a5c1c 34218e38
+2019dc0c 3c013f22 //3c013f00
+
+

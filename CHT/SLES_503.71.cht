@@ -1,0 +1,10 @@
+"Star Wars - Jedi Starfighter /ID SLES_503.71"
+//ELF CRC 979F5102
+Mastercode
+903FE0D8 0C0FF7DE
+
+//Widescreen Hack (PAL by Arapapa)
+
+//Widescreen hack 16:9
+
+20126c30 3c023f40 //3c023f80

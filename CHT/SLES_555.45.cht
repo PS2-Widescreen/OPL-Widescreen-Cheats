@@ -1,0 +1,14 @@
+"WWE Smackdown vs Raw 2010 /ID SLES_555.45"
+//ELF CRC 1913A2BA
+Mastercode
+901BBF18 0C06EF6E
+
+//Widescreen hack by nemesis2000
+// Ported to PAL, added 16:10 support (ElHecht)
+
+// 16:9
+202d870c 3c033f40 // 3c033f80 hor fov
+
+// 16:10
+//201003c4 3c1b3f55 // 00000000 hor fov
+//202d870c 37635555 // 4481a000 hor fov

@@ -1,0 +1,22 @@
+"Autobahn Raser IV /ID SLES_510.09"
+//ELF CRC 284C6B75
+Mastercode
+90150F38 0C054376
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+20110cf8 3c02427e //3c02423f
+20110cfc 34425c29 //3442851f
+
+
+///////////////////////////////
+//X-Fov (2D + 3D, needs render fix)
+//201caf48 080fc488
+
+//203f1220 46021883
+//203f1224 3c013f40
+//203f1228 4481f000
+//203f122c 461e1082
+//203f1230 08072bd3

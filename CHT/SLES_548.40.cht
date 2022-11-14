@@ -1,0 +1,10 @@
+"Avatar - The Legend of Aang -- The Burning Earth /ID SLES_548.40"
+//ELF CRC EA123A2B
+Mastercode
+90107B58 0C041E7E
+
+//Widescreen Hack (16:9) by ElHecht
+
+//16:9
+20142f70 3c033fe3 // 3c033faa
+20142f84 34638e39 // 3463aaab

@@ -1,0 +1,15 @@
+"Castleween /ID SLES_512.49"
+//ELF CRC EE3BCA71
+Mastercode
+902D2358 0C0B487E
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+//Y-fov
+202b9c78 3c023f40 //3c023f80
+
+//Zoom
+202794b8 3c033f40 //3c033f80

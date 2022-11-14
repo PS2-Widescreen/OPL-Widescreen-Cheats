@@ -1,0 +1,15 @@
+"Chaos Legion /ID SLPM_652.49"
+//ELF CRC 5E191B9C
+Mastercode
+9020E6D0 0C08395C
+﻿gametitle=Chaos Legion [NTSC-J] (SLPM-65249)
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+20242a1c 3c013f40
+20242a2c 4481d800
+20242a30 460fdec2
+20242b34 3c0243ab
+20228064 3c023fab
+
+//FMV's fix
+20328a04 3c026fb0
+20328914 241e77d0

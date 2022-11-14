@@ -1,0 +1,20 @@
+"Atelier Iris 3 - Grand Phantasm /ID SLES_548.22"
+//ELF CRC 81D2A53F
+Mastercode
+90362578 0C0D8906
+
+//Widescreen pnach by El_Patas
+
+//3D Scenes
+2035f12c 3c013f40 //00000000 hor value
+2035f130 44810000 //00000000
+2035f138 4600c602 //00000000
+
+//Battle's fix
+208bf7bc 44400000 //44800000 right side fix
+208bf7c4 c4400000 //C4800000 left side fix
+208bea2c 3faaaaab //3F800000 menu fix
+
+//2D Scenes 
+201b0d88 3c014440 //3C010084 hor value
+201b0d8c 44810000 //C420E968

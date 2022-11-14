@@ -1,0 +1,27 @@
+"AC Milan Club Football 2005 /ID SLES_526.56"
+//ELF CRC 2F01CB32
+Mastercode
+9038DB48 0C0E367A
+
+
+//Widescreen Hack by Arapapa
+
+//Menu 3D Fov and ETC
+201b85a4 3c013fe3 //3c013faa
+201b85a8 3421328e //3421aaab
+2034a324 3c013fe3 //3c013faa
+2034a328 3421328e //3421aaab
+2034a570 3c013fe3 //3c013faa
+2034a574 3421328e //3421aaab
+
+//Game Play and Replay Fov
+20154284 3c013fe3 //3c013faa
+20154288 34217fa6 //34219fbe
+202bc1d8 3c013fe3 //3c013faa
+202bc1dc 34217fa6 //34219fbe
+
+//Menu 3D Zoom
+20387a60 3c013f40 //3c013f80
+
+//Game Play Zoom
+20387a14 3c013f40 //3c013f80

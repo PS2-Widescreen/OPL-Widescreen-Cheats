@@ -1,0 +1,16 @@
+"Robots /ID SLES_530.52"
+//ELF CRC B860F5B6
+Mastercode
+902FFC60 0C0BFEC0
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+//803f013c 00188144 86080046 (1st)
+2029936c 3c013f40 //3c013f80
+
+//Zoom
+//803f013c 00608144 4000a827
+20299574 3c013f40 //3c013f80

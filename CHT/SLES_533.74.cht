@@ -1,0 +1,18 @@
+"X-Men Legends II - Rise of Apocalypse /ID SLES_533.74"
+//ELF CRC 912C8E55
+Mastercode
+9010E890 0C0439CC
+
+//Widescreen hack by ElHecht
+
+// 16:9
+20270964 3c033f40 // 3c033f80 hor fov
+2027097c 460318c3 // 00000000
+20898350 3f19999a // 3f4ccccd font fix
+
+// 16:10
+//20270964 3c033f55 // 3c033f80 hor fov
+//20270968 34635555 // 44831800 hor fov
+//2027096c 44831800 // 00000000
+//2027097c 460318c3 // 00000000
+//20898350 3f2aaaab // 3f4ccccd font fix

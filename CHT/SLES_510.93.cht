@@ -1,0 +1,29 @@
+"Largo Winch - Empire Under Threat /ID SLES_510.93"
+//ELF CRC 1373EB26
+Mastercode
+901EC478 0C07B0C6
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2028029c 3c013f2f //3c013f80
+
+//Y-Fov
+201abc40 08030000
+
+200c0000 46070a02
+200c0004 3c013fa6
+200c0008 4481f000
+200c000c 461e4202
+200c0010 0806af11
+
+////////////////////////////
+//X-Fov (Needs render fix)
+//201abb98 08030000
+//200c0000 24420050
+//200c0004 3c013f40
+//200c0008 4481f000
+//200c000c 461e4202
+//200c0010 0806aee7

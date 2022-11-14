@@ -1,0 +1,9 @@
+"X-Squad /ID SLES_500.31"
+//ELF CRC E81BE74B
+Mastercode
+901FEE28 0C07FB30
+﻿gametitle=X-Squad (E)(SLES-50031)
+//Widescreen Hack (PAL by Arapapa)
+ 
+//803f013c 00008144 00000000 000040e4
+201c7ffc 3c013f40 //3c013f80

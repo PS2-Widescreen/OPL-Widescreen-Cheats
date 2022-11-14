@@ -1,0 +1,17 @@
+"Strike Force Bowling /ID SLES_531.72"
+//ELF CRC 2F7573E5
+Mastercode
+9024D550 0C0934FC
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+20206f00 08097878
+2025e1e0 3c013f40
+2025e1e4 4481f000
+2025e1e8 c6010068
+2025e1ec c602006c
+2025e1f0 461e0843
+2025e1f4 e6010068
+2025e1f8 08081bc2

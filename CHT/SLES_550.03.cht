@@ -1,0 +1,16 @@
+"Need for Speed - ProStreet /ID SLES_550.03"
+//ELF CRC EA8DC584
+Mastercode
+9058A8E8 0C1629E2
+
+//Widescreen Hack by ElHecht
+
+// 16:9
+20682bd4 3f400000 // 3f800000
+20682bec 3f400000 // 3f800000
+20685c38 3f2aaaab // 3f000000
+
+// 16:10
+//20682bd4 3f555555 // 3f800000
+//20682bec 3f555555 // 3f800000
+//20685c38 3f19999a // 3f000000

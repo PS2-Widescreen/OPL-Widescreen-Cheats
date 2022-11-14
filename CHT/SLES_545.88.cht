@@ -1,0 +1,17 @@
+"Brunswick Pro Bowling /ID SLES_545.88"
+//ELF CRC 0AD03FF9
+Mastercode
+90211BC8 0C08469A
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//03001246 03150046
+201962c0 0808a5b0
+202296c0 46001503
+202296c4 3c013f40
+202296c8 4481f000
+202296cc 461ea503
+202296d0 080658b1

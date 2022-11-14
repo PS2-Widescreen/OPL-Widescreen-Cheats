@@ -1,0 +1,11 @@
+"Fighting Fury /ID SLES_510.56"
+//ELF CRC D91FCFD9
+Mastercode
+9010E050 0C0437BC
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9    
+20102f54 3c013f40 //00000000 (Increases hor. axis)
+20102f58 44810000 //00000000
+20102f60 4600c602 //00000000

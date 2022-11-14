@@ -1,0 +1,20 @@
+"Tenchu - Wrath of Heaven /ID SLES_514.02"
+//ELF CRC 83261085
+Mastercode
+9010F578 0C043D06
+
+//Widescreen hack
+
+// 16:9
+20154998 3c033f40 // 3c033f80 hor fov
+201549e0 3c033f40 // 3c033f80 hor fov
+20155168 3c024458 // 3c024422 render fix
+201553d0 3c024458 // 3c024422 render fix
+
+// 16:10
+//202453d0 3c1b3f55 // 00000000 hor fov
+//202453d8 377b5555 // 00000000 hor fov
+//201549bc ac5b0000 // ac430000
+//20154a04 ac5b0000 // ac430000
+//20155168 3c024443 // 3c024422 render fix
+//201553d0 3c024443 // 3c024422 render fix

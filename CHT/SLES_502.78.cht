@@ -1,0 +1,14 @@
+"Red Faction /ID SLES_502.78"
+//ELF CRC A7E712FD
+Mastercode
+90250178 0C094006
+
+//Widescreen hack by Bigdemon
+
+// 16:9
+202075d4 3c013f40 // 00000000 hor fov
+202075e0 4481f000 // 00000000
+202076f0 461ea502 // 00000000
+202076f8 461ead43 // 00000000
+2023a8f4 3c024309 // 3c024334 shadow fix
+2023a7fc 461e0303 // 44826000 shadow fix

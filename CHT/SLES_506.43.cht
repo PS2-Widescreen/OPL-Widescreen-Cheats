@@ -1,0 +1,17 @@
+"Shifters /ID SLES_506.43"
+//ELF CRC C8ED55C7
+Mastercode
+903E8300 0C0FA068
+
+//Widescreen Hack by ElHecht
+//
+// 16:9 
+203d71e4 080f40b3 // e4850010 jump to code inject (003d02cc)
+203d71e8 00000000 // e4840000
+
+203d02cc 3c013f40 // 00000000 hor fov
+203d02d0 4481f000 // 00000000
+203d02d4 461e2102 // 00000000
+203d02d8 e4840000 // 00000000
+203d02dc e4850010 // 00000000
+203d02e0 080f5c7a // 00000000 jump back to function (003d71e8)

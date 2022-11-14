@@ -1,0 +1,16 @@
+"World Soccer Winning Eleven 5 /ID SLPM_620.53"
+//ELF CRC 2F4B332E
+Mastercode
+9018F310 0C063C6C
+
+//Widescreen patch by BloodRaynare
+
+20144688 083eb44c
+2014468c 00000000
+20fad130 3c013f40
+20fad134 4481f000
+20fad138 c6010068
+20fad13c c602006c
+20fad140 461e0843
+20fad144 e6010068
+20fad148 080511a6

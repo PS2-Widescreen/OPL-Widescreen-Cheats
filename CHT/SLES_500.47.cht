@@ -1,0 +1,16 @@
+"F1 Racing Championship /ID SLES_500.47"
+//ELF CRC 3063BD41
+Mastercode
+90248B20 0C092270
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+203e004c 3f19999a //3f4ccccd
+203e005c 3f19999a //3f4ccccd
+
+//Y-Fov
+203dfc84 3fe38e2a //3faaaaab
+203dfc88 3fe38e2a //3faaaaab

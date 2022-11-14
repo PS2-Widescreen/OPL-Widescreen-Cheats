@@ -1,0 +1,10 @@
+"Space Channel 5 - Part 2 /ID SCES_506.12"
+//ELF CRC EF710B2B
+Mastercode
+9024F4B8 0C093CD6
+
+//Widescreen hack by ElHecht
+
+// 16:9
+201182f8 3c013f40 // 3c013f80 hor fov 50Hz
+20118550 3c013f40 // 3c013f80 hor fov 60Hz

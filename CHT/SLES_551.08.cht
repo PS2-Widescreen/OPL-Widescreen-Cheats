@@ -1,0 +1,22 @@
+"Samurai Warriors 2 - Xtreme Legends /ID SLES_551.08"
+//ELF CRC 67472179
+Mastercode
+9012CC10 0C04B2AC
+
+//Widescreen Hack (16:9) by ElHecht
+
+// 16:9
+20181c78 3c023f19 // 3c023f4c hor fov 1-player
+20181c80 3442999a // 3442cccd hor fov 1-player
+20181e38 3c033f19 // 3c033f4c hor fov 2-players
+20181e40 3463999a // 3463cccd hor fov 2-players
+20182114 3c03440a // 3c0343cf renderfix enemies 1-player
+201820b4 3c03440a // 3c0343cf renderfix enemies 2-players
+
+// 16:10
+//20181c78 3c023f2a // 3c023f4c hor fov 1-player
+//20181c80 3442aaab // 3442cccd hor fov 1-player
+//20181e38 3c033f2a // 3c033f4c hor fov 2-players
+//20181e40 3463aaab // 3463cccd hor fov 2-players
+//20182114 3c0343f9 // 3c0343cf renderfix enemies 1-player
+//201820b4 3c0343f9 // 3c0343cf renderfix enemies 2-players

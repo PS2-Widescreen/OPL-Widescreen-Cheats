@@ -1,0 +1,22 @@
+"Disney Princess - Enchanted Journey /ID SLES_548.37"
+//ELF CRC 5F30B426
+Mastercode
+9031DDD8 0C0C771E
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20265454 3c014440 //3c014480
+
+//Render Fix
+203f3530 40000000 //3eaaaaab
+
+//Black Bar Fix
+20188de4 00000000 //44810000
+
+
+//Menu.... Character Position (Not Fixed Address)
+//206db7d8 39000000 //3d991686
+//206db7e0 3e3f0000 //3e4d4fdf

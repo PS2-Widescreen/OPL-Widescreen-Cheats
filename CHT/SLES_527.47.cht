@@ -1,0 +1,12 @@
+"Dukes of Hazzard, The - The Return of General Lee /ID SLES_527.47"
+//ELF CRC C46D7708
+Mastercode
+901AB798 0C06AD8E
+
+//Widescreen Hack
+203f8ef8 3c013fc3 
+203f8efc 34210c2c
+//hex pattern
+//4000228e923f013c2549213400008144
+//to 16:9
+//4000228ec33f013c2c0c213400008144

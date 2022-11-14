@@ -1,0 +1,10 @@
+"Space Channel 5 /ID SCES_506.11"
+//ELF CRC A595F752
+Mastercode
+901C0538 0C0700F6
+
+//Widescreen hack by ElHecht
+
+// 16:9
+2011eecc 3c013f40 // 3c013f80 hor fov 50Hz
+2011eddc 3c013f40 // 3c013f80 hor fov 60Hz

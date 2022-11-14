@@ -1,0 +1,14 @@
+"Thunderhawk - Operation Pheonix /ID SLES_505.54"
+//ELF CRC 019420F7
+Mastercode
+90159E38 0C056736
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20567180 3f366666 //3f733333
+
+//Render Fix
+20567194 42a00000 //424ccccd

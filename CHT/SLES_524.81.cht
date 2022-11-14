@@ -1,0 +1,14 @@
+"Hot Wheels - Stunt Track Challenge /ID SLES_524.81"
+//ELF CRC 1DE69E4C
+Mastercode
+9044DF58 0C11377E
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//0000803f 0000803f 30afba00 d052bc00
+20baa45c 3faaaaab //3f800000 fov
+
+//00 00 80 3F 00 00 80 3F D0 E7 BC 00 60 8B BE 00
+20bcdcfc 3faaaaab //3f800000 fov

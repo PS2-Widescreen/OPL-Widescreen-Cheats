@@ -1,0 +1,20 @@
+"SWAT - Global Strike Team /ID SLES_519.97"
+//ELF CRC 0E40BA6A
+Mastercode
+902F8FF0 0C0BE3A4
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+202a6774 3c013f23 //3c013f00
+
+//Y-Fov
+2025fa14 080a5248 //460039c2
+20294920 460039c2
+20294924 3c013f40
+20294928 4481f000
+2029492c 461e39c3
+20294930 08097e86
+

@@ -1,0 +1,18 @@
+"Tenchu - Fatal Shadows /ID SLES_530.14"
+//ELF CRC BF0DC4CE
+Mastercode
+90112E10 0C044B2C
+
+//Widescreen hack
+
+// 16:9
+2012ef24 3c023f40 // 3c023f80 hor fov
+2012ef48 3c023f40 // 3c023f80 hor fov
+2012f738 3c024455 // 3c024400 renderfix
+
+// 16:10
+//20136e9c 3c1b3f55 // 00000000 hor fov
+//20136ea4 377b5555 // 00000000 hor fov
+//2012ef2c ac3be1d4 // ac22e1d4
+//20154a04 ac3be1d4 // ac22e1d4
+//2012f738 3c024440 // 3c024400 renderfix

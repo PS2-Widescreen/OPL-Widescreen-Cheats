@@ -1,0 +1,20 @@
+"Hulk, The /ID SLES_515.08"
+//ELF CRC 804F5858
+Mastercode
+90598A50 0C16623C
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+204bbd48 08134998 //4600b0c3
+
+204d2660 4600b0c3
+204d2664 3c013f40
+204d2668 4481f000
+204d266c 461e18c2
+204d2670 0812ef53
+
+//Render fix
+203d75d4 3c013f2b //3c013f00

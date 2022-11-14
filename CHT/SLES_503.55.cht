@@ -1,0 +1,22 @@
+"Batman Vengeance /ID SLES_503.55"
+//ELF CRC A6F234C7
+Mastercode
+9022BC58 0C08AEBE
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//00000000 a80020c6 003f023c 00088244
+202a1e58 3c023f1e //3c023f00
+
+//Y-Fov
+//c2030146 06a40046
+202a1ea4 0813bd30
+
+204ef4c0 460103c2
+204ef4c4 3c013f40
+204ef4c8 4481f000
+204ef4cc 461e7bc2
+204ef4d0 080a87aa

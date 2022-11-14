@@ -1,0 +1,18 @@
+"LMA Manager 2005 /ID SLES_526.93"
+//ELF CRC C5EBD545
+Mastercode
+903DBF48 0C0F6F7A
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//02a51946 b00006e6
+2011a80c 080f62c4
+
+203d8b10 4619a502
+203d8b14 3c013f40
+203d8b18 4481f000
+203d8b1c 461ea502
+203d8b20 08046a04

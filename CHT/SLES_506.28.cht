@@ -1,0 +1,20 @@
+"Simpsons Road Rage /ID SLES_506.28"
+//ELF CRC 063CED6E
+Mastercode
+9031CB40 0C0C7278
+
+//Widescreen hack by ElHecht
+
+// 16:9
+201a1914 3c013fc0 // 3c013f9c 1-player zoom
+201a1918 34214000 // 342161ab 1-player zoom
+201a1924 3c013fe3 // 3c013faa 1-player ver fov
+201a1928 34218e39 // 3421aaab 1-player ver fov
+
+201a18e0 3c013fbb // 3c013f97 2-players zoom
+201a18e4 34218000 // 3421e9d9 2-players zoom
+201588ec 3c014063 // 3c01402a 2-players ver fov
+201588f0 34218e39 // 3421aaab 2-players ver fov
+
+// removes black texture glitches in hardware emulation, but brightens screen
+201c16e4 3c013f7f // 3c013f80

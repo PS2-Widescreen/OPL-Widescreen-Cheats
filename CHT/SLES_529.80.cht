@@ -1,0 +1,10 @@
+"Big Mutha Truckers 2 /ID SLES_529.80"
+//ELF CRC 27A0757B
+Mastercode
+903E61C0 0C0F9818
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+20480160 3f400000 //3F800000 Zoom
+20480168 3fe38e2a //3FAAAAAB Y-FOV

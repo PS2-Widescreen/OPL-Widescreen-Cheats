@@ -1,0 +1,19 @@
+"Shrek - Smash n Crash Racing /ID SLES_545.53"
+//ELF CRC 7C8125F4
+Mastercode
+901AAA90 0C06AA4C
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//02080046 5000a0e7 040040c4
+202789c0 08069cb4
+
+201a72d0 46000802
+201a72d4 3c013faa
+201a72d8 3421aaab
+201a72dc 4481f000
+201a72e0 461e0002
+201a72e4 0809e271

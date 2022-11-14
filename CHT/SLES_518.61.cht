@@ -1,0 +1,11 @@
+"Bowling Xciting /ID SLES_518.61"
+//ELF CRC 0FEEE8ED
+Mastercode
+9018A5D8 0C06291E
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9  
+2015b0b4 3c013f40 //00000000 (Increases hor. axis)
+2015b0b8 44810000 //00000000
+2015b0c0 4600c602 //00000000

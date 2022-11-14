@@ -1,0 +1,16 @@
+"Shin Onimusha - Dawn of Dreams [PlayStation 2 The Best] /ID SLPM_742.32"
+//ELF CRC C1C77637
+Mastercode
+90111350 0C04447C
+
+//Widescreen hack by nemesiss2000
+
+//Widescreen hack 16:9
+2012f960 3c033f19 //3c033f4c
+2012f968 34649999 //3464cccd
+2012f9c8 3c023f19 //3c023f4c
+2012f9cc 34439999 //3443cccd
+2012fb38 3c033f19 //3c033f4c
+2012fb40 34639999 //3463cccd
+2012fbb0 3c02c3d6 //3c02c3a0
+2012faa0 3c024527 //3c0244fa

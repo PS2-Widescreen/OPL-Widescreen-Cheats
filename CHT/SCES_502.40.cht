@@ -1,0 +1,10 @@
+"Extermination /ID SCES_502.40"
+//ELF CRC 68707E85
+Mastercode
+9010DE60 0C043740
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+201d3158 3c023f19 //3C023F4C (Increases hor. axis)
+201d315c 3442aaab //3442CCCD

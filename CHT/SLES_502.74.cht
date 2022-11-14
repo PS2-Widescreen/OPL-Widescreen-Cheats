@@ -1,0 +1,14 @@
+"Arctic Thunder /ID SLES_502.74"
+//ELF CRC 30818780
+Mastercode
+901F68D8 0C07D9DE
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//803f013c 00008144 2d200000
+20102a60 3c013f40 //3c013f80
+
+//46630046 0000058e
+2010cfcc 46000346 //46006346

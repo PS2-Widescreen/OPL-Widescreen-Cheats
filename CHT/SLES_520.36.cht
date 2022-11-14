@@ -1,0 +1,19 @@
+"WWE SmackDown! - Here Comes the Pain! /ID SLES_520.36"
+//ELF CRC F418F2EC
+Mastercode
+9010E238 0C043836
+
+//Widescreen hack by ElHecht
+
+// 16:9
+201040e4 3c013f40 // 00000000 hor fov
+201040f0 44810000 // 00000000
+201040f4 4600c602 // 00000000
+202072bc 3c023f08 // 3c023f80 camera fix
+
+// 16:10
+//201040e4 3c013f55 // 00000000 hor fov
+//201040e8 34215555 // 00000000 hor fov
+//201040f0 44810000 // 00000000
+//201040f4 4600c602 // 00000000
+//202072bc 3c023f30 // 3c023f80 camera fix
