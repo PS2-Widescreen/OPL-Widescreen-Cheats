@@ -1,9 +1,0 @@
-"Naruto - Ultimate Ninja 2 /ID SLES_548.78"
-//ELF CRC A816B282
-Mastercode
-901247D8 0C04919E
-//Naruto - Ultimate Ninja 2 (PAL-M5) (SLES-54878) Widescreen Hack (16:9) by ElHecht
-//
-// 16:9
-20a70200 3f400000 // 3F800000 X-Axis
-//20a70204 3f800000 // 3F800000 Y-Axis

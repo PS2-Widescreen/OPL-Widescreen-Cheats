@@ -1,9 +1,0 @@
-"Naruto - Ultimate Ninja 3 /ID SLES_552.37"
-//ELF CRC FFCEBAC9
-Mastercode
-9012D298 0C04B44E
-//Naruto - Ultimate Ninja 3 (PAL-M5) (SLES-55237) Widescreen Hack (16:9) by ElHecht
-//
-// 16:9
-20b92094 3f400000 // 3F800000 X-Axis
-//20b92098 3f800000 // 3F800000 Y-Axis

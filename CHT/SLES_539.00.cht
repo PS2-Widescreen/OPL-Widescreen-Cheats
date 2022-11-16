@@ -1,9 +1,0 @@
-"Kaido Racer /ID SLES_539.00"
-//ELF CRC C7993BCC
-Mastercode
-90116F10 0C045B6C
-
-//Widescreen hack by El_Patas
-
-//Gameplay 16:9 
-203fdfd0 3f400000 //3F800000 (Increases hor. axis)

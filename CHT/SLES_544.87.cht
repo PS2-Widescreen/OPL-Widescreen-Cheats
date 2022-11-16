@@ -1,9 +1,0 @@
-"Tokobot Plus - Mysteries of the Karakuri /ID SLES_544.87"
-//ELF CRC EBD35EC9
-Mastercode
-9024F248 0C093C3A
-
-//Widescreen hack by El_Patas
-
-//Gameplay 16:9
-201238ac 3c013f40 //3C013F80 (Increases hor. axis)

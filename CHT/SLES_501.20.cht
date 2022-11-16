@@ -1,9 +1,0 @@
-"Rumble Racing /ID SLES_501.20"
-//ELF CRC A9908033
-Mastercode
-9010BB38 0C042E76
-
-//Widescreen Hack by El_Patas
-
-//Gameplay 16:9
-201549f0 3c023f40 //3C023F80 (Increases hor. axis)

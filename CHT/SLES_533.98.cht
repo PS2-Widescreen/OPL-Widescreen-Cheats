@@ -1,9 +1,0 @@
-"Zombie Zone /ID SLES_533.98"
-//ELF CRC A2316D03
-Mastercode
-90210BD8 0C08429E
-
-//Widescreen Hack (16:9) by ElHecht
-
-// 16:9
-201d0104 3c013f40 // 3c013f80

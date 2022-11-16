@@ -1,9 +1,0 @@
-"Strawberry Shortcake - The Sweet Dreams Game /ID SLES_543.09"
-//ELF CRC 60CB032B
-Mastercode
-901138D0 0C044DDC
-
-//Widescreen Hack by El_Patas
-
-//Gameplay 16:9
-201a1358 3c033fab //3C033F80 (Increases hor. axis)

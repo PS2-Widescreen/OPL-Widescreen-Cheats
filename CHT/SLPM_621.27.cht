@@ -1,9 +1,0 @@
-"Maximo /ID SLPM_621.27"
-//ELF CRC 602C8097
-Mastercode
-9010F188 0C043C0A
-
-//Widescreen Hack by Little Gaint
-
-20262fe0 43870000 //43B40000 hor
-201decc4 3feeeeee //3FB33333 render fix

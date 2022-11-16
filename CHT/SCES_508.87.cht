@@ -1,9 +1,0 @@
-"Alpine Racer 3 /ID SCES_508.87"
-//ELF CRC 7367D841
-Mastercode
-9010E500 0C0438E8
-
-//Widescreen Hack by El_Patas
-
-//Gameplay 16:9
-206a1e5c 3f199999 //3F800000 (Increases hor. axis)

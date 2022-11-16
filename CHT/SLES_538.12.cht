@@ -1,9 +1,0 @@
-"Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. /ID SLES_538.12"
-//ELF CRC A38C6B77
-Mastercode
-9010A850 0C0429BC
-
-//Widescreen Hack by El_Patas
-
-//Gameplay 16:9 
-20c156a4 3f400000 //3F800000 (Increases hor. axis)

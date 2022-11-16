@@ -1,9 +1,0 @@
-"Crisis Zone /ID SCES_525.30"
-//ELF CRC 88E8290A
-Mastercode
-901076B8 0C041D56
-
-//Widescreen hack. Port by dieSkaarj (PAL.)
-
-201047c8 3c013fab //3c013f80
-
