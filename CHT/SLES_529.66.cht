@@ -1,0 +1,12 @@
+"ESPN NHL 2K5 /ID SLES_529.66"
+//ELF CRC EC301155
+Mastercode
+906B1B58 0C1AC67E
+
+//Widescreen hack by El_Patas
+
+//Seems to work fine only in the emulator, in the PS2 causes some graphical glitches in some 
+//cut-scenes and in the replays when is used the zoom very near to the puck.
+
+//Gameplay 16:9
+201a30f0 3c013faa //3C013F80 (Increases hor. axis)

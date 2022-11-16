@@ -1,0 +1,22 @@
+"Crouching Tiger, Hidden Dragon /ID SLES_519.16"
+//ELF CRC 9C8C770A
+Mastercode
+902072B8 0C081C56
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Game play
+//803f013c 00a08144 4879040c
+2011dfa4 3c013f40 //3c013f80
+
+//Event
+2011e1b0 3c013f40 //3c013f80
+
+//? (Same pattern's Search Value. Test time is short. Then remain it)
+2011e3a0 3c013f40 //3c013f80
+
+//Render fix
+//c043013c 00688144 c6a30046
+2011e000 3c014400 //3c0143c0

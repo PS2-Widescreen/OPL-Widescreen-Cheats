@@ -1,0 +1,13 @@
+"Dog of Bay /ID SLPS_200.57"
+//ELF CRC 0194120C
+Mastercode
+9018D4D8 0C0634DC
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix Hack
+2016ff74 3c013f40 //00000000
+2016ff78 44810000 //00000000
+2016ff80 4600c602 //00000000

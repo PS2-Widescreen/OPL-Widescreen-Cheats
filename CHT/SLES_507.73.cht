@@ -1,0 +1,12 @@
+"Donald Duck Phantomias Platyrhynchos Kineticus /ID SLES_507.73"
+//ELF CRC D4781770
+Mastercode
+9031C998 0C0C720E
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//000080bf 0000803f 000080bf 00000000
+203317f0 bf400000 //3f800000

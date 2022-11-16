@@ -1,0 +1,19 @@
+"Pro Yakyuu Spirits 4 /ID SLPM_667.28"
+//ELF CRC FD8719A1
+Mastercode
+90120ED8 0C04835E
+
+//16:9 widescreen hack by 99skull (pnach by Arapapa)
+//Search values are apply to other series games
+
+//00000000 41b81946 803f083c
+20150448 3c013f2a //00000000 vert fov 
+
+//00000000 42100146 07000046
+20150480 44819800 //00000000 vert fov
+
+//02100046 42081546
+2015048c 46009802 //46001002 vert fov
+
+//803f053c 82c80146 
+20150628 3c053faa //3C053F80 zoom

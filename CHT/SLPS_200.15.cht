@@ -1,0 +1,9 @@
+"Tekken Tag Tournament /ID SLPS_200.15"
+//ELF CRC 06979F19
+Mastercode
+90400A08 0C100228
+﻿gametitle=Tekken Tag Tournament [NTSC-J] (SLPS-20015)
+//Widescreen hack by nemesis2000 (pnach by nemesis2000 )
+2034b004 3c013f40
+2034b008 44810000
+2034b010 4600c602

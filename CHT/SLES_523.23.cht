@@ -1,0 +1,11 @@
+"Richard Burns Rally /ID SLES_523.23"
+//ELF CRC 185BC820
+Mastercode
+90338908 0C0CE1EA
+
+//ELF CRC=185BC820
+//Widescreen patch by nemesis2000 (pnach by nemesis2000)
+
+20112f74 3c014340
+20112f94 3c013ff1
+20112f98 3421c71c

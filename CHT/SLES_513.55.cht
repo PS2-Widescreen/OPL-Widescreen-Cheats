@@ -1,0 +1,14 @@
+"Big Mutha Truckers /ID SLES_513.55"
+//ELF CRC 506644B3
+Mastercode
+90353CB0 0C0D4ED4
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+201aa3f4 3c013f3a //3c013f80
+
+//Y-Fov
+2037c730 3fe00000 //3f99999a

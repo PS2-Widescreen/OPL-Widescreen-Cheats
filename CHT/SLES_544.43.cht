@@ -1,0 +1,22 @@
+"Made Man /ID SLES_544.43"
+//ELF CRC CC03D5AD
+Mastercode
+902B4328 0C0AD072
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+20152e68 3c013fab //3c013f80
+
+//Zoom
+20220530 3c013f20 //3c013f00
+
+//Black Bar Fix
+20100b8c 3c010000 //3c014420 Bottom
+20100ba0 3c010000 //3c014270 Upper
+
+//Black Scene Fix
+//f043013c 00a08144 2d200002
+20100e2c 3c010000 //3c0143f0

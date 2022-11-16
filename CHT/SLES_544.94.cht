@@ -1,0 +1,17 @@
+"Little Britain - The Video Game /ID SLES_544.94"
+//ELF CRC 3EFF3155
+Mastercode
+90235E18 0C08D72E
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201c4290 3c01bf40 //3c01bf80
+
+//Render fix
+2019d2b8 3c0144fa //3c0144bb
+
+//Y-Fov
+//201cf124 3c013ec0 //3c013f00

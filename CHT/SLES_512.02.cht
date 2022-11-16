@@ -1,0 +1,9 @@
+"Wreckless - The Yakuza Missions /ID SLES_512.02"
+//ELF CRC DBA95103
+Mastercode
+9026EC38 0C09BAB6
+
+//Widescreen hack by ElHecht
+
+// 16:9
+20147ca4 3c013f40 // 3c013f80 hor fov

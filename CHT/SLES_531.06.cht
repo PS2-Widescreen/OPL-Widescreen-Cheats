@@ -1,0 +1,20 @@
+"MX vs ATV Unleashed /ID SLES_531.06"
+//ELF CRC D7AE31F4
+Mastercode
+9033F550 0C0CFCFC
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9 
+20111f70 3c033caa //3C033C8E Zoom
+20111f74 3463a21d //3463FA34
+20111f68 3c023fab //3C023F80 Y-FOV
+
+//Alternative Gameplay 16:9
+//201b7eb4 3c023f18 //3C023F00 Zoom
+//2022c9c8 3c043fe3 //3C043FAA Y-FOV
+//2022c9cc 348e8e39 //348EAAAB
+
+//Render fix
+2018eaf4 3c03bfab //3C03BF80
+2018eaf8 3c023fab //3C023F80

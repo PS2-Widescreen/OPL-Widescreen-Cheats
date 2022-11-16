@@ -1,0 +1,10 @@
+"Stunt GP /ID SLES_500.64"
+//ELF CRC 0B74A404
+Mastercode
+902F3A48 0C0BCE3A
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+20591e00 3fe37119 //3FAA9FBE Single Player
+20591dfc 3fe37119 //3FAA9FBE Multi Player

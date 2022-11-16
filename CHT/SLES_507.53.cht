@@ -1,0 +1,9 @@
+"Freekstyle /ID SLES_507.53"
+//ELF CRC 3D2FC5EE
+Mastercode
+9010BBD0 0C042E9C
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+20144160 3c023f40 //3C023F80 (Increases hor. axis)

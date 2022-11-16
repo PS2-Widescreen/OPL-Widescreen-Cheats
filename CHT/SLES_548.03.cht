@@ -1,0 +1,15 @@
+"They Came from the Skies /ID SLES_548.03"
+//ELF CRC D8DF7CB5
+Mastercode
+901AB518 0C06ACEE
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+20159f90 08030000
+200c0000 3c013f40
+200c0004 44812000
+200c0008 4604bdc2
+200c000c 4614bdc2
+200c0010 080567e5

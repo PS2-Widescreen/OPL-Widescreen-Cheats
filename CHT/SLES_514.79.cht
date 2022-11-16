@@ -1,0 +1,10 @@
+"Def Jam Vendetta /ID SLES_514.79"
+//ELF CRC 7B8477F9
+Mastercode
+902175D8 0C085D1E
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+201a1d24 3c013f10 //3C013F40 (Increases hor. axis)
+20198154 3c013f22 //3C013F00

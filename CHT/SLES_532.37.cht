@@ -1,0 +1,22 @@
+"Fire Heroes /ID SLES_532.37"
+Mastercode
+901139F8 0C044E26
+
+//ELF CRC=90C5D585
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+20296b64 3c023fe3 //3c023faa
+20296b70 34428e2a //3442aaab
+
+//Zoom
+20296b7c 08030000
+
+200c0000 c66c00a0
+200c0004 3c013faa
+200c0008 3421aaab
+200c000c 4481f000
+200c0010 461e6302
+200c0014 080a5ae0

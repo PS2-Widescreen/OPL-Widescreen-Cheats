@@ -1,0 +1,16 @@
+"Pro Evolution Soccer Management /ID SLES_538.99"
+//ELF CRC 19DA6238
+Mastercode
+90108750 0C04217C
+
+//Widescreen hack by Arapapa
+ 
+//Widescreen 16:9
+
+//X-Fov
+201044a4 3c013f40 //00000000
+201044a8 44810000 //00000000
+201044b0 4600c602 //00000000
+
+//Render fix
+201f1d4c 3c023fab //3c023f80

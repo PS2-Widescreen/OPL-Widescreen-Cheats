@@ -1,0 +1,20 @@
+"Unlimited Saga /ID SLES_516.06"
+//ELF CRC B6FD779E
+Mastercode
+9070EBF8 0C1C3AA6
+
+//Widescreen Hack by ElHecht
+
+// 16:9 battles
+20703bfc 3c013f40 // 00000000 hor fov
+20703c00 34210000 // 00000000 hor fov
+20703c08 44810000 // 00000000
+20703c0c 4600c602 // 00000000 
+207795d4 3c0243ab // 3c024380 increase hor fov
+
+// 16:10 battles
+//20703bfc 3c013f55 // 00000000 hor fov
+//20703c00 34215555 // 00000000 hor fov
+//20703c08 44810000 // 00000000
+//20703c0c 4600c602 // 00000000 
+//207795d4 3c02439a // 3c024380 increase hor fov

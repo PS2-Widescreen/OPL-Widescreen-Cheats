@@ -1,0 +1,16 @@
+"Coraline /ID SLES_554.70"
+//ELF CRC 4F82849C
+Mastercode
+903DF498 0C0F7CCE
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+2026432c 3c014440 //3C014480 (Increases horiz. axis)
+ 
+//Render fix
+201a6548 3c013c2e //3C013C0E
+
+//Get rid of black bar
+20225ea8 3c014000 //3c014299
+20225eac 00000000 //3421999a

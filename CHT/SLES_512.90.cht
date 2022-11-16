@@ -1,0 +1,15 @@
+"Sword of the Samurai /ID SLES_512.90"
+//ELF CRC 54FBDC95
+Mastercode
+90217D50 0C085EFC
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+201ac994 3c013f40 //3C013F80 (Increases hor. axis)
+
+//Cutscenes in movement fix
+201ad674 3c013f40 //3C013F80 (Increases hor. axis)
+
+//Removes black box cutscenes texts (Optional)
+//201b3ce0 3c013d00 //3C013F80

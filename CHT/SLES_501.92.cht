@@ -1,0 +1,20 @@
+"Army Men - Sarges Heroes 2 /ID SLES_501.92"
+//ELF CRC F491BA82
+Mastercode
+901DFBE8 0C077EA2
+
+//Widescreen Hack by El_Patas and Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f013c 00008144 e0ffbd27
+201b1878 3c013f22 //3c013f00
+
+//Fov
+//803f013c 00a08144 43480200
+201db1a0 3c013fb3 //3c013f80
+
+//Menu Screen and Energy bar fix
+//803f013c 00208144 07000046
+201b1ae0 3c013fab //3c013f80

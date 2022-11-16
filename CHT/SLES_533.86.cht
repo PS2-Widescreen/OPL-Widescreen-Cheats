@@ -1,0 +1,16 @@
+"Charlie and the Chocolate Factory /ID SLES_533.86"
+//ELF CRC A3ED2B3D
+Mastercode
+9010A850 0C0429BC
+
+//Widescreen Hack by El_Patas and Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+202f83e4 08041c28 //c6000038
+201070a0 c6000038 //00000000
+201070a4 3c1b3f40 //00000000
+201070a8 449bf000 //00000000
+201070ac 461e0003 //00000000
+201070b0 080be0fa //00000000

@@ -1,0 +1,16 @@
+"Bratz - Girlz Really Rock /ID SLES_553.57"
+//ELF CRC 26847412
+Mastercode
+90484790 0C12118C
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+//X-Fov
+//00000000 00000000 83ad0046 00000000
+//403f013c 00f08144 83ad0046 82b51e46
+203baf8c 3c013f40
+203baf90 4481f000
+203baf98 461eb582

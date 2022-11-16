@@ -1,0 +1,14 @@
+"Capcom vs SNK 2 /ID SLPM_650.47"
+//ELF CRC B54C0319
+Mastercode
+90106418 0C0418AE
+﻿gametitle=Capcom vs. SNK 2: Mark of the Millennium 2001  [NTSC-J] (SLPM-65047)
+//Widescreen patch by nemesis2000 (pnach by nemesis2000)
+
+20142fb0 3c023faa
+20143224 3c023faa
+20125030 ac83003c
+20125034 3c033f40
+20125038 03e00008
+2012503c ac830000
+2012492c 3c023fe3

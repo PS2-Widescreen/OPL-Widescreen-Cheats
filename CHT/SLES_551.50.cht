@@ -1,0 +1,14 @@
+"TNA iMPACT! /ID SLES_551.50"
+//ELF CRC F2A2F496
+Mastercode
+901AD898 0C06B5CE
+
+//Widescreen hack by ElHecht
+
+// 16:9
+// note: data is stored in "TNAPOV.ELF"
+e0043f80 002250e0 // check 202250e0 matches value xxxx3f80
+202250e0 3c013f40 // 3c013f80
+202250e4 4481f000 // 4481e000
+202250ec 461ef703 // 00000000
+202250f4 4602f083 // 4602e083

@@ -1,0 +1,14 @@
+"Final Fantasy X-2 /ID SLES_518.16"
+//ELF CRC 9AAC530C
+
+Mastercode
+9034CF98 0C0D338E
+
+
+//Widescreen Hack (16:9) by ElHecht, ported to PAL-French by Z_Boy
+// 16:9
+201b49cc 3c013f19
+201b49d0 3421999a
+// Render-Fix
+2012369c 3c014440
+20185f7c 3c01442b

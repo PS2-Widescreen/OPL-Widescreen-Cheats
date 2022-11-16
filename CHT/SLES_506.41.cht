@@ -1,0 +1,12 @@
+"Dynasty Warriors 3 /ID SLES_506.41"
+//ELF CRC A1021ADC
+Mastercode
+901A3B58 0C068E7E
+
+//Widescreen Hack (16:9) by ElHecht
+//
+// 16:9
+202f42c8 3fa00000 // 3f800000 camera zoom
+202f42d4 3faaaaab // 3f800000 ver fov
+20261e84 3c023f40 // 3c023f80 hor fov real-time intro
+201778d0 3c023f20 // 3c023f00 renderfix

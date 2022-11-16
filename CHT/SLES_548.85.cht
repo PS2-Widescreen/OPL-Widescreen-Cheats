@@ -1,0 +1,17 @@
+"Moto X Maniac /ID SLES_548.85"
+//ELF CRC 899557DF
+Mastercode
+9036D490 0C0DB4CC
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20135de4 3c013f1e //3c013f00
+
+//Y-Fov
+20135e28 3c013faa
+20135e2c 3421aaab
+20135e34 4481f000
+20135e38 461ebdc2

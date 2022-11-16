@@ -1,0 +1,17 @@
+"Sopranos, The - Road to Respect /ID SLES_542.09"
+//ELF CRC 673AF937
+Mastercode
+903BA2F8 0C0EE866
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+20425280 3fc0d938 //3F90A3D7 (Increases hor. axis)
+
+//Prevent writes to 00425280 for make the patch to work in the PS2
+201c8294 00000000 //E4815280
+201c8578 00000000 //E4405280
+2030bad0 00000000 //E6C05280
+20317e40 00000000 //E4405280
+2036e7f4 00000000 //E4625280
+2036f5b0 00000000 //E4605280

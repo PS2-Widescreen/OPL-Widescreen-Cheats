@@ -1,0 +1,18 @@
+"Bass Master Fishing /ID SLES_518.62"
+//ELF CRC 63007DE0
+Mastercode
+9010E0B8 0C0437D6
+
+//Widescreen hack
+
+//Widescreen hack 16:9
+
+//X-Fov
+//700000c6 0400028e (1st)
+201813f4 08030000
+
+200c0000 c6000070
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 080604fe

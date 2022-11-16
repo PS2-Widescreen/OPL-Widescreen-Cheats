@@ -1,0 +1,19 @@
+"Victorious Boxers 2 - Fighting Spirit /ID SLES_533.38"
+//ELF CRC 8B1353FA
+Mastercode
+90106FD0 0C041B9C
+
+//Widescreen hack by El_Patas
+
+//X-FOV (In Squared Ring)
+201939dc 3c063fab //3C063F80
+
+//Cutscenes
+//02080046 4800a0e7 380080c4
+2013b8a4 080babbc
+202eaef0 46000802
+202eaef4 3c013f40
+202eaef8 4481f000
+202eaefc 461e0003
+202eaf00 0804ee2a
+

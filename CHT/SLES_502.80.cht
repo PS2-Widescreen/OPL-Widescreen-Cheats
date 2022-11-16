@@ -1,0 +1,17 @@
+"Victorious Boxers /ID SLES_502.80"
+//ELF CRC E3F31090
+Mastercode
+901BB718 0C06ED6E
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9 
+
+//X-Fov (In Squared Ring)
+20114530 3c013f40 //3c013f80
+
+//Event Zoom
+2019a948 3c013fab //3c013f80
+
+//Event Y-Fov
+20191138 3c0143b4 //3c0143f0

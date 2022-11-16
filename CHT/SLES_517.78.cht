@@ -1,0 +1,16 @@
+"Summer Heat Beach Volleyball /ID SLES_517.78"
+//ELF CRC 098384FD
+Mastercode
+90217370 0C085C84
+
+//Widescreen Hack by El_Patas
+
+//Both fov 16:9
+201b098c 3c01464f //3C014622
+
+//Vert fov 16:9
+201b0b40 3c013fb5 //3C013F88
+201b0b44 3421ea28 //34213127
+
+//Render fix
+201b0b20 3c01464f //3C014622

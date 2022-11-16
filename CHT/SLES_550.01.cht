@@ -1,0 +1,28 @@
+"Mercenaries 2 - World in Flames /ID SLES_550.01"
+//ELF CRC A97C9BFD
+Mastercode
+904A7298 0C129C4E
+
+//Widescreen Hack by El_Patas
+
+// 16:9
+2037c350 3c013f40 //00000000 hor fov
+
+// 16:10 
+//2037c350 3c013f55 //00000000 hor fov
+//2037c354 34215555 //00000000 hor fov
+
+// 16:9 and 16:10 main modifications
+// no need to change anything here! all modifications are calculated
+// based on the hor fov value in the upper 16:9/16:10 section
+2037c358 4481f000 //00000000 fov
+2037cc18 4600f306 //44816000 fov
+20380f54 461e0843 //3c013f80 renderfix 1 objects
+20380f58 46010d43 //4481a800 renderfix 1 objects
+20389450 4600f306 //44816000 renderfix 2 smoke and fire
+2037b490 0813cbcb //46030842 hud-identification fix
+2037b494 00000000 //46030002 hud-identification fix
+20556848 46030842 //00000000 hud-identification fix
+2055684c 46030002 //00000000 hud-identification fix
+20556850 461e0002 //00000000 hud-identification fix
+20556854 080ce663 //00000000 hud-identification fix 

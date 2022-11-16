@@ -1,0 +1,14 @@
+"J-League Winning Eleven 8 - Asia Championship /ID SLPM_657.40"
+//ELF CRC 03A58E82
+Mastercode
+90108910 0C0421EC
+
+// Widescreen pnach by Arapapa
+
+// 16:9 (00000000 00000000 43ad1346 00000000)
+20104634 3c013f40 // 00000000 hor fov
+20104638 44810000 // 00000000
+20104640 4600c602 // 00000000
+
+// Render fix (42111446 803f023c)
+20126554 3c023fab //3c023F80 (increases hor. render area)

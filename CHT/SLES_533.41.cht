@@ -1,0 +1,11 @@
+"Dynasty Warriors 5 /ID SLES_533.41"
+//ELF CRC 55AC5DA3
+Mastercode
+90122850 0C0489BC
+
+//Widescreen Hack (16:9) by ElHecht
+//
+// 16:9
+20146c18 3c0243b4 // 3c0243a0 hor fov value1
+20146cc8 3c0243f0 // 3c0243a0 hor fov value2
+2018249c 3c023f15 // 3c023f00 render fix

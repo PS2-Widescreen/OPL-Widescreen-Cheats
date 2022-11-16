@@ -1,0 +1,18 @@
+"X-Men Legends /ID SLES_526.24"
+//ELF CRC 69094734
+Mastercode
+9010D730 0C043574
+
+//Widescreen Hack (16:9) by XxGaMiNGK3LLERxX
+
+20d86690 3f666666 // HUD Height
+207214d4 3fa00000 // HUD & Menu Width
+20d86678 3f59999a // HUD Width
+207214cc 3f100000 // font width
+207214d0 3f100000 // font height
+207214a0 3fe00000 // Gameplay screen fix 16:9
+
+//20d866b4 3f733333
+//20231920 3f333333
+//206a81ec 3f7ae148 //character skill highlight beta fix - causes ring health to bug when applied
+

@@ -1,0 +1,18 @@
+"Bratz - The Movie /ID SLES_549.88"
+//ELF CRC 1A4890AB
+Mastercode
+90498D50 0C1262FC
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//000000000000000083ad004600000000
+203ddcb4 3c013f40 //00000000
+203ddcb8 4481f000 //00000000
+203ddcc0 461eb582 //00000000
+
+//Render fix
+//003f013c 00a08144 98000cc6 (1st)
+203bd000 3c013f2b //3c013f00

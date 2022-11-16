@@ -1,0 +1,12 @@
+"Whirl Tour /ID SLES_511.26"
+//ELF CRC FB45FA8E
+Mastercode
+9025E210 0C09782C
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+201b4334 3c014440 //3C014480 (Increases horiz. axis)
+
+//Render fix
+201aa394 3c013c2e //3C013C0E

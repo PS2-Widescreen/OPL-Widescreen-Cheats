@@ -1,0 +1,23 @@
+"Jonny Moseley Mad Trix /ID SLES_506.19"
+//ELF CRC 9C11C258
+Mastercode
+90250978 0C094206
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f013c 00008144 e0ffbd27
+201fdbb8 3c013f27
+
+//Y-Fov
+//02000246 42410546
+201fdb88 08030000
+
+200c0000 46020002
+200c0004 3c013faa
+200c0008 3421aaab
+200c000c 4481f000
+200c0010 461e0002
+200c0014 0807f6e3

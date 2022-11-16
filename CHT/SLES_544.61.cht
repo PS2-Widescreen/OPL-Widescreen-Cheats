@@ -1,0 +1,11 @@
+"Zombie Hunters /ID SLES_544.61"
+//ELF CRC 3F73B727
+Mastercode
+902147D8 0C08519E
+
+//Widescreen Hack (16:9) by ElHecht
+
+// 16:9
+201e5a94 3c093f40 // 00000000 hor fov
+201e5aa0 3c0a003a // 00000000
+201e5aa4 ad49d354 // 00000000

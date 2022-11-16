@@ -1,0 +1,22 @@
+"Kao the Kangaroo - Round 2 /ID SLES_519.98"
+//ELF CRC C3BE8BAB
+Mastercode
+90119518 0C0464EE
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//c3180d46 00180244 00000a44
+20233b90 080e5934
+
+203964d0 460d18c3
+203964d4 3c013f40
+203964d8 4481f000
+203964dc 461e18c2
+203964e0 0808cee5
+
+//Render fix
+//003f033c 00088344 00000000 02000246
+201c59f8 3c033f2b //3c033f00

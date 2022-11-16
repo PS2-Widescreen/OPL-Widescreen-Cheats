@@ -1,0 +1,9 @@
+"Guncom 2 /ID SLES_526.20"
+//ELF CRC 6149414E
+Mastercode
+9010D438 0C0434B6
+
+//Widescreen Hack by by Arapapa
+
+//Widescreen hack 16:9
+20299ac0 3f400000 //3f800000

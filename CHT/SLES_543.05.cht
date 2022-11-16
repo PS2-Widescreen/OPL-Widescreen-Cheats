@@ -1,0 +1,10 @@
+"Demon Chaos /ID SLES_543.05"
+//ELF CRC F991B233
+Mastercode
+90115390 0C04548C
+
+//Widescreen hack by ElHecht
+
+// 16:9
+2017a87c 3c023f80 // 3c023faa hor fov
+2017a880 344a0000 // 344aaaaa hor fov

@@ -1,0 +1,14 @@
+"WWE SmackDown vs. Raw 2008 /ID SLES_548.79"
+//ELF CRC 3E694755
+Mastercode
+90148390 0C05208C
+
+//Widescreen hack by nemesis2000
+// Ported to PAL, added 16:10 support (ElHecht)
+
+// 16:9
+20287760 3c033f40 // 3c033f80 hor fov
+
+// 16:10
+//20101c48 3c1b3f55 // 00000000 hor fov
+//20287760 37635555 // 4481a000 hor fov

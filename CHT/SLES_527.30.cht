@@ -1,0 +1,17 @@
+"DragonBall Z - Budokai 3 /ID SLES_527.30"
+//ELF CRC CD787D68
+Mastercode
+9010D5D0 0C04351C
+
+//Widescreen hack by ElHecht
+
+// 16:9 gui and gameplay
+201310c8 080c5137 // 46000803 jump to code-inject 003144dc
+201310cc 00000000 // e7808744
+
+203144dc 3c013f40 // 00000000 hor fov
+203144e0 4481f000 // 00000000
+203144e4 46000803 // 00000000
+203144e8 461e0002 // 00000000
+203144ec e7808744 // 00000000
+203144f0 0804c433 // 00000000 jump back to function 001310cc

@@ -1,0 +1,11 @@
+"Basketball Xciting /ID SLES_518.50"
+//ELF CRC 32F02A6C
+Mastercode
+901A93D8 0C06A49E
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9    
+20179424 3c013f40 //00000000 (Increases hor. axis)
+20179428 44810000 //00000000
+20179430 4600c602 //00000000

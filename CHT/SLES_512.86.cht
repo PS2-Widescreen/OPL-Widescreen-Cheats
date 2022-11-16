@@ -1,0 +1,29 @@
+"X-Men 2 - Wolverines Revenge /ID SLES_512.86"
+//ELF CRC EE3180F4
+Mastercode
+902D0588 0C0B410A
+
+//Widescreen hack by Arapapa, ElHecht
+
+//Widescreen hack 16:9
+
+//Zoom
+//cc43013c cdcc2134 (1st)
+2017f874 3c014399 //3c0143cc
+2017f878 3421999a //3421cccd
+
+//Y-Fov
+//8040013c 00088144 d035c224
+2017f854 3c0140ab //3c014080
+
+//Popup message fix
+//3d3f013c a4702134 (1st)
+2010d718 3c013f0e //3c013f3d
+2010d71c 3421147b //342170a4
+
+//Render fix
+//803f013c 00188144 87100046
+201a0640 3c013fee //3c013f80 render fix by ElHecht
+
+//0043013c 00088144 42000224
+//20169680 3c014200 //3c014300 remove blurry effect by ElHecht

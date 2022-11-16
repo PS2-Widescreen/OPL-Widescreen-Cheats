@@ -1,0 +1,23 @@
+"Bee Movie Game /ID SLES_550.16"
+//ELF CRC 9D6AA1B8
+Mastercode
+9010A918 0C0429EE
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f023c 1c0101c6
+201864b0 3c023f1a //3c023f00
+
+//Y-Fov
+//03081546 9400a0e7
+2018652c 0808bad8
+
+2022eb60 46150803
+2022eb64 3c013faa
+2022eb68 3421aaab
+2022eb6c 4481f000
+2022eb70 461e0002
+2022eb74 0806194c
