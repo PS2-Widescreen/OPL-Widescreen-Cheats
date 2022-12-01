@@ -1,0 +1,17 @@
+"SpongeBobs Atlantis SquarePantis /ID SLES_550.24"
+//ELF CRC AE28C9C7
+Mastercode
+9047B310 0C11EC6C
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+203b36fc 3c013f40
+203b3700 4481f000
+203b3708 461eb582
+
+//Render fix
+20393220 3c013f2b //3c013f00
+

@@ -1,0 +1,9 @@
+"Incredibles, The - Rise of the Underminers /ID SLUS_212.17"
+//ELF CRC 6DFE8ED7
+Mastercode
+9010A390 0C04288C
+
+//Widescreen hack
+//201110e0 00000000 // hang fix by Prafull
+20218e84 3c023f17
+20218eb0 3c023f10

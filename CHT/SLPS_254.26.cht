@@ -1,0 +1,23 @@
+"Detective Conan - Inheritance of Britain /ID SLPS_254.26"
+//ELF CRC BFFC4507
+Mastercode
+902605D8 0C09811E
+
+//Widescreen Hack by Arapapa
+
+//Play Tip
+//Effects of shadow are dirty.Then it is better to turn off a shadow's effects.
+//GSDX -> pluging settings -> configure -> CHECK a "Alpha" (get rid of shadow's effects)
+
+//Widescreen hack 16:9
+//00000000 00000000 43ad1346 00000000
+2022be64 3c013f40 //00000000
+2022be68 44810000 //00000000
+2022be70 4600c602 //00000000
+
+//Render fix
+//0000a043 00006043 00008041 ffff7f4b 00000000
+202d7e90 43e00000 //43a00000
+
+//0000a043 00006043 00000000 04000000 0a000000
+202fccac 43e00000 //43a00000

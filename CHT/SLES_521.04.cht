@@ -1,0 +1,10 @@
+"Tak and the Power of JuJu /ID SLES_521.04"
+//ELF CRC 5A6F5E04
+Mastercode
+9038AAC0 0C0E2A58
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+202513f0 3c013fe3 //3C013FAA
+202513f4 34218e38 //3421AAAB

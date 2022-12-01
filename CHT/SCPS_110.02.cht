@@ -1,0 +1,29 @@
+"Fantavision /ID SCPS_110.02"
+//ELF CRC 78950D31
+Mastercode
+901C6220 0C07182E
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//2044013c 00088144 2a00043c
+201a1548 3c0143f0 //3c014420
+//201a15a8 3c013f55 //3c013f20
+
+//Zoom
+//003f013c 00288144 00000000
+//201a15dc 3c013ec0 //3c013f00
+
+//Y-Fov
+//f03e013c 00008144 42680146
+//201a15c0 3c013eb4 //3c013ef0
+
+//Y-Fov
+//201a1560 3c014300 //3c014360
+
+
+
+//xxxx
+//2019ff2c 3c013f82 //3c013f80

@@ -1,0 +1,11 @@
+"Shaun Palmers Pro Snowboarder /ID SLES_504.00"
+//ELF CRC 293D99B2
+Mastercode
+9010F0D8 0C043BDE
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+2019ecb8 3c024455 //3C024420
+201a6730 3c0243a8 //3C0243E0
+201a6750 3c0243c0 //3C024400

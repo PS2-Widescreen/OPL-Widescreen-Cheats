@@ -1,0 +1,13 @@
+"Incredibles, The /ID SLES_528.16"
+//ELF CRC 197641AA
+Mastercode
+90107ED0 0C041F5C
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+201ff744 3c023f1c //3C023F00 Zoom
+201ff770 3c023f10 //3C023F40 Y-FOV
+
+//Hang fix by Prafull (Only needed for pcsx2, is not needed for the PS2)
+//2010ec20 00000000 //40036000

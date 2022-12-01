@@ -1,0 +1,12 @@
+"Seek & Destroy /ID SLES_516.03"
+//ELF CRC 5F2F5469
+Mastercode
+901B88E0 0C06E1E0
+
+//Widescreen Hack by El_Patas
+
+// 16:9
+201bcd0c 3c013f40 //00000000 hor fov
+201bcd18 44810000 //00000000
+201bcd1c 4600c602 //00000000
+2018757c 3c0140a7 //3C01407A renderfix

@@ -1,0 +1,10 @@
+"Search and Destroy /ID SLES_540.33"
+//ELF CRC BE69820A
+Mastercode
+901FB240 0C07EC38
+
+//Widescreen hack by Arapapa
+
+//Wide Screen 16:9
+
+201c8db8 3c014340 //3c014380

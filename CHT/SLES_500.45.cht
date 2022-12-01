@@ -1,0 +1,21 @@
+"Disneys Jungle Book - Groove Party /ID SLES_500.45"
+//ELF CRC 572D9D76
+Mastercode
+90217A90 0C085E4C
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f023c 00088244 a80020c6
+2028d01c 3c023f20 //3c023f00
+
+//Y-Fov
+//c2030146 07030046 (2nd)
+2028d07c 080e83b8
+203a0ee0 460103c2
+203a0ee4 3c013f40
+203a0ee8 4481f000
+203a0eec 461e7bc2
+203a0ef0 080a3420

@@ -1,0 +1,10 @@
+"Arthus & The Minimoys /ID SLES_544.20"
+//ELF CRC 859AB297
+Mastercode
+90112A90 0C044A4C
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+2012bba4 3c023f1e //3C023F00 
+2012bbc8 3c023f0f //3C023F40

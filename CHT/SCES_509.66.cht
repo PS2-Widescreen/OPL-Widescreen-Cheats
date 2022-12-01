@@ -1,0 +1,16 @@
+"Disneys Stitch - Experiment 626 /ID SCES_509.66"
+//ELF CRC 5B1DC04C
+Mastercode
+90110E98 0C04434E
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f023c 1000bfff
+20236df4 3c023f1e //3c023f00
+
+//Y-Fov
+//803f043c 80bf033c 
+20237244 3c03bfac //3c03bf80

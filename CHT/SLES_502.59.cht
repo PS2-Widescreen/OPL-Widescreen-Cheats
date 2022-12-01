@@ -1,0 +1,10 @@
+"Flintstones - Viva Rock Vegas /ID SLES_502.59"
+//ELF CRC E7C59CE9
+Mastercode
+9017E6B8 0C05F956
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+20139738 3c013f40 //3C013F80 Single Player
+20139814 3c013ec0 //3C013F00 Multiplayer

@@ -1,0 +1,20 @@
+"Disney-Pixars Cars /ID SLES_540.07"
+//ELF CRC B8435BF4
+Mastercode
+90469410 0C11A4AC
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+20116d50 3c033cae //3C033C8E Zoom
+20116d54 34635555 //3463FA34
+20116d48 3c023fab //3C023F80 Y-FOV
+
+//Render fix
+201d5d74 3c03bfab //3C03BF80
+201d5d78 3c023fab //3C023F80
+
+//Better match for 2 player mode
+//20116d50 3c033cb0 //3C033C8E
+//20116d54 34635555 //3463FA34
+//20116d48 3c023fab //3C023F80 Y-FOV

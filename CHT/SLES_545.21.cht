@@ -1,0 +1,21 @@
+"Spongebob and Friends - Battle for Volcano Island /ID SLES_545.21"
+//ELF CRC 1DF57175
+Mastercode
+901C1478 0C0704C6
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f023c 00a08144 f41a0a0c
+20286ca0 3c013f69 //3c013f00
+
+//Y-Fov
+//0c00a1e7 22004014
+20286cc8 08030000
+200c0000 3c013f40
+200c0004 4481f000
+200c0008 461e0f83
+200c000c e7be000c
+200c0010 080a1b33

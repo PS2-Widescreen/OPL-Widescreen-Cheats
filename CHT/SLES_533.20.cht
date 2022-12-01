@@ -1,0 +1,14 @@
+"S.C.A.R. - Squadra Corse Alfa Romeo /ID SLES_533.20"
+//ELF CRC 22BE5057
+Mastercode
+90115550 0C0454FC
+
+//Widescreen hack by ElHecht
+
+// 16:9
+2021694c 081afd5a // e7a00048
+206bf568 3c013f40 // 00000000 hor fov
+206bf56c 4481f000 // 00000000
+206bf570 461e0003 // 00000000
+206bf574 e7a00048 // 00000000
+206bf578 08085a54 // 00000000

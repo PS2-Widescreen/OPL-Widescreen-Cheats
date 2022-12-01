@@ -1,0 +1,20 @@
+"Nicktoons - Attack of the Toybots /ID SLES_549.91"
+//ELF CRC 35BD22CA
+Mastercode
+9019F970 0C067E04
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2012a828 3c013f80 //3c013f40
+
+//Y-Fov
+//0c00a1e7 22004014
+202774f0 08030000 //e7a1000c
+200c0000 3c013f40
+200c0004 4481f000
+200c0008 461e0f83
+200c000c e7be000c
+200c0010 0809dd3d

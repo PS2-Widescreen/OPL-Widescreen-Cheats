@@ -1,0 +1,12 @@
+"J-League Pro Soccer Club - Tsukuku 2004 /ID SLPM_655.30"
+Mastercode
+90111970 0C044604
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//00000000 803f023c 00088244 06c30046
+20187f90 3c023faa
+20187f94 3442aaab

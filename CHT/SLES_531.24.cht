@@ -1,0 +1,21 @@
+"Project Snowblind /ID SLES_531.24"
+//ELF CRC F00CA82B
+Mastercode
+902B79F8 0C0ADE26
+
+//Widescreen hack by ElHecht
+
+// 16:9 intro (MAIN ELF)
+e0023faa 001d98a0 // check 001d98a0 matches value 00003faa
+201d98a0 3c013fe3 // 3c013faa hor fov
+201d98a4 34218e39 // 3421aaab hor fov
+
+// 16:9 single-player (BO3GM.ELF)
+e0023faa 00332bb8 // check 00332bb8 matches value 00003faa
+20332bb8 3c013fe3 // 3c013faa hor fov
+20332bbc 34218e39 // 3421aaab hor fov
+
+// 16:9 lan/internet multi-player (BO3NETGM.ELF)
+e0023faa 00418700 // check 00418700 matches value 00003faa
+20418700 3c013fe3 // 3c013faa hor fov
+20418704 34218e39 // 3421aaab hor fov

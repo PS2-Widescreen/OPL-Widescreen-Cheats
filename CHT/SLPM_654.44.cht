@@ -1,0 +1,16 @@
+"Castlevania - Lament of Innocence /ID SLPM_654.44"
+//ELF CRC A36CFF6C
+Mastercode
+906F6418 0C1BD8AE
+﻿gametitle=Castlevania: Lament of Innocence [NTSC-J] (SLPM-65444)
+//=Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+//gameplay
+206e7464 3c013f40 //hor value
+206e7468 44810000
+206e7470 4600c602
+
+//FMV's fix
+204511d8 24057300//y-pos
+204511dc 24062000//x width
+204511e4 24071b00//y width

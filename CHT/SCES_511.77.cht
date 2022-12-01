@@ -1,0 +1,16 @@
+"Disneys Treasure Planet /ID SCES_511.77"
+//ELF CRC E6A57677
+Mastercode
+902C0C88 0C0B02CA
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//2044013c 00608144 2d804000
+20298e90 080b1068
+202c41a0 3c014455
+202c41a4 34215555
+202c41a8 44816000
+202c41ac 080a63a5

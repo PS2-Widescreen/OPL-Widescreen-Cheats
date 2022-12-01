@@ -1,0 +1,11 @@
+"WWC - World Wrestling Championship /ID SLES_547.92"
+//ELF CRC B90A79B4
+Mastercode
+9020B180 0C082C08
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+202dc1f4 3faaaaab //3f800000 Y-Fov
+202df284 3f24cbda //3f490fda Zoom

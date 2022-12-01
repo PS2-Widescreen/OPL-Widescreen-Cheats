@@ -1,0 +1,15 @@
+"Virtual On - Marz /ID SLPM_653.03"
+//ELF CRC E7DE50CA
+Mastercode
+9010DFF8 0C0437A6
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f023c 00608244 803f023c 00688244 (4th)
+2014ff74 3c023f40 //3c023f80
+
+//Zoom out + Y-Fov(-) 
+//2014ff7c 3c023f70 //3c023f80

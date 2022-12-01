@@ -1,0 +1,11 @@
+"Mojib-Ribbon /ID SCPS_110.33"
+//ELF CRC 2D215D04
+Mastercode
+903D0D78 0C0F4306
+
+//Widescreen Hack by Parotaku
+
+// 16:9
+2039f28c 3c013f40
+2039f298 44810000
+2039f29c 4600c602

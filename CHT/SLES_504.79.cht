@@ -1,0 +1,16 @@
+"Turok Evolution /ID SLES_504.79"
+//ELF CRC A9E852B1
+Mastercode
+901D11F8 0C074426
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f023c 7000a427 00088244
+20325c28 3c023f40
+
+//Render fix
+//003f023c 00108244 00088044
+2023570c 3c023f2b //3c023f00

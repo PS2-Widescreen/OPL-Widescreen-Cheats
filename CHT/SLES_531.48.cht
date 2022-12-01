@@ -1,0 +1,11 @@
+"Fruitfall /ID SLES_531.48"
+//ELF CRC 1601F9D1
+Mastercode
+9027C288 0C09F04A
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+20300954 3faaaaab //3f800000
+20300958 3faaaaab //3f800000

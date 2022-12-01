@@ -1,0 +1,29 @@
+"Smugglers Run /ID SLES_500.55"
+//ELF CRC 3F7F970B
+Mastercode
+9027EB78 0C09FA84
+
+//Widescreen hacks by Aced14
+
+//16:9 widescreen
+102344ac 00003fcc //3C013F99 - Master X FOV #1
+102344b0 0000cccd //3421999A - Master X FOV #2
+
+
+//Alternate hacks
+
+//Master X FOV
+//20234d30 0809a609 //3C030050 - j $00269824 - Jump to injected MIPS instructions
+//20269824 3c030050 //3C10002D - lui v1, $0050 - Restore overwritten MIPS instruction
+//20269828 3c013f40 //0080282D - lui at, $3f40 - Set $f31 register to .75 #1
+//2026982c 4481f800 //261089EE - mtc1 at, $f31 - Set $f31 register to .75 #2
+//20269830 0808d34e //0C09A19A - j $00234d38 - Jump to 2 lines after the overwritten MIPS instruction
+//20269834 e47fa150 //0200202D - swc1 $f31, $a150(v1) - Write $f31 register's value into address 204FA150
+
+//Render fixes
+//101956f4 00003fea //3C013F8C - Surface render fix #1
+//101956f8 0000aaab //3421CCCD - Surface render fix #2
+//1023d9c0 00003f2b //3C013F00 - Object render fix
+
+//Text position fix
+//1010a0b4 000001ab //24050140 - "READY, SET, GO!" text X position

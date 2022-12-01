@@ -1,0 +1,12 @@
+"Ghostmaster /ID SLES_526.71"
+//ELF CRC 17F324F4
+Mastercode
+9026AB58 0C09AA7E
+
+//Widescreen hack by ElHecht
+
+// 16:9
+20105438 3c013f40 // 3c013f80 hor fov
+20105650 3c013f40 // 00000000 renderfix
+20105654 4481f000 // 00000000
+2010565c 461e6303 // 00000000

@@ -1,0 +1,14 @@
+"ATV Off-Road Fury 2 /ID SLES_518.14"
+//ELF CRC 025670BE
+Mastercode
+9035AB78 0C0D6A86
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+2011b0c0 3c023caa //3C023C8E Zoom
+2011b0cc 3c023fab //3C023F80 Y-FOV
+
+//Render fix
+201a2a8c 3c03bfab //3C03BF80
+201a2a90 3c023fab //3C023F80

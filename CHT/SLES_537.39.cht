@@ -1,0 +1,12 @@
+"Disneys Chicken Little /ID SLES_537.39"
+//ELF CRC AB75D540
+Mastercode
+9044A008 0C1127AA
+
+//Widescreen pnach by El_Patas
+
+//Gameplay 16:9 (Memory Hack) 
+205d27ac 3fe38e32 //3FAAAAAB (Increases hor. axis)
+ 
+//Start menu and left status bar (ELF Hack)
+20287de0 3c014455 //3C014420

@@ -1,0 +1,14 @@
+"Charlies Angels /ID SLES_517.50"
+//ELF CRC 2D919421
+Mastercode
+901C2EE0 0C070B60
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+20110d0c 3c01bf2a //3c01bf00
+
+//Zoom
+20110c78 3c01bfab //3c01bf80

@@ -1,0 +1,21 @@
+"The History Channel - Battle for the Pacific /ID SLES_551.02"
+//ELF CRC 855C75E9
+Mastercode
+9011E4F8 0C0478E6
+
+//Widescreen Hack by Arapapa
+
+//Widescreen 16:9
+
+//Zoom
+//003f023c 988a22c4 (2nd)
+202e880c 3c023f20 //3c023f00
+
+//Y-Fov
+//03080046 ec00a0e6
+202e8840 08164fa8
+20593ea0 46000803
+20593ea4 3c013f40
+20593ea8 4481f000
+20593eac 461e0002
+20593eb0 080ba211

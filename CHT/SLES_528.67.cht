@@ -1,0 +1,25 @@
+"Spindrive Ping Pong /ID SLES_528.67"
+//ELF CRC D92510F2
+Mastercode
+90119270 0C046444
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//2040023c 00088244 a800a0c7
+2019d1f4 3c024060 //3c024020
+
+//Y-Fov
+//020a0746 100064c4
+20226dd8 080b22a4
+
+202c8a90 46070a02
+202c8a94 3c013faa
+202c8a98 3421aaab
+202c8a9c 4481f000
+202c8aa0 461e4202
+202c8aa4 08089b77
+
+

@@ -1,0 +1,17 @@
+"FantaVision /ID SCES_500.02"
+//ELF CRC 848A08B4
+Mastercode
+901BAB58 0C06EA7C
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20193f50 3c0143f0 //3c014420
+
+//Zoom
+//20193fe4 3c013ec0 //3c013f00
+
+//Y-Fov
+//20193fc8 3c013eb4 //3c013ef0

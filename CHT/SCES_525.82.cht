@@ -1,0 +1,14 @@
+"Everybodys Golf /ID SCES_525.82"
+//ELF CRC C24621B8
+Mastercode
+90107410 0C041CAC
+
+//Widescreen hack by ElHecht
+
+// 16:9
+e005010c 005522a4 // check 205522A4 matches value xxxx010c
+20552280 3c0143f0 // c4840708 hor fov menu
+205522a4 ac81010c // e484010c
+20154548 3c023c39 // 3c023c0e zoom gameplay
+2015454c 3442a4ec // 3442fa35
+2050c420 43aaaaab // 43800000 ver fov gameplay

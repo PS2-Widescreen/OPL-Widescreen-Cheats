@@ -1,0 +1,19 @@
+"The Millenium European Paintball Series - Championship Paintball 2009 /ID SLES_553.28"
+//ELF CRC E6585C44
+Mastercode
+9011EC78 0C047AC6
+
+//Widescreen Hack by Arapapa
+
+//Widescreen 16:9
+
+//Zoom
+20237f5c 3c023f20 //3c023f00
+
+//Y-Fov
+20237f88 081a1860 //46000803
+20686180 46000803
+20686184 3c013f40
+20686188 4481f000
+2068618c 461e0002
+20686190 0808dfe3

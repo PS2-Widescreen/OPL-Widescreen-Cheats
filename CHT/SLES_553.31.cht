@@ -1,0 +1,23 @@
+"Cabelas Dangerous Adventures /ID SLES_553.31"
+//ELF CRC F74AEED0
+Mastercode
+9011E678 0C047946
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f023c 08a222c4 dc00a1c6 (2nd)
+2025018c 3c023f20 //3c023f00
+
+//Y-Fov
+//03080046 ec00a0e6 f800a0c6
+202501c0 08030000 //46001002
+
+200c0000 46000803
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 08094071
+

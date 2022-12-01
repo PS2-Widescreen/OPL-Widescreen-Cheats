@@ -1,0 +1,10 @@
+"Lord of the Rings, The - The Two Towers [Seigneur des Anneaux - Les Deux Tours] /ID SLES_512.53"
+//ELF CRC 88F67266
+Mastercode
+902ADCB8 0C0AB6D6
+
+//Widescreen hack by Catarax
+
+// 16:9
+20107160 3c023fe3 // 3c023faa hor fov
+20107164 34428e39 // 3442aaab hor fov

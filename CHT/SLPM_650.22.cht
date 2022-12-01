@@ -1,0 +1,11 @@
+"BioHazard - Code Veronica - Perfect Version /ID SLPM_650.22"
+//ELF CRC D0CF2395
+Mastercode
+9010E2F8 0C043866
+﻿gametitle=Biohazard Code Veronica Kanzenban (SLPM_650.22)
+//NTSC-J Widescreen Hack by synce
+21136200 3f400000
+
+//FMV's fix
+21e2f340 01aa0280
+21e2f344 000c0000

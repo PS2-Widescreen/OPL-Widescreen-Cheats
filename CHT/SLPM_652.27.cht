@@ -1,0 +1,12 @@
+"J-League Pro Soccer Club - Tsukuku! 3 /ID SLPM_652.27"
+Mastercode
+901106F8 0C044166
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//00000000 803f023c 00088244 06c30046
+2017fed8 3c023faa
+2017fedc 3442aaab

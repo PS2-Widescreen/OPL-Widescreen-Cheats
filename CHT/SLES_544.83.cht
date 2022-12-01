@@ -1,0 +1,17 @@
+"The Fast and the Furious /ID SLES_544.83"
+//ELF CRC 91100045
+Mastercode
+90452680 0C114948
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20354e24 080e69d4 //460308c2
+
+2039a750 460308c2
+2039a754 3c013f40
+2039a758 4481f000
+2039a75c 461e18c2
+2039a760 080d538a

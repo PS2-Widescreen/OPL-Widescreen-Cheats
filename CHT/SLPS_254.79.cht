@@ -1,0 +1,17 @@
+"Gold Gashbell - Friendship Tag Battle 2 /ID SLPS_254.79"
+//ELF CRC E6DA8929
+Mastercode
+90335258 0C0CD43E
+﻿gametitle=Konjiki no Gashbell!! Yuujou Tag Battle 2 [NTSC-J] (SLPS-25479)
+//Widescreen Hack by Little Giant
+
+//16:9
+2011d394 3c013f40 //00000000
+2011d3bc 4481f000 //00000000
+202f7f60 080cc736 //46010043
+20331cd0 080cc73c //00000000
+20331cd8 461e0fc3 //00000000
+20331cdc 46010043 //00000000
+20331ce0 461e0842 //00000000
+20331ce4 e61f0068 //00000000
+20331ce8 080bdfda //00000000

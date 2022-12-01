@@ -1,0 +1,23 @@
+"BioHazard Outbreak /ID SLPM_654.28"
+//ELF CRC 03C8F393
+Mastercode
+90116B70 0C045A84
+﻿gametitle=BioHazard Outbreak [NTSC-J] (SLPM-65428) (ENGLISH PATCHED)
+//FMV's fix will cause abnormal collection interface
+
+//gameplay by synce
+20239d48 3fe38e38
+
+//FMV's fix by nemesis2000
+//value 1
+201ba0e4 00000000
+
+//value 2 (hex only)
+203492b4 01262818
+203492b8 24061c00
+203492bc 00c55822
+
+//value 3 (raw code only with M code for ps2rd)
+20349118 24060015
+203492e8 000b5843
+203492f0 00ab28ac

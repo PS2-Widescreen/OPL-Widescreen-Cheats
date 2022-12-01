@@ -1,0 +1,13 @@
+"Disneys Dinosaur /ID SLES_500.43"
+//ELF CRC 238B189C
+
+Mastercode
+9010EC60 0C043AC0
+
+
+//NOTE: Exactly same hack and mastercode than SLES-50042
+//Widescreen Hack by Arapapa
+//16:9
+
+2026b274 3fe38e32 //3faaaaab
+2026b27c 3fe38e32 //3faaaaab

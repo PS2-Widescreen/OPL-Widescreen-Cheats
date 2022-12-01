@@ -1,0 +1,14 @@
+"Surfs Up /ID SLES_545.83"
+//ELF CRC 904A9089
+Mastercode
+90118E10 0C04632C
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+206056a4 3c033ec0 //3c033f00
+2060e678 3c033ec0 //3c033f00
+
+
