@@ -1,4 +1,4 @@
-game count|2574
+game count|2575
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37
 .Hack-Part 2 Mutation  |  SLES_524.67
@@ -456,6 +456,7 @@ ESPN NBA 2Night  |  SLES_500.75
 ESPN NFL 2K5  |  SLES_529.43
 ESPN NHL 2K5  |  SLES_529.66
 ESPN Winter Sports 2002  |  SLES_505.86
+Eagle Eye Golf  |  SLUS_214.86 
 Echo Night - Beyond  |  SLES_534.14
 Enter The Matrix  |  SLES_512.03
 Ephemeral Fantasia  |  SLES_501.10
