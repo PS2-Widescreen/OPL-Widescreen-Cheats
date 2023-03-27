@@ -1,4 +1,6 @@
-﻿"Echo Night  Beyond /ID SLUS_209.28"
+"Echo Night  Beyond /ID SLUS_209.28"
+//ELF CRC = 2DE16D21
+
 Mastercode
 90184374 0c040c8c
 //90112338 0c044876
@@ -11,4 +13,7 @@ Mastercode
 //Force 4:3 aspect to fix widescreen
 20a50944 00000000
 
-//
+
+
+//No-Interlacing + 60FPS by asasega
+//2013FFDC 10000014
