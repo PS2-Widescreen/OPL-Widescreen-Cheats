@@ -1,8 +1,12 @@
-﻿"Shin Megami Tensei - Persona 3 FES /ID SLUS_216.21"
+"Shin Megami Tensei - Persona 3 FES /ID SLUS_216.21"
+//ELF CRC 94A82AAA
+
 Mastercode
 9019398c 0c14896a
+// 90506658 0C14193E // ALTERNATIVE MASTERCODE: SEEM TO BE TWO VERSIONS OF IT?
 
-//16:9 by CeruleansBlue
+//Widescreen hack by nemesis2000, devina, CeruleansBlue, Arapapa, The Calculator
+//X-Fov by CeruleansBlue
 207cad1c 3fe38e38
 
 //partial HUD fix
@@ -12,49 +16,47 @@ Mastercode
 20106e44 00000000
 20106e48 24630004
 20106e4c 3c043f80
-
-//persona art fix
-20114a1c 3c033ec0
-20114a2c 3c023f90
-
-//FMV's fix by nemesis2000
-2010afd0 1462000a
-2010afd8 3c02c294
-2010afdc 10000008
-2010afec 00000000
-2010affc 3c02c1a8
-2010b010 00000000
-
-//Font fix by nemesis2000 (causes spacing errors)
-203b14a4 00118903
-203b14a8 02338818
-203b14b0 8e93001c
-203b1558 82970003
-203b16a4 24130015
-203b392c 2415000c
-203b3944 3c0241a8
-203b3970 01154018
-203b3974 00084103
-203b3978 0100a82d
-
-//480p by asmodean
-2019d320 3c040010
-2019d324 348426dc
-2019d328 8c820000
-2019d32c 38420001
-2019d330 ac820000
-2019d334 000217fc
-2019d338 000217ff
-2019d33c 0000000f
-2019d340 42000038
-2019d344 03e00008
-2019d348 00000000
-2019d34c 00000001
-204f8edc 24110000
-204f8ee0 24120050
-204f8ee4 24020001
-204f8ee8 10820031
-204f8eec 24130001
+ 
+//FMV Fix by Alexankitty
+2010AFC8 081A63AF //Jump for additional instruction space
+2010AFCC 00000000 
+2010AFD0 14620006 // branch depending on FMV type
+2010AFD4 00000000 
+2010AFD8 3C023E00 // Size Top
+2010AFDC 3C1443E0 // Size Bottom
+2010AFE0 3C1542A0 // Size Left
+2010AFE4 3C160BB0 // Size Right
+2010AFE8 10000005 // Jump to next section
+2010AFEC 00000000 
+2010AFF0 3C023E00 // Size Top
+2010AFF4 3C1443E1 // Size Bottom
+2010AFF8 3C1541F8 // Size Left
+2010AFFC 3C161850 // Size Right
+2010B000 AE6200E4 // Store Y Top Left
+2010B004 AE620164 // Store Y Bottom Left
+2010B008 AE740124 // Store Y Top Right
+2010B00C AE7401A4 // Store Y Bottom Right
+2010B010 AE7500E0 // Store X Top Left
+2010B014 AE750120 // Store X Bottom Left
+2010B018 AE76015F // Store X Top Right
+2010b01C AE76019F // Store X Bottom Left
+2010b020 0000A02D // Clear out S registers
+2010b024 0000A82D
+2010b028 0000B02D
+//FMV Jump
+20698EBC 3C024400 // FMV Mirroring Fix
+20698EC0 AE620160 // Store Left
+20698EC4 AE6201A0 // Store Right
+20698EC8 3C02005D // Process FMV Type Check
+20698ECC 24424B70
+20698ED0 00431021
+20698ED4 84430000 
+20698ED8 24020005 
+20698EDC 08042BF3 //Jump back
+20698EE0 00000000 
+//1px tiling fix
+2010B0E4 2463FFFF 
+2010B0E8 44830000 
 
 //zoom fix
 //(ALL cheats must be loaded via cheats_ws or else it will freeze
@@ -69,23 +71,284 @@ Mastercode
 203bb968 0c130e20
 203bb96c 0200202d
 203bb970 0240202d
-203bb974 3c013fa1
+203bb974 3c013fa1 // 80=hor+, a1=moonwalk fix, aa=vert-
 203bb978 44810000
 203bb97c c66c0100
 203bb980 0c069160
 203bb984 46006303
 
-//Arcana Card Fix by Arapapa
-203a0374 3c0242be
-203a0448 3c0242be
-203a0060 3c024240
 
-//Shuffle Time (Card) Fix by Arpapa
-2020caf4 08168754
-205a1d50 c600002c
-205a1d54 3c013f40
-205a1d58 4481f000
-205a1d5c 461e0002
-205a1d60 080832be
+///////////////////////////////////////////////////////
+//In-Game Menu  Portraits fix by Arapapa
+//74008224 21104500 00004284
+//74008224 21104500 00004294
+20112b94 08030034
+200c00d0 94420000
+200c00d4 01224821
+200c00d8 00421021
+200c00dc 01221021
+200c00e0 00021082
+200c00e4 08044ae6
 
-//
+//Main Character X-Position
+//d643033c
+2011cb14 3c0343f0 //3c0343d6
+2011cbc4 3c0343f0 //3c0343d6
+2011d118 3c0343f0 //3c0343d6
+2011d7f4 3c0343f0 //3c0343d6
+2011e0dc 3c0343f0 //3c0343d6
+20125e94 3c0343f0 //3c0343d6
+201260c8 3c0343f0 //3c0343d6
+2014ca5c 3c0343f0 //3c0343d6
+20160914 3c0343f0 //3c0343d6
+20160b64 3c0343f0 //3c0343d6
+2018a744 3c0343f0 //3c0343d6
+
+//Menu (Status) Main Character X-Position #2
+//c1010324 00008344 00000000 (2 times)
+2012633c 240301f5 //240301c1
+20126530 240301f5 //240301c1
+
+//Partner Character X-Position
+//b343023c
+20164d84 3c0243d8 //3c0243b3
+201653f8 3c0243d8 //3c0243b3
+2016573c 3c0243d8 //3c0243b3
+20165b90 3c0243d8 //3c0243b3
+20166548 3c0243d8 //3c0243b3
+
+//Main Character (In-Game Menu)  Shadow
+//803f023c b000a2af
+//803f023c b000a1af
+20126890 3c013fab //00000000
+201268b0 afa100b0 //afa200b0
+
+//Shadow (In-Game Menu) X-Position fix
+//3c43023c
+//3c43023c 4802a2af 4c02a0af
+20126ca4 3c024398 //3c02433c Main Character's Shadow
+20126dd8 3c024398 //3c02433c
+20126efc 3c024398 //3c02433c
+20127044 3c024398 //3c02433c
+201270f0 3c024398 //3c02433c
+20127184 3c024398 //3c02433c
+2012729c 3c024398 //3c02433c
+20164cf0 3c0243cc //3c02433c Partner's Shadow
+///////////////////////////////////////////////////////
+
+//Popup portraits, Clock and etc.. fix by Arapapa
+//Some elaboration: By pop up portraits they ment cut ins and the clock is the animation that plays when you enter the dark hour -The Calculator
+//02080046 b4f260e4 6c0080c4
+204aa460 08030024
+200c0090 46000802
+200c0094 3c013f40
+200c0098 4481f000
+200c009c 461e0002
+200c00a0 0812a919
+
+////////////////////////////////////////////////
+//Detect  'Open the in-game menu'
+e0020000 107cdf48
+204aa460 46000802 //Set original value
+20112b94 08030034 //84420000 jump to 'In-Game Menu  Portraits fix'
+
+e0020000 007cdf48
+204aa460 08030024 //46000802 jump to 'Clock, Popup Portraits and etc fix'
+20112b94 84420000 //Set original value
+
+//Detect 'Scene changing'
+//0040023c c0f2a0e4 20108046
+//00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 64 00 00 00 00 00 00 00
+e0010000 107CDED4
+204aa444 3c02402a //Zoom
+
+e0010000 007CDED4
+204aa444 3c024000 //Set original value
+////////////////////////////////////////////////
+
+//Arcana Card fix by Arapapa
+//fe42023c 00608244
+//be42023c 00608244 (twice)
+203a0374 3c0242be //3c0242fe
+203a0448 3c0242be //3c0242fe
+
+//b442023c 00008244 00000000 41080046
+//4042023c 00008244 00000000 41080046(2nd)
+203a0060 3c024240 //3c0242b4
+
+//Shuffle Time (Card) fix by Arpapa
+//2c0000c6 6000a0e7
+2020caf4 08168754 //c600002c
+205a1d50 c600002c //00000000
+205a1d54 3c013f40 //00000000
+205a1d58 4481f000 //00000000
+205a1d5c 461e0002 //00000000
+205a1d60 080832be //00000000
+
+///////////////////////////////////////////////////////////
+//S.LINK - Community (2D Characters & Cards) fix by Arapapa
+//000040c4 0000e0e4 040040c4 (3rd)
+//20114390 081FB4CB //Jump to patch check (Approach 1) *Sorry these two lines I think were a left*
+//20114390 00000000 //nop patch check                  *over from my testing you can ingnore them -The Calculator*
+20114390 0816875a //Jump to oringal patch
+
+205a1d68 c4400000
+205a1d6c 3c013f40
+205a1d70 4481f000
+205a1d74 461e0002
+205a1d78 080450e5
+
+//////////////////////////////
+//Calculator's Tartarous offset
+//Approach 2 Just off set the position lol
+//461D6B42 mul (LOL didn't even use this why would I? Did help me get to the asnswer tho) {Yeah I did kinda use it in the end}
+//Select floor menu (Animation hold)
+20441720 3C02C260 //Main Tower offset
+204416E8 0C1FB4CB //Call offset glow/outline and draw
+//Select floor menu (Animation enter)
+204477F8 3C02C260 //Main Tower offset 
+2043FBB8 0C1FB4CB //Call offset glow/outline and draw
+//Select floor menu (Animation exit)
+2043FC64 3C02C260 //Main Tower offset 
+204477C0 0C1FB4CB //Call offset glow/outline and draw
+//Progress to next block (Animation enter)
+2044A4EC 3C02C260 //Main Tower offset 
+2043EA58 0C1FB4CB //Call offset glow/outline and draw
+//Progress to next block (Animation hold)
+20442CC0 3C02C260 //Main Tower offset 
+20442C88 0C1FB4CB //Call offset glow/outline and draw
+//Progress to next block (Animation exit)
+2044341C 3C02C260 //Main Tower offset 
+20443370 0C1FB4CB //Call offset glow/outline and draw
+
+//Hooked draw call to offset glow/outline
+207ED32C 3C02C338 //Load the offset to v0
+207ED330 4482E800 //Loaf v0 in f29
+207ED334 08045034 //Jump the draw function to resume regular execution
+207ED338 461D6B41 //f13 = f13-f29
+/////////////////////////////////
+
+//S.LINK - Community 2D Characters X-Position
+//bb43023c 00088244 0002a0c7
+2013a2ac 3c024405 //3c0243bb
+//b143023c 00088244 f801a0c7
+2013a350 3c024400 //3c0243b1
+
+//S.LINK - Community Cards X-Position
+//c041023c 00088244 7800a0c7 (2nd)
+201373f4 3c024250 //3c0241c0
+
+//S.LINK - Main Menu Shadows X-Position
+//c842033c 00008344 00000000 410d0046 100055e4
+//c842033c 00008344 00000000 01080046 100040e4 (4 times)
+201368fc 3c0341b0 //3c0342c8 Shadow
+201379f0 3c0341b0 //3c0342c8 Shadow Character
+2013804c 3c0341b0 //3c0342c8
+20138618 3c0341b0 //3c0342c8
+20138ce4 3c0341b0 //3c0342c8
+
+
+//S.LINK - Community Cards #2 X-Size
+//000060c4 000000e5 040060c4 040000e5
+20115148 0803002c
+200c00b0 c4600000
+200c00b4 3c013f40
+200c00b8 4481f000
+200c00bc 461e0002
+200c00c0 08045453
+
+//S.LINK - Community Cards #2 X-Position
+//e041023c 00088244 7800a0c7 400b0046 (3rd)
+201395dc 3c024256 //3c0241e0
+
+//S.LINK - Reverse Community Cards #1 X-Position
+//c041023c 00088244 7800a0c7 (1st)
+//8841023c 00088244 7800a0c7 (1st)
+20137398 3c024250 //3c0241c0 Reverse Cards
+2013749c 3c0241b6 //3c024188 Red Box
+
+//S.LINK - Reverse Community Cards #2
+//4041023c 00008244 00000000 010b0046
+20139544 3c024010 //3c024140 Red Box
+//e041023c 00088244 7800a0c7 400b0046 (2nd)
+20139470 3c024216 //3c0241e0 X-Position
+///////////////////////////////////////////////////////////
+
+//Popup Portraits (Left top, In the Battles) fix by Arapapa
+//8045023c 00008244 00000000 42001546 (1st)
+203c90ac 3c024540 //3c024580
+
+//Popup Portraits (Left top, In the Battles) X-Position
+//100040e4 00009244 00000000 (2nd)
+203c9084 00000000
+
+//8042023c 00108244 80c1023c
+203ab7f8 3c020000 //3c024280
+
+//Flare effect fix by Arapapa
+//0040023c 00088244 00000000 82090046
+20347b38 3c023fc0 //3c024000 Zoom
+
+//42090046 2d180000 803f023c
+20347b50 08030008 //Y-Fov
+200c0020 46000942
+200c0024 461e2943
+200c0028 080d1ed5
+///////////////////////////////////////////////////////////
+
+//Head Portraits (Right, In the Battles) fix by Arapapa
+//10004426 7000a527 (1st)
+2022d804 0803000c //#1
+200c0030 26440010
+200c0034 c7bf0078
+200c0038 3c013f40
+200c003c 4481f000
+200c0040 461effc2
+200c0044 e7bf0078
+200c0048 0808b602
+
+//10014426 7000a527 (1st)
+2022d904 08030014 //#2
+200c0050 26440110
+200c0054 c7bf0078
+200c0058 3c013f40
+200c005c 4481f000
+200c0060 461effc2
+200c0064 e7bf0078
+200c0068 0808b642
+
+//Head Portraits (Right, In the Battles) X-Position
+//f041033c 00008344 00000000 c0051746 (1st)
+2022d7c4 3c034220 //3c0341f0
+
+//Emoticon (In the Battles) fix by Arapapa
+//30054426 7000a527
+2022dd98 0803001c
+200c0070 26440530
+200c0074 c7bf0078
+200c0078 3c013f40
+200c007c 4481f000
+200c0080 461effc2
+200c0084 e7bf0078
+200c0088 0808b767
+
+//Emoticon X-Position
+//e842033c 00008344 00000000 00001946
+2022dd58 3c0342d0 //3c0342e8
+
+/////////////////////////////////////////////
+//Title Menu fix by Arapapa
+2026e7d4 3c013fab //00000000
+2026e7e4 afa10068 //afa20068 #1
+2026e818 afa10068 //afa20068 #2
+2026e84c afa10068 //afa20068 #3
+2026e880 afa10068 //afa20068 #4
+2026eaac afa10068 //afa20068 #5
+
+//Title Menu (Shadow)
+2026ea50 3c02439b //3c024368
+
+//Sub Menu - Select Episode (Shadow)
+2026b524 c7808478 //00000000
+2026b534 461e0002 //c7808478
+//////////////////////////////////////////
