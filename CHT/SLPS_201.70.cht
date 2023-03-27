@@ -1,0 +1,16 @@
+"Wave Rally /ID SLPS_201.70"
+//ELF CRC=B439D8AA
+
+Mastercode
+902072FC 0C08A082
+90207344 00832021
+
+
+//Widescreen hack 16:9 by Arapapa
+//Zoom
+2018038c 3c013f94 //3c013f5f
+20180390 3421ef4e //342166f4
+
+//Y-Fov
+2018028c 3c013fe3 //3c013faa
+20180290 3421ef4e //3421aaab
