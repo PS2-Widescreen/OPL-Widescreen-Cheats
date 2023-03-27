@@ -1,4 +1,4 @@
-game count|2575
+game count|2577
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37
 .Hack-Part 2 Mutation  |  SLES_524.67
@@ -517,6 +517,7 @@ Final Fantasy X  |  SCES_504.92
 Final Fantasy X  |  SCES_504.94
 Final Fantasy X  |  SLPS_250.50
 Final Fantasy X  |  SLUS_203.12
+Final Fantasy X International (Korea)  |  SLPM_675.13
 Final Fantasy X-2  |  SLES_518.15
 Final Fantasy X-2  |  SLES_518.16
 Final Fantasy X-2  |  SLES_518.17
@@ -1687,6 +1688,7 @@ Warriors Orochi  |  SLES_548.77
 Warriors Orochi 2  |  SLES_553.84
 Warriors of Might and Magic  |  SLES_501.87
 Warriors of Might and Magic  |  SLUS_200.06
+Wave Rally  |  SLPS_201.70
 Way of the Samurai  |  SLES_509.21
 Way of the Samurai 2  |  SLES_522.75
 We Love Katamari  |  SLES_538.28
