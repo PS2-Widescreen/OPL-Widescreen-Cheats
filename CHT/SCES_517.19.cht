@@ -1,0 +1,20 @@
+"Gran Turismo 4 /ID SCES_517.19"
+//ELF CRC 44A61C8F
+
+Mastercode
+91022558 0C4088FE
+
+
+// Corrects Text Aspect Ratio for Widescreen
+20492E08 08125666 // j 00495998
+20495998 3C090061 // lui t1,0x0061 : Widescreen Mode 1st-Half of Memory Address
+2049599C 352984F0 // ori t1,0x84F0 : Widescreen Mode 2nd-Half of Memory Address
+204959A0 812A0000 // lb t2,(t1)
+204959A4 C65A0024 // lwc1 f26,0x24(s2)
+204959A8 11400004 // beqz t2,0x004959BC : Jumps if Widescreen Mode is Disabled
+204959AC 3C013F40 // lui at,0x3F40 : Text Width 1st-Half of Float Value
+204959B0 34210000 // ori at,0x0000 : Text Width 2nd-Half of Float Value
+204959B4 4481A000 // mtc1 at,f20
+204959B8 4614D682 // mul.s f26, f26, f20
+204959BC 08124B83 // j 00492E0C
+2044DF60 00000000 // nop
