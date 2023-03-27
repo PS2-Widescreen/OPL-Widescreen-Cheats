@@ -1,13 +1,15 @@
-﻿"Metal Gear Solid 2 - Substance /ID SLUS_205.54"
+"Metal Gear Solid 2 - Substance /ID SLUS_205.54"
+// ELF CRC C539049D
+
 Mastercode
 901673ec 0c05be4e
-b0000001 00000000
-e0038c86 000802e6
-200802e8 00050c02
-200802ec 00c13021
-200802f4 a4c50000
 
-//wide
-0011fee0 3c013f40
 
-//
+//Main Game
+e0010c28 00100010
+2011fee0 3c013f40
+
+//Skateboard - Mini game
+e0021c28 00100010
+2011fee0 dfbf0030
+203c054c 3f400000 //3f800000
