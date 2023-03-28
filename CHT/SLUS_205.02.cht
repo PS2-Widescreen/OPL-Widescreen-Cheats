@@ -1,0 +1,13 @@
+"Colin McRae Rally 3 /ID SLUS_205.02"
+//ELF CRC AA294EDC
+
+Mastercode
+9029BD00 0C0A6EE8
+
+
+//Widescreen patch
+//author=Silent
+
+// Enable a native Widescreen option from the PAL version
+20134C78 3C040001
+20134C80 00000000
