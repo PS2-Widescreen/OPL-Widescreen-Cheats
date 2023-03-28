@@ -2,7 +2,7 @@
 //ELF CRC=7C012435
 
 Mastercode
-9010CBB8 0C043296
+9010cbb8 0c043296
 
 
 //Widescreen hack (NTSC-J by Arapapa)
@@ -14,9 +14,9 @@ Mastercode
 //comment=COP2 flag instance patch by refraction
 // a mac flag check just after a vsub which gets in the way, rearranging
 //2016ae90 48438800
-//2016ae94 4BE521AC
+//2016ae94 4be521ac
 //2016ae98 30848000
-//2016ae9c 4BE72B3C
+//2016ae9c 4be72b3c
 
 //X-Fov
 201537d4 3c023f40 //3c023f80

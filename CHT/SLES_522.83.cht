@@ -1,7 +1,7 @@
 "Terminator 3 - The Redemption /ID SLES_522.83"
 //ELF CRC 5DF023A5
 Mastercode
-9048C770 0C123184
+9048c770 0c123184
 
 //Widescreen Hack
 20416ea4 3c013ec0 // vert d0050cc6003f013c to d0050cc6c03e013c

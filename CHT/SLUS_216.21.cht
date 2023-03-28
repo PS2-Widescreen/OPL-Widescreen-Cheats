@@ -3,7 +3,7 @@
 
 Mastercode
 9019398c 0c14896a
-// 90506658 0C14193E // ALTERNATIVE MASTERCODE: SEEM TO BE TWO VERSIONS OF IT?
+// 90506658 0c14193e // ALTERNATIVE MASTERCODE: SEEM TO BE TWO VERSIONS OF IT?
 
 //Widescreen hack by nemesis2000, devina, CeruleansBlue, Arapapa, The Calculator
 //X-Fov by CeruleansBlue
@@ -18,45 +18,45 @@ Mastercode
 20106e4c 3c043f80
  
 //FMV Fix by Alexankitty
-2010AFC8 081A63AF //Jump for additional instruction space
-2010AFCC 00000000 
-2010AFD0 14620006 // branch depending on FMV type
-2010AFD4 00000000 
-2010AFD8 3C023E00 // Size Top
-2010AFDC 3C1443E0 // Size Bottom
-2010AFE0 3C1542A0 // Size Left
-2010AFE4 3C160BB0 // Size Right
-2010AFE8 10000005 // Jump to next section
-2010AFEC 00000000 
-2010AFF0 3C023E00 // Size Top
-2010AFF4 3C1443E1 // Size Bottom
-2010AFF8 3C1541F8 // Size Left
-2010AFFC 3C161850 // Size Right
-2010B000 AE6200E4 // Store Y Top Left
-2010B004 AE620164 // Store Y Bottom Left
-2010B008 AE740124 // Store Y Top Right
-2010B00C AE7401A4 // Store Y Bottom Right
-2010B010 AE7500E0 // Store X Top Left
-2010B014 AE750120 // Store X Bottom Left
-2010B018 AE76015F // Store X Top Right
-2010b01C AE76019F // Store X Bottom Left
-2010b020 0000A02D // Clear out S registers
-2010b024 0000A82D
-2010b028 0000B02D
+2010afc8 081a63af //Jump for additional instruction space
+2010afcc 00000000 
+2010afd0 14620006 // branch depending on FMV type
+2010afd4 00000000 
+2010afd8 3c023e00 // Size Top
+2010afdc 3c1443e0 // Size Bottom
+2010afe0 3c1542a0 // Size Left
+2010afe4 3c160bb0 // Size Right
+2010afe8 10000005 // Jump to next section
+2010afec 00000000 
+2010aff0 3c023e00 // Size Top
+2010aff4 3c1443e1 // Size Bottom
+2010aff8 3c1541f8 // Size Left
+2010affc 3c161850 // Size Right
+2010b000 ae6200e4 // Store Y Top Left
+2010b004 ae620164 // Store Y Bottom Left
+2010b008 ae740124 // Store Y Top Right
+2010b00c ae7401a4 // Store Y Bottom Right
+2010b010 ae7500e0 // Store X Top Left
+2010b014 ae750120 // Store X Bottom Left
+2010b018 ae76015f // Store X Top Right
+2010b01c ae76019f // Store X Bottom Left
+2010b020 0000a02d // Clear out S registers
+2010b024 0000a82d
+2010b028 0000b02d
 //FMV Jump
-20698EBC 3C024400 // FMV Mirroring Fix
-20698EC0 AE620160 // Store Left
-20698EC4 AE6201A0 // Store Right
-20698EC8 3C02005D // Process FMV Type Check
-20698ECC 24424B70
-20698ED0 00431021
-20698ED4 84430000 
-20698ED8 24020005 
-20698EDC 08042BF3 //Jump back
-20698EE0 00000000 
+20698ebc 3c024400 // FMV Mirroring Fix
+20698ec0 ae620160 // Store Left
+20698ec4 ae6201a0 // Store Right
+20698ec8 3c02005d // Process FMV Type Check
+20698ecc 24424b70
+20698ed0 00431021
+20698ed4 84430000 
+20698ed8 24020005 
+20698edc 08042bf3 //Jump back
+20698ee0 00000000 
 //1px tiling fix
-2010B0E4 2463FFFF 
-2010B0E8 44830000 
+2010b0e4 2463ffff 
+2010b0e8 44830000 
 
 //zoom fix
 //(ALL cheats must be loaded via cheats_ws or else it will freeze
@@ -159,10 +159,10 @@ e0020000 007cdf48
 //Detect 'Scene changing'
 //0040023c c0f2a0e4 20108046
 //00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 64 00 00 00 00 00 00 00
-e0010000 107CDED4
+e0010000 107cded4
 204aa444 3c02402a //Zoom
 
-e0010000 007CDED4
+e0010000 007cded4
 204aa444 3c024000 //Set original value
 ////////////////////////////////////////////////
 
@@ -188,7 +188,7 @@ e0010000 007CDED4
 ///////////////////////////////////////////////////////////
 //S.LINK - Community (2D Characters & Cards) fix by Arapapa
 //000040c4 0000e0e4 040040c4 (3rd)
-//20114390 081FB4CB //Jump to patch check (Approach 1) *Sorry these two lines I think were a left*
+//20114390 081fb4cb //Jump to patch check (Approach 1) *Sorry these two lines I think were a left*
 //20114390 00000000 //nop patch check                  *over from my testing you can ingnore them -The Calculator*
 20114390 0816875a //Jump to oringal patch
 
@@ -203,29 +203,29 @@ e0010000 007CDED4
 //Approach 2 Just off set the position lol
 //461D6B42 mul (LOL didn't even use this why would I? Did help me get to the asnswer tho) {Yeah I did kinda use it in the end}
 //Select floor menu (Animation hold)
-20441720 3C02C260 //Main Tower offset
-204416E8 0C1FB4CB //Call offset glow/outline and draw
+20441720 3c02c260 //Main Tower offset
+204416e8 0c1fb4cb //Call offset glow/outline and draw
 //Select floor menu (Animation enter)
-204477F8 3C02C260 //Main Tower offset 
-2043FBB8 0C1FB4CB //Call offset glow/outline and draw
+204477f8 3c02c260 //Main Tower offset 
+2043fbb8 0c1fb4cb //Call offset glow/outline and draw
 //Select floor menu (Animation exit)
-2043FC64 3C02C260 //Main Tower offset 
-204477C0 0C1FB4CB //Call offset glow/outline and draw
+2043fc64 3c02c260 //Main Tower offset 
+204477c0 0c1fb4cb //Call offset glow/outline and draw
 //Progress to next block (Animation enter)
-2044A4EC 3C02C260 //Main Tower offset 
-2043EA58 0C1FB4CB //Call offset glow/outline and draw
+2044a4ec 3c02c260 //Main Tower offset 
+2043ea58 0c1fb4cb //Call offset glow/outline and draw
 //Progress to next block (Animation hold)
-20442CC0 3C02C260 //Main Tower offset 
-20442C88 0C1FB4CB //Call offset glow/outline and draw
+20442cc0 3c02c260 //Main Tower offset 
+20442c88 0c1fb4cb //Call offset glow/outline and draw
 //Progress to next block (Animation exit)
-2044341C 3C02C260 //Main Tower offset 
-20443370 0C1FB4CB //Call offset glow/outline and draw
+2044341c 3c02c260 //Main Tower offset 
+20443370 0c1fb4cb //Call offset glow/outline and draw
 
 //Hooked draw call to offset glow/outline
-207ED32C 3C02C338 //Load the offset to v0
-207ED330 4482E800 //Loaf v0 in f29
-207ED334 08045034 //Jump the draw function to resume regular execution
-207ED338 461D6B41 //f13 = f13-f29
+207ed32c 3c02c338 //Load the offset to v0
+207ed330 4482e800 //Loaf v0 in f29
+207ed334 08045034 //Jump the draw function to resume regular execution
+207ed338 461d6b41 //f13 = f13-f29
 /////////////////////////////////
 
 //S.LINK - Community 2D Characters X-Position

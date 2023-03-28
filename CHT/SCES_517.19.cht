@@ -2,19 +2,19 @@
 //ELF CRC 44A61C8F
 
 Mastercode
-91022558 0C4088FE
+91022558 0c4088fe
 
 
 // Corrects Text Aspect Ratio for Widescreen
-20492E08 08125666 // j 00495998
-20495998 3C090061 // lui t1,0x0061 : Widescreen Mode 1st-Half of Memory Address
-2049599C 352984F0 // ori t1,0x84F0 : Widescreen Mode 2nd-Half of Memory Address
-204959A0 812A0000 // lb t2,(t1)
-204959A4 C65A0024 // lwc1 f26,0x24(s2)
-204959A8 11400004 // beqz t2,0x004959BC : Jumps if Widescreen Mode is Disabled
-204959AC 3C013F40 // lui at,0x3F40 : Text Width 1st-Half of Float Value
-204959B0 34210000 // ori at,0x0000 : Text Width 2nd-Half of Float Value
-204959B4 4481A000 // mtc1 at,f20
-204959B8 4614D682 // mul.s f26, f26, f20
-204959BC 08124B83 // j 00492E0C
-2044DF60 00000000 // nop
+20492e08 08125666 // j 00495998
+20495998 3c090061 // lui t1,0x0061 : Widescreen Mode 1st-Half of Memory Address
+2049599c 352984f0 // ori t1,0x84F0 : Widescreen Mode 2nd-Half of Memory Address
+204959a0 812a0000 // lb t2,(t1)
+204959a4 c65a0024 // lwc1 f26,0x24(s2)
+204959a8 11400004 // beqz t2,0x004959BC : Jumps if Widescreen Mode is Disabled
+204959ac 3c013f40 // lui at,0x3F40 : Text Width 1st-Half of Float Value
+204959b0 34210000 // ori at,0x0000 : Text Width 2nd-Half of Float Value
+204959b4 4481a000 // mtc1 at,f20
+204959b8 4614d682 // mul.s f26, f26, f20
+204959bc 08124b83 // j 00492E0C
+2044df60 00000000 // nop

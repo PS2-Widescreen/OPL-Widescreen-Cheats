@@ -2,12 +2,12 @@
 //ELF CRC 92EA9EF0
 
 Mastercode
-901AF218 0C06BC2E
+901af218 0c06bc2e
 
 
 //Widescreen hack by sergx12/ElHecht
 // 16:9 menu
-2020b2d4 3F600000 // 3f490fda sky/background fix
+2020b2d4 3f600000 // 3f490fda sky/background fix
 2011e430 3c013f40 // 3c013f80
 2011e460 3c01442b // 3c014400
 2011e4e8 3c013f40 // 3c013f80

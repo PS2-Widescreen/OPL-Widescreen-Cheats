@@ -2,7 +2,7 @@
 //ELF CRC 27E54B37
 
 Mastercode
-9010F970 0C043E04
+9010f970 0c043e04
 
 
 //Widescreen hack by nemesis2000 (pnach by nemesis2000)
@@ -18,7 +18,7 @@ Mastercode
 //With and without the patch is wrong, but being stretched makes more sense with the game mechanics.
 //HUD fix
 //2039719c 00000000
-//203971a4 3C033f40
+//203971a4 3c033f40
 
 //FMV's fix
 20418f3c 241016d0

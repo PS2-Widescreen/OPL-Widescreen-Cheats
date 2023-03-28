@@ -2,13 +2,13 @@
 //ELF CRC 34C9DBFE
 
 Mastercode
-901086D0 0C04215C
+901086d0 0c04215c
 
 
 //Widescreen hack by El_Patas
 
 //Gameplay
-203CED80 3FAAAAAB //3F800000 (Increases hor. axis)
+203ced80 3faaaaab //3F800000 (Increases hor. axis)
 
 //Render fix
-20125F4C 3C053FAB //3C053F80 (Increases hor. render area)
+20125f4c 3c053fab //3C053F80 (Increases hor. render area)

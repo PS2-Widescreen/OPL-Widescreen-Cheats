@@ -2,12 +2,12 @@
 //ELF CRC AA294EDC
 
 Mastercode
-9029BD00 0C0A6EE8
+9029bd00 0c0a6ee8
 
 
 //Widescreen patch
 //author=Silent
 
 // Enable a native Widescreen option from the PAL version
-20134C78 3C040001
-20134C80 00000000
+20134c78 3c040001
+20134c80 00000000

@@ -2,7 +2,7 @@
 //ELF CRC 224071F3
 
 Mastercode
-9012EB44 0C040090
+9012eb44 0c040090
 
 
 // Widescreen hack Made by XxDEATHB3TCH
@@ -10,8 +10,8 @@ Mastercode
 
 // Code
 //Burnout 3 (PAL-M4) (SLES-52584) 16:9 widescreen patch by XxDEATHB3TCHxX
-20666544 3FE34000 // 3FAAAAAB //
-20666540 3FAAAAAB // 3F800000 // Camera zoom
+20666544 3fe34000 // 3FAAAAAB //
+20666540 3faaaaab // 3F800000 // Camera zoom
 
 
 

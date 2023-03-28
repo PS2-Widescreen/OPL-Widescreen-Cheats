@@ -2,7 +2,7 @@
 //ELF CRC  8EEA2A8B
 
 Mastercode
-901086D0 0C04215C
+901086d0 0c04215c
 
 
 // Widescreen pnach by Arapapa
@@ -13,4 +13,4 @@ Mastercode
 20104408 4600c602 // 00000000
 
 // Render fix (42091746 803f053c)
-20125bac 3c053FAB //3c053F80
+20125bac 3c053fab //3c053F80

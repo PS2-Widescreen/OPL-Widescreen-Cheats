@@ -2,26 +2,26 @@
 //ELF CRC=3866CA7E
 
 Mastercode
-902E013C 0C0BC375
+902e013c 0c0bc375
 
 //Always In English Mode
-//0031F05E 00000001
+//0031f05e 00000001
 
 // widescreen hacks by 99skull
 
 //Widescreen Hack (16:9)
-//20316180 3F19999A // 3F4CCCCD
-201A59B4 3C013F19 // 3C013F4C wide value1
-201A59B8 3421999A // 3421CCCD wide value2
-2011973C 3C014440 // render fix1
-20176194 3C01442B // render fix2
+//20316180 3f19999a // 3F4CCCCD
+201a59b4 3c013f19 // 3C013F4C wide value1
+201a59b8 3421999a // 3421CCCD wide value2
+2011973c 3c014440 // render fix1
+20176194 3c01442b // render fix2
 
 //Widescreen Hack (16:10)
-//20316180 3F19999A // 3F4CCCCD
-//201A59B4 3C013F2A // 3C013F4C wide value1
-//201A59B8 3421AAAB // 3421CCCD wide value2
-//2011973C 3C014440 // render fix1
-//20176194 3C01442B // render fix2
+//20316180 3f19999a // 3F4CCCCD
+//201a59b4 3c013f2a // 3C013F4C wide value1
+//201a59b8 3421aaab // 3421CCCD wide value2
+//2011973c 3c014440 // render fix1
+//20176194 3c01442b // render fix2
 
 //world map
 //803f013c 00008144 01001124
