@@ -1,4 +1,4 @@
-﻿"Syphon Filter - The Omega Strain /ID SCUS_972.64"
+"Syphon Filter - The Omega Strain /ID SCUS_972.64"
 Mastercode
 9010f970 0c043e04
 
@@ -10,6 +10,7 @@ Mastercode
 203754f0 46031840
 20375564 e603007c
 
+//With and without the patch is wrong, but being stretched makes more sense with the game mechanics.
 //HUD fix
 2037539c 00000000
 203753a4 3c033f40
@@ -17,5 +18,3 @@ Mastercode
 //FMV's fix
 203f752c 24101400
 203f7534 24127600
-
-//
