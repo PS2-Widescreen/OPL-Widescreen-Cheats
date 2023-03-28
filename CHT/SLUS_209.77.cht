@@ -1,10 +1,13 @@
 "Virtua Fighter Cyber Generation /ID SLUS_209.77"
+//ELF CRC FF20AC4C
 
 Mastercode
-900af910 0c02bdec
+900AF910 0C02BDEC
 
 
-//ELF CRC=FF20AC4C
 //Widescreen Hack
 200ccf3c 3c033f40
 200ccf54 3c024420
+
+//Widescreen for Hud
+2040a070 3f200000 //3f800000
