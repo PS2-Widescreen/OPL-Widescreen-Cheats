@@ -1,4 +1,4 @@
-game count|2577
+game count|2580
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37
 .Hack-Part 2 Mutation  |  SLES_524.67
@@ -12,6 +12,7 @@ game count|2577
 007 - Alles oder Nichts  |  SLES_520.46
 007 Everything Or Nothing  |  SLES_520.05
 007 From Russia With Love  |  SLES_535.53
+10.000 Bullets  |  SLES_534.81
 18 Wheeler-American Pro Trucker  |  SLES_502.14
 2002 FIFA World Cup  |  SLES_507.96
 24 - The Game  |  SCES_533.58
@@ -292,6 +293,7 @@ Code of the Samurai  |  SLES_546.15
 Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E.  |  SLES_538.12
 Codename - Kids Next Door - Operation V.I.D.E.O.G.A.M.E.  |  SLUS_211.55
 Cold Winter  |  SLES_529.63
+Colin McRae Rally 3  |  SLUS_205.02
 Colosseum - Road To Freedom  |  SLUS_211.79
 Colosseum - Road to Freedom  |  SLES_533.56
 Conflict - Desert Storm  |  SLES_509.02
@@ -457,6 +459,7 @@ ESPN NFL 2K5  |  SLES_529.43
 ESPN NHL 2K5  |  SLES_529.66
 ESPN Winter Sports 2002  |  SLES_505.86
 Eagle Eye Golf  |  SLUS_214.86 
+Echo Night  Beyond  |  SLUS_209.28
 Echo Night - Beyond  |  SLES_534.14
 Enter The Matrix  |  SLES_512.03
 Ephemeral Fantasia  |  SLES_501.10
@@ -617,6 +620,7 @@ Gladiator - Sword of Vengeance  |  SLES_517.66
 Go Go Golf  |  SLES_510.55
 Go, Diego, Go! Safari Rescue  |  SLUS_217.18
 God Hand  |  SLPM_665.50
+God Hand  |  SLUS_215.03
 God Of War 2  |  SCES_542.06
 God of War  |  SCES_531.33
 Godfather, The  |  SLES_539.67
@@ -628,6 +632,8 @@ Golf Paradise DX  |  SLPS_250.27
 Gradius V  |  SLES_520.95
 Gradius V  |  SLPM_624.62
 Gran Turismo 3 - A-Spec  |  SCES_502.94
+Gran Turismo 4  |  SCES_517.19
+Gran Turismo 4  |  SCUS_973.28
 Grand Theft Auto - Liberty City Stories  |  SLPM_668.51
 Grand Theft Auto - San Andreas  |  SLPM_659.84
 Grand Theft Auto - Vice City  |  SLPM_654.88
@@ -974,6 +980,7 @@ Metal Gear Solid 2 - Sons of Liberty  |  SLPM_650.78
 Metal Gear Solid 2 - Sons of Liberty (Premium Package)  |  SLPM_650.77
 Metal Gear Solid 2 - Substance  |  SLES_820.09
 Metal Gear Solid 2 - Substance  |  SLPM_670.02
+Metal Gear Solid 2 - Substance  |  SLUS_205.54
 Metal Gear Solid 2, Document of  |  SLES_820.10
 Metal Gear Solid 2: Sons of Liberty  |  SLES_503.83
 Metal Gear Solid 3 - Snake Eater  |  SLES_820.13
@@ -1350,6 +1357,7 @@ Shadow Hearts - Covenant - Disc 2  |  SLES_820.31
 Shadow Hearts - From the New World  |  SLPM_660.71
 Shadow Hearts 2 [Directors Cut] [PlayStation 2 The Best]  |  SLPS_732.14
 Shadow Hearts 3: From The New World  |  SLES_547.11
+Shadow Hearts II - Covenant [Disc 1]  |  SLUS_210.41
 Shadow Man: 2econd Coming  |  SLES_504.46
 Shadow of Memories  |  SLES_501.12
 Shadow of Rome  |  SLES_529.50
@@ -1359,6 +1367,7 @@ Shaun Palmers Pro Snowboarder  |  SLUS_201.99
 Shifters  |  SLES_506.43
 Shin Megami Tensei - Persona 3  |  SLUS_215.69
 Shin Megami Tensei - Persona 3 FES  |  SLES_553.54
+Shin Megami Tensei - Persona 3 FES  |  SLUS_216.21
 Shin Megami Tensei - Persona 4  |  SLES_554.74
 Shin Megami Tensei III - Nocturne Maniax Chronicle Edition  |  SLPM_666.81
 Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs the Soulless Army  |  SLES_546.29
@@ -1508,6 +1517,7 @@ Sven-Goran Erikssons World Challenge  |  SLES_508.52
 Sword of the Samurai  |  SLES_512.90
 Syphon Filter - Logan's Shadow  |  SCUS_975.84
 Syphon Filter - The Omega Strain  |  SCES_520.33
+Syphon Filter - The Omega Strain  |  SCUS_972.64
 TNA iMPACT!  |  SLES_551.50
 TNA iMPACT!  |  SLUS_217.87
 TT Superbikes  |  SLES_519.80
@@ -1544,6 +1554,7 @@ Terminator 3 - Rise Of The Machines  |  SLUS_207.99
 Terminator 3 - The Redemption  |  SLES_522.83
 Terminator, The - Dawn of Fate  |  SLUS_203.91
 Tetsujin 28 Go  |  SLPS_253.62
+The Adventures of Cookie & Cream  |  SLUS_201.70
 The Fast and the Furious  |  SLES_544.83
 The History Channel - Battle for the Pacific  |  SLES_551.02
 The Millenium European Paintball Series - Championship Paintball 2009  |  SLES_553.28
@@ -1795,7 +1806,6 @@ Zone of Enders  |  SLPM_650.19
 Zone of the Enders  |  SLES_501.11
 “Capcom Vs SNK 2 (2001)  |  SLUS_202.46”
 ﻿007 - From Russia With Love  |  SLUS_212.82
-﻿10.000 Bullets  |  SLES_534.81
 ﻿50 Cent - Bulletproof  |  SLUS_213.15
 ﻿7 Blades  |  SLES_501.09
 ﻿ATV Offroad Fury  |  SCUS_971.04
@@ -2015,7 +2025,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Dynasty Warriors 5  |  SLUS_211.53
 ﻿Dynasty Warriors 5 - Xtreme Legends  |  SLUS_212.99
 ﻿Dynasty Warriors 6  |  SLUS_217.74
-﻿Echo Night  Beyond  |  SLUS_209.28
 ﻿Enter the Matrix  |  SLUS_204.54
 ﻿Enthusia Professional Racing  |  SLUS_209.67
 ﻿Eternal Poison  |  SLUS_217.79
@@ -2070,7 +2079,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Gladius  |  SLUS_204.90
 ﻿Global Defence Force  |  SLES_544.64
 ﻿God Hand  |  SLES_544.90
-﻿God Hand  |  SLUS_215.03
 ﻿God of War  |  SCUS_973.99
 ﻿God of War 2  |  SCUS_974.81
 ﻿Godfather, The  |  SLUS_213.85
@@ -2193,7 +2201,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Mega Man X8  |  SLUS_209.60
 ﻿Mercenaries  |  SLUS_209.32
 ﻿Metal Arms - Glitch in the System  |  SLUS_207.86
-﻿Metal Gear Solid 2 - Substance  |  SLUS_205.54
 ﻿Metal Gear Solid 3 - Subsistence (Disc 1)  |  SLUS_213.59
 ﻿Metal Gear Solid 3 - Subsistence (Disc 2)  |  SLUS_212.43
 ﻿Metal Saga  |  SLUS_212.93
@@ -2356,7 +2363,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Serious Sam - Next Encounter  |  SLUS_209.07
 ﻿Seven Samurai 20XX  |  SLUS_206.21
 ﻿Shadow Hearts  |  SLUS_203.47
-﻿Shadow Hearts II - Covenant (Disc 1)  |  SLUS_210.41
 ﻿Shadow Hearts II - Covenant (Disc 2)  |  SLUS_210.44
 ﻿Shadow Hearts III - From the New World  |  SLUS_213.26
 ﻿Shadow Man - 2econd Coming  |  SLUS_204.13
@@ -2371,7 +2377,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Shin Megami Tensei - Digital Devil Saga  |  SLUS_209.74
 ﻿Shin Megami Tensei - Digital Devil Saga 2  |  SLUS_211.52
 ﻿Shin Megami Tensei - Nocturne (Maniax Chronicle)  |  SLUS_209.11
-﻿Shin Megami Tensei - Persona 3 FES  |  SLUS_216.21
 ﻿Shin Megami Tensei - Persona 4  |  SLUS_217.82
 ﻿Shining Force EXA  |  SLUS_215.67
 ﻿Shining Force Neo  |  SLUS_212.06
@@ -2461,7 +2466,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Suikoden V  |  SLUS_212.91
 ﻿Super Dragon Ball Z  |  SLES_541.61
 ﻿Syphon Filter - Dark Mirror  |  SCUS_973.62
-﻿Syphon Filter - The Omega Strain  |  SCUS_972.64
 ﻿TMNT  |  SLES_544.78
 ﻿TMNT  |  SLUS_215.95
 ﻿Taito Legends  |  SLES_534.38
@@ -2487,7 +2491,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Tenchu - Wrath of Heaven  |  SLUS_203.97
 ﻿Terminator 3 - Redemption  |  SLUS_208.52
 ﻿Test Drive - Offroad  |  SLUS_201.77
-﻿The Adventures of Cookie & Cream  |  SLUS_201.70
 ﻿The Adventures of Darwin  |  SLUS_215.92
 ﻿The Chronicles of Narnia: Prince Caspian  |  SLUS_217.56
 ﻿The King of Fighters 2000/2001  |  SLES_528.76
