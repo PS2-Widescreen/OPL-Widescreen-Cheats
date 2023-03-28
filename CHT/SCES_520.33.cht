@@ -1,7 +1,9 @@
 "Syphon Filter - The Omega Strain /ID SCES_520.33"
 //ELF CRC 27E54B37
+
 Mastercode
 9010F970 0C043E04
+
 
 //Widescreen hack by nemesis2000 (pnach by nemesis2000)
 
@@ -13,9 +15,10 @@ Mastercode
 203972f0 46031840
 20397364 e603007c
 
+//With and without the patch is wrong, but being stretched makes more sense with the game mechanics.
 //HUD fix
-2039719c 00000000
-203971a4 3c033f40
+//2039719c 00000000
+//203971a4 3C033f40
 
 //FMV's fix
 20418f3c 241016d0
