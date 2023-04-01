@@ -1,0 +1,18 @@
+"SpongeBob SquarePants - Creature from the Krusty Krab /ID SLUS_213.91"
+//ELF CRC = 82C46B7A
+
+Mastercode
+904EA548 0C13A8FA
+
+
+//Widescreen hack 16:9 by Arapapa & ICUP321
+
+//X-Fov
+//000000000000000083ad004600000000
+20438b6c 3c013f40
+20438b70 4481f000
+20438b78 461eb582
+
+//Render fix
+//003f013c 00a08144 98000cc6 (1st)
+2041a458 3c013f20 //3c013f00
