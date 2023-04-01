@@ -1,10 +1,33 @@
-﻿"Rayman Revolution /ID SLES_500.44"
+"Rayman Revolution /ID SLES_500.44"
+
 Mastercode
 901c5d70 0c071704
 
+//Widescreen Hacks by ElHecht & ICUP321
+
+// General Widescreen Fixes
+2018c6a0 4481f000 // 00000000
+2018c6a4 461e0842 // 00000000
+201180ec 461e6303 // 00000000 renderfix calculation
+
 // 16:9
-2018c690 3c013f40
-2018c6a0 4481f000
-2018c6a4 461e0842
-201180ec 461e6303
+2018c690 3c013f40 // 00000000 hor fov
+
+// 15:9
+//2018c690 3c013f50 // 00000000 hor fov
+
+// 16:10
+//2018c690 3c013f55 // 00000000 hor fov
+//2018c694 34215555 // 00000000 hor fov
+
+// 21:9
+//2018c690 3c013f10 // 00000000 hor fov
+
+// 25:16
+//2018c690 3c013f5a // 00000000 hor fov
+//2018c694 3421740e // 00000000 hor fov
+
+// 32:9
+//2018c690 3c013ed5 // 00000000 hor fov
+//2018c694 3421c28f // 00000000 hor fov
 
