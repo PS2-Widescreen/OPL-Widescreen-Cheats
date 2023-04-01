@@ -1,4 +1,4 @@
-game count|2580
+game count|2587
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37
 .Hack-Part 2 Mutation  |  SLES_524.67
@@ -1095,6 +1095,7 @@ Naval Ops - Warship Gunner  |  SLES_518.93
 Need For Speed Underground 2  |  SLUS_210.65
 Need for Speed - Hot Pursuit 2  |  SLES_507.31
 Need for Speed - ProStreet  |  SLES_550.03
+Need for Speed - ProStreet  |  SLUS_216.58
 Need for Speed - Underground  |  SLUS_208.11
 Need for Speed Underground J-Tune [EA Best Hits]  |  SLPM_656.14
 Neo Contra  |  SLES_525.10
@@ -1157,6 +1158,8 @@ PES 2010 - Pro Evolution Soccer  |  SLUS_219.18
 PES 2011 - Pro Evolution Soccer  |  SLUS_219.42
 PES 2013 - Pro Evolution Soccer  |  SLUS_219.55
 PaRappa the Rapper 2  |  SCES_504.08
+Pac-Man World 2  |  SLUS_202.24
+Pac-Man World 3  |  SLUS_212.19
 Pacific Air Warriors 2 - Dogfight  |  SLES_525.71
 Panzer Elite Action  |  SLES_534.44
 Paris Dakar Rally  |  SLUS_203.24
@@ -1245,6 +1248,11 @@ Ratchet & Clank  |  SCPS_150.37
 Ratchet & Clank 2  |  SCES_516.07
 Ratchet & Clank 3  |  SCES_524.56
 Ratchet - Gladiator  |  SCES_532.85
+Rayman - Raving Rabbids  |  SLES_543.07
+Rayman - Raving Rabbids  |  SLUS_215.76
+Rayman 2 - Revolution  |  SLPM_675.19
+Rayman 2 - Revolution  |  SLUS_201.38
+Rayman Revolution  |  SLES_500.44
 Ready 2 Rumble Boxing Round 2  |  SLES_500.10
 Realm of the Dead  |  SLES_543.39
 Rebel Raiders - Operation Nighthawk  |  SLES_534.13
@@ -1260,7 +1268,6 @@ RedCard  |  SLES_507.11
 Reel Fishing 3  |  SLES_513.08
 Reign of Fire  |  SLES_508.73
 Reign of Fire  |  SLUS_205.56
-Resident Evil - CODE Veronica X  |  SLES_503.06
 Resident Evil - Code Veronica X  |  SLES_503.06
 Resident Evil - Dead Aim  |  SLES_514.48
 Resident Evil - Outbreak  |  SLES_515.89
@@ -1449,6 +1456,8 @@ Speed Racer  |  SLES_550.75
 Spindrive Ping Pong  |  SLES_528.67
 Splashdown  |  SLUS_202.23
 Splatter Master  |  SLES_533.68
+SpongeBob SquarePants - Creature from the Krusty Krab  |  SLUS_213.91
+SpongeBob Squarepants - Creature from the Krusty Krab  |  SLES_544.00
 SpongeBob Squarepants - Lights, Camera, PANTS!  |  SLUS_212.52
 SpongeBob Squarepants - The Movie  |  SLUS_209.04
 SpongeBobs Atlantis SquarePantis  |  SLES_550.24
@@ -2293,8 +2302,6 @@ Zone of the Enders  |  SLES_501.11
 ﻿Ratchet & Clank: Up Your Arsenal  |  SCUS_973.53
 ﻿Ratchet: Deadlocked  |  SCUS_974.65
 ﻿Raw Danger  |  SLUS_215.01
-﻿Rayman 2 - Revolution  |  SLUS_201.38
-﻿Rayman Revolution  |  SLES_500.44
 ﻿Ready 2 Rumble Boxing - Round 2  |  SLUS_200.54
 ﻿Red Faction 2  |  SLUS_204.42
 ﻿Red Ninja: End of Honor  |  SLUS_207.14
