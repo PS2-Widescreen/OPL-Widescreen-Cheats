@@ -1,0 +1,21 @@
+"Pac-Man World 3 /ID SLUS_212.19"
+//ELF CRC = 91ECC411
+
+Mastercode
+90476238 0C11D836
+
+
+//Pac-Man World 3 (U)(SLUS-21219)
+//Widescreen Hack by ICUP321
+
+//Widescreen hack 16:9 (Set "Normal" in Picture Options)
+
+//X-Fov
+//000000000000000083ad004600000000
+203efdc4 3c013f40
+203efdc8 4481f000
+203efdd0 461eb582
+
+//Render fix
+//003f013c 00a88144 2db80002
+20435bac 3c013f2b //3c013f00
