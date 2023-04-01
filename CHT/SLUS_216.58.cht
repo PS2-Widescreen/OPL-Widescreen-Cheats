@@ -1,0 +1,14 @@
+"Need for Speed - ProStreet /ID SLUS_216.58"
+//ELF CRC DD3CE71B
+
+Mastercode
+9058A768 0C162982
+
+
+// by Xan1242 & Aero_
+// Enables Widescreen Mode
+20168A10 24020001 // li v0, 1
+
+// Corrects Aspect Ratio
+206828D8 3F400000 // Horizontal: 0.75f
+206828DC 3F8CCCCD // Vertical: 1.10f
