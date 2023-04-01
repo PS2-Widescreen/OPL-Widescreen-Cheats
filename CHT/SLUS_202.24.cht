@@ -1,0 +1,9 @@
+"Pac-Man World 2 /ID SLUS_202.24"
+//ELF CRC E7EA3288
+
+Mastercode
+902DCC20 0C0B72B0
+
+
+//Official Widescreen auto-enable (vertical screen skewed)
+205a68c0 00000001 // change value to 0 for 4:3
