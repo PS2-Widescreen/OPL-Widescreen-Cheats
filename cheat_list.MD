@@ -1,4 +1,4 @@
-game count|2589
+game count|2590
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37
 .Hack-Part 2 Mutation  |  SLES_524.67
@@ -630,6 +630,7 @@ Godzilla - Save The Earth  |  SLES_527.66
 Gold Gashbell - Friendship Tag Battle 2  |  SLPS_254.79
 Gold Gashbell!! Gekitou! Saikyou no Mamonotachi  |  SLPS_254.40
 Golf Paradise DX  |  SLPS_250.27
+Goosebumps HorrorLand  |  SLUS_218.34
 Gradius V  |  SLES_520.95
 Gradius V  |  SLPM_624.62
 Gran Turismo 3 - A-Spec  |  SCES_502.94
