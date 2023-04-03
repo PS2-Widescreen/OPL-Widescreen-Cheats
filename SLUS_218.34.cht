@@ -1,0 +1,21 @@
+"Goosebumps HorrorLand /ID SLUS_218.34"
+//ELF CRC = 02FDFF19
+
+Mastercode
+9029CD98 0C0A730E
+
+
+//Widescreen hack by Arapapa (16:9)
+
+//Zoom
+202271b0 3c013f27 //3c013f00
+
+//Y-Fov
+2022726c 08030000
+
+200c0000 4616a503
+200c0004 3c013faa
+200c0008 3421aaab
+200c000c 4481f000
+200c0010 461ea502
+200c0014 08089c9c
