@@ -1,0 +1,12 @@
+"Itadaki Street 3 /ID SLPM_621.12"
+//ELF CRC=211DEAD7
+
+Mastercode
+902313C8 0C08C49A
+
+
+//Widescreen Hack by Arapapa (16:9)
+
+20201dbc 3c013f40 //00000000
+20201dc0 44810000 //00000000
+20201dc8 4600c602 //00000000
