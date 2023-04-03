@@ -1,4 +1,4 @@
-game count|2587
+game count|2588
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37
 .Hack-Part 2 Mutation  |  SLES_524.67
@@ -761,6 +761,7 @@ Iridium Runners  |  SLES_550.13
 Iridium Runners  |  SLUS_216.97
 Iron Aces 2 - Birds of Prey  |  SLES_506.86
 Iron Man  |  SLUS_217.39
+Itadaki Street 3  |  SLPM_621.12
 J League Winning Eleven 6  |  SLPM_622.17
 J League Winning Eleven 8 - Asia Championship  |  SLPM_620.40
 J-League Pro Soccer Club - Tsukuku 2004  |  SLPM_655.30
