@@ -1,4 +1,4 @@
-game count|2588
+game count|2589
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37
 .Hack-Part 2 Mutation  |  SLES_524.67
@@ -524,6 +524,7 @@ Final Fantasy X International (Korea)  |  SLPM_675.13
 Final Fantasy X-2  |  SLES_518.15
 Final Fantasy X-2  |  SLES_518.16
 Final Fantasy X-2  |  SLES_518.17
+Final Fantasy X-2  |  SLPS_252.50
 Final Fantasy X-2  |  SLUS_206.72
 Final Fantasy XII  |  SLES_543.54
 Final Fantasy XII  |  SLES_543.56
@@ -828,6 +829,7 @@ Kim Possible - What's the Switch  |  SLES_543.88
 King Kong, Peter Jacksons - The Official Game of the Movie  |  SLUS_213.11
 King of Clubs  |  SLES_547.31
 King of Fighters - Maximum Impact  |  SLUS_209.23
+King of Fighters 2006  |  SLUS_213.65
 King of Fighters, The - Maximum Impact 2  |  SLPS_256.09
 King of Route 66  |  SLUS_205.22
 King's Field IV  |  SLES_509.20
@@ -930,7 +932,6 @@ MX vs. ATV Untamed  |  SLES_550.50
 Mace Griffin  |  SLUS_205.05
 Mace Griffin - Bounty Hunter  |  SLES_516.53
 Mad Maestro  |  SLUS_203.76
-Mad Maestro!  |  SLES_507.70
 Made Man  |  SLES_544.43
 Made Man  |  SLES_544.44
 Made Man - Confessions of the Family Blood  |  SLUS_215.87
