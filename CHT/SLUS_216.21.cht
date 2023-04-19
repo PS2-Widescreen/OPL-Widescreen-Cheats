@@ -17,46 +17,13 @@ Mastercode
 20106e48 24630004
 20106e4c 3c043f80
  
-//FMV Fix by Alexankitty
-2010afc8 081a63af //Jump for additional instruction space
-2010afcc 00000000 
-2010afd0 14620006 // branch depending on FMV type
-2010afd4 00000000 
-2010afd8 3c023e00 // Size Top
-2010afdc 3c1443e0 // Size Bottom
-2010afe0 3c1542a0 // Size Left
-2010afe4 3c160bb0 // Size Right
-2010afe8 10000005 // Jump to next section
-2010afec 00000000 
-2010aff0 3c023e00 // Size Top
-2010aff4 3c1443e1 // Size Bottom
-2010aff8 3c1541f8 // Size Left
-2010affc 3c161850 // Size Right
-2010b000 ae6200e4 // Store Y Top Left
-2010b004 ae620164 // Store Y Bottom Left
-2010b008 ae740124 // Store Y Top Right
-2010b00c ae7401a4 // Store Y Bottom Right
-2010b010 ae7500e0 // Store X Top Left
-2010b014 ae750120 // Store X Bottom Left
-2010b018 ae76015f // Store X Top Right
-2010b01c ae76019f // Store X Bottom Left
-2010b020 0000a02d // Clear out S registers
-2010b024 0000a82d
-2010b028 0000b02d
-//FMV Jump
-20698ebc 3c024400 // FMV Mirroring Fix
-20698ec0 ae620160 // Store Left
-20698ec4 ae6201a0 // Store Right
-20698ec8 3c02005d // Process FMV Type Check
-20698ecc 24424b70
-20698ed0 00431021
-20698ed4 84430000 
-20698ed8 24020005 
-20698edc 08042bf3 //Jump back
-20698ee0 00000000 
-//1px tiling fix
-2010b0e4 2463ffff 
-2010b0e8 44830000 
+//FMV's fix by nemesis2000
+2010afd0 1462000a
+2010afd8 3c02c294
+2010afdc 10000008
+2010afec 00000000
+2010affc 3c02c1a8
+2010b010 00000000
 
 //zoom fix
 //(ALL cheats must be loaded via cheats_ws or else it will freeze
