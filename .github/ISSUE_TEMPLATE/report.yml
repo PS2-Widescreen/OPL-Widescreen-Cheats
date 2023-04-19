@@ -1,0 +1,100 @@
+name: Broken hack report
+description: Report a widescreen hack wich is __not__ working properly __on real hardware__
+title: "[REPORT]: "
+labels: [report]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### __Disclaimer:__
+        Issue reports wich cannot be replicated on real hardware are not accepted
+        Issues related to game versions wich share same game ID will not be accepted if you dont provide hashes for both
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checks
+      description: "Check before posting"
+      options:
+        - label: I have checked if a report of the same game, in the same test environment, is already included
+        - label: I have tested this __on real hardware__ either with OpenPS2Loader or running a phisical copy of the game
+
+  - type: markdown
+    attributes:
+      value: |
+        ##### please complete the following information:
+
+  - type: dropdown
+    id: gamestate
+    attributes:
+      label: "gameplay"
+      description: "how stable is the gameplay?"
+      multiple: false
+      options:
+        - "Working"
+        - "working with issues"
+        - "barely working"
+        - "imposible to play"
+        - "doesn't even boot"
+    validations:
+      required: true
+
+  - type: input
+    id: console
+    attributes:
+      label: Console model
+      description: you can see it on the console sticker or inside OSDSYS (press triangle on main menú)
+      placeholder: "SCPH-????? / DTL-H????? / DESR-???? / COH-H?????"
+    validations:
+      required: true
+
+  - type: input
+    id: oplver
+    attributes:
+      label: "Version of the software used to run the cheats"
+      description: "OPL version or the cheat program you used"
+      placeholder: "eg: OPL stable 1.0.0 | OPL beta 1.1.0 1732 | Cheat device 1.7.5 commit 41e4ebe | Cheat device with exfat support"
+    validations:
+      required: true
+
+  - type: input
+    id: gametitle
+    attributes:
+      label: "title"
+      description: "The game title"
+      placeholder: "eg: Predator Concrete jungle"
+    validations:
+      required: true
+
+  - type: input
+    id: regioncode
+    attributes:
+      label: "Game Region code (ID)"
+      description: "OPL will show you this on it´s UI"
+      placeholder: "eg: SLES_530.91"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: device
+    attributes:
+      label: "device used on test"
+      multiple: false
+      options:
+        - USB
+        - SMB
+        - HDD
+        - iLink
+        - MX4SIO
+        - Disc
+    validations:
+      required: true
+
+  - type: input
+    id: explanation
+    attributes:
+      label: Explain your issue
+      description: Information about what and how it is failing
+      placeholder: "ie: shadows of the game are distorted / game freezes when FMVs start / etc..."
+    validations:
+      required: false
