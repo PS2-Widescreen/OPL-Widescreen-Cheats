@@ -1,0 +1,32 @@
+name: issue-checklist
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: git checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - run: |
+        git config --global --add safe.directory "$GITHUB_WORKSPACE"
+        git fetch
+
+    - run: |
+        wget "https://api.github.com/repos/PS2-Widescreen/OPL-Widescreen-Cheats/issues/{{ github.event.issue.number }}" -O REPORT.JSON
+
+    - name: Generate message
+      run: |
+        chmod +x ./greeting.sh
+        ./greeting.sh
+
+    - uses: ben-z/actions-comment-on-issue@1.0.2
+      with:
+        message: "Gentle reminder:\n* Did you go through all of the troubleshooting steps outlined in README.md?"
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
