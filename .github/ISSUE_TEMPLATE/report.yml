@@ -9,6 +9,7 @@ body:
         ### __Disclaimer:__
         Issue reports wich cannot be replicated on real hardware are not accepted
         Issues related to game versions wich share same game ID will not be accepted if you dont provide hashes for both
+        Issues happening on modified versions of games are not allowed (some game modifications interfer with the cheat mastercodes)
 
   - type: checkboxes
     id: terms
@@ -18,6 +19,7 @@ body:
       options:
         - label: I have checked if a report of the same game, in the same test environment, is already included
         - label: I have tested this __on real hardware__ either with OpenPS2Loader or running a phisical copy of the game
+        - label: I have confirmed that __NONE__ of the mentioned issues in this report ocurr if the game is ran without the hack
 
   - type: markdown
     attributes:
