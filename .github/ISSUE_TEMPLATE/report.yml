@@ -1,5 +1,5 @@
 name: Broken hack report
-description: Report a widescreen hack wich is __not__ working properly __on real hardware__
+description: Report a widescreen hack wich is not working properly on real hardware
 title: "[REPORT]: "
 labels: [report]
 body:
@@ -7,9 +7,9 @@ body:
     attributes:
       value: |
         ### __Disclaimer:__
-        Issue reports wich cannot be replicated on real hardware are not accepted
-        Issues related to game versions wich share same game ID will not be accepted if you dont provide hashes for both
-        Issues happening on modified versions of games are not allowed (some game modifications interfer with the cheat mastercodes)
+        #### Issue reports wich cannot be __reproduced on real hardware__ are not accepted
+        #### Issues related to game versions wich share same game ID will not be accepted if you dont provide __hashes__ for both
+        #### Issues happening on modified versions of games are __not__ allowed (some game modifications interfer with the cheat mastercodes)
 
   - type: checkboxes
     id: terms
