@@ -1,8 +1,14 @@
-name: Make Cheats Lowercase
+name: Quality Control
 
 # only perform this workflow if a manually triggered it from the actions tab
 on:
   workflow_dispatch:
+    inputs:
+      make_pr:
+        description: 'Create a Pull request with the corrected files'
+        required: true
+        type: boolean
+  pull_request:
 
 jobs:
   check-format:
@@ -21,16 +27,17 @@ jobs:
 
     - name: make cheats lowercase
       run: |
-        chmod +x ./lowercasecheats.sh
-        ./lowercasecheats.sh
+        chmod +x ./QualityControl.sh
+        ./QualityControl.sh
 
     - name: Create Pull Request
       id: prmaker
+      if:  ${{ inputs.make_pr }} 
       uses: peter-evans/create-pull-request@v4
       with:
-        commit-message: "make all cheat codes lowercase"
-        body: "make all cheat codes lowercase"
-        title: "make all cheat codes lowercase"
+        commit-message: "Quality Control"
+        body: "Quality Control"
+        title: "Quality Control"
         delete-branch: true
         branch-suffix: random
         add-paths: |
