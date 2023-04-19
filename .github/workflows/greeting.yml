@@ -19,14 +19,15 @@ jobs:
         git fetch
 
     - run: |
-        wget "https://api.github.com/repos/PS2-Widescreen/OPL-Widescreen-Cheats/issues/{{ github.event.issue.number }}" -O REPORT.JSON
+        wget "https://api.github.com/repos/PS2-Widescreen/OPL-Widescreen-Cheats/issues/${{ github.event.issue.number }}" -O REPORT.JSON
 
     - name: Generate message
       run: |
         chmod +x ./greeting.sh
-        ./greeting.sh
+        ./greeting.sh REPORT.JSON > MSG.MD
 
-    - uses: ben-z/actions-comment-on-issue@1.0.2
+    - name: Add reactions
+      uses: peter-evans/create-or-update-comment@v3
       with:
-        message: "Gentle reminder:\n* Did you go through all of the troubleshooting steps outlined in README.md?"
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        issue-number: ${{ github.event.issue.number }}
+        body-path: MSG.MD

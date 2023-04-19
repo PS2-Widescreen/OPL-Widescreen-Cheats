@@ -14,13 +14,15 @@ if [ -f "LINKLIST.TXT" ]; then rm LINKLIST.TXT; fi
         if [ -f "CHT/$a.cht" ]
         then
             echo " - [\`$a.cht\`](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/CHT/$a.cht)" >> LINKLIST.TXT
+        else
+            echo "'CHT/$a.cht' does not exist"
         fi
     done
 
     if [ -f "LINKLIST.TXT" ]
     then
         echo "Seems like you mentioned at least one game ID wich exists in this repository! i'll link them here:"
-        sort "LINKLIST.TXT" | uniq -u
+        sort "LINKLIST.TXT" | uniq
     fi
 else
     RETURN_CODE=1
