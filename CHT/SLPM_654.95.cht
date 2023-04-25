@@ -1,0 +1,9 @@
+"Monster Hunter /ID SLPM_654.95"
+//ELF CRC=CF1A62C0
+
+Mastercode
+901B7F70 0C0676DC
+
+//Widescreen hack by nemesis2000 (NTSC-J by Arapapa)
+20169d24 3c023ff3 //3c023fb6
+20169d2c 3442cf35 //3442db6e 
