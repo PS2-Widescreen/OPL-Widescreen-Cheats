@@ -1,4 +1,4 @@
-game count|2590
+game count|2591
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37
 .Hack-Part 2 Mutation  |  SLES_524.67
@@ -1021,6 +1021,7 @@ Monster House  |  SCKA_200.84
 Monster House  |  SLES_542.15
 Monster House  |  SLUS_214.00
 Monster Hunter  |  SLES_527.07
+Monster Hunter  |  SLPM_654.95
 Monster Hunter 2  |  SLPM_662.80
 Monster Hunter G  |  SLPM_658.69
 Monster Jam  |  SLUS_216.35
