@@ -1,0 +1,12 @@
+"Rogue Trooper /ID SLUS_213.20"
+//ELF CRC = 2F63F868
+
+Mastercode
+903CA228 0C0F2832
+
+
+//Widescreen hack by Arapapa, 16:9
+
+//X-Fov
+//803f013c 00e08144
+201c8974 3c013f40 //3c013f80

@@ -1,0 +1,12 @@
+"Gladiator - Sword of Vengeance /ID SLUS_207.93"
+//ELF CRC = C5DAD771
+
+Mastercode
+902A6DB8 0C0A9B16
+
+
+//Widescreen hack
+201c6240 3c013f40 //fov
+2020dc38 3c013fab // vert fov
+2028462c 3c010000 // black bars remove
+20799D30 bfab0000 //hud stretch

@@ -1,0 +1,16 @@
+"Robots /ID SLUS_209.42"
+//ELF CRC = 5931A065
+
+Mastercode
+902FF220 0C0BFC30
+
+
+//Widescreen Hack by Arapapa, 16:9
+
+//Y-Fov
+//803f013c 00188144 86080046 (1st)
+20298924 3c013f40 //3c013f80
+
+//Zoom
+//803f013c 00608144 4000a827
+20298b2c 3c013f40 //3c013f80

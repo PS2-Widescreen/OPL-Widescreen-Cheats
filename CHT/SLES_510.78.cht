@@ -1,0 +1,54 @@
+"FC Barcelona - Club Football /ID SLES_510.78"
+//ELF CRC AD8A8599
+
+Mastercode
+9036E6D8 0C0DB95E
+
+
+//Widescreen Hack 16:9 by Arapapa
+
+//Menu 3D Fov
+//aa3f013c abaa2134
+2032ab94 3c013fe3 //3c013faa
+2032ab98 34218e32 //3421aaab
+
+//Game Play and Replay Fov
+//aa3f013c be9f2134
+201532f4 3c013fe3 //3c013faa
+201532f8 34217fa6 //34219fbe
+
+//Game play - Players entering in the ground - Scene Fov
+//aa3f013c be9f2134
+202ab86c 3c013fe3 //3c013faa
+202ab870 34217fa6 //34219fbe
+
+//aa3f013c abaa2134
+2032ade0 3c013fe3 //3c013faa
+2032ade4 34218e32 //3421aaab
+
+//Menu 3D Zoom
+//803f013c 00088144 02200046
+20368680 3c013f40 //3c013f80
+
+//Game Play Zoom
+//803f013c 00188144 02200046
+20368634 3c013f40 //3c013f80
+
+///////////////////////////////
+//Menu and Game Play Y-fov (needs 1 more render fix)
+//803f013c 00108144 00000000 83100446
+//20327138 3c013fab //3c013f80
+
+//Render Fix
+//803f013c 00388144 1c0000ae
+//2031a188 3c013fab //3c013f80
+
+/////////////////////////////
+// Memory Hack //
+//0000803f 0000c843 3333b33e
+//20A52B60 3f400000 game play
+//0000803f be9faa3f 6176696f
+//20A52B70 3f400000 game kick-off
+//0000803f be9faa3f 001d6bcc
+//20A65170 3f400000 game replay
+

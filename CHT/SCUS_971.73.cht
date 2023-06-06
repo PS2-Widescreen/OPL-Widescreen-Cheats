@@ -1,0 +1,16 @@
+"Jet X2O /ID SCUS_971.73"
+//ELF CRC = 237251F3
+
+Mastercode
+90246860 0C0919C0
+
+
+//Widescreen hack 16:9 by Arapapa
+
+//X-Fov
+201e8448 3c013f40 //3c013f80
+
+//Zoom
+//201e839c 3c013ff0 //3c013f80
+//Y-Fov + Zoom
+//20104c28 3c013fab //3c013f80

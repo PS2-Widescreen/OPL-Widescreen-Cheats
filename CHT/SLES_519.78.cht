@@ -1,0 +1,22 @@
+"Baphomets Fluch - Der Schlafende Drache /ID SLES_519.78"
+//ELF CRC 1248FE3A
+
+Mastercode
+902D17B0 0C0B4594
+
+//Widescreen patch by nemesis2000 (pnach by nemesis2000 )
+201ad9cc 3c01bec0
+201ad9d0 0c06b250
+201ad9d4 44813000
+
+201ac93c 00000000
+201ac940 27bdffd0
+201ac944 3c01bf00
+201ac948 44813800
+201ac94c 7fb00020
+201ac950 ffbf0010
+201ac954 0080802d
+201ac958 26060020
+201ac95c c6000070
+201ac960 8e020004
+201ac964 46060202

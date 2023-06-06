@@ -1,0 +1,9 @@
+"Grand Theft Auto - San Andreas [Rockstar Classics] /ID SLPM_552.92"
+//ELF CRC = 9E18263C
+
+Mastercode
+9053FD50 0C14FEFC
+
+
+//Remove Radiosity Filter
+206691DC 00000000

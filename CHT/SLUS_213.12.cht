@@ -1,0 +1,14 @@
+"Wallace & Gromit - The Curse of the Were-Rabbit /ID SLUS_213.12"
+//ELF CRC 073EEDC0
+
+Mastercode
+904F4390 0C13D08C
+
+
+//Widescreen hack by Arapapa, 16:9
+
+//Zoom
+2011a4f4 3c013f1d //3c013f00
+
+//Y-Fov
+2011a598 3c014080 //3c014040

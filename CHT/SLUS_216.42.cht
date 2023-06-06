@@ -1,0 +1,11 @@
+"Sonic Riders - Zero Gravity /ID SLUS_216.42"
+//ELF CRC D04516EE
+
+Mastercode
+9010F858 0C043DBE
+
+
+//Widescreen hack by JLB
+205FE740 43700000
+205FE7A0 43700000 // shop, character
+20149964 3c023fab // 3c023f80 renderfix

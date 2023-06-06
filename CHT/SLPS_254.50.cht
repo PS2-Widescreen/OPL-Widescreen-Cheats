@@ -1,0 +1,27 @@
+"Tales of Rebirth /ID SLPS_254.50"
+
+Mastercode
+901A1498 0C0684CE
+
+
+//Widescreen hack
+
+//gameplay
+2015c8e8 00000000
+2015c8f0 3c013f40
+2015c8f4 4481c800
+2015c8fc 46196b42
+2015c900 e7ad0040
+
+//sprite fix
+201574a4 3c013f20
+201574a8 34216d3a
+
+//render fix
+2015c964 3c0143d6
+
+
+// [No-Interlacing]
+//Attempts to disable interlaced offset rendering.
+//2019AB84 00000000
+//2019AC0C 00000000

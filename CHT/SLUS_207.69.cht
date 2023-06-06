@@ -1,0 +1,19 @@
+"Harry Potter - Quidditch World Cup /ID SLUS_207.69"
+//ELF CRC 39E7ECF4
+
+Mastercode
+9034E280 0C0D3848
+
+
+//Widescreen hack by ElHecht 16:9
+202af388 3c013f40 // 00000000 hor fov
+202af38c 4481f000 // 00000000
+202af394 461ebdc2 // 00000000
+
+// hardware rendering fix
+20358ae8 3c013e49 // 3c013f49 remove flickering
+
+// optional hud fix
+202ae204 3c013f40 // 00000000
+202ae208 4481f000 // 00000000
+202ae214 461e0842 // 00000000

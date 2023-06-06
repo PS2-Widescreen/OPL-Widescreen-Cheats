@@ -1,0 +1,13 @@
+"Final Fight - Streetwise /ID SLUS_212.38"
+//ELF CRC = 7985D894
+
+Mastercode
+9010F210 0C043C2C
+
+
+//Widescreen hack by nemesis2000
+2017f228 3c043f71
+2017f22c 3489d5a2
+2017f230 3c03bf71
+2017f234 346ad5a2
+201ea9d0 3c033fab

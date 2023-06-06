@@ -1,0 +1,11 @@
+"Sonic Riders /ID SLUS_213.31"
+//ELF CRC = B44896B7
+
+Mastercode
+90105850 0C0415BC
+
+
+//Widescreen hack
+2044E6D8 43700000
+28008DA0 43700000 // store, character
+20134e4c 3c023fab // 3c023f80 renderfix

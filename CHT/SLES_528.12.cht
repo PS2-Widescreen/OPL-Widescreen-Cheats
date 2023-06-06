@@ -1,0 +1,14 @@
+"Disney-Pixars The Incredibles /ID SLES_528.12"
+//ELF CRC EBDB6E4B
+
+Mastercode
+90107ED0 0C041F5C
+
+
+//Widescreen hack by Sergx12
+//Gameplay 16:9
+201fe8e4 3c023f1C //3C023F00 Zoom
+201fe910 3c023f10 //3C023F40 Y-FOV
+
+//Hang fix by Prafull (Only needed for pcsx2, is not needed for the PS2)
+//patch=1,EE,0010EC20,word,00000000 //40036000

@@ -1,0 +1,14 @@
+"Hasbro - Family Game Night /ID SLUS_218.05"
+//ELF CRC = 3D96DC04
+
+Mastercode
+9058D0F0 0C1633E4
+
+
+//Widescreen hack by Arapapa, 16:9
+
+//Force turn on Native Widescreen (Full boot passing)
+205a3990 24020002 //30420003
+
+//Zoom fix
+204d0668 3c013f21 //3c013f00

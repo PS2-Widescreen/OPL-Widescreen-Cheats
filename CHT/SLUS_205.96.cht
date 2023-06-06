@@ -1,0 +1,10 @@
+"UFC - Sudden Impact /ID SLUS_205.96"
+//ELF CRC = 0B971851
+
+Mastercode
+90259778 0C096586
+
+
+//Widescreen Hack
+2021beec 3c013ec0 //90ffbd27 003f013c to 90ffbd27 c03e013c
+2021bf70 3c013f40 //c00001e6 803f013c to c00001e6 403f013c

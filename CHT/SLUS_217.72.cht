@@ -1,0 +1,15 @@
+"Tiger Woods PGA Tour 09 /ID SLUS_217.72"
+//ELF CRC 56D7AC28
+
+Mastercode
+903376B0 0C0CDD54
+
+
+//Widescreen Hack by VIRGIN KLM
+
+//Game Play Fov
+008CC390 3f400000 //3f800000
+
+//Game Play Render Fix
+008CC3A0 44800000 //44000000
+008CC3A8 40000000 //3f400000

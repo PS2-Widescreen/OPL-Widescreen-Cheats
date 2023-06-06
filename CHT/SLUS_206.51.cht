@@ -1,0 +1,13 @@
+"NBA Street 2 /ID SLUS_206.51"
+//ELF CRC 92AEE337
+
+Mastercode
+903BFD18 0C0EFEEE
+
+
+comment = Widescreen Hack by Ko81e24wy
+
+// Widescreen 16:9
+208D6AA0 3F400000
+208D6AD8 3FA66666
+208D6ADC 3FA66666

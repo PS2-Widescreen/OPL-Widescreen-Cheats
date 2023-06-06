@@ -1,0 +1,14 @@
+"RTX Red Rock /ID SLUS_204.91"
+//ELF CRC E349C1D4
+Mastercode
+901914B8 0C0644D6
+
+//- Widescreen hack by pgert.
+//- Might not work with all BIOS types & configurations.
+
+205F1840 3F400000 // 3F800000 - X-axis - 16:9
+// 205F1840 3F555555 // - 16:10
+// 205F1840 3F638E39 // - 15:10 (MS Surface Book)
+// ==========
+// 2057BEB4 3F000000 // 3F800000 - Y-Axis - alternate 16:10 hack
+// ==========
