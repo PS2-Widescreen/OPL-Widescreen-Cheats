@@ -1,0 +1,14 @@
+"Simple 2000 Series Vol.117 - The Zerosen /ID SLPS_204.94"
+//ELF CRC 54673FA9
+
+Mastercode
+902095D8 0C08251E
+
+
+//Widescreen hack by Arapapa, 16:9
+
+//X-Fov
+2012aecc 3c0a3f40 //3c0a3f80
+
+//Render Fix
+20186d44 3c033fb0 //3c033f80
