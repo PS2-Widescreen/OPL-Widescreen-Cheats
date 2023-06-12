@@ -15,23 +15,28 @@ if not exist LST2.TXT (
 
 echo # Checking cheats missing in this repo with available mastercode...
 del FINAL.TXT
+del MISSING_MASTERCODE.TXT
 set /a CNT=0
+set /a CNT2=0
 for /f "delims=; tokens=1,*" %%a in (LST2.TXT) do (
    if not exist CHT\%%a.cht (
        if exist ..\Bare-Mastercodes-bin\MASTERCODES\%%a.cht (
-           echo %%a;%%b >>FINAL.TXT
-           set /a CNT += 1
+            echo %%a;%%b >>FINAL.TXT
+            set /a CNT += 1
+       ) else (
+            set /a CNT2 += 1
+            echo %%a;https://github.com/PCSX2/pcsx2_patches/blob/main/patches/%%b>>MISSING_MASTERCODE.TXT
        )
    )
 )
 echo found %CNT% candidates...
-
+echo found %CNT2% cheat files wich need a mastercode to be included
 for /f "delims=; tokens=1,*" %%a in (FINAL.TXT) do (
     if exist ..\pcsx2_patches\patches\%%b (
+        echo %%a
         copy ..\Bare-Mastercodes-bin\MASTERCODES\%%a.cht CHT\%%a.cht>nul
         PS2_pnach_converter.exe ..\pcsx2_patches\patches\%%b -g >>CHT\%%a.cht
     ) else echo HUSTON, WE HAVE A PROBLEM %%a @ %%b
-    PAUSE
 )
 REM del LST.TXT
 REM del LST2.TXT
