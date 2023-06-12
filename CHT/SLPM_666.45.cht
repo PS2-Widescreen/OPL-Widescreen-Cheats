@@ -1,0 +1,21 @@
+"Bionicle Heroes /ID SLPM_666.45"
+//ELF CRC 51692BF7
+Mastercode
+90447080 0C111BC8
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+// Zoom fix (Internal Widescreen Option)
+20388f28 3c013f80 //3c013f40
+
+//X-Fov
+//403f013c 00008144 00000000 (4th)
+20388f58 3c013f10 //3c013f40
+
+
+

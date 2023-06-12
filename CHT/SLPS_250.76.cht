@@ -1,0 +1,16 @@
+"Sidewinder F /ID SLPS_250.76"
+//ELF CRC 7993AD80
+Mastercode
+9024C1B8 0C093016
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+201472D8 3C0143C0 //3C014400 Zoom
+20100434 3C0143B4 //3C0143F0 Y-FOV
+
+
+

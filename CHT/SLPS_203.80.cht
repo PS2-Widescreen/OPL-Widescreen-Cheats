@@ -1,0 +1,24 @@
+"Shinkon Gattai Gondannar!! /ID SLPS_203.80"
+//ELF CRC 927D3EB4
+Mastercode
+9010E8F0 0C0439E4
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Little Gaint
+
+// 16:10
+//20103f94 3c013f55 //00000000 hor fov
+//20103f98 34215555 //00000000
+//20103fa0 44810000 //00000000
+//20103fa4 4600c602 //00000000
+
+//16:9
+20103f94 3c013f40 //00000000 hor fov
+20103f98 44810000 //00000000
+20103fa0 4600c602 //00000000
+201c87a8 3c023f40 //3c023f80 render fix
+
+
+

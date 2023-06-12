@@ -1,0 +1,18 @@
+"Welcome to Universal Studios Japan /ID SLPM_623.49"
+//ELF CRC 53F38CC6
+Mastercode
+9010DD38 0C0436F6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+20102d04 3c013f40 //00000000
+20102d08 44810000 //00000000
+20102d10 4600c602 //00000000
+
+
+

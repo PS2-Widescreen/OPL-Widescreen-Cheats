@@ -1,0 +1,26 @@
+"Standard Daisenryaku Dengekisen /ID SLPM_657.04"
+//ELF CRC CD1EC9D0
+Mastercode
+90111030 0C0443B4
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom (3D)
+2013d618 3c023f26 //3c023f00
+
+//Y-Fov (3D)
+2013d6ec 08091664
+20245990 3c083f40
+20245994 4488f000
+20245998 461e0843
+2024599c e7a10034
+202459a0 46141843
+202459a4 0804f5bc
+
+
+

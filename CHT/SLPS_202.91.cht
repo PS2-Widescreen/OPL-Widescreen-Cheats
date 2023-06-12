@@ -1,0 +1,22 @@
+"Fish Eyes 3 /ID SLPS_202.91"
+//ELF CRC 2EA99E16
+Mastercode
+90112F78 0C044B86
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f063c b80286ac
+2012bf1c 3c063f40 //3c063f80
+
+//Render fix
+//a043033c c00283ac
+2012bf30 3c0343e0 //3c0343a0
+
+
+

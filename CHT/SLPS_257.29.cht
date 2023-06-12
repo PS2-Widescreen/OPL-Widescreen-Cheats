@@ -1,0 +1,22 @@
+"Kujibibi Unbalance /ID SLPS_257.29"
+//ELF CRC D80F4965
+Mastercode
+901BD6C0 0C06F558
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Game play
+//0000f043 eeee6e3f 0000e043
+202156b0 44200000 //43F00000
+
+//2D Screen adjust   ** Need a render fix **
+//202155cc 44350000 //442000000
+//202155e4 44100000 //442000000
+
+
+

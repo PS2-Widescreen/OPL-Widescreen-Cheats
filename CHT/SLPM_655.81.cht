@@ -1,0 +1,23 @@
+"Haunted Mansion /ID SLPM_655.81"
+//ELF CRC D6EF17F3
+Mastercode
+9010F5F8 0C043D26
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//aa3f023c 8faa4234 00688244 c00201c6
+201cac4c 3c023fe3 //3c023faa #1
+201cac50 34428e33 //3442aa8f
+
+//aa3f033c 0c0085ac
+20221f6c 3c033fe3 //3c033faa #2
+20221f74 34638e33 //3442aa8f
+
+
+

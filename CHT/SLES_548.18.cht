@@ -1,0 +1,18 @@
+"Super PickUps /ID SLES_548.18"
+//ELF CRC B6CA0C9B
+Mastercode
+9010F710 0C043D6C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Sergx12 & El_Patas
+
+//Gameplay 16:9
+20143080 3C023F19 //3C023F00 (Increases hor. axis)
+
+//Cars menus
+201ABAC8 3C033F67 //3C033F80 (Increases hor. axis)
+
+
+

@@ -1,0 +1,19 @@
+"Winning Eleven 10 - Liveware Edition /ID SLKA_251.53"
+Mastercode
+901086D0 0C04215C
+
+
+//[Widescreen 16:9]
+
+// Widescreen pnach (NTSC-K by Arapapa)
+
+// 16:9 (00000000 00000000 43ad1346 00000000)
+201043fc 3c013f40 // 00000000 hor fov
+20104400 44810000 // 00000000
+20104408 4600c602 // 00000000
+
+// Render fix (46170942 803f053c)
+2012a59c 3c053FAB //3c053F80
+
+
+

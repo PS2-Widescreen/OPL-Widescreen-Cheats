@@ -1,0 +1,23 @@
+"River Ride Adventure featuring Salomon /ID SLPM_627.58"
+//ELF CRC 9A20738A
+Mastercode
+90290C58 0C0A42BE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen 16:9
+
+//X-Fov
+//42ad0046 2000037e
+2011ce24 08030000
+200c0000 4600ad42
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461ead42
+200c0010 0804738a
+
+
+

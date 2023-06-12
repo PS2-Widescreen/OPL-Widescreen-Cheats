@@ -1,0 +1,15 @@
+"Sky Odyssey /ID SCPS_150.03"
+//ELF CRC EC064AC7
+Mastercode
+90201D80 0C080708
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by ElHecht (NTSC-J by Arapapa)
+
+20285b90 3f400000 //3f800000
+2026ea80 43e00000 //43a00000
+
+
+

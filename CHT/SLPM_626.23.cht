@@ -1,0 +1,18 @@
+"Elemental Gerad /ID SLPM_626.23"
+//ELF CRC B99379B7
+Mastercode
+902B4558 0C0AD0FE
+//[Widescreen 16:9]
+
+
+//Widescreen Hack
+
+//story
+204788F4 3f400000
+
+//battle
+204783B4 3f400000
+20478A44 3f400000
+
+
+

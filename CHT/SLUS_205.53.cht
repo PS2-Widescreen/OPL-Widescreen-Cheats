@@ -1,0 +1,21 @@
+"Fishermans Challenge /ID SLUS_205.53"
+//ELF CRC D1DFF756
+Mastercode
+90119278 0C046446
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+2016cd0c 3c013ec0 //00000000
+2016cd10 4481f000 //00000000
+
+//42180146 02180046 42081446
+2016cd50 4601f042
+
+
+

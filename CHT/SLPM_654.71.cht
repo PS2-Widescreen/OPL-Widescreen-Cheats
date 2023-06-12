@@ -1,0 +1,23 @@
+"Need for Speed Underground /ID SLPM_654.71"
+//ELF CRC 4608D01A
+Mastercode
+903B5518 0C0ED4EE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (NTSC-Kby Arapapa)
+
+//Widescreen hack 16:9
+
+20503d34 3f400000 //3f800000
+20503f28 3f2aaaaa //3f000000
+20503f30 3f2aaaaa //3f000000
+
+20229f68 3c01bf2a //3c01bf00
+20229f6c 44816800 //44816000
+20229f9c 46007307 //46006346
+20229fa0 46006bc7 //460073c6
+
+
+

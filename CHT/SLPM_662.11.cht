@@ -1,0 +1,24 @@
+"King Kong, Peter Jacksons - The Official Game of the Movie /ID SLPM_662.11"
+//ELF CRC 7EC8A8A3
+Mastercode
+905F6010 0C17D7AC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20127bd4 3c033f40 //3c033f80
+
+/Y-Fov
+20134f78 3c033fe3 //3c033faa 4/3 Wide Screen Mode
+20134f80 3c033fe3 //3c033faa 4/3 Screen Mode
+
+//Render fix
+20152b10 3c023f40 //3c023f00
+
+
+

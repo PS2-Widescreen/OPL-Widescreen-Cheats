@@ -1,0 +1,23 @@
+"Conflict Delta II - Gulf War 1991 /ID SLPM_660.00"
+//ELF CRC FFDF5E63
+Mastercode
+903A9440 0C0EA4B8
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom fix - Internal Widescreen and 4:3 X-Fov
+//aa3f013c 93a92134 00b08144
+2030f698 3c013fe3 //3c013faa
+2030f69c 34218cc1 //3421a993
+
+//Y-Fov fix - Internal Widescreen
+2030f6d8 3c013f0e //3c013f0a
+2030f6dc 342190dd //342160dd
+
+
+

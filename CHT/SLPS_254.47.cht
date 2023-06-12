@@ -1,0 +1,15 @@
+"Aim for the Top! Gunbuster /ID SLPS_254.47"
+//ELF CRC 603F5B4E
+Mastercode
+90221900 0C0885E8
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+// 16:9 (0000803F 6666E63E 6666E63F)
+202CFAA0 3F400000 // 3F800000
+
+
+

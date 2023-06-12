@@ -1,0 +1,30 @@
+"Fukuhara Love Ping Pong /ID SLPM_625.05"
+//ELF CRC B733F841
+Mastercode
+90119430 0C0464B4
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2026f07c 3c024060 //3c024020
+
+//Y-Fov
+2021fb68 08047e34
+
+2011f8d0 46070a02
+2011f8d4 3c013faa
+2011f8d8 3421aaab
+2011f8dc 4481f000
+2011f8e0 461e4202
+2011f8e4 08087edb
+
+////////////////////
+//2021fabc 08047e34
+
+
+

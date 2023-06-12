@@ -1,0 +1,22 @@
+"Choro Q - High Grade /ID SLPS_250.15"
+//ELF CRC 6F9C4D7C
+Mastercode
+901A7B20 0C069E70
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//a043013c 00688144 c6c30046
+2018fe04 3c014370 //3c0143a0
+
+//Render fix
+//f03f013c 00b08144
+2018fe48 3c014020 //3c013ff0
+
+
+

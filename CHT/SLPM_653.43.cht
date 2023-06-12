@@ -1,0 +1,28 @@
+"Kikou Heidai - J-Pheonix 2 /ID SLPM_653.43"
+//ELF CRC 7C7092F5
+Mastercode
+9030AC58 0C0C2ABE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+//Turn Off 'Speedhacks'
+
+//Widescreen hack 16:9
+
+//Matrix hack
+2031632c 3c013f40 //00000000
+20316330 44810000 //00000000
+20316338 4600c602 //00000000
+
+//Right Render fix
+//a0c3013c 00708144
+20152a7c 3c01c3e0 //3c01c3a0
+
+//Left Render fix
+//a043013c 00888144
+20152a9c 3c0143e0 //3c0143a0
+
+
+

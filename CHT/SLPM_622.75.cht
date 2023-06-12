@@ -1,0 +1,21 @@
+"Space Raiders /ID SLPM_622.75"
+//ELF CRC 2DCC4D30
+Mastercode
+90197038 0C065BB6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+202593a8 40700000 //3eaaaaab
+
+//Y-Fov
+201c6c9c 3c023f23 //3c023ef5
+201c6ca0 3442d70a //3442c28f
+
+
+

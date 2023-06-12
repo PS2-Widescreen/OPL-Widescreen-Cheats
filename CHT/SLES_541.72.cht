@@ -1,0 +1,23 @@
+"Garfield 2 - Tale of Two Kitties /ID SLES_541.72"
+//ELF CRC 627B8252
+Mastercode
+902F7DB8 0C0BDF16
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Gameplay 16:9
+
+//Zoom fix
+//003f023c 00008244 b00541c6
+202b124c 3c023eca //3c023f00
+
+//X-fov + Zoom
+//aa3f023c abaa4234 080000c6
+202b1274 3c023f80 //3c023faa
+202b1278 34420000 //3442aaab
+
+
+

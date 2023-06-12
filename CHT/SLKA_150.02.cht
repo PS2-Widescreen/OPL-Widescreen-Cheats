@@ -1,0 +1,25 @@
+"Space raiders /ID SLKA_150.02"
+//ELF CRC DD35503C
+Mastercode
+9019C2F8 0C067066
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//abaaaa3e 8988083e d10d5d3d
+//00007040 8988083e d10d5d3d
+20260fe8 40700000 //3eaaaaab
+
+//Y-Fov
+//f53e023c 8fc24234 00008244 (1st)
+//233f023c 0ad74234 00008244
+201d26fc 3c023f23 //3c023ef5
+201d2700 3442d70a //3442c28f
+
+
+

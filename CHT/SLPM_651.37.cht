@@ -1,0 +1,21 @@
+"All-Star Baseball 2003 /ID SLPM_651.37"
+//ELF CRC 1EA52BE1
+Mastercode
+90350608 0C0D412A
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+//Y-fov
+//803f013c 00088144 02631646
+203795a8 3c013fe4 //3c013f80
+
+//Zoom
+//803f013c 00108144 34600046
+2039567c 3c013f40 //3c013f80
+
+
+

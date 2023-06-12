@@ -1,0 +1,28 @@
+"Donald Duck - Rescue Daisakusen!! /ID SLPS_200.70"
+//ELF CRC D0692603
+Mastercode
+902173B8 0C085C94
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//a80000c6 003f023c 00088244
+202731a8 3c023f1d //3c023f00
+
+//Y-Fov
+//c2030146 00888244 06a40046
+202731f8 08030000
+
+200c0000 460103c2
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e7bc2
+200c0010 0809cc7f
+
+
+

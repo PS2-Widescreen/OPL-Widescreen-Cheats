@@ -1,0 +1,25 @@
+"Tiger Woods PGA Tour 2001 /ID SLPS_200.92"
+//ELF CRC F5DB01E6
+Mastercode
+901E3958 0C078DFE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//0000803f 0af67f3f 17d87f3f (1st)
+201ebd98 3faaaaab //3f800000
+
+////////////////////////////////////
+//Zoom
+//201341a0 3c013f40 //3c013f00
+
+//render fix
+//20139a5c 3c013f40 //3c013f00
+
+
+

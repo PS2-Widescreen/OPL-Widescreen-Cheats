@@ -1,0 +1,14 @@
+"Nanobreaker /ID SLPM_658.09"
+//ELF CRC A79B0491
+Mastercode
+901129D0 0C044A1C
+//[Widescreen 16:9]
+
+
+//Widescreen hack
+201041f4 3c013f40
+201041f8 44810000
+20104200 4600c602
+
+
+

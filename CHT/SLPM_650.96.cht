@@ -1,0 +1,20 @@
+"Space Channel 5 - Part 2 /ID SLPM_650.96"
+//ELF CRC = 013AD7DC
+
+Mastercode
+9024D0F8 0C0933E6
+
+
+//[Widescreen 16:9]
+
+//NTSC-J Widescreen Hack by synce
+202e5e54 3f400000
+
+
+//[No-Interlacing]
+description=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+20249ac4 00000000 //64420008
+
+
+

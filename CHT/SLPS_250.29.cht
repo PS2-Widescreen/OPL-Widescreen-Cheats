@@ -1,0 +1,38 @@
+"Rayman Revolution /ID SLPS_250.29"
+//ELF CRC BD9E8B57
+Mastercode
+901C9A88 0C07264A
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hacks by ElHecht & ICUP321
+
+// General Widescreen Fixes
+20190098 4481f000 // 00000000
+2019009c 461e0842 // 00000000
+20118394 461e6303 // 00000000 renderfix calculation
+
+// 16:9
+20190088 3c013f40 // 00000000 hor fov
+
+// 15:9
+//20190088 3c013f50 // 00000000 hor fov
+
+// 16:10
+//20190088 3c013f55 // 00000000 hor fov
+//2019008c 34215555 // 00000000 hor fov
+
+// 21:9
+//20190088 3c013f10 // 00000000 hor fov
+
+// 25:16
+//20190088 3c013f5a // 00000000 hor fov
+//2019008c 3421740e // 00000000 hor fov
+
+// 32:9
+//20190088 3c013ed5 // 00000000 hor fov
+//2019008c 3421c28f // 00000000 hor fov
+
+
+

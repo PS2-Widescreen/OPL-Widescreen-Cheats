@@ -1,0 +1,19 @@
+"Rhapsodia /ID SLPM_661.05"
+//ELF CRC B808413B
+Mastercode
+90390258 0C0E403E
+//[Widescreen 16:9]
+
+
+//Original Widescreen Hack by nemesis2000 (pnach by nemesis2000 )
+
+2037e62c 3c013f40 //hor value
+2037e630 44810000
+2037e638 4600c602
+
+//FMV's fix
+203bb24c 24101E00 //width
+203bb400 24110190 //x-pos
+
+
+

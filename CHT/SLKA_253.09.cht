@@ -1,0 +1,16 @@
+"INDIGO PROPHECY /ID SLKA_253.09"
+//ELF CRC A320AABE
+Mastercode
+903A0F38 0C0E8376
+
+
+//[Widescreen 16:9]
+
+//Widescreen patch (pnach NTSC-J by Arapapa)
+
+2020a7c0 3c013fe3
+2020a7c4 34218e38
+2020a7c8 44810000
+
+
+

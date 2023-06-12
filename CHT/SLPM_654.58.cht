@@ -1,0 +1,28 @@
+"Kurogane no Houkou 2 - Warship Commander /ID SLPM_654.58"
+//ELF CRC EDBA4A98
+Mastercode
+9011A9B8 0C046A16
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//46ab0046 2041013c
+20144e90 080cf494
+
+2033d250 4600ab46
+2033d254 3c013f40
+2033d258 4481f000
+2033d25c 461e6b42
+2033d260 080513a5
+
+//Render fix
+//003f013c 00308144 0c0063c4
+20144c80 3c013f2b //3c013f00
+
+
+

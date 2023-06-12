@@ -1,0 +1,15 @@
+"Madagascar /ID SLES_532.42"
+//ELF CRC D3051E54
+Mastercode
+902FBC60 0C0BEEC0
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack
+//Ported to PAL by Nik1895
+207D1088 3F199999 // 3F9DA591 chaos control fov
+20847E98 3FAAAAAA // 3F800000 main fov
+
+
+

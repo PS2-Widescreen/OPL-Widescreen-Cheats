@@ -1,0 +1,33 @@
+"Kingdom Hearts II /ID SLPM_662.33"
+//ELF CRC 93F8A60B
+Mastercode
+9031AB20 0C0C6A70
+
+
+//[Widescreen 16:9]
+
+//Widescreen patch (pnach NTSC-J by Arapapa)
+
+//Widescreen
+203778e8 43c00000  // 44000000 (zoom)
+203778ec 43e00000  // 43d00000 (optional zoom for cutscenes)
+20377920 3f19999A  // 3F4CCCCC (continue screen proportions)
+2037ec3c 3F19999A  // 3F4CCCCC (character menu proportions)
+203838c0 3F19999A  // 3F4CCCCC (world map cutscene proportions)
+
+//black borders fix (4 times)
+2014ae38 24050000
+2014ae60 24050000
+2014ae88 24050000
+2014aeb8 24050000
+
+//subtitles off
+//2022722c 11e00019
+
+//font fix
+2037adb0 3f400000
+2037adb4 3f400000
+2037adb8 3f400000
+
+
+

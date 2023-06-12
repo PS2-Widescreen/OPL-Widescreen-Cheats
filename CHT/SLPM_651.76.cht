@@ -1,0 +1,18 @@
+"King of Colosseum - Red /ID SLPM_651.76"
+//ELF CRC 0BF26D23
+Mastercode
+90255158 0C0953FE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+201d05d8 3c013f40 //3c013f80 Gameplay
+2021d0f4 3c013f40 //3c013f80 Event
+20231cd0 3c013f40 //3c013f80 Event
+
+
+

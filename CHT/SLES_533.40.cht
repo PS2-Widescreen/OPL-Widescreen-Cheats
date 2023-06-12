@@ -1,0 +1,15 @@
+"Dynasty Warriors 5 /ID SLES_533.40"
+//ELF CRC D9A3B30E
+Mastercode
+90122850 0C0489BC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Machiavel Dhy'v (converted from nemesis2000 ntsc-u)
+20146cc8 3c0243d6
+2018249c 3c023f2b
+20146a14 3c023e40 //cutscenes zoom (fixes Battle of Bai Di Castle - Wu crash)
+
+
+

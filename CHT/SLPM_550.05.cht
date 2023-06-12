@@ -1,0 +1,20 @@
+"Mana Khemia 2 - Ochita Gakuen to Renkinjutsushi Tachi /ID SLPM_550.05"
+//ELF CRC D6E90E33
+Mastercode
+905E5720 0C179570
+//[Widescreen 16:9]
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+//3D scenes
+205e1594 3c013f40 //hor value
+205e1598 44810000
+205e15a0 4600c602
+
+//battle's fix
+20c80d44 44400000 //right side fix
+20c80d4c c4400000 //left side fix
+
+
+

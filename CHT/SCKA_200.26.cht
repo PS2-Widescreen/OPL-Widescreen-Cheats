@@ -1,0 +1,17 @@
+"Gungrave O.D. /ID SCKA_200.26"
+//ELF CRC 4AF3B36E
+Mastercode
+90280A70 0C0A0244
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+// 16:9 (search 00000000 00000000 43ad1346 00000000)
+20286c84 3c013f40 // 00000000 hor fov
+20286c88 44810000 // 00000000
+20286c90 4600c602 // 00000000
+
+
+

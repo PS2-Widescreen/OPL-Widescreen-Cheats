@@ -1,0 +1,32 @@
+"Bully /ID SLPS_258.79"
+//ELF CRC 019CFA48
+Mastercode
+901178D8 0C045DDE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa & El_Patas
+
+//Gameplay 16:9
+
+//Zoom
+20223c0c 3c013f40 //3c013f80
+
+//Y-FOV
+2012449c 3c013fab //00000000
+201244a0 44810000 //00000000
+201244a4 4600a502 //4614a803
+201244a8 4614a803 //00000000
+
+//Load Image
+2020c7b0 3c033f40 //3c033f80
+
+//Size text and map
+2020c7cc 3c033f40 //3c033f80
+
+//Render fix
+201d52b4 3c023fc0 //3c024000
+
+
+

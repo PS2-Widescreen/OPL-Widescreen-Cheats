@@ -1,0 +1,37 @@
+"Get Backers Dakkanoku - Ura Shinjuku Saikyou Battle /ID SLPM_624.76"
+//ELF CRC 50B5FA9F
+Mastercode
+9010DFF8 0C0437A6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack  by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+202a5490 3c033f40 //3c033f80
+
+//Y-Fov
+202a54e0 080e4c88
+
+20393220 46010002
+20393224 3c013faa
+20393228 3421aaab
+2039322c 4481f000
+20393230 461e0002
+20393234 080a9539
+
+//2D Y-Position
+202a54f8 080e4c90
+
+20393240 46010002
+20393244 3c013faa
+20393248 3421aaab
+2039324c 4481f000
+20393250 461e0002
+20393254 080a953f
+
+
+

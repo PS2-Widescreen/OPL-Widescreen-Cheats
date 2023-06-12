@@ -1,0 +1,27 @@
+"Jet de Go! 2 /ID SLPM_651.08"
+//ELF CRC 5968168C
+Mastercode
+9010E068 0C0437C2
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20136a60 3c023f25 //3c023f00
+
+//Y-Fov
+2012e6c0 3c023f1f //3c023eee Ground
+2012e6c4 344249f1 //3442eeed
+
+2012e394 3c023f1f //3c023eee Planes
+2012e398 344249f1 //3442eeed
+
+//Fog distance
+//20161408 3c033e80 //3c033f00
+
+
+

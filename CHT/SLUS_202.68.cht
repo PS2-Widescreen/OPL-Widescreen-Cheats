@@ -1,0 +1,16 @@
+"Star Wars - Racer Revenge /ID SLUS_202.68"
+//ELF CRC A7F6E4C8
+Mastercode
+902F82C0 0C0BE058
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+2013BCA0 3C023F40 //3C023F80 Zoom
+201153B4 3C023FAB //3C023F80 Y-FOV
+
+
+

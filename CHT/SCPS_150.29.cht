@@ -1,0 +1,24 @@
+"Xi [sai] Jumbo /ID SCPS_150.29"
+//ELF CRC 1453B9E9
+Mastercode
+90210CD8 0C0842DE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Gameplay 16:9
+
+201580a8 3c013f40 //3c013f80
+20158130 3c0143e0 //3c0143a0
+201a8b00 3c013f40 //3c013f80
+201a8b18 3c0143e0 //3c0143a0
+
+//803f013c 00a08144 f000a426
+//a043013c 00888144 c66c0046 3rd
+//803f013c 00108144 d0ffbd27
+//a043013c 00888144 46130046
+
+
+

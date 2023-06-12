@@ -1,0 +1,19 @@
+"Naruto Uzumaki Ninden /ID SLPS_255.42"
+//ELF CRC 55935B0E
+Mastercode
+9010B678 0C042D46
+
+
+//[Widescreen 16:9]
+
+// Widescreen Hack (16:9)
+
+// 16:9
+// 613f023c af474234 (search twice)
+201ed2d8 3c023f28 //3c023f61
+201ed2dc 3442f5c3 //344247af
+201ed970 3c023f28 //3c023f61
+201ed974 3442f5c3 //344247af
+
+
+

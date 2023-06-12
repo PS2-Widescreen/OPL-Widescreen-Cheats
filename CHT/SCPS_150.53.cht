@@ -1,0 +1,17 @@
+"Siren /ID SCPS_150.53"
+//ELF CRC FDDE7528
+Mastercode
+901126F0 0C044964
+//[Widescreen 16:9]
+
+
+//Widescreen hack
+//gameplay by sergx12
+201fb3b8 3c023f40
+
+//FMV's fix by nemesis2000
+201f5598 3c027560
+201f55e4 34028aa0
+
+
+

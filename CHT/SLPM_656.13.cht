@@ -1,0 +1,24 @@
+"Yu-Gi-Oh! Capsule Monster Coliseum /ID SLPM_656.13"
+//ELF CRC B91DC726
+Mastercode
+90285278 0C0A1446
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov (Only Battlefields)
+201db054 3c023faa //3c023f80
+201db058 3442aaab //44820000
+201db05c 44820000 //00000000
+
+//2D fix
+//00 00 80 BF 00 00 80 3F 00 00 80 BF 00 00 80 3F 00 00 80 3F
+20976650 bf400000 //bf800000
+20976660 3f400000 //3f800000
+
+
+

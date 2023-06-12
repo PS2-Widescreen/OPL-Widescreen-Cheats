@@ -1,0 +1,22 @@
+"Golful Golf /ID SLPS_250.32"
+//ELF CRC C8BACD69
+Mastercode
+901DBD18 0C076EEE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f013c 00688144 ec9380c7
+20193708 3c013f40 //3c013f80
+
+//Render fix
+//00002044 0000f043 00008041
+2041e5e0 44500000 //44200000
+
+
+

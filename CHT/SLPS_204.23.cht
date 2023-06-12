@@ -1,0 +1,44 @@
+"LEGO Star Wars - The Video Game /ID SLPS_204.23"
+//ELF CRC 7BE628C2
+Mastercode
+90309550 0C0C24FC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+//Zoom
+2010c2ac 3c013fab //3c013f80
+
+//Y-Fov
+2011b508 3c013f10 //3c013f40
+
+
+//////////////////////////////////////////////////////
+//Entire Zoom Need render fix
+//2011b5e8 3c013f20 //3c013f80
+//20167544 3c013ec0 //3c013f00
+//Entire Zoom
+//2010c2ac 3c013fab //3c013f80
+//2010cba0 3c013f40 //3c013f80
+//2010cc2c 3c013f40 //3c013f80
+//2010d04c 3c013f40 //3c013f80
+
+//xxxxxxxx
+//20119f70 3c013f40 //3c013f80
+//2011a0d0 3c013f40 //3c013f80
+//2011a21c 3c013f40 //3c013f80
+//2014d7e4 3c013f40 //3c013f80
+//201675b0 3c013f40 //3c013f80
+//201fa378 3c013f40 //3c013f80
+//201fb334 3c013f40 //3c013f80
+//202257fc 3c013f40 //3c013f80
+//upper status despeare
+//20226a44 3c013f81 //3c013f80
+
+
+

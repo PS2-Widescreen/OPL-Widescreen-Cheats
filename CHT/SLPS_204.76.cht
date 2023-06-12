@@ -1,0 +1,23 @@
+"Simple 2000 Series Vol.108 - The Nippon Tokushubutai /ID SLPS_204.76"
+//ELF CRC 715D9DD3
+Mastercode
+90112490 0C0448CC
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f043c 7f4b023c
+patch=1,EE,001996a0`,word,3c043f40 //3c043f80
+
+//Zoom
+//323f043c 6c0745ac c3b88234  3F6E4BA9
+//2013f828 3c043f6e //3c043f32
+//2013f830 34824ba9 //3482b8c3
+
+
+

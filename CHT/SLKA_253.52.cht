@@ -1,0 +1,22 @@
+"Full Metal Alchemist - Dream Carnival /ID SLKA_253.52"
+//ELF CRC 3EDAB3F6
+Mastercode
+902A7558 0C0A9CFE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+201a4828 3c013c3e //3c013c0e
+201a482c 3421a4ec //3421fa36
+
+//Y-Fov
+201a4870 3c013f65 //3c013f98
+201a4874 342140ee //3421d5f9
+
+
+

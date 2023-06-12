@@ -1,0 +1,51 @@
+"Vampire Night /ID SLPS_250.77"
+//ELF CRC A4C84DE7
+Mastercode
+90156198 0C05580E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by ElHecht(NTSC-J by Arapapa)
+
+// 16:9
+//00000000 4900023c 20544224
+202123f8 3c013f40 // 00000000 hor fov
+
+
+// cut-scenes black bar removal
+2044033c 00088344 28868070
+201ffcd8 3c030000 // 3c034420 remove black bars in cut-scenes
+
+// 16:9 and 16:10 main modfication
+// no need to change anything here! all modifications are calculated
+// based on the hor fov value in the upper 16:9/16:10 section
+//00000000 3c240200 (1st)
+20212438 4481f000 // 00000000 register preparation
+
+20212450 46001003 // 00000000 register preparation
+20212454 461e0742 // 46001003 register preparation
+20212468 461e0703 // 44820000 register preparation
+2021246c 44820000 // 00000000 register preparation
+
+202123b0 3c023fb6 // 00000000 hor fov1
+202123b8 3444db6e // 3c023fb6 hor fov1
+202123bc 44846000 // 3444db6e hor fov1
+202123d8 461e6303 // 44846000 hor fov1
+2021252c 3c023fb6 // 00000000 hor fov2
+20212534 3444db6e // 3c023fb6 hor fov2
+20212538 44846000 // 3444db6e hor fov2
+20212554 461e6303 // 44846000 hor fov2
+20212cac 461e0843 // 00000000 renderfix
+
+
+20200954 4601e042 // 46012842 crosshair/aiming fix main menu
+2020d604 461d0803 // 46000803 crosshair/aiming fix gameplay
+201aede8 3c083f80 // 00000000 crosshair/aiming fix unit vector
+201aedec 44882000 // 3c083f80 crosshair/aiming fix unit vector
+201aedf0 46002103 // 44882000 crosshair/aiming fix unit vector
+201aedf4 461e26c3 // 46002103 crosshair/aiming fix unit vector
+201aedf8 461b0842 // 46040842 crosshair/aiming fix unit vector
+
+
+

@@ -1,0 +1,23 @@
+"Enthusia Professional Racing /ID SLPM_659.48"
+//ELF CRC 5637E95B
+Mastercode
+90311A18 0C0C462E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by No.47
+
+//Widescreen hack 16:9
+
+20388D88 3F400000
+
+
+//[No-Interlacing]
+description=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+20133654 34060001
+203890c0 00009450
+
+
+

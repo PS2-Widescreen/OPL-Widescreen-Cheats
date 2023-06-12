@@ -1,0 +1,17 @@
+"Kikou Heiden - J-Pheonix /ID SLPM_650.33"
+//ELF CRC 01151ACC
+Mastercode
+901EB8D8 0C07ADDE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+// 16:9 (search 00000000 00000000 43ad1346 00000000)
+201f269c 3c013f40 // 00000000 hor fov
+201f26a0 44810000 // 00000000
+201f26a8 4600c602 // 00000000
+
+
+

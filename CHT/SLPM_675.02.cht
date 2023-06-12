@@ -1,0 +1,60 @@
+"Devil May Cry (Korea) /ID SLPM_675.02"
+//ELF CRC C0E5F643
+Mastercode
+902034D8 0C080CDE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (pnach NTSC-K by Arapapa)
+//NTSC-K is a little diffrent to NTSC-U
+//NOTICE... After you run the new game, rectangle appears in the upper-left of the screen.
+//NOTICE... Entering the options menu, it does not go out after.
+
+//gameplay
+2014d2c8 3c023f19
+2014d2cc 3448999a
+
+//render fix
+2024ea44 0c040b90
+2024ea48 00000000
+2024ea4c 4615a800
+2024ea50 3c0342a0
+
+2024ea54 3c010075
+2024ea58 8c241040 // NTSC-U 8c242ec0
+2024ea5c 44830800
+2024ea60 3c024220
+
+2024ea64 46000803
+2024ea68 3c033f00 //vert rfix
+2024ea6c 44822000
+2024ea70 44831800
+
+2024ea74 3c033f30 //hor rfix
+2024ea78 46030042
+2024ea7c e4810024
+2024ea80 44830800
+
+2024ea84 46010042
+2024ea88 4604a0c0
+2024ea8c 8c221040 // NTSC-U 8c222ec0
+2024ea90 4604a081
+
+2024ea94 e4810010
+2024ea98 3c02c000
+2024ea9c 44820800
+2024eaa0 3c033f80
+
+2024eaa4 4604a002
+2024eaa8 8c221040 // NTSC-U 8c222ec0
+2024eaac 46000802
+2024eab0 46021843
+
+2024eab4 e4410038
+2024eab8 8c221040 // NTSC-U 8c222ec0
+2024eabc 46020003
+2024eac0 e4400048
+
+
+

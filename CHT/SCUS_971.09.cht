@@ -1,0 +1,24 @@
+"NCAA Final Four 2001 /ID SCUS_971.09"
+//ELF CRC 88889BAA
+Mastercode
+901EDD58 0C07B6FC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//000000e6 4000bfdf 3000b0df
+201d3e60 08030000
+
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e0002
+200c0010 e6000000
+200c0014 08074f99
+
+
+

@@ -1,0 +1,18 @@
+"DragonBall Z - Budokai 2 V /ID SLPM_685.13"
+//ELF CRC C410973D
+Mastercode
+9010C2F0 0C043064
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+2012eb0c 3c013f40 //00000000
+2012eb10 4481f000 //00000000
+2012e9dc 461ead42 //00000000
+
+
+

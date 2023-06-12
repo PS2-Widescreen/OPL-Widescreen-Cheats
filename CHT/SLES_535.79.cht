@@ -1,0 +1,18 @@
+"One Piece - Grand Battle /ID SLES_535.79"
+//ELF CRC E1674F57
+Mastercode
+901B2510 0C06C8EC
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by ElHecht
+
+// 16:9
+20429590 3f366666 // 3f733333 hor fov
+
+// 16:10
+//20429590 3f4aaaab // 3f733333 hor fov
+
+
+

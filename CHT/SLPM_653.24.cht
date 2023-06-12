@@ -1,0 +1,42 @@
+"Gregory Horror Show - Soul Collector /ID SLPM_653.24"
+//ELF CRC 992C9F92
+Mastercode
+9010D9B8 0C043616
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+20165280 3c033f40 //3c033f80
+
+//2D X-fov
+201651f0 3c023f40 //3c023f80
+
+//Font zoom
+202540f0 3c034240 //3c034280
+2025411c 3c034240 //3c034280
+
+//Font Y-Fov #1
+2025410c 080b36b5 //46006346
+
+202cdad4 3c013fab //00000000
+202cdad8 4481f000 //00000000
+202cdadc 461e6342 //00000000
+202cdae0 08095044 //00000000
+
+//Font Y-Fov #2
+20254130 080b36b0 //46006346
+
+202cdac0 3c013fab //00000000
+202cdac4 4481f000 //00000000
+202cdac8 461e6342 //00000000
+202cdacc 0809504d //00000000
+
+//No interlacing by asasega
+//2010210C 00000000
+
+
+

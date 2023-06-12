@@ -1,0 +1,24 @@
+"F1 Racing Championship /ID SLPS_200.42"
+//ELF CRC 32F1FA12
+Mastercode
+90241618 0C09052E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+202a0b44 3F23645A //3f59db23
+202a0b58 3EFD70A4 //3f28f5c3
+202a0b6c 3F0BC6A8 //3f3a5e35
+202a0b80 3F1624DD //3f483127
+
+//Y-Fov
+203da410 3F9F49E9 //3f6eeeef
+203da414 3F9F49E9 //3f6eeeef
+
+
+

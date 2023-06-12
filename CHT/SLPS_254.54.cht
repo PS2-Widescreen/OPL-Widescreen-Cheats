@@ -1,0 +1,17 @@
+"Daisenryaku VII Exceed /ID SLPS_254.54"
+//ELF CRC 491AEEF6
+Mastercode
+901105F0 0C044124
+//[Widescreen 16:9]
+
+
+//Widescreen Hack
+
+//gameplay
+20139584 3c023f19
+20139588 3443999a
+//render fix
+201397ec 3c0443d6
+
+
+

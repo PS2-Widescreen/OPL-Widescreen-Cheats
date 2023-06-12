@@ -1,0 +1,25 @@
+"Shinki Genso - Spectral Souls /ID SLPM_653.91"
+//ELF CRC CEBA4A74
+Mastercode
+9010E178 0C043806
+
+
+//[Widescreen 16:9]
+
+// Widescreen Hack (16:9) by Arapapa
+
+// 16:9
+
+//X-Fov
+20128cb4 3c033f19 //3c033f4c
+20128cb8 3463999a //3463cccd
+
+//Render fix
+20128cd4 3c0343f7 //3c0343b9
+
+//Font X-Size
+//2012bd4c 3c024130 //3c024160
+//2012bd94 3c024130 //3c024160
+
+
+

@@ -1,0 +1,25 @@
+"City Crisis /ID SLPS_201.01"
+//ELF CRC 05E1287B
+Mastercode
+90211388 0C08448A
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//333f023c 33334234 00608244 aa3f023c abaa4234
+//6e3f023c e9ee4234 00608244 e33f023c 2a8e4234
+202329f8 3c023f6e //3c023f33
+202329fc 3442eee9 //34423333
+20232a04 3c023fe3 //3c023faa
+20232a08 34428e2a //3442aaab
+203dc2b8 3c023f6e //3c023f33
+203dc2bc 3442eee9 //34423333
+203dc2c4 3c023fe3 //3c023faa
+203dc2c8 34428e2a //3442aaab
+
+
+

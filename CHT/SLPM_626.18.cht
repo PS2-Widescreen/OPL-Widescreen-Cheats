@@ -1,0 +1,19 @@
+"Simple 2000 Series Vol.78 - The Uchuu Daisensou /ID SLPM_626.18"
+//ELF CRC C89A66A4
+Mastercode
+9020F418 0C083CAE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//00002044 00006043 0000a043
+//00405544 00006043 00001044
+2033d8f0 44554000 //44200000 X-Fov
+2033d8f8 44100000 //43a00000 Render Fix
+
+
+

@@ -1,0 +1,20 @@
+"Underwater Unit /ID SLPS_201.94"
+//ELF CRC CB70C610
+Mastercode
+90209F20 0C082770
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20100a14 3c0143d5 //3c0143a0
+
+//Render Fix
+201f20e8 3c01c060 //3c01c000
+
+
+

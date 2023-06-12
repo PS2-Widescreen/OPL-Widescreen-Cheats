@@ -1,0 +1,29 @@
+"Backyard Wrestling - Dont Try This at Home /ID SLPS_253.41"
+//ELF CRC B1DD47DA
+Mastercode
+90376D98 0C0DDB0E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+202c3750 3c013fcc//3c013f99
+202c3754 3421ccc4 //3421999a
+
+//Zoom (need render fix)
+202c3734 3c014456 //3c014420
+//202c3144 3c013fab //3c013f80
+
+//Gameplay Zoom (except event, needless render fix)
+//202c36b8 3c014387 //3c0143b4
+
+//Render Fix
+//1644013c 00608144 a000043c
+202b3204 3c014480 //3c014416
+
+
+

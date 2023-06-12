@@ -1,0 +1,21 @@
+"InuYasha - Ougi Ranbu /ID SLPS_255.18"
+//ELF CRC 2B8DB1A5
+Mastercode
+902FFD58 0C0BFEFE
+//[Widescreen 16:9]
+
+
+//Widescreen hack by Little Giant
+
+//16:9
+2011ff90 3c013fdc //3c013fa5 hor 1
+2011ff94 34211ade //34211eb8
+
+20121a88 3c013fdc //3c013fa5 hor 2
+20121a8c 34211ade //34211eb8
+
+20122498 3c013fdc //3c013fa5 hor 3
+2012249c 34211ade //34211eb8
+
+
+

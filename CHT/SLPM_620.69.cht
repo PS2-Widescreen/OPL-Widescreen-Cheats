@@ -1,0 +1,26 @@
+"All-Star Baseball 2002 /ID SLPM_620.69"
+//ELF CRC 284C23D4
+Mastercode
+902D5DE8 0C0B5722
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+//Y-fov
+//803f013c 00088144 02631646
+20264a50 3c013fe4 //3c013f80
+
+//Zoom
+//803f013c 00108144 34600046
+20268b8c 3c013f40 //3c013f80
+
+///////////////////////////////////////////////
+//X-fov (Needs render fix)
+//803f013c 00108144 4000a227
+//20264a64 3c013f40 //3c013f80
+
+
+

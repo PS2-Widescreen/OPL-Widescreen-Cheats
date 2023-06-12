@@ -1,0 +1,25 @@
+"Stuntman - Ignition /ID SLPM_669.10"
+//ELF CRC 93BB2306
+Mastercode
+9010A2D0 0C04285C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//403f023c 00688244 40cc0b0c
+202aa3d4 3c023f10 //3c023f40
+//204f3bb0 3f400000 //3f800000
+//2033f3b8 3c0c3f40 //3c0c3f80
+//202f3114 3c023f2a //3c023f00
+
+
+//Y-Fov
+205BA8C0 3F252945 //3f5c370f //Memory Hack. but able to ISO patch.
+
+
+

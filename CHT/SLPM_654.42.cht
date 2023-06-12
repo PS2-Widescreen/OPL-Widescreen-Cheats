@@ -1,0 +1,32 @@
+"Terminator 3, The - Rise of the Machines /ID SLPM_654.42"
+//ELF CRC AAF10C7F
+Mastercode
+902F4EE8 0C0BD362
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//46a30046 c6c30046 06bc0046
+2026d0f0 080cb358
+2032cd60 4600a346
+2032cd64 3c013f40
+2032cd68 4481f000
+2032cd6c 461e6b42
+2032cd70 0809b43d
+
+//Target Focus (X-Fov)
+//000084e4 280080ac
+20286b4c 080cb348
+2032cd20 3c013f40
+2032cd24 4481f000
+2032cd28 461e2102
+2032cd2c e4840000
+2032cd30 080a1ad4
+
+
+

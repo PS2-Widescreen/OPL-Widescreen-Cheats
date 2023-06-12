@@ -1,0 +1,20 @@
+"Richard Burns Rally /ID SLPM_660.68"
+//ELF CRC 3311A6F3
+Mastercode
+90340D10 0C0D02EC
+
+
+//[Widescreen 16:9]
+
+//Widescreen patch by nemesis2000 (NTSC-J by Arapapa)
+//Search values are different than PAL
+
+//8043013c 00d88144 40371de6
+201130e0 3c014340 //3c014380
+
+//953f013c 56552134 00f08144
+20113094 3C013FC7 //3c013f95
+20113098 3421C71C //34215556
+
+
+

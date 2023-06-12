@@ -1,0 +1,27 @@
+"Riding Spirits 2 /ID SLPM_654.27"
+//ELF CRC 005B2002
+Mastercode
+9020CFF8 0C0833A6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f013c 00688144 8c8493c7
+2017f080 3c013f40 //3c013f80
+
+//Y-Fov fix (When Wide option is turnned on)
+//f4491f3f eeeeee3e 00e0eb44
+//eeeeee3e eeeeee3e 00e0eb44
+20284f34 3eeeeeee //3F1F49F4
+//20284f38 3F1F49F4 //3eeeeeee
+
+//Zoom
+//2017f078 3c0143B4 //3c0143f0
+
+
+

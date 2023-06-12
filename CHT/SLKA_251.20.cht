@@ -1,0 +1,15 @@
+"Prince of Persia - The Sands of Time /ID SLKA_251.20"
+//ELF CRC 41C47E63
+Mastercode
+9010B318 0C042C6E
+
+
+//[Widescreen 16:9]
+
+//widescreen 16:9 (NTSC-K) hack by 99skull
+//credit goes to nemesis2000
+204B536C 3C023F10 //3C023F40
+204B53C4 3C02402B //3C024000
+
+
+

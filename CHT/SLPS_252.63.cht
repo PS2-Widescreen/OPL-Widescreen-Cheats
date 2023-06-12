@@ -1,0 +1,18 @@
+"Monster Farm 4 /ID SLPS_252.63"
+//ELF CRC B282D5FD
+Mastercode
+902F40F8 0C0BCFE6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Little Gaint
+
+202ebf74 3c013f40 //00000000 hor
+202ebf78 44810000 //00000000
+202ebf80 4600c602 //00000000
+
+208C5DE4 43E00000 //43A00000 render fix
+
+
+

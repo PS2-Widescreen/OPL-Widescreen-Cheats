@@ -1,0 +1,22 @@
+"Phantom Kingdom /ID SLPS_204.10"
+//ELF CRC BE3F85FF
+Mastercode
+90108C70 0C0422C4
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Gameplay 16:9
+
+201058d4 3c013f40 //00000000
+201058d8 44810000 //00000000
+201058e0 4600c602 //00000000
+
+//2D Characters X-Fov
+//803f023c 00608244 00688044
+2014fafc 3c023f40 //3c023f80
+
+
+

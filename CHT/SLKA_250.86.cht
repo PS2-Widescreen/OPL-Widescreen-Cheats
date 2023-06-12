@@ -1,0 +1,24 @@
+"NBA Live 2004 /ID SLKA_250.86"
+//ELF CRC 3E26A38A
+Mastercode
+90336048 0C0CD7BA
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Gameplay 16:9
+
+//Y-Fov
+//aa3f013c abaa2134 00688144 700014e6
+//e33f013c 2a8e2134 00688144 700014e6
+2011789c 3c013fe3 //3c013faa
+201178a0 34218e2a //3421aaab
+
+//Zoom
+//803f013c 00108144 1000a0c7
+2011854c 3c013fab //3c013f80
+
+
+

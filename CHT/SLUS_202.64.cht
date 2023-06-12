@@ -1,0 +1,28 @@
+"F1 2001 /ID SLUS_202.64"
+//ELF CRC 2870C248
+Mastercode
+90133E18 0C04CF2E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f013c 00188144 2a09c14b
+20214cf4 3c013f40 //3c013f80
+
+/////////////////////////////////////////////
+//[patches = 2870C248]
+
+//	comment=Patch by Shadow Lady.
+
+//	//IPU dma fix
+//	203b8580 00000000
+
+//[/patches]
+
+
+

@@ -1,0 +1,23 @@
+"Tony Hawks Pro Skater 3 /ID SLPM_651.90"
+//ELF CRC 6DDBE5E5
+Mastercode
+902A1168 0C0A8402
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by BloodRaynare
+
+2017c760 3c013ff3 //3c013fb6
+2017c764 3421cf00 //3421db40
+2017e6d8 3c013ff3 //3c013fb6
+2017e6dc 3421cf00 //3421db40
+201f78e4 3c013ff3 //3c013fb6
+201f78e8 3421cf00 //3421db40
+201fcb70 3c013ff3 //3c013fb6
+201fcb74 3421cf00 //3421db40
+201fd00c 3c013ff3 //3c013fb6
+201fd010 3421cf00 //3421db40
+
+
+

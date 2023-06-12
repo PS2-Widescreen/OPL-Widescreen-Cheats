@@ -1,0 +1,22 @@
+"Kyoushuu Kidou Butai - Kougeki Helicopter Senki /ID SLPM_625.38"
+//ELF CRC DE7626D9
+Mastercode
+9010F578 0C043D06
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Gameplay 16:9
+
+20104404 3c013f40 //00000000
+20104408 44810000 //00000000
+20104410 4600c602 //00000000
+
+//Render Fix
+//003f023c 00088244 42a51446
+201613d0 3c023f30 //3c023f00
+
+
+

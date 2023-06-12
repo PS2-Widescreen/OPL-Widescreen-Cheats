@@ -1,0 +1,25 @@
+"Nichibeikan Pro Yakyuu - Final League /ID SLPS_251.01"
+//ELF CRC 913CF83B
+Mastercode
+90105210 0C04142C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20124c64 0806948c
+201a5230 46001003
+201a5234 3c123f40
+201a5238 4492f000
+201a523c 461e0002
+201a5240 0804931a
+
+//Render fix
+2013e618 3c023f2b //3c023f00
+
+
+

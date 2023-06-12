@@ -1,0 +1,18 @@
+"Yoake no Mariko [with Microphone] /ID SCPS_110.10"
+//ELF CRC 118373E0
+Mastercode
+9010EBF8 0C043AA6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+20103b3c 3c013f40 //00000000
+20103b40 44810000 //00000000
+20103b48 4600c602 //00000000
+
+
+

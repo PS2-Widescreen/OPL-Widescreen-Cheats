@@ -1,0 +1,25 @@
+"Twin Caliber /ID SLKA_250.06"
+//ELF CRC 5208AE89
+Mastercode
+90108C38 0C0422B6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen 16:9
+
+//X-Fov
+//900044ac 4c00a28f
+201c0ba0 080da548 //ac440090
+
+20369520 3c013f40 //00000000
+20369524 ac410090 //00000000
+20369528 080702e9 //00000000
+
+//Gore Level High (NTSC-K cannot select gore level)
+206e1094 00000000
+
+
+

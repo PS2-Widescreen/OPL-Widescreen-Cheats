@@ -1,0 +1,21 @@
+"Kinnikuman Generations /ID SLPS_203.69"
+//ELF CRC 823A7E69
+Mastercode
+90299BF8 0C0A66A6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//403f013c 00888144 02b30c46
+201876e4 3c013f10 //3c013f40 Game play
+
+//403f013c 00888144 03840146
+2018ba7c 3c013f10 //3c013f40 Event
+
+
+

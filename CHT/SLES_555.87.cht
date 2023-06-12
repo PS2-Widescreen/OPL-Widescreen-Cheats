@@ -1,0 +1,17 @@
+"Pro Evolution Soccer 2010 /ID SLES_555.87"
+Mastercode
+901086D0 0C04215C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+203BB6B0 3FAAAAAB //3F800000 (Increases hor. axis)
+
+//Render fix
+20125DAC 3C053FAB //3C053F80 (Increases hor. render area)
+
+
+

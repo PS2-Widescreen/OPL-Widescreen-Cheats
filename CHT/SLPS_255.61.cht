@@ -1,0 +1,29 @@
+"MotoGP 4 /ID SLPS_255.61"
+//ELF CRC 558F078E
+Mastercode
+902B0758 0C0AC17E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov Game play
+//0000803f 5304c23f
+2055f24c 3f400000 //3f80000
+
+//Render fix
+205614c8 43000000 //43a00000 Gameplay
+205593b0 43000000 //43a00000 Result background
+2058e608 40100000 //3f9c28f6 NPC player
+20593330 43000000 //43a00000 Ground object
+
+////////////////////////
+//2D menu
+//2051a8c0 3f400000 //3f800000
+//2051a8d4 3f400000 //3f800000
+
+
+

@@ -1,0 +1,23 @@
+"Brother in Arms - Road to Hill 30 /ID SLPM_660.42"
+//ELF CRC 1CF4E2B3
+Mastercode
+9012ED70 0C04BB04
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by nemesis2000 (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+20305a3c 3c023f40 //3c023f80
+
+203e593c 3c033f40 //3c033f80
+203e5944 3c033f80 //44830800
+203e5948 44830800 //ae630108
+203e594c ae630108 //c6600104
+203e5950 c6600104 //46010036
+203e5954 46010036 //00000000
+
+
+

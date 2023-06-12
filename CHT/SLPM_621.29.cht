@@ -1,0 +1,28 @@
+"Climax Tennis - WTA Tour Edition /ID SLPM_621.29"
+//ELF CRC 4874A937
+Mastercode
+9023FE40 0C08FF38
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+20222404 3c013f40 //00000000
+20222408 44810000 //00000000
+20222410 4600c602 //00000000
+
+//Render fix
+201ebd3c 3c033fab //3c033f80
+201ebe00 3c033fab //3c033f80
+
+//////////
+
+//Zoom
+//20173760 3c043ec0 //3c043f00
+//202a7f94 40500000 //3fd55555
+
+
+

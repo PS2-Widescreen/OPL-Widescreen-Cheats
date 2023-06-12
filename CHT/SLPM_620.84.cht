@@ -1,0 +1,23 @@
+"ESPN X-Games Skateboarding /ID SLPM_620.84"
+//ELF CRC 33A198C1
+Mastercode
+9011C4D8 0C0470DE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix Hack
+20102d5c 3c013f40 //00000000
+20102d60 44810000 //00000000
+20102d68 4600c602 //00000000
+
+//Render Fix
+//803f013c 00008144 2d20a003
+20102d80 3c013f40 //3c013f80
+
+
+

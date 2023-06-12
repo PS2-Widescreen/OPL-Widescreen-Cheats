@@ -1,0 +1,23 @@
+"Gallop Racer Inbreed /ID SLPS_257.01"
+//ELF CRC EFFEF138
+Mastercode
+90146E90 0C051B4C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack  by Arapapa
+
+//Widescreen hack 16:9
+
+e0023f80 0012ba00
+2012ba00 3c013f40 //3c013f80
+2012bbd8 3c0142d0 //3c014248
+
+e0033f80 00134478
+20134478 3c013f40 //3c013f80
+20134b08 3c013f40 //3c013f80
+201348a0 3c0142d0 //3c014248
+
+
+

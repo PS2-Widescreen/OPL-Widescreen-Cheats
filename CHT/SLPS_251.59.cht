@@ -1,0 +1,22 @@
+"Technic Beat /ID SLPS_251.59"
+//ELF CRC C0F2492E
+Mastercode
+90108838 0C0421B6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+//7a44023c 00608244 f03e023c d7a34234 -> 3b44023c 00608244 203f023c 2f6d4234
+202156c4 3c023f20 //3c023ef0
+202156c8 34426d2f //3442a3d7
+
+//Zoom
+202156bc 3c02443b //3c02447a
+
+
+

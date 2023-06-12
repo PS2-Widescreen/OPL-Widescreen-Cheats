@@ -1,0 +1,20 @@
+"Dokodemo Issyo - Toro to Ippai /ID SCPS_150.81"
+//ELF CRC 9F0248CB
+Mastercode
+901DF350 0C077C7C
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov (4th)
+//It's a Memory Hack. but ISO patch is possible
+//00004040 00000000 00000000 00000000 01000000
+//00004040 00000000 0000403f 00000000 01000000
+205C3CF0 3F400000 //00000000
+
+
+

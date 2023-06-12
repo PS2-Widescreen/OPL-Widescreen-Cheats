@@ -1,0 +1,26 @@
+"Project FIFA World Cup /ID SLPS_251.10"
+//ELF CRC 4471743C
+Mastercode
+9010C850 0C0431BC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20132070 3c053f40 //3c053f80
+
+//Render fix
+201320d8 08044a28
+
+201128a0 46020842
+201128a4 3c153ff0
+201128a8 4495f000
+201128ac 461e0842
+201128b0 0804c837
+
+
+

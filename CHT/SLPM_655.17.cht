@@ -1,0 +1,30 @@
+"Sengoku Musou /ID SLPM_655.17"
+//ELF CRC 19487E13
+Mastercode
+90113D50 0C044EFC
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (16:9) by ElHecht (NTSC-K by Arapapa)
+
+// 16:9
+
+//6043023c 2d200002
+2013ffb8 3c024328 // 3c024360 zoom
+
+//1885838f 0800e003 bc026de4
+201401a8 3c013f40 // 8f838520 ver fov
+201401ac 4481f000 // 03e00008
+201401b0 461e6b43 // e46d02bc
+201401b4 03e00008 // 00000000
+201401b8 e46d02bc // 00000000
+
+
+//[No-Interlacing]
+description=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+2013DFD8 AF808508
+
+
+

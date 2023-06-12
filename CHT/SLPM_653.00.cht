@@ -1,0 +1,19 @@
+"All-Star Pro Wrestling 3 /ID SLPM_653.00"
+//ELF CRC 48C1A5F1
+Mastercode
+90327160 0C0C9C00
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix Hack
+2031e10c 3c013f40 //00000000
+2031e110 44810000 //00000000
+2031e118 4600c602 //00000000
+
+
+

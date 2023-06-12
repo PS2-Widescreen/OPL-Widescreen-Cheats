@@ -1,0 +1,28 @@
+"Armored Core - Nine Breaker /ID SLPS_254.08"
+//ELF CRC 5C4E1AC4
+Mastercode
+90122FB8 0C048B96
+//[Widescreen 16:9]
+
+
+//Widescreen hack by ElHecht
+
+// 16:9
+20139fac 3c013f40 // 00000000 hor fov menu
+20139fb8 44810000 // 00000000
+20139fbc 4600c602 // 00000000
+20171790 3c033f19 // 3c033f4c hor fov gameplay
+20171798 3462999a // 3462cccd hor fov gameplay
+201a78c0 3c0243d6 // 3c0243a0 renderfix
+
+// 16:10
+//20139fac 3c013f55 // 00000000 hor fov menu
+//20139fb0 34215555 // 00000000 hor fov menu
+//20139fb8 44810000 // 00000000
+//20139fbc 4600c602 // 00000000
+//20171790 3c033f2a // 3c033f4c hor fov gameplay
+//20171798 3462aaab // 3462cccd hor fov gameplay
+//201a78c0 3c0243c1 // 3c0243a0 renderfix
+
+
+

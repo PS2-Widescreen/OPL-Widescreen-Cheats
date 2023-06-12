@@ -1,0 +1,18 @@
+"Shinseiki Yuusha Taisen /ID SLPM_658.21"
+//ELF CRC 4EC707A6
+Mastercode
+9010E338 0C043876
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+2017A6C0 3C023F40 //3C023F80 (Increases hor. axis)
+
+//Render fix
+2017C954 3C033FAB //3C033F80
+
+
+

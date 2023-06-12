@@ -1,0 +1,18 @@
+"Project Altered Beast /ID SLPM_657.96"
+//ELF CRC BDF85A3C
+Mastercode
+901455D0 0C05151C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack  (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+20156be0 3c033fe3 //3c033faa
+20156be8 34648e38 //3464aaab
+205d0210 3c033f20 //3c033f00
+
+
+

@@ -1,0 +1,18 @@
+"Fahrenheit /ID SLPM_661.93"
+//ELF CRC 25064744
+Mastercode
+903A3B78 0C0E8E86
+
+
+//[Widescreen 16:9]
+
+//Widescreen patch (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+//aa3f013c abaa2134 00008144
+2020b388 3c013fe3 //3c013faa
+2020b38c 34218e38 //3421aaab
+
+
+

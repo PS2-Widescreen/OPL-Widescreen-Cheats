@@ -1,0 +1,73 @@
+"Hudson Selection Vol.1 - Cubic Lode Runner /ID SLPM_624.04"
+//ELF CRC 9C8853EB
+Mastercode
+90175520 0C05D4F0
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by gamemasterplc
+
+20110F40 3C013F40 //Hor Value (0.75)
+2010ACC8 08042B9F //Jump to Bitmap Scaling Code
+2010ACCC C66500E0 //Load Bitmap Scale (Delay Slot)
+2010AE7C 3C1B3F40 //Load Bitmap Scale Multiplier (0.75)
+2010AE80 449BC000 //Load Bitmap Scale Multiplier into f24
+2010AE84 46182942 //Multiply Bitmap Scale by Multiplier
+2010AE88 08042B34 //Jump to Original Code
+2010AE8C 46040001 //Original Instruction (Delay Slot)
+2010AE5C 3C1B3F40 //Load Image Pos Multiplier
+2010AE60 449BA800 //Load Image Pos Multiplier into f21
+2010AE64 C66000F4 //Load Image Pos
+2010AE68 46150002 //Multiply Image Pos by Multiplier
+2010AE6C 3C1B42A0 //Load Image Pos Correction Factor (80.0)
+2010AE70 449BA800 //Load Image Pos Correction Factor into f21
+2010AE74 08042C04 //Jump to Original Code
+2010AE78 46150000 //Add Image Pos Correction Factor to Image Pos
+20129ACC 3C01440E //Gold Count X Pos (568.0)
+201298C8 3C01C26A //Score X Pos (-58.5)
+20129C2C 3C01C26A //Record X Pos (-58.5)
+20129E04 3C01C26A //High Score X Pos (-58.5)
+201299BC 3C014408 //Timer X Pos (544.0)
+2013647C 3C01440C //Block Count X Pos (560.0)
+201A3268 42D55555 //BG Scale (106.6)
+201D6F84 44EC8000 //Edited Level Preview Pos (Edit)
+201D6F58 44EC8000 //Edited Level Preview Pos (Play)
+2012BAFC 08042BA4 //Jump to BG Offset Code
+2012BB00 3C05C2D5 //BG X Offset (-106.6) (Delay Slot) (Play)
+2010AE90 44856000 //Load BG X Offset into f12
+2010AE94 02202021 //Load BG Sprite Bank into A0
+2010AE98 00002128 //Load BG Sprite Index into A1
+2010AE9C 0C0435A2 //JAL to HuSprPosSet
+2010AEA0 44806800 //Load 0 into f13
+2010AEA4 0804AEC4 //Jump Back to BG Loading Code (Play)
+2010AEA8 00000000 //NOP (Delay Slot)
+20136364 08042BAB //Jump to BG Offset Code (Edit)
+20136368 3C05C2D5 //BG X Offset (-106.6) (Delay Slot)
+2010AEAC 44856000 //Load BG X Offset into f12
+2010AEB0 02002021 //Load BG Sprite Bank into A0
+2010AEB4 00002128 //Load BG Sprite Index into A1
+2010AEB8 0C0435A2 //JAL to HuSprPosSet
+2010AEBC 44806800 //Load 0 into f13
+2010AEC0 0804D8DE //Jump Back to BG Loading Code (Edit)
+2010AEC4 00000000 //NOP (Delay Slot)
+201178A8 24050230 //FMV Width (560)
+20117884 24050050 //FMV X Position (Even) (80)
+20117874 24050050 //FMV X Position (Odd) (80)
+20149D54 3C013FD6 //Save Menu BG X Scale (1.666f)
+20149D38 3C0143CA //Save Menu BG X Position (404.0f)
+201492FC 3C013FD6 //Main Menu BG X Scale (1.666f)
+201492E4 3C0143CA //Main Menu BG X Position (404.0f)
+2013CA0C 3C013FD6 //Stage Edit Menu BG X Scale (1.666f)
+2013C9F0 3C0143CA //Stage Edit Menu BG X Position (404.0f)
+2013AB18 3C013FD6 //Play Edit Menu BG X Scale (1.666f)
+2013AAFC 3C0143CA //Play Edit Menu BG X Position (404.0f)
+20130CF4 3C013FD6 //Normal Mode Menu BG X Scale (1.666f)
+20130CD8 3C0143CA //Normal Mode Menu BG X Position (404.0f)
+201335F8 3C013FD6 //Clear Screen BG X Scale (1.666f)
+201335DC 3C0143CA //Clear Screen BG X Position (404.0f)
+2014BE48 3C013FD6 //Name Entry BG X Scale (1.666f)
+2014BE2C 3C0143CA //Name Entry BG X Position (404.0f)
+
+
+

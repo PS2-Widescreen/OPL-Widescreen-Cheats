@@ -1,0 +1,15 @@
+"Digimon World X /ID SLPS_254.53"
+//ELF CRC E4F97921
+Mastercode
+9010D6F0 0C043564
+//[Widescreen 16:9]
+
+
+//Widescreen Hack by ElHecht
+201b8450 3c013f40 // 00000000 hor fov
+201b845c 4481f000 // 00000000
+201b84b8 461ebb03 // 4600bb06
+201b84bc 46006347 // 4600bb47
+
+
+

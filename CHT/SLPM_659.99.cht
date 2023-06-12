@@ -1,0 +1,16 @@
+"Drag-on Dragoon 2 - Fuuin no Kurenai /ID SLPM_659.99"
+//ELF CRC DA6D80ED
+Mastercode
+903ACBB8 0C0EB296
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (NTSC-J by Arapapa)
+
+// 16:9
+2055C898 3FE38E32 // 3FAAAAAA
+205F3F94 44550000 // 44200000
+
+
+

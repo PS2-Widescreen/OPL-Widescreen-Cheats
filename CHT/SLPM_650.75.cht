@@ -1,0 +1,19 @@
+"K-1 World Grand Prix 2001 /ID SLPM_650.75"
+//ELF CRC 11244BA3
+Mastercode
+90206FE8 0C081BA2
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201c6468 3c013f40 //3c013f80 Menu
+201c93dc 3c013f40 //3c013f80 Event
+2010d7b8 3c013f40 //3c013f80 Game Play
+
+
+

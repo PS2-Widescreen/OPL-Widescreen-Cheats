@@ -1,0 +1,23 @@
+"ESPN NBA 2Night 2002 /ID SLPM_621.21"
+//ELF CRC 8741DA37
+Mastercode
+9013DF98 0C04F78E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix Hack
+20124b84 3c013f40 //00000000
+20124b88 44810000 //00000000
+20124b90 4600c602 //00000000
+
+//Render Fix
+//803f013c 00008144 2d20a003
+20124ba8 3c013f40 //3c013f80
+
+
+

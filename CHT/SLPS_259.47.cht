@@ -1,0 +1,30 @@
+"Summon Night Gran-These - Horobi no Tsurugi to Yakusoku no Kishi /ID SLPS_259.47"
+//ELF CRC 081CA57B
+Mastercode
+902A3FB0 0C0A8F94
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+2025e168 3c023f2a //3c023f00
+
+/////////////////////////////////////////////
+
+//Zoom (Need to adjust Menu size and hud size)
+//2013cbd8 3c043f40 //3c043f80
+//Zoom (cannot run boot. Need to adjust Menu size and hud size)
+//2025e380 3c023f40 //3c023f80
+//X-Fov(Need to adjust Menu size and hud size)
+//2025e270 3c023fab //3c0
+//Y-Fov
+//205142bc 3fc24925 //3f924925
+//Y-Fov
+//2025e120 3c023ec0 //3c023f00
+
+
+

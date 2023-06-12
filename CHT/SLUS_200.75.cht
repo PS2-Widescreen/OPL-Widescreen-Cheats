@@ -1,0 +1,27 @@
+"Disneys Jungle Book - Rhythm & Groove /ID SLUS_200.75"
+//ELF CRC 46D74751
+Mastercode
+90217A90 0C085E4C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f023c 00088244 a80020c6
+2028d01c 3c023f20 //3c023f00
+
+//Y-Fov
+//c2030146 07030046 (2nd)
+2028d07c 080853d4
+20214f50 460103c2
+20214f54 3c013f40
+20214f58 4481f000
+20214f5c 461e7bc2
+20214f60 080a3420
+
+
+

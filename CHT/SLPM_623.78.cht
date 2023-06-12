@@ -1,0 +1,25 @@
+"Bakusou Convoy Densetsu /ID SLPM_623.78"
+//ELF CRC DD93DA88
+Mastercode
+9035BF38 0C0D6F76
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//803f013c 00588144 81100846
+201b2c34 3c013f3a //3c013f80
+
+//Y-Fov
+//9a99993f 00000045
+20381840 3Fe00000 //3f99999a
+
+///////////////////////////////////////////////////
+//20382194 3e800000 //3f800000 Render area
+
+
+

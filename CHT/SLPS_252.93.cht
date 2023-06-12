@@ -1,0 +1,15 @@
+"Naruto - Narutimate Hero /ID SLPS_252.93"
+//ELF CRC 476FE4D8
+Mastercode
+9011FF38 0C047F76
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (NTSC-J by Arapapa)
+
+//16:9 (0000803f 0000803f 00008043 00008043)
+20919380 3f400000 // 3f800000
+
+
+

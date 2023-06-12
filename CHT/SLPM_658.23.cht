@@ -1,0 +1,23 @@
+"Shinsengumi Gunrou-den /ID SLPM_658.23"
+//ELF CRC C14A522A
+Mastercode
+9011C050 0C046FBC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (pnach by Little Giant)
+
+// 16:9
+20207b44 3c013f40 // 00000000 hor fov
+20207b48 4481e000 // 00000000
+20207bb4 461cc602 // 46170703
+20207bb8 46170703 // 00000000
+
+202079d0 3c013f40 // 00000000 renderfix
+20207a00 4481a800 // 00000000
+20207a2c 4615b582 // 46041d42
+20207a30 46041d42 // 00000000
+
+
+

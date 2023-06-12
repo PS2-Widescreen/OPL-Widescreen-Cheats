@@ -1,0 +1,21 @@
+"Lotus Challenge /ID SLPS_202.47"
+//ELF CRC EF8130D1
+Mastercode
+9010D980 0C043608
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2012d8e0 3c023ec0 //3c023f00
+
+//Y-Fov
+2012d8ec 3c023fe3 //3c023faa
+2012d8f0 34428e38 //3442aaab
+
+
+

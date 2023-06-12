@@ -1,0 +1,15 @@
+"Busin 0 - Wizardry Alternative Neo /ID SLKA_252.21"
+//ELF CRC 56075A21
+Mastercode
+9046C398 0C11B08E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+// 16:9 (6d34003d cccc8c3f(*) cccc8c3f cccc8c3f cccc8c3f)
+2050F274 3F533333 // 3f8ccccc
+
+
+

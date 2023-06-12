@@ -1,0 +1,34 @@
+"Baldurs Gate - Dark Alliance /ID SLPS_251.40"
+//ELF CRC 4BA22FFF
+Mastercode
+90209408 0C0824AA
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (pnach NTSC-J by Arapapa)
+//Nemesis2000's search values did not apply to NTSC-J
+
+//vert fov-  eeeeee3e 00ff7445 00803b45 (5 Times)
+202c418c 3f1f49f4 // 3eeeeeee (NTSC-U 3eeeeef0)
+202c41d4 3f1f49f4
+202c4258 3f1f49f4
+202c42ac 3f1f49f4
+202c5ce0 3f1f49f4
+
+//both fov+  3c014480 (5 times from Top address)
+20139794 3c014440 // 3c014480
+20141b20 3c014440
+201494dc 3c014440
+2014f668 3c014440
+201fab70 3c014440
+
+//render fix value by No.47 (703daa3f 2 times)
+202c4238 3fe3d70a // 3faa3d70 (NTSC-U 3faa3d71)
+202c4298 3fe3d70a
+
+//No interlacing by asasega
+//201fd4ac 34030001
+
+
+

@@ -1,0 +1,28 @@
+"Mystic Nights /ID SCKA_200.55"
+//ELF CRC 2383B74A
+Mastercode
+90106270 0C041844
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2016aa5c 3c0243c0 //3c024400
+//20168dd0 3c023fe9 //3c023f80
+
+//Y-Fov
+2016aa74 3c023f36 //3c023f08
+2016aa78 34429cfe //3442f5c3
+
+
+//[No-Interlacing]
+description=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+201011E4 30420000
+
+
+

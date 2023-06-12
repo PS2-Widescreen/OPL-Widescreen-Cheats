@@ -1,0 +1,27 @@
+"Doomsday Racers /ID SLES_531.42"
+//ELF CRC 5BE6A76D
+Mastercode
+90232B78 0C08CA86
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20197c14 3c013f21 //3c013f00
+
+//Y-Fov
+20197c64 0808e728
+
+
+20239ca0 461505c2
+20239ca4 3c013f40
+20239ca8 4481f000
+20239cac 461ebdc2
+20239cb0 08065f1a
+
+
+

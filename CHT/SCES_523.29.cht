@@ -1,0 +1,17 @@
+"Forbidden Siren /ID SCES_523.29"
+//ELF CRC A0FCA9B7
+Mastercode
+901126F0 0C044964
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack converted from NTSC-U to PAL by Machiavel Dhy'v
+202018a8 3c023f40
+
+//FMV's fix by nemesis2000 - converted to PAL by Machiavel Dhy'v
+201fba78 3c027630 // 3c027800
+201fbac4 34028970 // 34028800
+
+
+

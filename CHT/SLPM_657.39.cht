@@ -1,0 +1,48 @@
+"Nightmare Before Christmas /ID SLPM_657.39"
+//ELF CRC 625AF967
+Mastercode
+90113290 0C044C4C
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+//Thank you devina40
+
+//Widescreen hack 16:9
+
+//Game Play
+2035ccb8 3f206d2f //3ef0a3d7
+
+//System text
+//0000803f 0000803f feffffff
+203975b0 3f400000 //3f800000
+
+//Load and Save text
+20397550 3f400000 //3f800000
+
+//Chapter Select text
+203975d0 3f400000 //3f800000
+
+//Movie text
+//32000000 0000803f 0000803f 00000000
+20397470 3f400000 //3f800000
+
+//Cutscene text
+20397430 3f400000 //3f800000
+
+//Musical text
+20397490 3f400000 //3f800000
+
+//Item Name and Explanation text
+203974f0 3f400000 //3f800000
+20397510 3f400000 //3f800000
+
+//Figures Name text
+203975f0 3f400000 //3f800000
+
+//Others ratio but graphics is cracked and words out of text box
+//2035d130 3f400000 //3f800000
+
+
+

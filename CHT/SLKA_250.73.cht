@@ -1,0 +1,28 @@
+"Lara Croft Tomb Raider: The Angel of Darkness /ID SLKA_250.73"
+//ELF CRC 98D833A0
+Mastercode
+90218668 0C086142
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Force turn on Native Widescreen (Full boot bypassing)
+20224b30 24020002 //30420003
+
+//Full Boot 16:9 fix
+20209114 3c013fe2 //3c013fd5
+20209118 3421fc93 //3421c28f
+
+//////////////////////////////////////////////
+//X-Fov
+//Fast Boot 4:3 fix
+//aa3f013c 713d2134 (Last)
+//20209100 3c013fe2 //3c013faa
+//20209104 3421fc93 //34213d71
+
+
+

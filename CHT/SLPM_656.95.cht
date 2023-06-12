@@ -1,0 +1,46 @@
+"Hard Luck - Return of the Heroes /ID SLPM_656.95"
+Mastercode
+901139F8 0C044E26
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+//aa3f023c 2d284002
+//e33f023c 2d284002
+20296ba4 3c023fe3 //3c023faa
+20296bb0 34428e2a //3442aaab
+
+
+//Zoom
+//a0006cc6 a8006dc6
+20296bbc 080443e4
+
+20110f90 c66c00a0
+20110f94 3c013faa
+20110f98 3421aaab
+20110f9c 4481f000
+20110fa0 461e6302
+20110fa4 080a5af0
+
+///////////////////////////////////////////////////
+//Zoom
+//20139b7c 3c01bec0 //3c01bf00
+//2013a87c 3c013f00 //3c013f80
+
+//X-Fov (needs render fix)
+//2013a8a8 080443e4
+
+//20110f90 46010043
+//20110f94 3c013f40
+//20110f98 4481f000
+//20110f9c 00000000
+//20110fa0 461e0842
+//20110fa4 0804ea2b
+
+
+

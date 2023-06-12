@@ -1,0 +1,27 @@
+"Rule of Rose /ID SCPS_150.93"
+//ELF CRC 72588D1A
+Mastercode
+9025F598 0C097D0E
+
+
+//[Widescreen 16:9]
+
+//Widescreen patch (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+2013ba74 3c013f12  // 003f013c 00608144 96B2090C
+2013ba9c 3c013f10  // 02000146 403F013C 00088144 02000246
+
+//noise off
+//3c000000 06000000 (50452e00)
+2073ABE0 00000000
+
+//noise off (alternate address)
+//201c8dc0 e43f1fa0 //e4211fa0
+
+//black borders's fix
+//201909b4 24050000
+
+
+

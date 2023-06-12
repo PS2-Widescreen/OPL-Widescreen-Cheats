@@ -1,0 +1,27 @@
+"Lilo and Stitch - Stitch no Daibouken /ID SLPS_251.53"
+//ELF CRC ECF38282
+Mastercode
+90110E98 0C04434E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+//803f043c 80bf033c
+20237c84 3c03bfab //3c03bf80
+
+//Zoom
+//003f023c 1000bfff
+20237834 3c023f20 //3c023f00
+
+///////////////////////////////////
+//X-Fov.. needs render fix
+//2065C550 3F2E8BA0 //3f68ba2e
+//20237c80 3c043f40 //3c043f80
+
+
+

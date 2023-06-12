@@ -1,0 +1,24 @@
+"Tsukiyo ni Saraba /ID SLPM_658.26"
+//ELF CRC A6BD0DA3
+Mastercode
+906161B8 0C185816
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by sergx12 (NTSC-J by Arapapa)
+
+// 16:9
+//803f013c 00088144 0000a3c7 00000000 00000000 43080046
+205da8c4 3c013faa // 3c013f80
+
+//803f013c 00588144 82310446 40080746
+205daadc 3c013faa // 3c013f80
+
+//2D X-fov
+//203af598 3c013ff3 //3c013fb6
+//203af59c 3421cf2d //3421db6d
+205da274 3c013f24 //3c013f00
+
+
+

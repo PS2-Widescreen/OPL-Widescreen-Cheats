@@ -1,0 +1,15 @@
+"Metal Gear Solid 3 - (Disc 1) Subsistence /ID SLKA_253.53"
+//ELF CRC B0D195EF
+Mastercode
+00000000 00000000
+
+
+//[Widescreen 16:9]
+
+//Widescreen pnach by Arapapa
+
+// 16:9 (0000803f 000080bf cdcc4c3d)
+202050AC 3F400000 // 3f800000
+
+
+

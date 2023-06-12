@@ -1,0 +1,17 @@
+"Rhapsody 3 - Tenshi no Present - The Marl Kingdom Stories /ID SLPS_200.66"
+//ELF CRC 7C20E49D
+Mastercode
+90107C60 0C041EC0
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+20104D1C 3C013F40 //00000000 (Increases hor. axis)
+20104D20 44810000 //00000000
+20104D28 4600C602 //00000000
+
+
+

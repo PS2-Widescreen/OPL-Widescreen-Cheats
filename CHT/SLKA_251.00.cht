@@ -1,0 +1,14 @@
+"Breath of Fire - Dragon Quarter /ID SLKA_251.00"
+Mastercode
+9010EA38 0C043A36
+//[Widescreen 16:9]
+
+
+//Widescreen hack by nemesis2000 (NTSC-K by Arapapa)
+
+2012dc1c 3c024306 //hor val
+2012dc20 3442f940
+2012dd68 3c034074 //render fix
+
+
+

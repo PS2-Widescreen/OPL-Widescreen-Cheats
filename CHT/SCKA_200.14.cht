@@ -1,0 +1,15 @@
+"Dark Claud 2 /ID SCKA_200.14"
+//ELF CRC 60AA5049
+Mastercode
+90112810 0C0449AC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (NTSC-K by Arapapa)
+
+//803f023c d000a426 d000a2ae
+20139004 3c023f40 // 3c023f80
+
+
+

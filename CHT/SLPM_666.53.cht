@@ -1,0 +1,32 @@
+"Akudaikan 3 /ID SLPM_666.53"
+//ELF CRC 4056C58B
+Mastercode
+90111590 0C04450C
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-fov - ELF hack
+//4c3f033c 3c8580af cdcc6434
+20158d14 3c033f19 //3c033f4c
+20158d1c 3464999a //3464cccd
+
+//Render fix - Memory hack
+20446298 3f000000 //3f5bc8b9 Left
+204462ac bf500000 //bf03444b Right
+
+///////////////////////////////////////////////////////
+
+//zoom
+//2014186c 3c023fab //3c023f80
+
+//X-Fov - Memory hack
+//0000e03f cdcc4c3f 00000000 00000000
+2017C330 3F19999A //3f4ccccd
+
+
+

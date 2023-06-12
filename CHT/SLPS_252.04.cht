@@ -1,0 +1,32 @@
+"Moto GP3 /ID SLPS_252.04"
+//ELF CRC 38D93759
+Mastercode
+902E9418 0C0BA4AE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f013c 00008144 913f013c (1st)
+201139d4 3c013f40 //3c013f80
+
+//Render fix
+//a043013c 00688144 06ab0046
+201a4098 3c014330 //3c0143a0 far distance
+//9c3f013c f5282134 00088144 (1st)
+201c83ac 3c014010 //3c013f9c NPC player
+201c83b0 34210000 //342128f5
+//a043013c 00688144 06b30046
+202691a8 3c014330 //3c0143a0 near distance
+
+//HUD speedometer fix
+202b59f0 3c013f40 //3c013f80
+202b5e20 3c013f40 //3c013f80
+202b64a0 3c013f40 //3c013f80
+
+
+

@@ -1,0 +1,21 @@
+"A.C.E. Another Centurys Episode 2 [Special Vocal Version] /ID SLPS_258.29"
+//ELF CRC EE84B8C5
+Mastercode
+901106F0 0C044164
+
+
+//[Widescreen 16:9]
+
+////Widescreen hack by Arapapa and Somebody who fixed A.C.E 3
+
+//Widescreen hack 16:9
+
+//X-Fov
+201f1b7c 3c023f40 //3c023f80
+
+2014b630 3c0243d6 //3c0243a0 rfix
+201f1a08 3C034099 //3C0340cc rfix
+201f1a0c 34648666 //3464b333
+
+
+

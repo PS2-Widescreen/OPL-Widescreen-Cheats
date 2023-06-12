@@ -1,0 +1,16 @@
+"Ace Combat Zero - The Belkan War /ID SLPS_256.29"
+//ELF CRC A04B52DB
+Mastercode
+90307680 0C0C1D48
+
+
+//[Widescreen 16:9]
+
+//Widescreen fix by nemesis2000 (pnach by Arapapa)
+
+//widescreen fix
+203f9e50 43D638F3
+203f9e54 43EB7385
+
+
+

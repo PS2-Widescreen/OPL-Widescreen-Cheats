@@ -1,0 +1,28 @@
+"Simple 2000 Series Vol.96 - The Pirate /ID SLPS_204.58"
+//ELF CRC 7686C666
+Mastercode
+90110DD0 0C04431C
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+2017ac74 3c023f08 //3c023ecc
+2017ac7c 34438883 //3443cccd
+
+//smoke distance
+//2024f3b4 3c013f00 //3c013f80
+
+//Zoom
+//20257ee4 3c013f80 //3c013f80
+//202571e4 3c01bec0 //3c01bf00
+
+//Y-Fov
+//2017ac84 3c023e60 //3c023e99
+
+
+

@@ -1,0 +1,22 @@
+"Noddy and The Magic Book /ID SLES_543.11"
+//ELF CRC 27E407EB
+Mastercode
+90411670 0C104544
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//80bf033c 6000a427
+20469f10 3c03bfab //3c03bf80
+
+//Y-Fov
+//00bf033c 00088244 2d204002
+20469f9c 3c03bf2a //3c03bf00
+
+
+

@@ -1,0 +1,18 @@
+"Racing Game - Chuui! /ID SLPM_660.43"
+//ELF CRC 669AE6D2
+Mastercode
+9026F378 0C09BC86
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+201a0c0c 3c013fab //3c013f80
+20182c70 3c013fab //3c013f80
+202b6a14 3ee90000 //3f000000
+
+
+

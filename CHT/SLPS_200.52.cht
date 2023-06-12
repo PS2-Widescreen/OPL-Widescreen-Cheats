@@ -1,0 +1,20 @@
+"Global Folktale /ID SLPS_200.52"
+//ELF CRC 930E07E3
+Mastercode
+9010DF18 0C04376E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//803f033c 9801013c 907223ac
+2012d4e4 3c033f40 //3c033f80 fov
+
+//b943033c 9801013c 987223ac
+2012d500 3c034440 //3c0343b9 render fix
+
+
+

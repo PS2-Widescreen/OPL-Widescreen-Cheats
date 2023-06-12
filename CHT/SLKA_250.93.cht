@@ -1,0 +1,28 @@
+"Gwimuja 3 (Korea) /ID SLKA_250.93"
+Mastercode
+9010E530 0C0438F4
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesiss2000 (NTSC-K by Arapapa)
+
+//Widescreen hack 16:9
+
+2014ff80 3c033f19 //3c033f4c
+2014ff88 34639999 //3463cccd
+
+2014ffe0 3c023f19 //3c023f4c
+2014ffe4 34439999 //3443cccd
+
+20150138 3c033f19 //3c033f4c
+20150140 34639999 //3463cccd
+201501b0 3c02c3d6 //3c02c3a0
+201500a0 3c024527 //3c0244fa
+
+//No interlacing by asasega
+//00 79 63 24 44 00 23 A6 50 00 22 A6 54 00 23 A6
+//2027864c 34037900
+
+
+

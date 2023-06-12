@@ -1,0 +1,24 @@
+"Moto GP /ID SLPS_200.40"
+//ELF CRC 2E2BF306
+Mastercode
+902BB478 0C0AECC4
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+201f6620 3c013f40 //3c013f80
+
+201ace7c 3c013f40 //3c013f80
+201ad618 3c013f40 //3c013f80
+
+20182944 3c014330 //3c0143a0
+20185d74 3c014330 //3c0143a0
+202146fc 3c014010 //3c013f9c
+20214700 34210000 //342128f6
+
+
+

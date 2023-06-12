@@ -1,0 +1,22 @@
+"Simple 2000 Series Vol.109 - The Taxi 2 /ID SLPS_204.78"
+//ELF CRC 91A93F28
+Mastercode
+901804E0 0C0600E0
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov (Car)
+20155ec4 3c013f40 //00000000
+20155ec8 44810000 //00000000
+20155ed0 4600c602 //00000000
+
+//X-Fov (Background)
+201afc74 3F400000 //3f800000
+
+
+

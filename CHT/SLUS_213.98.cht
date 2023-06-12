@@ -1,0 +1,15 @@
+"Dynasty Warriors 5 - Empires /ID SLUS_213.98"
+//ELF CRC F0EA2271
+Mastercode
+90122B50 0C048A7C
+
+
+//[Widescreen 16:9]
+description=Renders the game in 16:9 aspect ratio, instead of 4:3.
+
+
+20146e4c 3c0243d6 //3c0243a0
+2019f8ec 3c023f2b //3c023f00
+
+
+

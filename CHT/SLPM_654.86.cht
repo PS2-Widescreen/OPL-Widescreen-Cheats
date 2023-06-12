@@ -1,0 +1,22 @@
+"Airforce Delta - Blue Wing Knights /ID SLPM_654.86"
+//ELF CRC 2156763B
+Mastercode
+901389B8 0C04E216
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Game Play
+//0000803f efee6e3f 00000000
+204B32BC 3f400000
+
+//Render Fix
+//0000a043 00006043 (2nd)
+204B32B4 44200000
+
+
+

@@ -1,0 +1,26 @@
+"Samurai /ID SLPS_201.78"
+//ELF CRC A7110F33
+Mastercode
+90111300 0C044468
+
+
+//[Widescreen 16:9]
+
+////Widescreen hack by ElHecht(NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+//X-Fov
+//20154768 3c023f40 //3c023f80
+
+20100024 3c1b3f40 // 00000000 hor fov
+2013865c 449bf000 // 4600e007
+20138660 4600f787 // e7a00050
+201386b0 e7be0050 // 00000000
+201388c0 449bf000 // 4600e007
+201388c4 4600f787 // e7a00060
+20138918 e7be0060 // 00000000
+201389f4 3c023fab // 3c023f80 renderfix
+
+
+

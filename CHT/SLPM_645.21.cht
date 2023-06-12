@@ -1,0 +1,22 @@
+"Raging Bless - Gouma Mokushiroku /ID SLPM_645.21"
+//ELF CRC F2386C7B
+Mastercode
+902766F0 0C09D964
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f013c 00608144 c6730046
+20228754 3c013f40 //3c013f80
+
+//Render fix
+//0000a043 414c6e43
+202d2f70 43e00000 //43a00000
+
+
+

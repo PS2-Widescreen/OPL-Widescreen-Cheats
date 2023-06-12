@@ -1,0 +1,17 @@
+"Silent Hill - Origins /ID SLKA_254.22"
+//ELF CRC F3662F76
+Mastercode
+90324100 0C0C8FE8
+
+
+//[Widescreen 16:9]
+
+//Widescreen fix by nemesis2000 (NTAC-K by nemesis2000)
+
+
+//Zoom fix (Internal Widescreen)
+201da984 3c013fe3
+201da988 34218e39
+
+
+

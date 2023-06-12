@@ -1,0 +1,19 @@
+"Gungrave /ID SCPS_560.14"
+//ELF CRC 13035B9E
+Mastercode
+901B8748 0C06E17A
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa and ElHecht
+
+// 16:9 (search 00000000 00000000 43ad1346 00000000)
+201be9dc 3c013f40 // 00000000 hor fov
+201be9e0 44810000 // 00000000
+201be9e8 4600c602 // 00000000
+
+201438bc 2402010e // 24020168 renderfix
+
+
+

@@ -1,0 +1,22 @@
+"Top Angler - Real Bass Fishing /ID SLUS_203.42"
+//ELF CRC 39BA5EF3
+Mastercode
+90124F18 0C04936E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+803f023c 00088244 (1st)
+20103464 3c023f40 //3c023f80
+
+//Zoom
+803f033c 00008344 (1st)
+201038a4 3c033f40 //3c033f80
+
+
+

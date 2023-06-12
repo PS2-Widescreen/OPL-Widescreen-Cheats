@@ -1,0 +1,53 @@
+"Hippa Linda /ID SLPM_621.09"
+//ELF CRC D4D45FF4
+Mastercode
+901078D8 0C041DDE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hacks by sergx12 (ISO HEX codes) and Aced14 (pnach version - ELF and 16:10 hacks)
+
+//16:9 widescreen
+2011FB2C 08047ED8 //0441000C - j $0011fb60 - Jump over game logic for PADMAN.IRX debug error message to prevent conflicts
+2012C490 08047ECD //C60D0174 - j $0011fb34 - Jump to injected MIPS instructions for widescreen logic
+2011FB34 12600004 //3C02006E - beq s3, zero, $0011fb48 - Branch to the end of the widescreen logic if a cutscene is running (by checking if s3 register is 0)
+2011FB38 3C013FAA //0C046690 - lui at, $3faa - Set $f31 register to 1.333333373 #1
+2011FB3C 3421AAAB //24442A60 - ori at, at, $aaab - Set $f31 register to 1.333333373 #2
+2011FB40 4481F800 //3C02006E - mtc1 at, $f31 - Set $f31 register to 1.333333373 #3
+2011FB44 461F6302 //24442A40 - mul.s $f12, $f12, $f31 - Multiply $f12 by $f31 and store the result in $f12 (positive X FOV)
+2011FB48 0804B126 //70002E28 - j $0012c498 - Jump to 2 lines after the overwritten MIPS instruction
+2011FB4C 46006347 //0C043184 - neg.s $f13, $f12 - Negate $f12 and store the result in $f13 (negative X FOV)
+
+//16:10 widescreen (normal)
+//2011FB2C 08047ED8 //0441000C - j $0011fb60 - Jump over game logic for PADMAN.IRX debug error message to prevent conflicts
+//2012C490 08047ECD //C60D0174 - j $0011fb34 - Jump to injected MIPS instructions for widescreen logic
+//2011FB34 12600004 //3C02006E - beq s3, zero, $0011fb48 - Branch to the end of the widescreen logic if a cutscene is running (by checking if s3 register is 0)
+//2011FB38 3C013F99 //0C046690 - lui at, $3f99 - Set $f31 register to 1.2 #1
+//2011FB3C 3421999A //24442A60 - ori at, at, $999a - Set $f31 register to 1.2 #2
+//2011FB40 4481F800 //3C02006E - mtc1 at, $f31 - Set $f31 register to 1.2 #3
+//2011FB44 461F6302 //24442A40 - mul.s $f12, $f12, $f31 - Multiply $f12 by $f31 and store the result in $f12 (positive X FOV)
+//2011FB48 0804B126 //70002E28 - j $0012c498 - Jump to 2 lines after the overwritten MIPS instruction
+//2011FB4C 46006347 //0C043184 - neg.s $f13, $f12 - Negate $f12 and store the result in $f13 (negative X FOV)
+
+//16:10 widescreen (ultra)
+//2011FAE8 08047EC6 //0441000B - j $0011fb18 - Jump over game logic for SIO2MAN.IRX debug error message to prevent conflicts
+//2011FB2C 08047ED8 //0441000C - j $0011fb60 - Jump over game logic for PADMAN.IRX debug error message to prevent conflicts
+//2012C498 08047EC2 //C60F017C - j $0011fb08 - Jump to injected MIPS instructions for cutscene/playing check
+//2011FB08 52600013 //0C043184 - beql s3, zero, $0011fb58 - Branch to the end of the widescreen logic if a cutscene is running (by checking if s3 register is 0)
+//2011FB0C 00000000 //70003628 - nop - Nop delay slot (to avoid a "branch XXXXXXXX in delay slot!" warning in PCSX2's log)
+//2011FB10 08047ECD //0440FFF7 - j $0011fb34 - Jump to injected MIPS instructions for widescreen logic
+//2011FB34 3C013FAA //3C02006E - lui at, $3faa - Set $f31 register to 1.333333373 #1
+//2011FB38 3421AAAB //0C046690 - ori at, at, $aaab - Set $f31 register to 1.333333373 #2
+//2011FB3C 4481F800 //24442A60 - mtc1 at, $f31 - Set $f31 register to 1.333333373 #3
+//2011FB40 461F6302 //3C02006E - mul.s $f12, $f12, $f31 - Multiply $f12 by $f31 and store the result in $f12 (positive X FOV)
+//2011FB44 46006347 //24442A40 - neg.s $f13, $f12 - Negate $f12 and store the result in $f13 (negative X FOV)
+//2011FB48 3C013F8E //70002E28 - lui at, $3f8e - Set $f31 register to 1.111111164 #1
+//2011FB4C 342138E4 //0C043184 - ori at, at, $38e4 - Set $f31 register to 1.111111164 #2
+//2011FB50 4481F800 //70003628 - mtc1 at, $f31 - Set $f31 register to 1.111111164 #3
+//2011FB54 461F7382 //0440FFF7 - mul.s $f14, $f14, $f31 - Multiply $f14 by $f31 and store the result in $f14 (negative Y FOV)
+//2011FB58 0804B128 //00000000 - j $0012c4a0 - Jump to 2 lines after the overwritten MIPS instruction
+//2011FB5C 460073C7 //00000000 - neg.s $f15, $f14 - Negate $f14 to make it positive and store the result in $f15 (positive Y FOV)
+
+
+

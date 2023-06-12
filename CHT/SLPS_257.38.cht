@@ -1,0 +1,29 @@
+"Soul Cradle Sekai o Kurau Mono [Limited Edition] /ID SLPS_257.38"
+//ELF CRC 1AB273DA
+Mastercode
+90113550 0C044CFC
+//[Widescreen 16:9]
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+//gameplay
+20104d74 3c013f40
+20104d78 44810000
+20104d80 4600c602
+
+//sprite fix
+20151ee0 3c033f40
+20151ef4 3c033f80
+20151ef8 ac830010
+20151efc ac800014
+20151f00 ac800018
+20151f04 ac80001c
+20151f08 03e00008
+20151f0c ac830020
+
+//text width
+201302f4 3c023f40
+
+
+

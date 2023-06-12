@@ -1,0 +1,25 @@
+"Seed, The /ID SLPS_201.44"
+//ELF CRC DE86254A
+Mastercode
+9020D5C8 0C08351A
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen 16:9
+
+//X-Fov
+2013913c 3c013f40 //3c013f80
+2017646c 3c013f40 //3c013f80
+
+//Render fix
+201349fc 3c014460 //3c014420
+20142970 3c014460 //3c014420
+
+//Font Zoom
+//20119d20 3c0141f0 //3c0141a0
+
+
+

@@ -1,0 +1,22 @@
+"Robots /ID SLPM_660.59"
+//ELF CRC 126D3540
+Mastercode
+902FFF20 0C0BFF70
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+//803f013c 00188144 86080046 (1st)
+202993dc 3c013f40 //3c013f80
+
+//Zoom
+//803f013c 00608144 4000a827
+202995e4 3c013f40 //3c013f80
+
+
+

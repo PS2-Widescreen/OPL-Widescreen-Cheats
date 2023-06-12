@@ -1,0 +1,22 @@
+"Tony Hawks Pro Skater 2003 /ID SLPM_654.19"
+//ELF CRC BA8EE5F5
+Mastercode
+90275458 0C09D4BE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//803f023c 00288244 00000000
+2014fcd8 3c023f40 //3c023f80
+
+//Fov
+//4040023c 00108244 600600c6
+2014fcac 3c024010 //3c024040
+
+
+

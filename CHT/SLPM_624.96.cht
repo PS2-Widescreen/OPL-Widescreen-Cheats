@@ -1,0 +1,21 @@
+"Simple 2000 Series Vol.52 - The Space Raiders /ID SLPM_624.96"
+//ELF CRC 5CDC4435
+Mastercode
+9011FE38 0C047F36
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20284dc8 40700000 //3eaaaaab
+
+//Y-Fov
+2021523c 3c023f23 //3c023ef5
+20215240 3442d70a //3442c28f
+
+
+

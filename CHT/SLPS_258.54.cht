@@ -1,0 +1,142 @@
+"Poison Pink /ID SLPS_258.54"
+//ELF CRC F7786EE4
+Mastercode
+90364C58 0C0D92BE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//000080bf d7a370bf (1st)
+20482894 bf400000 //bf800000
+
+//Text Box Fix
+//00009c43 0000803f 000040c2 00000c43 (1st)
+2055278c 43c00000 //439c0000
+
+//0000b042 0080cf43 (1st)
+20552768 42c00000 //42b00000
+2055276c 00000000 //43cf8000
+
+//Message Indicator Position (Up)
+//0000d143 0000803f 00000000
+205526f4 43c80000 //43d10000
+
+//Font fix (conversation)
+//0000803f 0000803f 0000803e 0000803f cccccc3d
+20552700 3f600000 //3f800000 //3f400000 is too narrow in case of Japaness
+
+
+//********  2D FIX PARTS  ********
+
+
+//2D Characters (Town & Battle Field)
+//43000f3c d80115e6 20008046
+20132e00 0814f738
+
+2053dce0 3c0f0043
+2053dce4 3c013faa
+2053dce8 3421aaab
+2053dcec 4481f000
+2053dcf0 e61e01d8
+2053dcf4 0804cb82
+
+
+//Traviata House
+//900014e6 940014e6 1400e58d
+202d7aa0 0814f723 // 900014e6
+
+2053dc8c 3c013f40 // 00000000
+2053dc90 4481f800 // 00000000
+2053dc94 e61f0090 // 00000000
+2053dc98 080b5ea9 // 00000000
+
+
+//The Uzaporium Shop
+//900015e6 940015e6 1800a524 (2nd)
+202aab74 0814f727 // 900015e6
+
+2053dc9c 3c013f40 // 00000000
+2053dca0 4481f800 // 00000000
+2053dca4 e61f0090 // 00000000
+2053dca8 080aaade // 00000000
+
+
+//Twilight's Rest (Potraits)
+//940015e6 800000a2 0800b6e5 (1st)
+202857b8 0814f72b // 940015e6
+
+2053dcaC 3c013f40 // 00000000
+2053dcB0 4481f000 // 00000000
+2053dcB4 e61e0094 // 00000000
+2053dcB8 080a15ef // 00000000
+
+
+//2D Characters (Conversation and Twilight's Rest)
+//c0ffbd27 1000b0ff 2000b2ff 2800b3ff 2d80a000
+2023bc88 0814f733 // c4400008
+
+2053dccc c4400008 // 00000000
+2053dcd0 3c013f40 // 00000000
+2053dcd4 4481f000 // 00000000
+2053dcd8 461e0002 // 00000000
+2053dcdc 0808ef23 // 00000000
+
+
+
+///////////////////////////////////////////////////////////
+//Left Characters
+//080000c6 080041c4 02000146
+//2022217c 0814f72f // 080000c6
+
+//2053dcbc c6000008 // 00000000
+//2053dcc0 3c01bf40 // 00000000
+//2053dcc4 4481f000 // 00000000
+//2053dcc8 461e0002 // 00000000
+//2053dccc 08088862 // 00000000
+
+//Letter Box
+//2062dea0 3F400000 //3F800000
+
+
+//2D Characters fix  (Cause a many others problem)
+//201cc724 3c013f40
+//201cc728 4481f800
+//201cc72c 461fad42
+//201cc730 46150003
+//201cc734 00000000
+//201cc738 a6970006
+
+
+//Menu 2D Character (Y-Fov, X-Fov, and Color changed at the same time)
+//205545d8 3F400000 //3F800000
+
+//0000430000430000803f0000803f
+
+//205526d8 00000000 //0062daf0
+//20556120 43a10000 //43000000
+
+//Background Picture Zoom
+//20550708 3faaaaab //3f800000
+
+//xxx
+//201cc6fc 44a00000 //44900000
+
+
+//2D Characters(Battle Field) Y-Fov(+), X-Fov(+)
+//0000803f 0000a041 0000803f
+//2054e4e4 3faaaaab //3f800000
+
+//2D Characters(Battle Field) X-Fov(-)
+//000080bf cccc2c40
+//20552824 bf400000 //bf800000
+
+//ALL 2D Grahpics
+//20482de0 3f400000 //3f800000
+
+
+

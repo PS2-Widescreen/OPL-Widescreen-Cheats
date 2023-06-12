@@ -1,0 +1,32 @@
+"Spongebob SquarePants - Lights, Camera, Pants! /ID SLKA_253.19"
+//ELF CRC 1C0740ED
+Mastercode
+90112BD0 0C044A9C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen 16:9
+
+//X-Fov
+//680080c4 03080046
+20230328 081258cc
+20496330 c4800068
+20496334 3c013f40
+20496338 4481f000
+2049633c 461e0003
+20496340 e4800068
+20496344 0808c0cb
+
+///////////////////////////////////////////////////////////
+//ICON and Font fix
+//803f023c 7200a392 00388244 (Twice)
+//203e0d18 3c023f40 //3c023f80 Characters ICON
+//203df178 3c023f40 //3c023f80 Font Count and Text
+//803f033c 0400a28e 00088344
+//203df414 3c033f40 //3c033f80 Font Time
+
+
+

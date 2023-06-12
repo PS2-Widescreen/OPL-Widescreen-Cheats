@@ -1,0 +1,17 @@
+"Virtua Fighter Cyber Generation - Ambition of the Judgement Six /ID SLPM_656.32"
+//ELF CRC 7D2A0B53
+Mastercode
+900AF910 0C02BDEC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+200ccf0c 3c02438e //3c0243b4 Zoom
+200ccf54 3c024420 //3c0243f0 Y-Fov
+
+
+

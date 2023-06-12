@@ -1,0 +1,21 @@
+"Sengoku Musou 2 /ID SLPM_663.07"
+//ELF CRC 4192E055
+Mastercode
+9012B790 0C04AD8C
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (16:9) by ElHecht (NTSC-K by Arapapa)
+
+20179c38 3c023f19 //3c023f4c
+20179c40 3442999a //3442cccd
+
+20179df8 3c023f19 //3c033f4c
+20179e00 3442999a //3463cccd
+
+2017a0c4 3c03440a //3c0343cf
+2017a064 3c03440a //3c0343cf
+
+
+

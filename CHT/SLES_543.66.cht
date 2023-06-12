@@ -1,0 +1,24 @@
+"David Douillet Judo /ID SLES_543.66"
+//ELF CRC 833D54BC
+Mastercode
+90106ED8 0C041B5E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+2016ba18 46180043 //00000000
+2016ba1c 3c013f40 //00000000
+2016ba20 44811800 //00000000
+2016ba24 46030842 //46180043
+
+//Render fix
+20242914 3c023fc0 //3c024000 Left
+202429f0 3c023fc0 //3c024000 Right
+
+
+

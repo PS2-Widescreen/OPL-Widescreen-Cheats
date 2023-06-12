@@ -1,0 +1,14 @@
+"Shin Contra /ID SLPM_622.64"
+//ELF CRC C6B97484
+Mastercode
+905E9A98 0C17A64E
+//[Widescreen 16:9]
+
+
+//Widescreen hack
+205dc404 3c013f40 // hor fov
+205dc408 44810000
+205dc410 4600c602
+
+
+

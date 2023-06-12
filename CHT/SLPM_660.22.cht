@@ -1,0 +1,15 @@
+"Kaido Touge no Densetsu /ID SLPM_660.22"
+//ELF CRC EC33CA0D
+Mastercode
+90116F10 0C045B6C
+//[Widescreen 16:9]
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+2016323c 3c043f40 //GamePlay
+2036663c 3c033f40 //Garage
+
+//[No-Interlacing]
+description=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+201532C4 30840000

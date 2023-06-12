@@ -1,0 +1,23 @@
+"MegaRace 3 - Nanotech Disaster /ID SLES_509.03"
+//ELF CRC 54645811
+Mastercode
+90273A60 0C09CE40
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+2020d484 08083f04 //46080002
+
+2020fc10 46070202 // 00000000
+2020fc14 3c013f40 // 00000000
+2020fc18 00000000 // 00000000
+2020fc1c 4481f000 // 00000000
+2020fc20 461e4202 // 00000000
+2020fc24 08083522 // 00000000
+
+
+

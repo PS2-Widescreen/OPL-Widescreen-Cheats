@@ -1,0 +1,21 @@
+"Simple 2000 Series Vol.28 - The Bushido - Tsujigiri Ichidai /ID SLPM_623.35"
+//ELF CRC CE3B7939
+Mastercode
+901128F8 0C0449E6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201488dc 3c023f40 //3c023f80 Background
+201489ac 3c023f40 //3c023f80 Charcters
+
+//Render fix
+20138090 3c053fc0 //3c054000
+
+
+

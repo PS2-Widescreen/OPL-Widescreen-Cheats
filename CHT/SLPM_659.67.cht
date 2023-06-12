@@ -1,0 +1,38 @@
+"Spectral Force Chronicle /ID SLPM_659.67"
+//ELF CRC E1E0B924
+Mastercode
+90303918 0C0C0DEE
+
+
+//[Widescreen 16:9]
+
+// Widescreen Hack by Arapapa
+
+// Widescreen hack 16:9
+
+//X-Fov
+202ab6b0 08030000 //c6010068
+200c0000 3c013f40 //0000000
+200c0004 4481f000 //0000000
+200c0008 c6010068 //0000000
+200c000c c602006c //0000000
+200c0010 461e0843 //0000000
+200c0014 e6010068 //0000000
+200c0018 080aadae //0000000
+
+//Font Fix (Conversation)
+20195208 0803000c
+200c0030 4600a386
+200c0034 3c013f60 //3f40 is too narrow
+200c0038 4481f000
+200c003c 461ea382
+200c0040 08065483
+
+//Font X-position
+2019520c 3c014215
+
+//2D Popup Portraits fix (Conversation)
+2019497c 3c0143f0 //3c0143d5
+
+
+

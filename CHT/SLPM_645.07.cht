@@ -1,0 +1,31 @@
+"WAVE RALLY /ID SLPM_645.07"
+//ELF CRC 1BBDDD82
+Mastercode
+9020A6F8 0C082966
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom  (1st)
+//5f3f013c f4662134
+//943f013c 4eef2134
+201801e4 3c013f94 //3c013f5f
+201801e8 3421ef4e //342166f4
+
+//Y-Fov (3rd)
+//aa3f013c abaa2134
+//e33f013c 4eef2134
+201800e4 3c013fe3 //3c013faa
+201800e8 3421ef4e //3421aaab
+////////////////////////////////////////
+
+//Render fix
+//2014d62c 3c013f40 //3c013f80
+//2014d864 3c013f40 //3c013f80
+
+
+

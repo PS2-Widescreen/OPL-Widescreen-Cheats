@@ -1,0 +1,17 @@
+"Kurogane no Houkou - Warship Gunner 2 /ID SLPM_663.21"
+//ELF CRC A341986A
+Mastercode
+902656C0 0C099558
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//0000803f 00000000 16177070 17167170
+202b3558 3f400000 //3f800000 X-Fov
+
+
+

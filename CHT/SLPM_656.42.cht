@@ -1,0 +1,22 @@
+"Meiwaku Seijin Panic Maker /ID SLPM_656.42"
+//ELF CRC 1AA93761
+Mastercode
+901CAD18 0C072AEE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+20109de0 3c013f9f //3c013f6e
+20109de4 34213fbf //3421eeef
+
+201a2198 3c013f9f //3c013f6e
+201a219c 34213fbf //3421eeef
+
+20109d78 3c014328 //3c014360
+
+
+

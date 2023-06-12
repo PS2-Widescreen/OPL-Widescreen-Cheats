@@ -1,0 +1,24 @@
+"Armored Core 3 /ID SLPS_251.12"
+//ELF CRC D00E1931
+Mastercode
+902E2A38 0C0B8A36
+//[Widescreen 16:9]
+
+
+//Widescreen hack by ElHecht
+
+// 16:9
+202e6c3c 3c013f40 // 00000000 hor fov
+202e6c48 44810000 // 00000000
+202e6c4c 4600c602 // 00000000
+2026caf4 3c0143d6 // 3c0143a0 renderfix
+
+// 16:10
+//202e6c3c 3c013f55 // 00000000 hor fov
+//202e6c40 34215555 // 00000000
+//202e6c48 44810000 // 00000000
+//202e6c4c 4600c602 // 00000000
+//2026caf4 3c0143c1 // 3c0143a0 renderfix
+
+
+

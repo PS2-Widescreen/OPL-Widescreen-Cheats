@@ -1,0 +1,23 @@
+"Disneys Meet the Robinsons /ID SLUS_214.53"
+//ELF CRC E319F8A2
+Mastercode
+904F31C0 0C13CC18
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+203a353c 3c013faa //00000000
+203a3540 3421aaab //00000000
+203a3564 4481f000 //00000000
+203a3568 461e6b42 //00000000
+
+//Render fix
+202670d0 3c013f2b //3c013f00
+
+
+

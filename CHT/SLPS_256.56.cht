@@ -1,0 +1,15 @@
+".hack//G.U. Vol.3 - Aruku Youna Hayasa de /ID SLPS_256.56"
+//ELF CRC FAC9E76F
+Mastercode
+9012FE50 0C04BF3C
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (16:9)  (cloudalmasai) (pnach by Arapapa)
+
+//16:9 (0000803f 0000803f 00008043 00004043)
+20A84014 3F400000 // 3f800000
+
+
+

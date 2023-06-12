@@ -1,0 +1,16 @@
+"Document of Metal Gear Solid 2, The /ID SLPM_651.84"
+//ELF CRC F379C8BB
+Mastercode
+90175E58 0C05D73E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Esppiral (NTSC-J by Arapapa)
+
+//3D Model view fix
+//803f013c00b08144380047b4
+2011f580 3c013f40 //3c013f80
+
+
+

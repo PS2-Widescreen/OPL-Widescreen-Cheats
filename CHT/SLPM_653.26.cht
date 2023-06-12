@@ -1,0 +1,19 @@
+"Choro Q HG 4 /ID SLPM_653.26"
+//ELF CRC 4C3A3060
+Mastercode
+901EECE0 0C07BAE0
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+201f1d74 3c013f40 //00000000
+201f1d78 44810000 //00000000
+201f1d80 4600c602 //00000000
+201b5484 3c0140a7 //3c01407a
+
+
+

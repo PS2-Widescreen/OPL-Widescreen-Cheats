@@ -1,0 +1,18 @@
+"Kengo 3 /ID SLPM_657.00"
+//ELF CRC CB56E6FB
+Mastercode
+90111990 0C04460C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9 (Memory hack)
+20868E38 3F400000 //3F800000 (Increases hor. axis)
+
+//Render fix (ELF hack)
+201383A4 3C023FAB //3C023F00
+
+
+

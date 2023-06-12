@@ -1,0 +1,28 @@
+"Jeep Thrills /ID SLUS_217.60"
+//ELF CRC 3DDBDB2C
+Mastercode
+901E7D18 0C079EEE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+201684e4 3c013f88 //3c013f4c
+201684e8 34218883 //3421cccd
+
+//Y-Fov
+20168500 08030000
+
+200c0000 4600a343
+200c0004 3c013faa
+200c0008 3421aaab
+200c000c 4481f000
+200c0010 461e6b42
+200c0014 0805a141
+
+
+

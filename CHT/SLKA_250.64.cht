@@ -1,0 +1,19 @@
+"TENCHU - WRATH OF HEAVEN /ID SLKA_250.64"
+//ELF CRC AFBFB287
+Mastercode
+9010F578 0C043D06
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack (NTSC-K by Arapapa)
+
+//Widescreen 16:9
+21646724 3f400000 //3f800000
+
+//render fix
+20154ba8 3c024455 //3c024422
+20154e10 3c024455 //3c024422
+
+
+

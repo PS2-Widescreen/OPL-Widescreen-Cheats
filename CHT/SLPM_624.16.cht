@@ -1,0 +1,24 @@
+"Momotaro Densetsu XII - West Japan Hen /ID SLPM_624.16"
+//ELF CRC F4654032
+Mastercode
+903256D0 0C0C955C
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+202baef0 080c9784
+
+20325e10 3c013f40
+20325e14 4481f000
+20325e18 461e6b42
+20325e1c 080aebbd
+
+//Zoom
+//202c6670 3c013fab //3c013f80
+
+
+

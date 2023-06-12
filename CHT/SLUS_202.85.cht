@@ -1,0 +1,40 @@
+"Moto GP 2 /ID SLUS_202.85"
+//ELF CRC 586EA828
+Mastercode
+902938F8 0C0A4DE6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-fov
+//803f013c 00008144 913f013c
+201c1ac4 3c013f40 //3c013f80
+
+//Render fix
+20161c98 3c014330 //3c0143a0
+201ea0dc 3c014330 //3c0143a0
+20214fc4 3c014010 //3c013f9c
+20214fc8 34210000 //342128f6
+
+//HUD speedometer fix
+//803f013c 00008144
+20246ac0 3c013f40 //3c013f80
+20246ea8 3c013f40 //3c013f80
+20247518 3c013f40 //3c013f80
+
+
+//[No-Interlacing]
+description=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+20265444 FD030000
+2027FED0 24020001
+0043C588 00000001
+0036C798 00000003
+0036C7C0 00000003
+
+
+

@@ -1,0 +1,16 @@
+"Get Ride! AM Driver - The Truth of Xiangke /ID SLPM_659.49"
+//ELF CRC 805627AB
+Mastercode
+9027C7F0 0C09F1A4
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+201DCB54 3C023F40 //3C023F80 Zoom
+201DC63C 3C023EC1 //3C023F00 Y-FOV
+
+
+

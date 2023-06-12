@@ -1,0 +1,34 @@
+"Crash Bandicoot - Mawangui Buwhal (Korea) /ID SLPM_645.13"
+//ELF CRC 00A074A7
+Mastercode
+90269DD8 0C09A71E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen 16:9
+
+//X-Fov
+//42c81446 140074e6 380060e6
+20110830 0805b3d0
+
+2016cf40 4614c842
+2016cf44 3c013f40
+2016cf48 4481f000
+2016cf4c 461e0842
+2016cf50 00000000
+2016cf54 0804420d
+
+
+//Render fix
+//803f013c 00108144 32000246
+20112fe8 3c013f40 //3c013f80
+
+////////////////////////////////////////////////
+//Zoom
+//20110818 3c013fab //3c013f80
+
+
+

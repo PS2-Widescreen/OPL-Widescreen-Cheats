@@ -1,0 +1,20 @@
+"Falling Stars /ID SLUS_217.34"
+//ELF CRC 0EFCCA90
+Mastercode
+90332040 0C0CC7B8
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20424fd0 43400000
+
+//Render fix
+20424fdc 3f100000
+
+
+

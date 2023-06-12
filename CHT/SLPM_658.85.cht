@@ -1,0 +1,46 @@
+"Rumble Roses /ID SLPM_658.85"
+//ELF CRC C1C91715
+Mastercode
+9010FA50 0C043E3C
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (16:9) by ElHecht Mod Pnach crc by Acem
+//Font fix by Arapapa
+
+//Widescreen hack 16:9
+
+20104084 3c013f40
+20104088 44810000
+20104090 4600c602
+
+//Font Fix
+//8c3f033c cdcc6334 43080046
+//533f033c 33336334 43080046
+2030f1dc 3c033f53 //3c033f8c
+2030f1e0 34633333 //3463cccd
+
+
+//[No-Interlacing]
+gsinterlacemode=1
+//Enhancement test
+
+//Framebuffer Display and no interleacing
+E0041100 01D4ADA0
+21D4AD98 00000002
+21D4ADC0 00000002
+21D4ADA0 00001000
+21D4ADC8 00001000
+
+E0041400 01D4ADA0
+21D4ADA0 00001400
+21D4ADC8 00001446
+21D4AD98 00000003
+21D4ADC0 00000003
+
+201029FC 64420000
+20102C64 64420000
+
+
+

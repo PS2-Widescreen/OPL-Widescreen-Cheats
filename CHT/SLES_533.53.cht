@@ -1,0 +1,15 @@
+"Shaman King - Power of Spirit /ID SLES_533.53"
+//ELF CRC 12D57B4F
+Mastercode
+902867B0 0C0A1994
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+201DCFD4 3C023FAB //3C023F80 (Increases hor. axis)
+
+
+

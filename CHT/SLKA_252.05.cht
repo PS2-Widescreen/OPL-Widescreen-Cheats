@@ -1,0 +1,30 @@
+"DragonBall Z 3 /ID SLKA_252.05"
+//ELF CRC 4B27353A
+Mastercode
+9010D5D0 0C04351C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (NTSC-K by Arapapa)
+
+// 16:9
+20131ba8 080c91f2 // 46000803 jump to code-inject 003247c8
+20131bac 00000000 // e7808744
+
+203247c8 3c013f40 // 00000000 hor fov
+203247cc 4481f000 // 00000000
+203247d0 46000803 // 00000000
+203247d4 461e0002 // 00000000
+203247d8 e7808744 // 00000000
+203247dc 0804c6eb // 00000000 jump back to 00131bac
+
+
+//Scenario mode
+//20429834 3f23d706 // 3F5A740E
+
+//VS mode
+//2044F0C0 3f23d706 // 3F5A740E
+
+
+

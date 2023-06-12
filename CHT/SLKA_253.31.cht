@@ -1,0 +1,26 @@
+"Marc Eckos Getting Up - Contents Under Pressure /ID SLKA_253.31"
+//ELF CRC 068558AE
+Mastercode
+901133B8 0C044C96
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by sergx12 (NTSC-K by Arapapa)
+
+//Widescreen hack 16:9
+
+205677EC 3c023f40
+
+
+
+//Y-Fov
+//201cbb70 40200000 //3f892492
+
+//Zoom
+//3f000000 3e800000 00000000
+//20A333A0 3f35c28f //3f000000
+//20A333A4 3f19999a //3e800000
+
+
+

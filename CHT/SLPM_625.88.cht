@@ -1,0 +1,22 @@
+"Simple 2000 Series Vol.73 - The Saiyuki Saruden /ID SLPM_625.88"
+//ELF CRC F478B7F9
+Mastercode
+901EFCD8 0C07BEDE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+201be4e4 3c013f40 //00000000
+201be4e8 44810000 //00000000
+201be4f0 4600c602 //00000000
+
+//Render Fix
+20140128 3c01bf30 //3c01bf00 Left
+2014011c 3c013f30 //3c01bf00 Right
+
+
+

@@ -1,0 +1,67 @@
+"Bakuso! Mountain Bikers /ID SCPS_150.62"
+//ELF CRC C4A09BAD
+Mastercode
+9025FB60 0C097E80
+
+
+//[Widescreen 16:9]
+
+//MTBikers: Bakusou Mountain Bikers Widescreen Hacks (by Aced14)
+
+//16:9 Widescreen
+
+101BBF70 00004401 //3C01442C - Shell Menu Master X FOV
+
+//20284FD0 434FC000 //438A8000 - Loading Screen Master X FOV
+//20284FF0 3F471C26 //3F15551D - Loading Screen Master Y FOV
+
+101B897C 00004401 //3C01442C - Title Menu Master X FOV
+2026FBD0 434FC000 //438A8000 - Tree Sprite Width #1
+2026FD10 434FC000 //438A8000 - Tree Sprite Width #2
+2026FD68 434FC000 //438A8000 - Tree Sprite Width #3
+
+101FAE80 00004401 //3C01442C - Bike Shop Menu Goggles Default Master X FOV (added to close-up float by game engine to produce a "final" close-up X FOV)
+101FAE68 000044D8 //3C014510 - Bike Shop Menu Goggles Close-up Master X FOV #1
+101FAE6C 0000C000 //34218000 - Bike Shop Menu Goggles Close-up Master X FOV #2
+E0030002 00A095D0 //Conditional live memory fixes for Bike Shop menu
+20A095D0 3FAA3D71 //00000000 - Bike Shop Top HUD Width (Live Memory)
+20A09610 3FAA3D71 //00000000 - Bike Shop Bottom HUD Width (Live Memory)
+20A60168 C2DE0000 //00000000 - Bike Shop Shadow Shape/Width (Live Memory)
+
+20284B70 3F206D3A //3EF0A3D7 - Menu Master Y FOV
+
+1016C6B0 0000434F //3C01438A - 1P P1 Master X FOV #1
+1016C6B4 0000C000 //34218000 - 1P P1 Master X FOV #2
+101AAD1C 0000434F //3C01438A - 1P P1 Replay Master X FOV #1
+101AAD20 0000C000 //34218000 - 1P P1 Replay Master X FOV #2
+202847B0 3F471C26 //3F15551D - 1P P1 Master Y FOV
+
+202849D0 43268000 //435E0000 - 2P Vertical P1 Master X FOV
+202849F0 3F471C26 //3F15551D - 2P Vertical P1 Master Y FOV
+20284A90 43268000 //435E0000 - 2P Vertical P2 Master X FOV
+20284AB0 3F471C26 //3F15551D - 2P Vertical P2 Master Y FOV
+
+20284850 434FC000 //438A8000 - 2P Horizontal P1 Master X FOV
+20284870 3F471C6A //3F155550 - 2P Horizontal P1 Master Y FOV
+20284910 434FC000 //438A8000 - 2P Horizontal P2 Master X FOV
+20284930 3F471C6A //3F155550 - 2P Horizontal P2 Master Y FOV
+
+20284C10 431D8000 //43520000 - 4P P1 Master X FOV
+20284C30 3F206D3A //3EF0A3D7 - 4P P1 Master Y FOV
+20284CD0 431D8000 //43520000 - 4P P2 Master X FOV
+20284CF0 3F206D3A //3EF0A3D7 - 4P P2 Master Y FOV
+20284D90 431D8000 //43520000 - 4P P3 Master X FOV
+20284DB0 3F206D3A //3EF0A3D7 - 4P P3 Master Y FOV
+20284E50 431D8000 //43520000 - 4P P4 Master X FOV
+20284E70 3F206D3A //3EF0A3D7 - 4P P4 Master Y FOV
+
+20284790 434FC000 //438A8000 - 2-4P P1-4 Paused Master X FOV
+
+
+//[No-Interlacing]
+description=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+2024B074 30420000
+
+
+

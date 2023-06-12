@@ -1,0 +1,73 @@
+"Hudson Selection Vol.3 - PC Genjin /ID SLPM_624.18"
+//ELF CRC 4043F228
+Mastercode
+90226D78 0C089B06
+
+
+//[Widescreen 16:9]
+
+//Widescreen hacks by gamemasterplc
+
+201602B0 03E00008 //Return from FMV Playback Function
+201602B4 00000000 //Delay Slot of Returning from FMV Playback Function
+20372FB0 00000340 //X Resolution (832)
+201617DC 24040340 //X Resolution for Video Mode Set (832)
+201785DC 080580AE //Jump to Playfield View Width Corrections
+201602B8 3C043FA6 //Load Playfield View Width Multiplier into A0
+201602BC 4484A800 //Load Playfield View Width Multiplier into F21
+201602C0 46156302 //Multiply Playfield View Width by Playfield View Width Multiplier
+201602C4 0805E179 //Jump Back to Original Code
+201602C8 46006D46 //Run Replaced Instruction
+20139AE4 3C01437C //Fruit Icons X Position (252.0f)
+20138018 3C014450 //Fadeout Width (832.0f)
+201396D8 240202C0 //X Position of Coin Icon in HUD (704)
+20139CF4 24060340 //Pause Screen Filter Width (832)
+20139D94 24070110 //Pause Screen Icons X Position
+2013AF34 3C014411 //Main Menu Circle Button Text X Position
+2013AFCC 3C014411 //Options Menu Circle Button Text X Position
+2013B064 3C01433A //Main Menu Cross Button Text X Position
+2013B6D4 3C01438D //Game Setup Menu Token Number X Position
+2013CC3C 3C014368 //Main Menu Header Text X Position
+2013CCD0 3C014368 //Game Setup Menu Header Text X Position
+2013CD14 3C014368 //Options Menu Header Text X Position
+2013DA5C 3C0143D5 //Music Player Boxes X Position
+2013F070 24020188 //Game Setup Menu Token Icon Number
+2014220C 3C0143D0 //X Position of Game Over Screen Text
+201422C0 24020178 //X Position of Game Over Screen Countdown
+2015ADBC 24060340 //Width of Renderware Logo During Fade In
+2015AE54 24060340 //Width of Static Renderware Logo
+2015AEE8 24060340 //Width of Renderware Logo During Fade Out
+2015D7F0 3C0143D0 //X Position of Score Bonus Number in Bonus Stage
+2015D888 3C014398 //X Position of Score Number in Bonus Stage
+2015D9B0 3C014350 //X Position of Score Text in Bonus Stage
+2015DB58 3C0143D0 //X Position of Score Bonus Text in Bonus Stage
+202377B0 43680000 //First Option Special Menu X Position
+202377B8 43858000 //Second Option Special Menu X Position
+202377C0 43970000 //Third Option Special Menu X Position
+202377C8 43A88000 //Fourth Option Special Menu X Position
+202377D8 43C20000 //First Option Options Menu X Position
+202377E0 43DE0000 //Second Option Options Menu X Position
+202377E8 43970000 //First Option Game Setup Menu X Position
+202377F0 43970000 //Second Option Game Setup Menu X Position
+202377F8 43858000 //First Option Main Menu X Position
+20237800 43970000 //Second Option Main Menu X Position
+20237808 43A88000 //Third Option Main Menu X Position
+2037D9F0 44460000 //Score X Position
+2037DA00 44460000 //Coin Number X Position
+2037DA20 43540000 //Pause Screen Score Text X Position
+2037DA30 44120000 //Pause Screen Score X Position
+2037DA40 440C0000 //Pause Screen Lives Number X Position
+2037DA50 440C0000 //Pause Screen Coins Number X Position
+2037DA60 43D00000 //Pause Screen Course Name X Position
+2037DA70 43D00000 //Pause Screen Course Name Subtitle X Position
+2037DCB0 43680000 //Main Menu Header Textbox X Position
+2037DD00 43D00000 //X Position of Memory Card Message
+2037DD30 43D00000 //X Position of Memory Card Screen Yes
+2037DD40 43D00000 //X Position of Memory Card Screen No
+2037DD70 44498000 //X Position of Loading Text
+2037F720 43D00000 //X Position of Bonus Stage Countdown Text
+2037F750 43D00000 //X Position of Bonus Stage Start Text
+2037FA10 43D00000 //X Position of End of Stage Text
+
+
+

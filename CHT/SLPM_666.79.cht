@@ -1,0 +1,23 @@
+"Devil Summoner - Kuzunoha Raidou tai Abaddon Ou [Plus] /ID SLPM_666.79"
+//ELF CRC D06BF8A6
+Mastercode
+9040E598 0C10390E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa and Red_Tv
+
+//fields and battles
+20427064 3fc65461  // 3f951eb8
+
+//event
+20427414 3fc65461  // 3f951eb8
+
+//black borders's fix (optional)
+//20116918 24040000
+//20106BE8 a380a213
+//201069CC 2404FF00
+
+
+

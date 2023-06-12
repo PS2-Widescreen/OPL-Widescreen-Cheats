@@ -1,0 +1,14 @@
+"God of War 2 /ID SCKA_300.06"
+//ELF CRC 4340C7C6
+Mastercode
+902D2160 0C0B4800
+
+
+//[Widescreen 16:9]
+
+//widescreen 16:9 (NTSC-K) hack by 99skull
+//credit goes to nemesis2000
+201770C8 3C013F0E //3C013F00, zoom
+
+
+

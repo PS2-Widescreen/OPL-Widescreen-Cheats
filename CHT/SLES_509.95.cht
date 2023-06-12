@@ -1,0 +1,15 @@
+"Fireblade /ID SLES_509.95"
+//ELF CRC E54C58DD
+Mastercode
+9020F140 0C083BF8
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+2055A430 3F400000 //3F800000 (Increases hor. axis)
+
+
+

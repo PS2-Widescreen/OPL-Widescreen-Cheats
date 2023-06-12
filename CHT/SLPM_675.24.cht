@@ -1,0 +1,18 @@
+"Armored Core 3 /ID SLPM_675.24"
+//ELF CRC D4B9D03C
+Mastercode
+902E2BF8 0C0B8AA6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (NTSC-K by Arapapa)
+
+// 16:9
+202e6dfc 3c013f40 // 00000000 hor fov
+202e6e08 44810000 // 00000000
+202e6e0c 4600c602 // 00000000
+2026c96c 3c0143d6 // 3c0143a0 renderfix
+
+
+

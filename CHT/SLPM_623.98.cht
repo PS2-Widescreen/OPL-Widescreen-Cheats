@@ -1,0 +1,20 @@
+"Simple 2000 Series Vol.39 - The Boku no Machizukuri - Machi-ing Maker++ /ID SLPM_623.98"
+//ELF CRC 95AC6A36
+Mastercode
+90110538 0C0440F6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+2012aecc 3c0a3f40 //3c0a3f80
+
+//Render Fix
+20186d44 3c033fb0 //3c033f80
+
+
+

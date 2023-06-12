@@ -1,0 +1,20 @@
+"Maximo /ID SLPM_645.04"
+//ELF CRC 7EA2F758
+Mastercode
+9019F388 0C067C8A
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by No.47 (pnach NTSC-K by Arapapa)
+
+//16:9
+
+//3333b33f 0000803f
+201D5C74 3FEEEEEE // 3fb33333
+
+//0000b443 00000000 00000000 00000000
+202557A0 43870000 // 43b40000
+
+
+

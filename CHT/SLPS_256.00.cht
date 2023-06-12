@@ -1,0 +1,16 @@
+"Samurai Champloo - Sidetracked /ID SLPS_256.00"
+//ELF CRC CED34955
+Mastercode
+9036CC90 0C0DB2CC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (pnach by Little Giant)
+
+// 16:9
+20140414 3c023fbd // 3c023f8e hor fov
+2014041c 3442a12e // 344238e4 hor fov
+
+
+

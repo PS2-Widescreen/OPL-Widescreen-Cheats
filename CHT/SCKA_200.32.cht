@@ -1,0 +1,35 @@
+"Syphon Filter - The Omega Virus /ID SCKA_200.32"
+//ELF CRC 3676E74C
+Mastercode
+9010F970 0C043E04
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (pnach by Arapapa)
+
+//gameplay
+2039a7d0 3c043f40
+2039a7d4 44841800
+2039a7d8 46030003
+2039a7dc 460318c3
+2039a7e0 46031840
+2039a854 e603007c
+
+//With and without the patch is wrong, but being stretched makes more sense with the game mechanics.
+//HUD fix (0500c310 5500013c 803f033c)
+//2039a68c 00000000
+//2039a694 3C033f40
+
+//FMV's fix
+2041cba4 24126c00 //24127100
+2041cbb0 24102800 //24101e00
+2041cbbc 24127600 //24127880
+2041cbc4 24101400 //24100f00
+
+//FMV's fix
+//2041cba4 24127600
+//2041cbc4 24101400
+
+
+

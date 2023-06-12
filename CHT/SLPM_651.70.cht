@@ -1,0 +1,21 @@
+"Shin Sangoku Musou 2 - Mushouden /ID SLPM_651.70"
+//ELF CRC 8A402027
+Mastercode
+901A6238 0C069836
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (16:9) by ElHecht (NTSC-J by Arapapa)
+
+//Widescreen 16:9
+
+//X-Fov
+2026c418 3faaaaab //3f800000
+2026c424 3faaaaab //3f800000
+
+//Render fix
+2017ed20 3c023f2b //3c023f00
+
+
+

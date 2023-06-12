@@ -1,0 +1,27 @@
+"La Pucelle /ID SLPS_201.67"
+//ELF CRC C4C80532
+Mastercode
+902083D8 0C08209E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas (NTSC-J by Arapapa)
+
+//Gameplay 16:9
+
+2020544c 3c013f40 //00000000 Hor fov 2D Backgrounds
+20205450 44810000 //00000000
+20205458 4600c602 //00000000
+
+20539270 45700000 //45A00000 Hor fov 3D Backgrounds (Memory value)
+
+//2D Characters fix
+//0040033c 00088344 f400a0c7
+202c4738 3c033fc0 //3c034000
+202c474c 3c023fc0 //3c024000
+202c4760 3c023fc0 //3c024000
+202c4774 3c023fc0 //3c024000
+
+
+

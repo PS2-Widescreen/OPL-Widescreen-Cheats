@@ -1,0 +1,26 @@
+"7 Blades /ID SLPM_650.08"
+//ELF CRC C4DD197F
+Mastercode
+903DE360 0C0F7880
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//0044013c 00608144 2044013c (4th)
+202f40c4 3c0143c0 //3c014400
+
+//Y-Fov
+//3333733f 00401c46 (4th)
+204ef9c4 3fa2221d //3f733333
+
+//X-Fov
+//803f013c 00608144 b0720e0c
+//203b3d14 3c013f40 //3c013f80 Needs render fix
+
+
+

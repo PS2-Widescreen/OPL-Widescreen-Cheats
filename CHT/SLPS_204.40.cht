@@ -1,0 +1,18 @@
+"Simple 2000 Series Vol.88 - The Mini Bijo Keikan /ID SLPS_204.40"
+//ELF CRC 8DD94147
+Mastercode
+901A5240 0C069438
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+201aab2c 3c013f40 //00000000
+201aab30 44810000 //00000000
+201aab38 4600c602 //00000000
+
+
+

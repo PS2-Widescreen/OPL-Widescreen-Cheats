@@ -1,0 +1,18 @@
+"Shin Sangoku Musou 5 Special /ID SLPM_550.82"
+//ELF CRC B1E138B6
+Mastercode
+90122850 0C0489BC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by 99skul (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+2014703c 3c024082 //3c024049
+20147b14 3c024082 //3c024049
+201471d0 3c0543a0 //3c054370
+
+
+

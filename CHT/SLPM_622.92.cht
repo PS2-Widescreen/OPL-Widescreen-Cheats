@@ -1,0 +1,23 @@
+"Warrior Blade - Rasten vs Barbarian /ID SLPM_622.92"
+//ELF CRC B195735F
+Mastercode
+902885B0 0C0A2114
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (NTSC-J by Arapapa)
+//Needs FULL BOOT. (If do not FULL BOOT, will be crashed.)
+
+//Widescreen hack 16:9
+
+//Gameplay
+//803f013c 00008144 00000000 00000000 03000146 (12th)
+2012c3ec 3c013f40 //3c013f80
+
+//2D Fix (Loading, Select Menu ,Upper Energy Bar and Pause Menu)
+//0000403f 00000000 00000080 00000000 00000080
+20534748 3f800000
+
+
+

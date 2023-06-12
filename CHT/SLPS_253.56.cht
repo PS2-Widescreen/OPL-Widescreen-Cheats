@@ -1,0 +1,27 @@
+"Broken Sword - Nenereru Ryuu no Densetsu /ID SLPS_253.56"
+//ELF CRC 7C45C11D
+Mastercode
+902D5AB0 0C0B5654
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (pnach by Arapapa)
+
+201b06d4 3c01bec0
+201b06dc 44813000
+
+201af644 00000000
+201af648 27bdffd0
+201af64c 3c01bf00
+201af650 44813800
+201af654 7fb00020
+201af658 ffbf0010
+201af65c 0080802d
+201af660 26060020
+201af664 c6000070
+201af668 8e020004
+201af66c 46060202
+
+
+

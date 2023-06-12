@@ -1,0 +1,18 @@
+"Sniper Elite /ID SLES_518.20"
+//ELF CRC EF47C233
+Mastercode
+90476DA8 0C11DB12
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa (Ported to PAL by El_Patas)
+
+//Zoom
+205015d0 3f9faaab //3eaaaaab
+
+//Y-FOV
+20502848 3fe38e2a //3faaaaab
+
+
+

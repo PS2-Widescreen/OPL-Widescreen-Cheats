@@ -1,0 +1,16 @@
+"Sangokushi Senki /ID SLPM_650.93"
+Mastercode
+9010D8C0 0C0435D8
+
+
+//[Widescreen 16:9]
+
+//widescreen 16:9 hack by 99skull (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+//803f023c 00008244 00000000 03001646 (1st)
+20198b54 3c023f40 //3c023f80
+
+
+

@@ -1,0 +1,20 @@
+"Thunder Strike - Operation Phoenix /ID SLPS_250.84"
+//ELF CRC 732086B9
+Mastercode
+9015A438 0C0568B6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20561a00 3f366666 //3f733333
+
+//Render Fix
+20561a14 42a00000 //424ccccd
+
+
+

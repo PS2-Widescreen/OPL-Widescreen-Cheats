@@ -1,0 +1,17 @@
+"Dukes of Hazzard, The - Return of the General Lee /ID SLUS_209.59"
+//ELF CRC FF2F701F
+Mastercode
+901AB798 0C06AD8E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (NTSC-U by Arapapa)
+
+//Gameplay 16:9
+
+203f8d00 3c013fc3 //3c013f92
+203f8d04 34210c2c //34214925
+
+
+

@@ -1,0 +1,22 @@
+"Disneys Stitch - Experiment 626 /ID SLKA_250.24"
+//ELF CRC 80B66618
+Mastercode
+90110E98 0C04434E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+//803f043c 80bf033c
+20237d84 3c03bfab //3c03bf80
+
+//Zoom
+//003f023c 1000bfff
+20237934 3c023f20 //3c023f00
+
+
+

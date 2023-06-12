@@ -1,0 +1,19 @@
+"U - Underwater Unit /ID SCPS_560.11"
+//ELF CRC C6AAF4D4
+Mastercode
+9020A558 0C0828FE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20100c3c 3c0143d5 //3c0143a0
+//Render Fix
+201f27b8 3c01c060 //3c01c000
+
+
+

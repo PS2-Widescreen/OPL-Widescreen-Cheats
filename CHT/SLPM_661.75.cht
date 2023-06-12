@@ -1,0 +1,21 @@
+"Akumajo Dracula - Yami no Juin /ID SLPM_661.75"
+//ELF CRC 237B84D3
+Mastercode
+90760C58 0C1D82BE
+//[Widescreen 16:9]
+
+
+//=Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+//gameplay
+20751a7c 3c013f40 //hor value
+20751a80 44810000
+20751a88 4600c602
+
+//FMV's fix
+20443f38 00000000
+20775a98 24056e40
+20775aa4 24072380
+
+
+

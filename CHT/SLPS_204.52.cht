@@ -1,0 +1,27 @@
+"Simple 2000 Series Ultimate Vol.30 - Kourin! Zokusha Goddo! /ID SLPS_204.52"
+//ELF CRC 5C432A3F
+Mastercode
+901DDF58 0C07777E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Wide Screen 16:9
+
+//Car X-Fov
+201afd0c 3c013f40 //00000000
+201afd10 44810000 //00000000
+201afd18 4600c602 //00000000
+
+//Background X-Fov
+20149e20 08079304
+201e4c10 46040843
+201e4c14 3c013f40
+201e4c18 4481f000
+201e4c1c 461e0842
+201e4c20 08052789
+
+
+

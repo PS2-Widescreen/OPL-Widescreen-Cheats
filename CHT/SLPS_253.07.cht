@@ -1,0 +1,28 @@
+"New Century GPX Cyber Formula - Road to the Infinity /ID SLPS_253.07"
+//ELF CRC BB22866C
+Mastercode
+90314DF8 0C0C5326
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f013c 00088144 2d200002
+20101418 3c013f2b //3c013f00
+
+//Y-Fov
+//03051446 0000a0e7
+20101434 080c75b8
+
+2031d6e0 46140503
+2031d6e4 3c013f40
+2031d6e8 4481f000
+2031d6ec 461ea502
+2031d6f0 0804050e
+
+
+

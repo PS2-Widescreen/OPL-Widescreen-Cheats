@@ -1,0 +1,18 @@
+"Sky Surfer /ID SLPS_200.12"
+//ELF CRC D0178C63
+Mastercode
+90164D60 0C059300
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+2024523c 3c013f40 //00000000
+20245240 44810000 //00000000
+20245248 4600c602 //00000000
+
+
+

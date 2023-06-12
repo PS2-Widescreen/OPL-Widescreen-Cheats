@@ -1,0 +1,49 @@
+"Persona 3 /ID SCKA_200.99"
+//ELF CRC BCD68B1E
+Mastercode
+905098D8 0C1425DE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 and devina (pnach by Arapapa)
+
+//16:9
+207afa1c 3fe38e38 // 3faaaaab
+
+//partial HUD fix by nemesis2000
+20106958 3c043f40
+20106960 00701821 // 24637d2c($1)
+20106964 24637d2c // recall $1 (NTSC-U 24637dac)
+2010696c 00000000
+20106970 24630004
+20106974 3c043f80
+
+//FMV's fix by nemesis2000
+2010aac0 1462000a
+2010aac8 3c02c294
+2010aacc 10000008
+2010aad0 00000000
+2010aaec 3c02c1a8
+2010ab00 00000000
+
+//persona art fix by devina and nemesis2000
+//003f033c 3001a3af 3401a0af 7001a0af 803f023c
+2011455c 3c033ec0 // 3c033f00
+2011456c 3c023f90 // 3c023f80
+
+//Font fix by nemesis2000 (causes spacing errors)
+//2039ce64 00118903
+//2039ce68 02338818
+//2039ce70 8E93001c
+//2039cf18 82970003
+//2039d064 24130015
+
+//2039f2ec 2415000c
+//2039f304 3c0241a8
+//2039f330 01154018
+//2039f334 00084103
+//2039f338 0100a82d
+
+
+

@@ -1,0 +1,23 @@
+"SOCOM - U.S. Navy SEALs /ID SCKA_200.07"
+//ELF CRC 5189BE5B
+Mastercode
+9015A838 0C0569B6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (NTSC-K by Arapapa)
+
+// 16:9
+2014f64c 3c013f40 // 00000000 ver fov
+2014f650 4481e800 // 00000000
+2014f658 461dbdc3 // 00000000
+
+201c8590 4614a083 // 3c023f80 zoom gameplay
+201c85a0 461d0002 // 44821000 zoom gameplay
+
+201c7d94 4614a103 // 3c023f80 zoom cut-scenes
+201c7da4 461d1082 // 44822000 zoom cut-scenes
+
+
+

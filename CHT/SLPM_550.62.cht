@@ -1,0 +1,22 @@
+"Jikkyou Powerful Major League 3 /ID SLPM_550.62"
+//ELF CRC 99E75AF9
+Mastercode
+9069BDD8 0C1A6F1E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen 16:9
+
+//Gameplay
+//2044023c 00088244 f043023c
+201336ac 3c024455 //3c024420
+201336b0 34425555 //44820800
+201336b4 44820800 //3c0243f0
+201336b8 3c0243f0 //44911000
+201336bc 44911000 //00000000
+
+
+

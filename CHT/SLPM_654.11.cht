@@ -1,0 +1,16 @@
+"Onimusha Buraiden /ID SLPM_654.11"
+//ELF CRC 1483D6B9
+Mastercode
+90282CB8 0C0A0AD6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by VIRGIN KLM (NTSC-J by Arapapa)
+
+//Widescreen
+204fa0c0 3F400000 //3F800000
+//00 00 80 3F 00 00 00 3F 00 00 00 3F 00 00 80 40 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 00 00 00 00 20 44 00 00 E0 43 00 00 20 44 00 00 60 43
+
+
+

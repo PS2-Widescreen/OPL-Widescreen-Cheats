@@ -1,0 +1,22 @@
+"Mana-Khemia - Gakuen no Renkinjutsu Shitachi /ID SLPM_667.48"
+//ELF CRC B60D30B6
+Mastercode
+9046C600 0C11B128
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (NTSC-J by Arapapa)
+
+//3D scenes
+20468da4 3c013f40 //hor value
+20468da8 44810000
+20468db0 4600c602
+
+//battle's fix
+20b8c1b4 44400000 //right side fix
+20b8c1bc c4400000 //left side fix
+20b8b4fc 3faaaaab //menu fix
+
+
+

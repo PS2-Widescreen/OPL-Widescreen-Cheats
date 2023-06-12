@@ -1,0 +1,38 @@
+"Rocky /ID SLPM_654.63"
+//ELF CRC 78865F28
+Mastercode
+90118AF8 0C046266
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//D0 14 00 00 00 00 00 00 00 00 80 3F 00 00 00 3F
+2025bc98 3f400000
+
+//Rener fix
+2025BBA0 43e00000
+
+//No Interlacing patch by Prafull
+//fix shaking issue ingame
+//38290500 08004264
+//2010b03c 00000000 //64420008
+
+/////////////////////////////////
+//Zoom
+//2012199c 3c013fab //3c013f80
+
+//Y-Fov
+//201b4b2c 08030000 //e63d0014
+//200c0000 3c013f40
+//200c0004 4481f000
+//200c0008 461eef43
+//200c000c e63d0014
+//200c0010 0806d2cc
+
+
+

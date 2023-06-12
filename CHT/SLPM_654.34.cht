@@ -1,0 +1,27 @@
+"Battle Gear 3 /ID SLPM_654.34"
+//ELF CRC AC9F1FC0
+Mastercode
+90242B38 0C090A76
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by No.47
+202C9B74 3F400000
+
+
+//[No-Interlacing]
+description=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+20100360 AF8095A4
+2023E3DC 00000000
+2023E464 00000000
+E002FFFC 00304C42
+202C8EB8 00000001
+202C8EC0 000010A8
+E002FFFA 00304C42
+202C8EB8 00000003
+202C8EC0 00001000
+
+
+

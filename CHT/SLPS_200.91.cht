@@ -1,0 +1,22 @@
+"Gekisha Boy 2 /ID SLPS_200.91"
+//ELF CRC E0B85063
+Mastercode
+90184498 0C0610CE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack  by Arapapa
+
+//Widescreen hack 16:9
+
+2017b3cc 3c013f40 //00000000
+2017b3d0 44810000 //00000000
+2017b3d8 4600c602 //00000000
+
+//Rende fix
+2011814c 3c01428C //3c014248
+20118264 3c014340 //3c014248
+
+
+

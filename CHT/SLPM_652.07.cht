@@ -1,0 +1,21 @@
+"Chou Battle Houshin /ID SLPM_652.07"
+//ELF CRC 83945660
+Mastercode
+902E4D48 0C0B92FA
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20107414 3c013f40 //3c013f80 (Event)
+2012a67c 3c013f40 //3c013f80 (Gameplay)
+
+//Y-Fov
+202c6f40 3c013fab //3c013f80
+
+
+

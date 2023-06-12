@@ -1,0 +1,25 @@
+"Chaos Legion /ID SLKA_250.26"
+//ELF CRC AD0C84EA
+Mastercode
+9020E6D0 0C08395C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (NTSC-K by Arapapa)
+
+//Wide 16:9
+20242a1c 3c013f40
+20242a2c 4481d800
+20242a30 460fdec2
+
+//Render fix
+20242b34 3c0243ab
+20228064 3c023fab
+
+//FMV's fix
+20328a04 3c026fb0
+20328914 241e77d0
+
+
+

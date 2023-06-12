@@ -1,0 +1,28 @@
+"Mark Davis Pro Bass Challenge /ID SLUS_206.46"
+//ELF CRC 5744D227
+Mastercode
+9010BAB8 0C042E56
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//aa3f023c abaa4234 00008344 00608244 (1st)
+201af938 3c023fe3 //3c023faa
+201af93c 34428e2a //3442aaab
+
+//Zoom
+//201c2b58 3c023f40 //3c023f80
+//201c8dc0 3c023f40 //3c023f80
+
+//Y-Fov ???
+//201c3210 3c023f40 //3c023f80
+//???
+//201c9048 3c053f00 //3c053f80
+
+
+

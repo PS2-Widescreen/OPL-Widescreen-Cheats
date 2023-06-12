@@ -1,0 +1,17 @@
+"Shin Sangoku Musou 4 /ID SLPM_658.90"
+//ELF CRC 421A1DC6
+Mastercode
+901228D0 0C0489DC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+20147038 3c0243d6 //3c0243a0
+201b12d8 3c023f2b //3c023f00
+
+
+

@@ -1,0 +1,17 @@
+"Crimson Tears /ID SLPM_655.75"
+//ELF CRC 78E20421
+Mastercode
+902B70B8 0C0ADBD6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by ElHecht (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+//aabf023c 00008544 abaa4334
+201bb828 3c02bfe3 //3c02bfaa hor fov
+201bb830 34438e39 //3443aaab hor fov
+
+
+

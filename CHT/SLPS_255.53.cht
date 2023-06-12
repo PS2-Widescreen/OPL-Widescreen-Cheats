@@ -1,0 +1,18 @@
+"Yoshitsune Eiyuuden Shura /ID SLPS_255.53"
+//ELF CRC 7B29DC24
+Mastercode
+9010FF70 0C043F84
+//[Widescreen 16:9]
+
+
+//Widescreen Hack
+
+//gameplay
+2013d504 3c023f19
+2013d508 3443999a
+
+//render fix
+2013d764 3c0343d6
+
+
+

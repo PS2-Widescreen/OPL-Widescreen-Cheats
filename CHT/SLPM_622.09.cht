@@ -1,0 +1,18 @@
+"Gigantic Drive /ID SLPM_622.09"
+//ELF CRC E6E4CC91
+Mastercode
+90220D38 0C0882F6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hacks by ElHecht (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+201958c4 3c033f40 //3c033f80
+201f3868 3c023f40 //3c023f80
+201fc5a8 3c023f40 //3c023f80
+
+
+

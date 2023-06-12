@@ -1,0 +1,14 @@
+"Time Crisis 3 /ID SCKA_200.15"
+//ELF CRC A6993EA8
+Mastercode
+9025D718 0C09756E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (pnach by Arapapa)
+
+21EAC04C 3f400000 // 3f800000
+
+
+

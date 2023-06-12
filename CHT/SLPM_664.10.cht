@@ -1,0 +1,23 @@
+"Brothers In Arms - Earned In Blood /ID SLPM_664.10"
+//ELF CRC 22C2AC43
+Mastercode
+9012EAB0 0C04BA54
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (pnach by Arapapa)
+
+//gameplay
+202f292c 3c023f40
+
+//menu font fix
+203c757c 3c033f40
+203c7584 3c033f80
+203c7588 44830800
+203c758c ae63010c
+203c7590 c6600108
+203c7594 46010036
+
+
+

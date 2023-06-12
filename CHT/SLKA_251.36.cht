@@ -1,0 +1,25 @@
+"Need for Speed - Underground /ID SLKA_251.36"
+//ELF CRC C5D0EBD2
+Mastercode
+903B9898 0C0EE5CE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (NTSC-Kby Arapapa)
+
+//Widescreen hack 16:9
+
+//0000803f 0000803f cdcc4c3f
+2050b0b4 3f400000 //3f800000
+2050b2a8 3f2aaaaa //3f000000
+2050b2b0 3f2aaaaa //3f000000
+
+//FMV's fix
+2022cf88 3c01bf2a //3c01bf00
+2022cf8c 44816800 //44816000
+2022CFBC 46007307
+2022CFC0 46006bc7
+
+
+

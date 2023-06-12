@@ -1,0 +1,36 @@
+"Harry Potter to Himitsu no Heya /ID SLPM_680.05"
+//ELF CRC E90BE9F8
+Mastercode
+904D8418 0C1360AE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+204ca808 3c013f24 //3c013f49
+204ca80c 34210000 //34210fda
+
+//Y-Fov
+204e8f30 3c013fe3 //3c013faa
+204e8f34 34218e2a //3421aaab
+
+//Button fix
+2031cb9c 3c013fd0 //3c013f9c
+2031cba0 342197af //342171c7
+
+
+//Font Y-Fov
+20541914 3B0882F1 //3acccccd
+
+//Font Y-Position
+20541934 bf000000 //bec00000
+
+//Font Zoom
+2054193c 3faaaaab //3f800000
+
+
+

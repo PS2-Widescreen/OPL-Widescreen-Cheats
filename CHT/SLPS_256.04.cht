@@ -1,0 +1,29 @@
+"Ar Tonelico - Sekai no Owari de Utai Tsudukeru Shoujo /ID SLPS_256.04"
+//ELF CRC C77C957B
+Mastercode
+90345C38 0C0D16B6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (pnach by Arapapa)
+
+//3D scenes
+203424B4 3c013f40 //hor value
+203424B8 44810000
+203424C0 4600c602
+
+//battle's fix
+20A77B74 44400000 //right side fix
+20A77B7C c4400000 //left side fix
+
+//2D scenes
+201A24E8 3c014440 //hor value
+201A24EC 44810800
+201A24F0 46010042
+201A24F4 e6810090
+201A24F8 3c014480 //vert value
+201A24FC 44810800
+
+
+

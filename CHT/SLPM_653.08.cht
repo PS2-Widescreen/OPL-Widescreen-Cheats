@@ -1,0 +1,21 @@
+"Shutokou Battle 01 /ID SLPM_653.08"
+//ELF CRC DD70E38F
+Mastercode
+90118BD0 0C04629C
+//[Widescreen 16:9]
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+201411f8 3c043f53
+20141200 34883333
+
+
+//[No-Interlacing]
+gsinterlacemode=1
+//No Interlacing Patch by Tokman5
+//No Interlace
+20131664 34020000 //DC221000
+
+
+

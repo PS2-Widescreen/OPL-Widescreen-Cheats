@@ -1,0 +1,64 @@
+"Dragon Shadow Spell /ID SLPS_257.35"
+//ELF CRC 8B8B97C8
+Mastercode
+90309DD0 0C0C271C
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+//Zoom (In Battle Field)
+2011dce4 3c023fab //3c023f80
+//2011dc80 3c034300 //3c034380
+//202d0b80 3c023fc0 //3c024000
+//Y-Fov (In Battle Field)
+2011de44 3c033fab //3c033f80
+
+//2D Characters X-Position
+201b8450 3c024350 //3c024330  Right
+201b83b0 3c02c350 //3c02c330  Left
+
+//2D Characters X-Position (In the Hallway of Phantom Ship)
+202d3568 3c024354 //3c024334 Right
+202d3580 3c02c354 //3c02c334 Left
+
+//2D Characters's Shadow Position when conversation at the Deck
+201b83f4 3c02c358 //3c02c338
+
+//2D Characters Position (Chapter 8: After Earthquake in the RA's Pyramid Garden)
+201b7dfc 3c02c350 //3c02c330  Left
+201b7eac 3c024350 //3c024330  Right
+
+//2D Characters X-Fov
+20A021F0 3f400000 //Left
+20A024E0 3f400000 //Right
+
+//2D Characters X-Fov (In the Hallway of Phantom Ship)
+21A26750 3f400000 //Left
+21A265D0 3f400000 //Right
+
+//2D Characters's Shadow X-Fov when conversation at the Deck
+201b8334 3c023f41 //3c023f81
+201b8338 3442eb85 //344247ae
+
+//Fix Background Picture of Meihensu Area 51
+20405724 40000000
+
+
+
+////////////////////////////////////////////////////////////////////
+//X-Fov (All of Scene except battle)
+//(Needs a fix of characters Icon in the battle field and render fix)
+//4c3f023c 803f033c cdcc4234
+//2011d968 3c023f19 //3c023f4c
+//2011d970 3442999a //3442cccd
+
+//2D Characters X-Fov (Needs fix a Text Box)
+//2034bf00 3f400000 //3f800000
+
+
+

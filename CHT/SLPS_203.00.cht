@@ -1,0 +1,21 @@
+"Mobile Suit - Gundam Seed /ID SLPS_203.00"
+//ELF CRC A8700356
+Mastercode
+9010CB78 0C043286
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+//X-Fov (Little zoom out than original)
+2015f198 3c02442A //3c024400
+
+//Zoom in (Fix zoom scale)
+20129b6c 3c024414 //3c024400
+
+
+

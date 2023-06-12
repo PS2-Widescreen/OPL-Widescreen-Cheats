@@ -1,0 +1,18 @@
+"WWE SmackDown! - Shut your mouth /ID SLKA_250.30"
+//ELF CRC 43E396A7
+Mastercode
+9010E6C0 0C043958
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (NTSC-K by Arapapa)
+
+//Widescreen hack 16:9
+
+201035e4 3c013f40 //00000000
+201035f0 44810000 //00000000
+201035f4 4600c602 //00000000
+
+
+

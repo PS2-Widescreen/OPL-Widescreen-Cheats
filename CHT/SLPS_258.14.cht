@@ -1,0 +1,28 @@
+"Shinseiki GPX Cyber Formula - Road to the Infinity 4 /ID SLPS_258.14"
+//ELF CRC BE7343FD
+Mastercode
+9011E058 0C0477BE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+201883b0 08030000 //c602000c
+
+200c0000 c602000c
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e1082
+200c0010 080620ed
+
+//Render fix
+20188268 3c013fab //00000000
+2018826c 4481f800 //00000000
+20188274 461fad42 //00000000
+
+
+

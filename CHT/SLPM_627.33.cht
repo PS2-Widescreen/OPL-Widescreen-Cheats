@@ -1,0 +1,20 @@
+"Garfield - Saving Arlene /ID SLPM_627.33"
+//ELF CRC AECEA18C
+Mastercode
+90183510 0C060CEC
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//zoom
+2010ecb4 3c033f40 //3c033f80
+
+//fov
+2010edbc 3c033f40 //3c033f80
+
+
+

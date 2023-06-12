@@ -1,0 +1,21 @@
+"Boukoku no Aegis 2035 - Warship Gunner /ID SLPM_660.60"
+//ELF CRC 13D53A3F
+Mastercode
+901F7D00 0C07DEE8
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//0000803f 00000000 16177070 17167170 (1st)
+2024e048 3f400000 //3f800000 X-Fov
+
+//Memory Hack
+//0000803f 6566663f 0000803f 0000803f 6566663f 0000803f
+//20294184 3f400000 //3f800000
+
+
+

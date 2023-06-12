@@ -1,0 +1,16 @@
+"Metal Gear Solid 3 - (Disc 2) Persistence /ID SLPM_662.21"
+//ELF CRC 3406B985
+Mastercode
+00000000 00000000
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+20204f24 3f400000 //3f800000
+
+
+

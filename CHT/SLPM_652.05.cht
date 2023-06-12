@@ -1,0 +1,25 @@
+"Spider-Man /ID SLPM_652.05"
+//ELF CRC 359EA298
+Mastercode
+90577220 0C15DC30
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+2058c6d4 3FE38E2A //3faaaaab
+
+//Zoom
+//0e3c013c 2efa2134 (1st)
+202ebe64 3c013c28
+//202ebe68 3421a0ba
+
+//X-Fov (Needs render Fix)
+//202ebf6c 3c013f40 //3c013f80
+
+
+

@@ -1,0 +1,44 @@
+"Kamen Rider Kabuto /ID SLPS_204.83"
+//ELF CRC E4614547
+Mastercode
+901AF618 0C06BD2E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Cutscene Zoom
+//803f013c 00a88144 01a50046
+2011b54c 3c013fab //3c013f80
+
+/Cutscene Y-Fov
+//00008044 32d00046
+2011b590 08030008
+200c0020 44800000
+200c0024 3c013f40
+200c0028 4481f000
+200c002c 461ead42
+200c0030 08046d65
+
+//Gameplay X-Fov
+201980c4 08030010
+200c0040 c78d8c84
+200c0044 3c013f40
+200c0048 4481f000
+200c004c 461e6b42
+200c0050 08066032
+
+///////////////////////////////////
+/Gameplay Zoom
+//20108f30 3c014400 //3c01447a
+//Menu Zoom
+//20143f54 3c014400 //3c01447a
+//Menu Zoom
+//003f013c 00088144 e0ffbd27
+//20135148 3c013ec0 //3c013f00
+
+
+

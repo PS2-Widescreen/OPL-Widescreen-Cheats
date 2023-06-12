@@ -1,0 +1,17 @@
+"Sidewinder F /ID SLPM_675.38"
+//ELF CRC 6C5DCBDC
+Mastercode
+902ABB78 0C0AAE86
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by El_Patas (NTSC-K by Arapapa)
+
+//Gameplay 16:9
+
+2014e438 3c0143c0 //3c014400
+201004b0 3c0143b4 //3c0143f0
+
+
+

@@ -1,0 +1,16 @@
+"Driving Emotion Type-S /ID SLES_500.73"
+//ELF CRC 8398DAF3
+Mastercode
+90298938 0C0A61F4
+
+
+//[Widescreen 16:9]
+
+//Widescreen patch by FlatOut
+
+//16:9
+20466528 3F400000
+202C6C04 40778000 // render fix
+
+
+

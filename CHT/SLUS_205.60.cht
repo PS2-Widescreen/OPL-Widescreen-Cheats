@@ -1,0 +1,21 @@
+"Galerians - Ash /ID SLUS_205.60"
+//ELF CRC = B506C936
+
+Mastercode
+902158B8 0C0855D6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack
+201e0100 3c013f40
+
+
+//[No-Interlacing]
+description=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+201F0D5C 30420000
+201F112C 00000000
+
+
+

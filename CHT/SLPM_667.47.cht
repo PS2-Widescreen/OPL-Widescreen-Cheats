@@ -1,0 +1,33 @@
+"Baroque /ID SLPM_667.47"
+//ELF CRC 3CE1316C
+Mastercode
+9021F898 0C087DCE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (pnach NTSC-J by Arapapa)
+
+// 16:9(803f033c 00c0053c 00288344 00000000 83280246)
+20398fe4 3c033f40 // 3c033f80 hor fov
+20398fec 4483f000 // 44832800
+20398ff0 461ef143 // 00000000
+20398ff4 4602f083 // 46022883
+
+//NTSC-J... did not found "3f947ae1"
+//2044cf30 3f5eb852 // 3f947ae1 subtitle hor fov
+
+//(6040053c c040033c 2c0085ac)
+20164830 3c054028 // 3c054060 hud hp/vt
+
+//(2040053c c040033c 2c0085ac)
+20164870 3c053ff0 // 3c054020 hud hp/vt
+
+// effects(803f013c 00108144 42180546)
+//20231ed4 3c014500 // 3c013f80 remove ghosting effect
+
+//b000a427 803f023c 00688344 00888244
+//2010f6e0 3c023e80 // 3c023f80 remove grain effect
+
+
+

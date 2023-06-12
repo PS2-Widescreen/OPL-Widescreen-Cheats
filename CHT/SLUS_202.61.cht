@@ -1,0 +1,22 @@
+"ESPN - NBA 2 Night 2002 /ID SLUS_202.61"
+//ELF CRC 162CDF86
+Mastercode
+9013C2D8 0C04F05E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix Hack
+20122ed4 3c013f40 //00000000
+20122ed8 44810000 //00000000
+20122ee0 4600c602 //00000000
+
+//Render fix
+20122ef8 3c013f40 //3c013f80
+
+
+

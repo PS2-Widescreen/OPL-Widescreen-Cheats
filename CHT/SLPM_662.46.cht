@@ -1,0 +1,39 @@
+"Shin Megami Tensei - Devil Summoner - Kuzunoha Raidou /ID SLPM_662.46"
+//ELF CRC 67D76160
+Mastercode
+90395518 0C0E54EE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa and Red_Tv
+
+//fields and battles
+203aca64 3fc65461  // 3f951eb8
+
+//event
+203ace14 3fc65461  // 3f951eb8
+
+//black borders's fix (optional)
+//201068CC 2404FF00
+//201C8EF8 24040000
+//20114310 24040000
+//20106AD8 a3809b13
+
+
+//[No-Interlacing]
+gsinterlacemode=1
+//progressive scan by Red_Tv
+203575a8 00000000 //007c1021
+20376c4c 24110000 //00058c03
+20376c50 24120050 //00069403
+20376c54 24020001
+2035b4d8 00000000 //a382db52
+
+
+//[60 FPS]
+//60 FPS by Red_Tv
+2011b560 10000006 //14400006
+
+
+

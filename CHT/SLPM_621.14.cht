@@ -1,0 +1,28 @@
+"Crash Bandicoot 4 - Sakuretsu! Majin Power /ID SLPM_621.14"
+//ELF CRC F8643F9B
+Mastercode
+9027DF88 0C09F78A
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen 16:9
+
+//X-Fov
+//42c81446 140074e6 380060e6
+201125ec 0805bc76
+
+2016f1d8 4614c042
+2016f1dc 3c013f40
+2016f1e0 4481f000
+2016f1e4 461e0842
+2016f1e8 00000000
+2016f1ec 0804497c
+
+//Render fix
+20114f50 3c013f40 //3c013f80
+
+
+

@@ -1,0 +1,22 @@
+"Island Xtreme Stunts /ID SLUS_205.75"
+//ELF CRC BC910F04
+Mastercode
+902A0130 0C0A7FF4
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by by Arapapa
+
+//Widescreen hack 16:9
+
+2021eec4 3c013f40 //00000000
+2021eec8 44810000 //00000000
+2021eed0 4600c602 //00000000
+
+//Render Fix
+//803f013c 00088144 01b91646
+20220f40 3c013fab //3c013f80
+
+
+

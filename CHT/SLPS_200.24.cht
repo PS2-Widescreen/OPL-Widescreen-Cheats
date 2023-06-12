@@ -1,0 +1,17 @@
+"Hresvelgr /ID SLPS_200.24"
+//ELF CRC DA21B99E
+Mastercode
+90283928 0C0A0DF0
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+// 16:9 (00000000 00000000 43ad1346 00000000)
+202810b4 3c013f40 // 00000000 hor fov
+202810b8 44810000 // 00000000
+202810c0 4600c602 // 00000000
+
+
+

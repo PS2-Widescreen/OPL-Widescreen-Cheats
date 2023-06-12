@@ -1,0 +1,35 @@
+"Densha de Go! Final /ID SLPM_655.90"
+//ELF CRC F93AB3D0
+Mastercode
+9010E378 0C043886
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+2017a710 3c023f40 //3c023f80
+
+//Y-Fov
+2017a738 3c023f2a //3c023f00
+
+//Render Fix
+//20138140 3c024400 //3c024316
+
+//Distance Render
+//201b2454 3c024000 //3c024100
+
+//201b3190 3c024000 //3c024270
+
+
+
+//20129984 3c023fa0 //3c024000
+
+//Render
+//2017a794 3c0241c0
+
+
+

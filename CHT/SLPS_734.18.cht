@@ -1,0 +1,21 @@
+"Shadow Hearts [PlayStation 2 The Best] /ID SLPS_734.18"
+//ELF CRC DDFB18B0
+Mastercode
+9020DFD8 0C08379E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack
+
+//Widescreen hack 16:9
+2028cec0 3c043f40 //3c043f80
+20281d64 3c023f40 //3c023f80
+
+//Status screen and souls information. plus optional font size reduction (disabled by default) by sergx12
+2039e670 3c023f40 //3c023f80
+203d37a4 3c023f40 //3c023f80
+203ec3dc 3c023f40 //3c023f80
+
+
+

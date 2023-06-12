@@ -1,0 +1,46 @@
+"Baldurs Gate - Dark Alliance II /ID SLPM_658.45"
+//ELF CRC C3B698F9
+Mastercode
+902EE658 0C0BB93E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+//vert fov-
+//ee3e013c f0ee2134 (NTSC-U efee2134)
+201eb818 3c013f1f //3c013eee
+201eb81c 342149f1 //3421eef0
+2023cf74 3c013f1f //3c013eee
+2023cf78 342149f1 //3421eef0
+2027c63c 3c013f1f //3c013eee
+2027c640 342149f1 //3421eef0
+202c5020 3c013f1f //3c013eee
+202c5024 342149f1 //3421eef0
+
+//both fov+
+//1
+201eb82c 3c014440 //3c014480
+
+//2
+2023cf84 3c014440 //3c014480
+2027c64c 3c014440 //3c014480
+
+//3
+202c5030 3c014440 //3c014480
+
+//render fix
+202c0efc 3c013ff0 //3c013faa
+202c0f00 34210000 //34213d71
+202c4c64 3c013ff0 //3c013faa
+202c4c68 34210000 //34213d71
+//202c0efc 3c013de3 //3c013faa
+//202c0f00 3421f70a //34213d71
+//202c4c64 3c013fe3 //3c013faa
+//202c4c68 3421f70a //34213d71
+
+
+

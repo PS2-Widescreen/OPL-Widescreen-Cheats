@@ -1,0 +1,24 @@
+"Tetsu-One Train Battle /ID SLPS_201.00"
+//ELF CRC 0C800C9B
+Mastercode
+9010D378 0C043486
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+2019fc60 08030000
+200c0000 3c013f40
+200c0004 4481f000
+200c0008 c6010068
+200c000c c602006c
+200c0010 461e0843
+200c0014 e6010068
+200c0018 08067f1a
+
+
+

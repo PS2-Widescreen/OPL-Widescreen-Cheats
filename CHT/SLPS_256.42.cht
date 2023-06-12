@@ -1,0 +1,21 @@
+"Super DragonBall Z /ID SLPS_256.42"
+//ELF CRC 197E9907
+Mastercode
+90177D50 0C05DEFC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+202b0f04 3c023f10 //3c023f40
+
+
+//[No-Interlacing]
+description=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+20104B88 AC6002D0
+
+
+

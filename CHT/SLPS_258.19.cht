@@ -1,0 +1,50 @@
+"Ar Tonelico IISekai ni Hibiku Shoujo Tachi no Souzoushi /ID SLPS_258.19"
+//ELF CRC 68CE6801
+Mastercode
+902BECA0 0C0AFAD0
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (NTSC-J by Arapapa)
+
+//3D scenes
+202bab2c 3c013f40 // hor value
+202bab30 44810000
+202bab38 4600c602
+
+//battle fix
+209dcb04 44400000 // right side fix
+209dcb0c c4400000 // left side fix
+
+//2D scenes
+201a95e0 3c014480
+201a95e8 44811800
+201a95ec 3c014a00
+
+201a95f0 44812000
+201a95f4 e7a40044
+201a95f8 e7a3004c
+201a95fc 3c01c480
+
+201a9600 44811000
+201a9604 3c0e009e // NTSC-U 3c0e00a0
+201a9608 25ced9c4 // NTSC-U 25ce148c
+201a960c e7a40040
+
+201a9610 46020882
+201a9614 c5c00000
+201a9618 e7a00048
+201a961c 46030842
+
+201a9620 46051082
+201a9624 46050842
+201a9628 e7a20038
+201a962c e7a10024
+
+201a9630 3c013f40 // hor value
+201a9634 44813000
+201a9638 46060842
+
+
+

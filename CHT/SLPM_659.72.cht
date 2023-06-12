@@ -1,0 +1,19 @@
+"Constantine /ID SLPM_659.72"
+//ELF CRC 25D968B0
+Mastercode
+90415958 0C1055FE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//X-Fov - ELF hack
+//803f013c 00108144 0c00438e
+202b7b90 3c013f40 //3c013f80
+
+//Memory Hack
+//2081B7F4 3F400000 // 3F800000
+
+
+

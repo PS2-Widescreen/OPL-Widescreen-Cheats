@@ -1,0 +1,15 @@
+"Dark Chronicle /ID SCPS_150.33"
+//ELF CRC 712A8AD1
+Mastercode
+90112810 0C0449AC
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (pnach NTSC-J by Arapapa)
+
+// 16:9 (803f023c d00002ae d0000426)
+20138e28 3c023f40 // 3c023f80
+
+
+

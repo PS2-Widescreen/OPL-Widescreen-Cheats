@@ -1,0 +1,16 @@
+"Pro Yakyuu Spirits 2010 /ID SLPM_552.52"
+Mastercode
+90121518 0C0484EE
+
+
+//[Widescreen 16:9]
+
+//16:9 widescreen hack
+//16:9 widescreen hack by 99skull
+2014C4C8 3C013F2A //vert fov
+2014C500 44819800 //vert fov
+2014C50C 46009802 //vert fov
+2014C6A8 3C053FAA //3C053F80 zoom
+
+
+

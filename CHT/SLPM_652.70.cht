@@ -1,0 +1,18 @@
+"Virtua Fighter 4 - Evolution /ID SLPM_652.70"
+//ELF CRC AB01411F
+Mastercode
+9010C478 0C0430C6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (NTSC-J by Arapapa)
+
+// 16:9
+202fb184 3c194455 // 3c034420 hor fov
+202fb18c 37395555 // 44830800 hor fov
+202fb1a4 44990800 // 00000000
+20214918 3c024456 // 3c024420 renderfix
+
+
+

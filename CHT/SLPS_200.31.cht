@@ -1,0 +1,20 @@
+"Mechsmith, The - Run-Dim /ID SLPS_200.31"
+//ELF CRC 11F352FC
+Mastercode
+9020CE30 0C083332
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+//X-Fov
+2022af4c 3c023f40 //3c023f80
+
+//Render fix
+2022af10 3c0243d7 //3c0243a0
+
+
+

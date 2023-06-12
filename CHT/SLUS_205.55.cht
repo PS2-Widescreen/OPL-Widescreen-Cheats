@@ -1,0 +1,17 @@
+"Reel Fishing 3 /ID SLUS_205.55"
+//ELF CRC EA3B2269
+Mastercode
+90113038 0C044BB6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+2012bfdc 3c063f40 //3c063f80 X-Fov
+2012bff0 3c0343e0 //3c0343a0 Render Fix
+
+
+

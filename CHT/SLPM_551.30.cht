@@ -1,0 +1,25 @@
+"Pro Yakyuu Spirits 5 Kanzenban /ID SLPM_551.30"
+//ELF CRC 87E781EC
+Mastercode
+90121498 0C0484CE
+
+
+//[Widescreen 16:9]
+
+//16:9 widescreen hack by 99skull (pnach by Arapapa)
+//Search values are apply to other series games
+
+//00000000 41b81946 803f083c
+2014f0b8 3C013F2A //00000000 vert fov
+
+//00000000 42100146 07000046
+2014f0f0 44819800 //00000000 vert fov
+
+//02100046 42081546
+2014f0fc 46009802 //46001002 vert fov
+
+//803f053c 82c80146
+2014f298 3C053FAA //3C053F80 zoom
+
+
+

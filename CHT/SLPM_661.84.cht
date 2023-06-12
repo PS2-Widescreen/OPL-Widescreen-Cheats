@@ -1,0 +1,16 @@
+"Ikusa Gami /ID SLPM_661.84"
+//ELF CRC 6BC8DA64
+Mastercode
+90115350 0C04547C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (pnach by Little Giant)
+
+// 16:9
+20132e6c 3c023f80 //3c023faa
+20132e70 344a0000 //344aaaaa
+
+
+

@@ -1,0 +1,15 @@
+"Monster Farm 5 /ID SLPS_255.85"
+//ELF CRC CC1E5592
+Mastercode
+9031A418 0C0C68AE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Little Gaint
+
+204EFEEC 3F19999A //3F4CCCCD hor
+20590D94 43E00000 //43A00000 render fix
+
+
+

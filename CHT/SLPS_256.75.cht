@@ -1,0 +1,24 @@
+"Battle Stadium D.O.N. /ID SLPS_256.75"
+//ELF CRC 82EA02B7
+Mastercode
+9010F610 0C043D2C
+
+
+//[Widescreen 16:9]
+
+//Widescreen fix by flameofrecca
+20165924 3c023f20  //zoom value
+20165974 3c023f66  //vertical fov
+201b1210 3c023fa0 // logos and intro size fix
+
+//Partial HUD fixes (Doesn't work on PCSX2, buts works on physical ps2)
+//2176dfdc 42400000
+//2176df94 41c00000
+//2176debc 41400000
+//2176DEE0 41400000
+//2176DF04 41400000
+//2176DF28 41400000
+//2176df4c 41400000
+
+
+

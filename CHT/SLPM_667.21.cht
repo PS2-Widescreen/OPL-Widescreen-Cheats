@@ -1,0 +1,24 @@
+"Musou Orochi /ID SLPM_667.21"
+//ELF CRC 03487FEE
+Mastercode
+9013A350 0C04E87C
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+201991b8 3c023f19 // 3c023f4c hor fov 1-player x
+201991c0 3442999a // 3442cccd hor fov 1-player x
+
+20199048 3c033f19 // 3c033f4c hor fov 2-players x
+20199050 3463999a // 3463cccd hor fov 2-players x
+
+20198d70 3c02440a //3c0243cf
+20198c70 3c02440a //3c0243cf
+2024d9c8 3c0243ab //3c024380
+
+
+

@@ -1,0 +1,16 @@
+"Space War Attack /ID SLES_539.15"
+//ELF CRC 47989A8D
+Mastercode
+90210898 0C0841CE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+20343ff8 44554000 //44200000 X-Fov
+20344000 44100000 //43a00000 Render Fix
+
+
+

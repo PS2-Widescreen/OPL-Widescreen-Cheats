@@ -1,0 +1,23 @@
+"Gundam Seed /ID SLKA_150.18"
+//ELF CRC 4EBA5BCF
+Mastercode
+9010C738 0C043176
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+//Y-Fov
+//e0430f3c 00404d34 803f0e3c
+201610c8 3c0f43ab //3c0f43e0
+
+//Zoom
+//0044023c b0ffbd27
+20128ef0 3c0243C0 //3c024400
+
+
+

@@ -1,0 +1,30 @@
+"Starsky & hutch /ID SLKA_250.90"
+//ELF CRC E2051314
+Mastercode
+901196F0 0C046564
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//003f033c 4d00013c
+20125d1c 3c033f2a //3c033f00
+
+//Y-Fov
+//3f333333 3f333333
+204d39dc 3F066666 //3f333333
+
+///////////////////////////////////////////////////
+//X, Y-Fov but..
+//202f8908 3c013f40 //3c013f80
+//202f8978 3c013fc9 //3c013f80
+//202f8908 3c013f40 //3c013f80
+//202f8978 3c013fc9 //3c013f80
+//202f8c64 3c013fc9 //3c013f80
+
+
+

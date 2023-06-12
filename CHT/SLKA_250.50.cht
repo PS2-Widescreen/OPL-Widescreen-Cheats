@@ -1,0 +1,15 @@
+"Dynasty Warriors 3 /ID SLKA_250.50"
+//ELF CRC 7B7C5CAA
+Mastercode
+9010EB78 0C043A86
+
+
+//[Widescreen 16:9]
+
+//widescreen 16:9 (NTSC-K) hack by 99skull
+//credit goes to nemesis2000
+201379C0 3C0243D6 //3C0243A0 wide
+20184D40 3C023F2B //3C023F00 renderfix
+
+
+
