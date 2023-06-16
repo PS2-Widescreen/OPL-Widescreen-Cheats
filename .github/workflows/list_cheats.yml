@@ -21,8 +21,8 @@ jobs:
     - name: Update Cheats list
       run: |
           cd CHT
-          echo game count\|${{ steps.slug.outputs.chtcount }} > ../cheat_list.MD
-          echo ------------- \| --------------- \| >> ../cheat_list.MD
+          echo game count\|${{ steps.slug.outputs.chtcount }}\| Link > ../cheat_list.MD
+          echo ------------- \| --------------- \| --------------- \|>> ../cheat_list.MD
           head -n1 -q *.cht | tr -d \" >> ../temp.MD
           cd ..
           sed -i 's/\/ID/ \| /' temp.MD
