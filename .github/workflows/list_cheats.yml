@@ -26,11 +26,11 @@ jobs:
           head -n1 -q *.cht | tr -d \" >> ../temp.MD
           cd ..
           sed -i 's/\/ID/ \| /' temp.MD
-          sed -E -i 's/[a-zA-Z]{4}_[0-9]{3}\.[0-9]{2}/ \& | [LINK](.\/CHT\/\0)/' temp.MD
+          sed -E -i 's/[a-zA-Z]{4}_[0-9]{3}\.[0-9]{2}/& | [LINK](.\/CHT\/\0)/' temp.MD
           sort temp.MD >>cheat_list.MD
           rm temp.MD
 
-    - name: Update Cheats list
+    - name: print generated list
       if: github.ref != 'refs/heads/main'
       run: |
         cat cheat_list.MD
