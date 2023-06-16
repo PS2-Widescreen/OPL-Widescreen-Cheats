@@ -18,17 +18,22 @@ jobs:
       id: slug
       run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
 
-    
     - name: Update Cheats list
       run: |
           cd CHT
-          echo game count\|${{ steps.slug.outputs.chtcount }} > ../cheat_list.MD
-          echo ------------- \| --------------- \| >> ../cheat_list.MD
+          echo game count\|${{ steps.slug.outputs.chtcount }}\| Link > ../cheat_list.MD
+          echo ------------- \| --------------- \| --------------- \|>> ../cheat_list.MD
           head -n1 -q *.cht | tr -d \" >> ../temp.MD
           cd ..
           sed -i 's/\/ID/ \| /' temp.MD
+          sed -E -i 's/[a-zA-Z]{4}_[0-9]{3}\.[0-9]{2}/& | [LINK](.\/CHT\/\0.cht)/' temp.MD
           sort temp.MD >>cheat_list.MD
           rm temp.MD
+
+    - name: print generated list
+      if: github.ref != 'refs/heads/main'
+      run: |
+        cat cheat_list.MD
 
     - uses: EndBug/add-and-commit@v9
       if: github.ref == 'refs/heads/main'
