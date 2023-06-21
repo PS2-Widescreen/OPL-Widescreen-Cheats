@@ -1,7 +1,7 @@
 "Tekken 4 /ID SCPS_560.06"
 //ELF CRC 35B4028B
 Mastercode
-90280668 0C0A0142
+90280668 0c0a0142
 
 
 //[Widescreen 16:9]
@@ -9,12 +9,12 @@ Mastercode
 //16:9 widescreen hack
 
 //16:9 widescreen hack by nemesis2000, porting by 99skull
-20216C60 3C013F40 //gameplay
-201F69C0 3C013F40 //partial hud fix
-2018D408 3C0143D5 //rfix 1
-20200B44 3C013F40 //rfix 2
-20200B48 44810000 //rfix 2
-20200B54 46006303 //rfix 2
+20216c60 3c013f40 //gameplay
+201f69c0 3c013f40 //partial hud fix
+2018d408 3c0143d5 //rfix 1
+20200b44 3c013f40 //rfix 2
+20200b48 44810000 //rfix 2
+20200b54 46006303 //rfix 2
 
 
 

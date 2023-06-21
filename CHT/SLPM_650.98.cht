@@ -1,13 +1,13 @@
 "Silent Hill 2 - Saigo no Uta /ID SLPM_650.98"
 Mastercode
-901FE840 0C07F9B8
+901fe840 0c07f9b8
 
 
 //[Widescreen 16:9]
 
 //Widescreen Hack by  nemesis2000 and synce
 
-//210DDF14 43A8F5C2
+//210ddf14 43a8f5c2
 202d6730 3f28f5c3 //3f6147ae
 20189b94 3c034455 //3c034400 render fix
 
@@ -15,7 +15,7 @@ Mastercode
 202ad098 24100004 //hor black border
 202ad09c 24030004 //hor black border
 202ad07c 340690b0 //bottom
-202ad04c 3C026F50 //top
+202ad04c 3c026f50 //top
 
 //202ad094 34c68c80 //right
 //202ad050 34467380 //left

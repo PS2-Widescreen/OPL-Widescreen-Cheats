@@ -1,7 +1,7 @@
 "Simple 2000 Series Vol.113 - The Tairyou Jigoku /ID SLPS_204.88"
 //ELF CRC 82481A67
 Mastercode
-903CFDD8 0C0F3F1E
+903cfdd8 0c0f3f1e
 
 
 //[Widescreen 16:9]
@@ -9,7 +9,7 @@ Mastercode
 //Widescreen Hack by El_Patas
 
 //Gameplay 16:9
-20307D74 3C013F40 //3C013F80 (Increases hor. axis)
+20307d74 3c013f40 //3C013F80 (Increases hor. axis)
 
 
 

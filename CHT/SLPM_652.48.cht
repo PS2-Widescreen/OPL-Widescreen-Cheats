@@ -1,7 +1,7 @@
 "Shin Sangoku Musou 3 /ID SLPM_652.48"
 //ELF CRC A3F49264
 Mastercode
-9010EB78 0C043A86
+9010eb78 0c043a86
 
 
 //[Widescreen 16:9]
@@ -11,7 +11,7 @@ Mastercode
 //Widescreen hack 16:9
 
 20136d50 3c0243d6 //3c0243a0 wide
-20183df0 3C023F2B //3C023F00 renderfix
+20183df0 3c023f2b //3C023F00 renderfix
 
 
 

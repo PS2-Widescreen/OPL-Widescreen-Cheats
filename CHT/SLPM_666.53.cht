@@ -1,7 +1,7 @@
 "Akudaikan 3 /ID SLPM_666.53"
 //ELF CRC 4056C58B
 Mastercode
-90111590 0C04450C
+90111590 0c04450c
 
 
 //[Widescreen 16:9]
@@ -26,7 +26,7 @@ Mastercode
 
 //X-Fov - Memory hack
 //0000e03f cdcc4c3f 00000000 00000000
-2017C330 3F19999A //3f4ccccd
+2017c330 3f19999a //3f4ccccd
 
 
 

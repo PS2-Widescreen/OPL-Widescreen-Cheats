@@ -1,7 +1,7 @@
 "Sangokushi XI [with Power-Up Kit] /ID SLPM_667.01"
 //ELF CRC DB88858E
 Mastercode
-90114058 0C044FBE
+90114058 0c044fbe
 
 
 //[Widescreen 16:9]
@@ -11,7 +11,7 @@ Mastercode
 //Widescreen hack 16:9
 
 2017da98 3c024455 //3c024420
-20C60880 44BFFF40
+20c60880 44bfff40
 
 
 

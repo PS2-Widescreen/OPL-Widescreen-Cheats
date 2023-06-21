@@ -1,7 +1,7 @@
 "La Pucelle - Hikari no Seijyo Densetsu Nijuu /ID SLPS_203.98"
 //ELF CRC CCF46486
 Mastercode
-9010BF30 0C042F74
+9010bf30 0c042f74
 
 
 //[Widescreen 16:9]
@@ -14,7 +14,7 @@ Mastercode
 20108b90 44810000 //00000000
 20108b98 4600c602 //00000000
 
-204C6340 45700000 //45A00000 Hor fov 3D Backgrounds (Memory value)
+204c6340 45700000 //45A00000 Hor fov 3D Backgrounds (Memory value)
 
 //2D Characters fix
 //0040023c 00088244 f400a0c7

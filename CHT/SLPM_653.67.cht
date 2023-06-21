@@ -1,7 +1,7 @@
 "Makai Eiyuuki Maximo - Machine Monster no Yabou /ID SLPM_653.67"
 //ELF CRC 859969AF
 Mastercode
-90110338 0C044076
+90110338 0c044076
 
 
 //[Widescreen 16:9]
@@ -17,7 +17,7 @@ Mastercode
 //Step 3  "Range" -> "3xxx"
 
 //3333b33f 0000803f
-202E2254 3FEEEEEE // 3fb33333
+202e2254 3feeeeee // 3fb33333
 
 
 

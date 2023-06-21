@@ -1,7 +1,7 @@
 "Nebula - Echo Night /ID SLPS_253.14"
 //ELF CRC B6AA81EE
 Mastercode
-901123F8 0C0448A6
+901123f8 0c0448a6
 
 
 //[Widescreen 16:9]
@@ -12,7 +12,7 @@ Mastercode
 
 //Force turn on Internal Widescreen
 //01 00 00 00 00 00 00 3F 01 01 00 00 18 EE 29 00
-002AD621 00000001
+002ad621 00000001
 
 //703f033c 003f023c d7a36334
 //20143ed0 3c033fa0 //3c023f70 Y-Fov

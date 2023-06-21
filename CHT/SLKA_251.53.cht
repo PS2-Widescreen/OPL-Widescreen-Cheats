@@ -1,6 +1,6 @@
 "Winning Eleven 10 - Liveware Edition /ID SLKA_251.53"
 Mastercode
-901086D0 0C04215C
+901086d0 0c04215c
 
 
 //[Widescreen 16:9]
@@ -13,7 +13,7 @@ Mastercode
 20104408 4600c602 // 00000000
 
 // Render fix (46170942 803f053c)
-2012a59c 3c053FAB //3c053F80
+2012a59c 3c053fab //3c053F80
 
 
 

@@ -1,14 +1,14 @@
 "Tenchu 3 /ID SLPS_252.34"
 //ELF CRC 13DD9957
 Mastercode
-9010F578 0C043D06
+9010f578 0c043d06
 //[Widescreen 16:9]
 
 
 //Widescreen hack
-2163DB24 3f400000 //(gameplay)
-201551c8 3C024455 //3C024422 (render fix)
-20155430 3C024455 //3C024422 (render fix)
+2163db24 3f400000 //(gameplay)
+201551c8 3c024455 //3C024422 (render fix)
+20155430 3c024455 //3C024422 (render fix)
 
 
 

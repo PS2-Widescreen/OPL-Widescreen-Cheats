@@ -1,7 +1,7 @@
 ".hack//G.U. Vol.2 - Kimi Omou Koe /ID SLPS_256.55"
 //ELF CRC 95A081A1
 Mastercode
-9012FE10 0C04BF2C
+9012fe10 0c04bf2c
 
 
 //[Widescreen 16:9]
@@ -9,7 +9,7 @@ Mastercode
 //Widescreen Hack (16:9)  (cloudalmasai) (pnach by Arapapa)
 
 //16:9 (0000803f 0000803f 00008043 00004043)
-20983394 3F400000 // 3f800000
+20983394 3f400000 // 3f800000
 
 
 

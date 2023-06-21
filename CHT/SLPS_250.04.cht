@@ -1,7 +1,7 @@
 "Kensetsu Juuki Kenka Battle - Buchigire Kongou!! /ID SLPS_250.04"
 //ELF CRC 31523B01
 Mastercode
-9029AA48 0C0A6A38
+9029aa48 0c0a6a38
 
 
 //[Widescreen 16:9]
@@ -14,7 +14,7 @@ Mastercode
 //20281d30 44810000 //00000000
 //20281d38 4600c602 //00000000
 
-20219540 3C013F40 //3C013F80 (Increases hor. axis)
+20219540 3c013f40 //3C013F80 (Increases hor. axis)
 202180ec 3c014fff //3c013f80
 
 

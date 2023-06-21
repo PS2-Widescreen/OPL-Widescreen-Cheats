@@ -1,13 +1,13 @@
 "Drag-on Dragoon /ID SLPM_652.66"
 //ELF CRC BFB0DFBE
 Mastercode
-903196F0 0C0C6564
+903196f0 0c0c6564
 //[Widescreen 16:9]
 
 //Drakengard (J) (SLPM_652.66)
 //Widescreen Hack by Hyakki (pnach by Arapapa)
 
-203A5090 3F400000 //3F800000
+203a5090 3f400000 //3F800000
 
 
 //[No-Interlacing]
@@ -16,32 +16,32 @@ gsinterlacemode=1
 
 00277664 24050000 //memory
 00277668 24060050 //memory
-00282A84 24050000 //memory
-00282A88 24060050 //memory
+00282a84 24050000 //memory
+00282a88 24060050 //memory
 
-200FFFB8 3C1B000F //memory
-200FFFBC 377BFFD0 //memory
-200FFFC0 DC820000 //memory
-200FFFC4 3C031200 //memory
-200FFFC8 08049154 //memory
+200fffb8 3c1b000f //memory
+200fffbc 377bffd0 //memory
+200fffc0 dc820000 //memory
+200fffc4 3c031200 //memory
+200fffc8 08049154 //memory
 
-000FFFD0 00000002 //memory
-100FFFD8 00001450 //memory
-200FFFE0 00823134 //memory
-200FFFE4 001DF4FF //memory
+000fffd0 00000002 //memory
+100fffd8 00001450 //memory
+200fffe0 00823134 //memory
+200fffe4 001df4ff //memory
 
-2012454C 0803FFEE //memory
-20124558 DF620000 //memory
-20124560 DF620008 //memory
-20124568 DF620010 //memory
+2012454c 0803ffee //memory
+20124558 df620000 //memory
+20124560 df620008 //memory
+20124568 df620010 //memory
 
-202F94CC 3C013F40 //memory
-202F94D8 4481F000 //memory
-202F94DC 461EC602 //memory
+202f94cc 3c013f40 //memory
+202f94d8 4481f000 //memory
+202f94dc 461ec602 //memory
 
-202612D4 3C0143D6 //memory
+202612d4 3c0143d6 //memory
 
-20129C50 3C014456 //memory
+20129c50 3c014456 //memory
 
 
 

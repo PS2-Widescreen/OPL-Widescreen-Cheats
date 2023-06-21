@@ -1,7 +1,7 @@
 "Pro Baseball Spirits 2 /ID SLPM_659.29"
 //ELF CRC 49A81A40
 Mastercode
-90122710 0C04896C
+90122710 0c04896c
 
 
 //[Widescreen 16:9]
@@ -9,7 +9,7 @@ Mastercode
 //widescreen hack by Arapapa
 
 //16:9
-20545838 3F400000 // 3f800000
+20545838 3f400000 // 3f800000
 
 
 

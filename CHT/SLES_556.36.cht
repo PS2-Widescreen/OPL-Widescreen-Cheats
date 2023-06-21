@@ -1,6 +1,6 @@
 "Pro Evolution Soccer 2011 /ID SLES_556.36"
 Mastercode
-901086D0 0C04215C
+901086d0 0c04215c
 
 
 //[Widescreen 16:9]
@@ -8,10 +8,10 @@ Mastercode
 //Widescreen hack by El_Patas
 
 //Gameplay 16:9
-203CE010 3FAAAAAB //3F800000 (Increases hor. axis)
+203ce010 3faaaaab //3F800000 (Increases hor. axis)
 
 //Render fix
-20125F2C 3C053FAB //3C053F80 (Increases hor. render area)
+20125f2c 3c053fab //3C053F80 (Increases hor. render area)
 
 
 

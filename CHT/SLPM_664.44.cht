@@ -1,14 +1,14 @@
 "Spartan - Total Warrior /ID SLPM_664.44"
 //ELF CRC 26689C87
 Mastercode
-9021ED10 0C087AEC
+9021ed10 0c087aec
 
 
 //[Widescreen 16:9]
 
 //Widescreen patch (pnach NTSC-J by Arapapa)
 
-2057E994 3F100000 // 3F400000
+2057e994 3f100000 // 3F400000
 
 
 

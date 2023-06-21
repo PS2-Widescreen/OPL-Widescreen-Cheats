@@ -1,7 +1,7 @@
 "Riding Spirits 2 /ID SLPM_654.27"
 //ELF CRC 005B2002
 Mastercode
-9020CFF8 0C0833A6
+9020cff8 0c0833a6
 
 
 //[Widescreen 16:9]
@@ -18,10 +18,10 @@ Mastercode
 //f4491f3f eeeeee3e 00e0eb44
 //eeeeee3e eeeeee3e 00e0eb44
 20284f34 3eeeeeee //3F1F49F4
-//20284f38 3F1F49F4 //3eeeeeee
+//20284f38 3f1f49f4 //3eeeeeee
 
 //Zoom
-//2017f078 3c0143B4 //3c0143f0
+//2017f078 3c0143b4 //3c0143f0
 
 
 

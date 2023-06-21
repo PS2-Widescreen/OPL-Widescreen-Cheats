@@ -1,7 +1,7 @@
 "Get Backers - The Stolen City of Infinite /ID SLPM_621.86"
 //ELF CRC B5622E87
 Mastercode
-90105D50 0C0416FC
+90105d50 0c0416fc
 
 
 //[Widescreen 16:9]
@@ -17,8 +17,8 @@ Mastercode
 2010bd90 46000802
 2010bd94 3c013f40
 2010bd98 4481f000
-2010bd9C 461e0002
-2010bdA0 0805128d
+2010bd9c 461e0002
+2010bda0 0805128d
 
 //X-Fov (2D characters)
 20183334 3c024140 //3c024180 Right

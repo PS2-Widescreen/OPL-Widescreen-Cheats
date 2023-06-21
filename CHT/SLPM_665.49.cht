@@ -1,7 +1,7 @@
 "Sangokushi XI /ID SLPM_665.49"
 //ELF CRC 76D50B94
 Mastercode
-90113ED8 0C044F5E
+90113ed8 0c044f5e
 
 
 //[Widescreen 16:9]
@@ -12,7 +12,7 @@ Mastercode
 
 //2044023c 0045033c
 20181afc 3c024455 //3c024420 Render fix
-20CCCD10 44BFFF40 //X-Fov
+20cccd10 44bfff40 //X-Fov
 
 
 

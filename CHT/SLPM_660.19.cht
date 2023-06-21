@@ -1,7 +1,7 @@
 "Stuntman /ID SLPM_660.19"
 //ELF CRC 3F67D220
 Mastercode
-90248C78 0C0922C6
+90248c78 0c0922c6
 
 
 //[Widescreen 16:9]
@@ -18,7 +18,7 @@ Mastercode
 //003f013c 00a88144 06650046
 //201c58c4 3c013f6a //3c013f00
 //abaaaa3e 8988083e
-20277e30 3FD66666 //3eaaaaab Fiexed FlatOut
+20277e30 3fd66666 //3eaaaaab Fiexed FlatOut
 
 //Y-Fov
 //aa3f013c abaa2134 00b88144

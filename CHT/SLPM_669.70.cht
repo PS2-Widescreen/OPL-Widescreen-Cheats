@@ -1,7 +1,7 @@
 "Pro Yakyuu Spirits 5 /ID SLPM_669.70"
 //ELF CRC 2DCA0FF9
 Mastercode
-90121158 0C0483FE
+90121158 0c0483fe
 
 
 //[Widescreen 16:9]
@@ -10,7 +10,7 @@ Mastercode
 //Search values are apply to other series games
 
 //00000000 41b81946 803f083c
-2014ed78 3C013F2A //00000000 vert fov
+2014ed78 3c013f2a //00000000 vert fov
 
 //00000000 42100146 07000046
 2014edb0 44819800 //00000000 vert fov
@@ -19,7 +19,7 @@ Mastercode
 2014edbc 46009802 //46001002 vert fov
 
 //803f053c 82c80146
-2014ef58 3C053FAA //3C053F80 zoom
+2014ef58 3c053faa //3C053F80 zoom
 
 
 

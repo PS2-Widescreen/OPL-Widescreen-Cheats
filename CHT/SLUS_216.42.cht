@@ -2,10 +2,10 @@
 //ELF CRC D04516EE
 
 Mastercode
-9010F858 0C043DBE
+9010f858 0c043dbe
 
 
 //Widescreen hack by JLB
-205FE740 43700000
-205FE7A0 43700000 // shop, character
+205fe740 43700000
+205fe7a0 43700000 // shop, character
 20149964 3c023fab // 3c023f80 renderfix

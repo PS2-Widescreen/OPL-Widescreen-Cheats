@@ -1,7 +1,7 @@
 "Simple 2000 Series Ultimate Vol.25 - Chou-Saisoku! Zokusha King BU no BU 2 /ID SLPM_626.16"
 //ELF CRC D8BB6A2E
 Mastercode
-901D2FD8 0C074B9E
+901d2fd8 0c074b9e
 
 
 //[Widescreen 16:9]
@@ -9,7 +9,7 @@ Mastercode
 //Widescreen Hack by El_Patas
 
 //Gameplay 16:9
-2036B914 3F400000 //3F800000 (Increases hor. axis)
+2036b914 3f400000 //3F800000 (Increases hor. axis)
 
 
 

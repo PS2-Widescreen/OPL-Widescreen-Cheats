@@ -1,7 +1,7 @@
 "Tales of Rebirth /ID SLPS_254.50"
 
 Mastercode
-901A1498 0C0684CE
+901a1498 0c0684ce
 
 
 //Widescreen hack
@@ -23,5 +23,5 @@ Mastercode
 
 // [No-Interlacing]
 //Attempts to disable interlaced offset rendering.
-//2019AB84 00000000
-//2019AC0C 00000000
+//2019ab84 00000000
+//2019ac0c 00000000

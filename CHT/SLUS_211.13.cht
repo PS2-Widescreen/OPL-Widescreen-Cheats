@@ -1,24 +1,24 @@
 "Atelier Iris - Eternal Mana /ID SLUS_211.13"
 //ELF CRC E3981DBB
 Mastercode
-902BD1D0 0C0AF41C
+902bd1d0 0c0af41c
 
 
 //[Widescreen 16:9]
 
 //Widescreen hack by gamemasterplc
 
-2021CFD8 3C0144AB //Zoom-In Battle Camera View
-2024A3C4 08030000 //Jump to Code for Resizing View
-200C0000 3C013F40 //View Width Multiplier (.75f)
-200C0004 44811000 //Load View Width Multiplier into f2
-200C0008 080928F3 //Return to Original Code
-200C000C 46020002 //Get Updated View X Axis Width (Delay Slot)
-202797E8 2483FE56 //Tile Render Fix (Left)
-20279804 248201AA //Tile Render Fix (Right)
-202BA3A4 3C013F40 //3D Scenes Aspect Ratio Multiplier
-202BA3A8 44810000 //Load 3D Scenes Aspect Ratio Multiplier into f0
-202BA3B0 4600C602 //Fix 3D Scenes Aspect Ratio
+2021cfd8 3c0144ab //Zoom-In Battle Camera View
+2024a3c4 08030000 //Jump to Code for Resizing View
+200c0000 3c013f40 //View Width Multiplier (.75f)
+200c0004 44811000 //Load View Width Multiplier into f2
+200c0008 080928f3 //Return to Original Code
+200c000c 46020002 //Get Updated View X Axis Width (Delay Slot)
+202797e8 2483fe56 //Tile Render Fix (Left)
+20279804 248201aa //Tile Render Fix (Right)
+202ba3a4 3c013f40 //3D Scenes Aspect Ratio Multiplier
+202ba3a8 44810000 //Load 3D Scenes Aspect Ratio Multiplier into f0
+202ba3b0 4600c602 //Fix 3D Scenes Aspect Ratio
 
 
 

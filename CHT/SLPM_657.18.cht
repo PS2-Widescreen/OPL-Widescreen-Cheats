@@ -1,7 +1,7 @@
 "Sengoku Musou Moushouden /ID SLPM_657.18"
 //ELF CRC DBD2230B
 Mastercode
-90113E50 0C044F3C
+90113e50 0c044f3c
 //[Widescreen 16:9]
 
 
@@ -19,7 +19,7 @@ Mastercode
 //[No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-2013EF38 AF808708
+2013ef38 af808708
 
 
 

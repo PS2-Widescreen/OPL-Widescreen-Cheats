@@ -1,7 +1,7 @@
 "World Soccer Winning Eleven 7 International /ID SLKA_251.17"
 //ELF CRC 3B8E8F67
 Mastercode
-910CFAF8 0C433E66
+910cfaf8 0c433e66
 
 
 //[Widescreen 16:9]
@@ -14,7 +14,7 @@ Mastercode
 210cc598 4600c602 // 00000000
 
 // Render fix  (803f023c 0cbd22ac)
-21109f18 3C023FAB //3C023F80
+21109f18 3c023fab //3C023F80
 
 
 

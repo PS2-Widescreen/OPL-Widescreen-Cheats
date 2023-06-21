@@ -1,7 +1,7 @@
 "Bomberman Battles /ID SLPM_625.03"
 //ELF CRC 184BEAE9
 Mastercode
-90488998 0C12220E
+90488998 0c12220e
 
 
 //[Widescreen 16:9]
@@ -17,7 +17,7 @@ Mastercode
 
 //Y-Fov (Memory)
 //6666a63f da0f4940 (3rd)
-2079E96C 3FDDDDBA //3fa66666
+2079e96c 3fddddba //3fa66666
 
 
 

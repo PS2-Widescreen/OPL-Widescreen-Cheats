@@ -1,16 +1,16 @@
 "Gaeguri Jungsa Keroro - Bulkkottwineun Battle Royal Z (Korea) /ID SLKA_253.61"
 //ELF CRC 42EE9611
 Mastercode
-90138C98 0C04E2CE
+90138c98 0c04e2ce
 //[Widescreen 16:9]
 
 
 //Widescreen hack by Little Giant (NTSC-K by Arapapa)
 
 //16:9
-E0025555 00a93d04 //
-20A63934 3C013F40 //3c013f80 zoom
-20a93d04 44C71C71 //44955571 vert
+e0025555 00a93d04 //
+20a63934 3c013f40 //3c013f80 zoom
+20a93d04 44c71c71 //44955571 vert
 
 
 

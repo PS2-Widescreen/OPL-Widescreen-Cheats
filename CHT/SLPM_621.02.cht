@@ -1,7 +1,7 @@
 "Crazy Taxi /ID SLPM_621.02"
 //ELF CRC 8C78493E
 Mastercode
-901BFB58 0C06FE7E
+901bfb58 0c06fe7e
 
 
 //[Widescreen 16:9]
@@ -10,7 +10,7 @@ Mastercode
 
 //Widescreen hack 16:9
 //713daa3f 9a99593f 0ad7233c
-2042AB48 3FE2FC93 //3c23d70a
+2042ab48 3fe2fc93 //3c23d70a
 
 
 

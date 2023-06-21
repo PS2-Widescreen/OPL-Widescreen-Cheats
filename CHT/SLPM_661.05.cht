@@ -1,7 +1,7 @@
 "Rhapsodia /ID SLPM_661.05"
 //ELF CRC B808413B
 Mastercode
-90390258 0C0E403E
+90390258 0c0e403e
 //[Widescreen 16:9]
 
 
@@ -12,7 +12,7 @@ Mastercode
 2037e638 4600c602
 
 //FMV's fix
-203bb24c 24101E00 //width
+203bb24c 24101e00 //width
 203bb400 24110190 //x-pos
 
 

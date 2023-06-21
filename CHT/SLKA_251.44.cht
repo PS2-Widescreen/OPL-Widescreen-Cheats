@@ -1,14 +1,14 @@
 "Final Fantasy X-2 /ID SLKA_251.44"
 //ELF CRC 11624CD6
 Mastercode
-90349ED8 0C0D275E
+90349ed8 0c0d275e
 
 
 //[Widescreen 16:9]
 
 //Widescreen hack by nemesis2000 (NTSC-K by Arapapa)
 
-//Wide Screen 16:9 (4C3F013C CDCC2134 00b08144)
+//Wide Screen 16:9 (4c3f013c cdcc2134 00b08144)
 201aaab8 3c013f19 //3c013f4c
 201aaabc 3421999a //3421cccd
 

@@ -2,7 +2,7 @@
 //ELF CRC 3E68955A
 
 Mastercode
-902605B8 0C098116
+902605b8 0c098116
 
 
 //Widescreen patch
@@ -37,13 +37,13 @@ Mastercode
 201fa0f4 001711c0
 
 //EVT font fix (for cutscenes and journal)
-2010d4f4 2403000F
-2010d504 3C013F1F
-2010d508 3421FFFC
+2010d4f4 2403000f
+2010d504 3c013f1f
+2010d508 3421fffc
 2010d518 24030012
-2010d528 3C013F40
-2010d8f0 3C014246
-2010d918 3C014216
+2010d528 3c013f40
+2010d8f0 3c014246
+2010d918 3c014216
 
 //Hide subtitles
 //2010d518 24030000
@@ -54,8 +54,8 @@ Mastercode
 20267b78 4600c602 //00000000
 
 // textboxes
-204951D0 3FAAAAAB //3f800000 (width)
-//204951E4 3FAAAAAB //3f800000 (height)
+204951d0 3faaaaab //3f800000 (width)
+//204951e4 3faaaaab //3f800000 (height)
 
 //position fix weapon select
 2020a170 3c0144fa //3c014500
@@ -63,7 +63,7 @@ Mastercode
 //HP/MP fix for PCSX2
 2044d894 00000003
 2044d890 00000006
-2044d888 000001A9
+2044d888 000001a9
 2044d7d4 00000006
 2044d7d0 00000004
 2044d7cc 0000000c
@@ -101,34 +101,34 @@ Mastercode
 
 //60fps normal mode alt
 //d02c5958 00001000
-//002BBE0C 00000000
+//002bbe0c 00000000
 
 //60fps normal mode alt (big ben)
 //d02c5958 00000020
-//002BBE0C 00000000
+//002bbe0c 00000000
 
 //60fps battle mode
 //d02c5958 00000001
-//002BBE0C 00000000
+//002bbe0c 00000000
 
 //60fps battle mode (boss)
 //d02c5958 00000011
-//002BBE0C 00000000
+//002bbe0c 00000000
 
 //60fps battle mode (boss) alt
 //d02c5958 00000031
-//002BBE0C 00000000
+//002bbe0c 00000000
 
 //60fps toggle off (cutscenes, fmv and other scripted events)
 //60fpsoff fmv
 //d02c5958 00000040
-//002BBE0C 00000001
+//002bbe0c 00000001
 
 //60fpsoff fmv alt
-//d02c5958 0000004E
-//002BBE0C 00000001
+//d02c5958 0000004e
+//002bbe0c 00000001
 
 //60fpsoff no hud (world map)
 //d02c5958 00000004
-//002BBE0C 00000001
+//002bbe0c 00000001
 

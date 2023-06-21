@@ -1,7 +1,7 @@
 "Dragon Shadow Spell /ID SLPS_257.35"
 //ELF CRC 8B8B97C8
 Mastercode
-90309DD0 0C0C271C
+90309dd0 0c0c271c
 
 
 //[Widescreen 16:9]
@@ -34,12 +34,12 @@ Mastercode
 201b7eac 3c024350 //3c024330  Right
 
 //2D Characters X-Fov
-20A021F0 3f400000 //Left
-20A024E0 3f400000 //Right
+20a021f0 3f400000 //Left
+20a024e0 3f400000 //Right
 
 //2D Characters X-Fov (In the Hallway of Phantom Ship)
-21A26750 3f400000 //Left
-21A265D0 3f400000 //Right
+21a26750 3f400000 //Left
+21a265d0 3f400000 //Right
 
 //2D Characters's Shadow X-Fov when conversation at the Deck
 201b8334 3c023f41 //3c023f81

@@ -1,7 +1,7 @@
 "Sorcerous Stabber Orphen /ID SLPS_250.08"
 //ELF CRC 126B585A
 Mastercode
-902F7FF8 0C0BDFA4
+902f7ff8 0c0bdfa4
 
 
 //[Widescreen 16:9]
@@ -9,7 +9,7 @@ Mastercode
 //Pnach by Little Giant
 
 //black borders's fix (optional)
-20260A9C 24020000 //24020001
+20260a9c 24020000 //24020001
 
 
 

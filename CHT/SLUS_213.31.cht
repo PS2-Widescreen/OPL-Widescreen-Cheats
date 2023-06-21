@@ -2,10 +2,10 @@
 //ELF CRC = B44896B7
 
 Mastercode
-90105850 0C0415BC
+90105850 0c0415bc
 
 
 //Widescreen hack
-2044E6D8 43700000
-28008DA0 43700000 // store, character
+2044e6d8 43700000
+28008da0 43700000 // store, character
 20134e4c 3c023fab // 3c023f80 renderfix

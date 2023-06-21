@@ -1,17 +1,17 @@
 "Dual Hearts /ID SCPS_150.22"
 //ELF CRC C0FC849C
 Mastercode
-903ABF78 0C0EAF86
+903abf78 0c0eaf86
 
 
 //[Widescreen 16:9]
 
 //Widescreen fix (Pnach by Little Gaint)
 
-206F0D30 41400000  //horizontal fov
+206f0d30 41400000  //horizontal fov
 
 //Partial HUD fix
-206cb200 42C00000  //map size width
+206cb200 42c00000  //map size width
 206cb240 41400000  //arrow size width
 
 

@@ -1,7 +1,7 @@
 "Burnout Revenge /ID SLPM_661.08"
 //ELF CRC 878E7A1D
 Mastercode
-903E46E8 0C0F9162
+903e46e8 0c0f9162
 
 
 //[Widescreen 16:9]
@@ -13,7 +13,7 @@ Mastercode
 
 //Zoom Fix
 //9A 99 99 3F 39 8E E3 3F 80 02 00 00 C0 01 00 00
-21b85f90 3FAAAAAB // 3F800000
+21b85f90 3faaaaab // 3F800000
 
 
 

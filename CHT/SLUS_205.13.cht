@@ -1,7 +1,7 @@
 "NBA Starting Five /ID SLUS_205.13"
 //ELF CRC 4507B732
 Mastercode
-9016F7B8 0C05BD96
+9016f7b8 0c05bd96
 
 
 //[Widescreen 16:9]
@@ -18,7 +18,7 @@ Mastercode
 2016abf8 44810000 //00000000
 2016ac00 4600bdc2 //00000000
 
-//201244c4 3c033fAB //3c033f80
+//201244c4 3c033fab //3c033f80
 
 
 

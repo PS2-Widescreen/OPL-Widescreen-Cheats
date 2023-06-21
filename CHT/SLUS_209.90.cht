@@ -2,16 +2,16 @@
 //ELF CRC D4E1581B
 
 Mastercode
-9042D1D0 0C10B41C
+9042d1d0 0c10b41c
 
 
 //Enhancement test *dont use both code sections
 
 //Progressive mode 240p / No interleacing
-20426B7C 3c050000
-20426B84 3c060050
-20426B8C 3c070001
+20426b7c 3c050000
+20426b84 3c060050
+20426b8c 3c070001
 
 //NTSC mode / No interleacing (disable above code section before)
-//20428148 03E00008
-//2042814C 00000000
+//20428148 03e00008
+//2042814c 00000000

@@ -1,7 +1,7 @@
 "Syphon Filter - The Omega Virus /ID SCKA_200.32"
 //ELF CRC 3676E74C
 Mastercode
-9010F970 0C043E04
+9010f970 0c043e04
 
 
 //[Widescreen 16:9]
@@ -19,7 +19,7 @@ Mastercode
 //With and without the patch is wrong, but being stretched makes more sense with the game mechanics.
 //HUD fix (0500c310 5500013c 803f033c)
 //2039a68c 00000000
-//2039a694 3C033f40
+//2039a694 3c033f40
 
 //FMV's fix
 2041cba4 24126c00 //24127100

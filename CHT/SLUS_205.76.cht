@@ -1,7 +1,7 @@
 "Harry Potter and The Chamber of Secrets /ID SLUS_205.76"
 //ELF CRC C5473413
 Mastercode
-904D8398 0C13608E
+904d8398 0c13608e
 
 
 //[Widescreen 16:9]
@@ -23,7 +23,7 @@ Mastercode
 //2031cb28 342197af //342171c7
 
 //Font Y-Fov
-//20541894 3B0882F1 //3acccccd
+//20541894 3b0882f1 //3acccccd
 
 //Font Y-Position
 //205418b4 bf000000 //bec00000
@@ -32,7 +32,7 @@ Mastercode
 //205418bc 3faaaaab //3f800000
 
 //Widen HUD to hide icons
-//205E9F30 3F95C28F
+//205e9f30 3f95c28f
 
 // Commented out as it broke loading screen font and other stuff.
 

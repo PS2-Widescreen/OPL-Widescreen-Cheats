@@ -1,7 +1,7 @@
 "Vampire Panic /ID SLPM_625.06"
 //ELF CRC 14DDB291
 Mastercode
-90111810 0C0445AC
+90111810 0c0445ac
 
 
 //[Widescreen 16:9]
@@ -23,10 +23,10 @@ Mastercode
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
 //No interlacing
-201E1AB0 30420000
+201e1ab0 30420000
 20101f5c 00000000 //64420008
 //Remove Broken Effect
-203FC3E4 00400000
+203fc3e4 00400000
 
 
 

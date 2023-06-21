@@ -1,7 +1,7 @@
 "Poison Pink /ID SLPS_258.54"
 //ELF CRC F7786EE4
 Mastercode
-90364C58 0C0D92BE
+90364c58 0c0d92be
 
 
 //[Widescreen 16:9]
@@ -70,10 +70,10 @@ Mastercode
 //940015e6 800000a2 0800b6e5 (1st)
 202857b8 0814f72b // 940015e6
 
-2053dcaC 3c013f40 // 00000000
-2053dcB0 4481f000 // 00000000
-2053dcB4 e61e0094 // 00000000
-2053dcB8 080a15ef // 00000000
+2053dcac 3c013f40 // 00000000
+2053dcb0 4481f000 // 00000000
+2053dcb4 e61e0094 // 00000000
+2053dcb8 080a15ef // 00000000
 
 
 //2D Characters (Conversation and Twilight's Rest)
@@ -100,7 +100,7 @@ Mastercode
 //2053dccc 08088862 // 00000000
 
 //Letter Box
-//2062dea0 3F400000 //3F800000
+//2062dea0 3f400000 //3F800000
 
 
 //2D Characters fix  (Cause a many others problem)
@@ -113,7 +113,7 @@ Mastercode
 
 
 //Menu 2D Character (Y-Fov, X-Fov, and Color changed at the same time)
-//205545d8 3F400000 //3F800000
+//205545d8 3f400000 //3F800000
 
 //0000430000430000803f0000803f
 

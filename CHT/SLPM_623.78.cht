@@ -1,7 +1,7 @@
 "Bakusou Convoy Densetsu /ID SLPM_623.78"
 //ELF CRC DD93DA88
 Mastercode
-9035BF38 0C0D6F76
+9035bf38 0c0d6f76
 
 
 //[Widescreen 16:9]
@@ -16,7 +16,7 @@ Mastercode
 
 //Y-Fov
 //9a99993f 00000045
-20381840 3Fe00000 //3f99999a
+20381840 3fe00000 //3f99999a
 
 ///////////////////////////////////////////////////
 //20382194 3e800000 //3f800000 Render area

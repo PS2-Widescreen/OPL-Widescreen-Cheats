@@ -1,7 +1,7 @@
 "Project Minerva /ID SLPM_675.45"
 //ELF CRC 40C77B13
 Mastercode
-901C1B70 0C070684
+901c1b70 0c070684
 
 
 //[Widescreen 16:9]
@@ -9,10 +9,10 @@ Mastercode
 //Widescreen Hack by Little Gaint (NTSC-K by Arapapa)
 
 //3ef0a3d7 3f91eb85 (2nd)
-20F1A388 3F206D3A // vert
+20f1a388 3f206d3a // vert
 
 //3f91eb85 3ff1eb85
-20F20CD4 3F5AE148 // zoom
+20f20cd4 3f5ae148 // zoom
 
 
 

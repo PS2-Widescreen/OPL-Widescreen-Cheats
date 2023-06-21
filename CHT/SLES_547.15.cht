@@ -1,7 +1,7 @@
 "Tony Hawks Downhill Jam /ID SLES_547.15"
 //ELF CRC 78122B2F
 Mastercode
-903904B8 0C0E40D6
+903904b8 0c0e40d6
 
 
 //[Widescreen 16:9]
@@ -9,9 +9,9 @@ Mastercode
 //Widescreen hack by El_Patas
 
 //Gameplay 16:9
-20127CD4 3C013F24 //3C013F00 Zoom
-20157DCC 3C013FE3 //3C013FAA Y-FOV
-20157DD0 34218E39 //3421AAAB
+20127cd4 3c013f24 //3C013F00 Zoom
+20157dcc 3c013fe3 //3C013FAA Y-FOV
+20157dd0 34218e39 //3421AAAB
 
 
 

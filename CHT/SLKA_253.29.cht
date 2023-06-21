@@ -1,15 +1,15 @@
 "Shin Sangoku Musou 4 - Moushouden /ID SLKA_253.29"
 //ELF CRC 5C19B973
 Mastercode
-90122A90 0C048A4C
+90122a90 0c048a4c
 
 
 //[Widescreen 16:9]
 
 //widescreen 16:9 (NTSC-K) hack by 99skull
 //credit goes to nemesis2000
-20146F3C 3C0243D6 //3C0243A0 wide(320)->(428)
-20198ABC 3C023F2B //3C023F00 renderfix(0.5)->(0.667969)
+20146f3c 3c0243d6 //3C0243A0 wide(320)->(428)
+20198abc 3c023f2b //3C023F00 renderfix(0.5)->(0.667969)
 
 
 

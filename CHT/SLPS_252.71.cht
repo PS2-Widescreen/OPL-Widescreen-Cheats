@@ -1,7 +1,7 @@
 "Sidewinder V /ID SLPS_252.71"
 //ELF CRC 29D80A23
 Mastercode
-902A0E58 0C0A833E
+902a0e58 0c0a833e
 
 
 //[Widescreen 16:9]
@@ -9,9 +9,9 @@ Mastercode
 //Widescreen Hack by El_Patas
 
 //Gameplay 16:9
-2012670C 3C0143C0 //3C014400 Zoom
-2010108C 3C0143B4 //3C0143F0 Y-FOV general cameras
-20100D1C 3C0143B4 //3C0143F0 Y-FOV internal cockpit graphic
+2012670c 3c0143c0 //3C014400 Zoom
+2010108c 3c0143b4 //3C0143F0 Y-FOV general cameras
+20100d1c 3c0143b4 //3C0143F0 Y-FOV internal cockpit graphic
 
 
 

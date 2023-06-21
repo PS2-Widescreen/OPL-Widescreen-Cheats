@@ -1,7 +1,7 @@
 "Monster Farm 4 /ID SLPS_252.63"
 //ELF CRC B282D5FD
 Mastercode
-902F40F8 0C0BCFE6
+902f40f8 0c0bcfe6
 
 
 //[Widescreen 16:9]
@@ -12,7 +12,7 @@ Mastercode
 202ebf78 44810000 //00000000
 202ebf80 4600c602 //00000000
 
-208C5DE4 43E00000 //43A00000 render fix
+208c5de4 43e00000 //43A00000 render fix
 
 
 

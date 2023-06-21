@@ -1,14 +1,14 @@
 "Ghost Vibration /ID SLPM_675.26"
 //ELF CRC D1367113
 Mastercode
-90110610 0C04412C
+90110610 0c04412c
 
 
 //[Widescreen 16:9]
 
 //Widescreen Hack (pnach by Arapapa)
 
-201d7380 3F400000 // 3F800000
+201d7380 3f400000 // 3F800000
 
 
 

@@ -1,7 +1,7 @@
 "Mystic Nights /ID SCKA_200.55"
 //ELF CRC 2383B74A
 Mastercode
-90106270 0C041844
+90106270 0c041844
 
 
 //[Widescreen 16:9]
@@ -22,7 +22,7 @@ Mastercode
 //[No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-201011E4 30420000
+201011e4 30420000
 
 
 

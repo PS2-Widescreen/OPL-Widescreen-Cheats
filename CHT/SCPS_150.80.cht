@@ -1,7 +1,7 @@
 "Waga Ryuomiyo - Pride of the Dragon Peace /ID SCPS_150.80"
 //ELF CRC E9012505
 Mastercode
-901142F8 0C045066
+901142f8 0c045066
 
 
 //[Widescreen 16:9]
@@ -9,7 +9,7 @@ Mastercode
 //Widescreen hack by Arapapa
 
 // 16:9 (0000803f 0000803f 0000803f 00008047)
-2052EAB8 3f400000 // 3f800000
+2052eab8 3f400000 // 3f800000
 
 
 

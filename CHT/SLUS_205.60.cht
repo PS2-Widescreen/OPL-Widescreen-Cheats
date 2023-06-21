@@ -2,7 +2,7 @@
 //ELF CRC = B506C936
 
 Mastercode
-902158B8 0C0855D6
+902158b8 0c0855d6
 
 
 //[Widescreen 16:9]
@@ -14,8 +14,8 @@ Mastercode
 //[No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-201F0D5C 30420000
-201F112C 00000000
+201f0d5c 30420000
+201f112c 00000000
 
 
 

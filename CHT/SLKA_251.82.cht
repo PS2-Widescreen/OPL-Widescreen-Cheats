@@ -1,7 +1,7 @@
 "Hajime no Ippo 2 - Victorious Road /ID SLKA_251.82"
 //ELF CRC F506742F
 Mastercode
-90106E30 0C041B34
+90106e30 0c041b34
 
 
 //[Widescreen 16:9]
@@ -16,11 +16,11 @@ Mastercode
 
 //Boxer's Road Mode Left Information Window  X-fov
 //3f800000 3f800000
-2083B030 3F400000
+2083b030 3f400000
 
 //Boxer's Road Mode Center Information Window X-Fov
 //3f800000 3f333333
-2083AAB4 3F99999A
+2083aab4 3f99999a
 
 
 

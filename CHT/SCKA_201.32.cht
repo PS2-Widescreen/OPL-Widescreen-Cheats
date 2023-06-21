@@ -1,7 +1,7 @@
 "Persona 4 /ID SCKA_201.32"
 //ELF CRC 5132BBDF
 Mastercode
-90426C98 0C109ACE
+90426c98 0c109ace
 
 
 //[Widescreen 16:9]
@@ -60,19 +60,19 @@ Mastercode
 2011dde4 27bd0030 // recall $6
 2011dde8 03e00008 // recall $7
 
-2011d7c4 3C024340
+2011d7c4 3c024340
 
 //f804048e 7c77040c
 2011a1b4 00000000
 
-//2D202002 7c77040c
+//2d202002 7c77040c
 20136a80 00000000
 
 //characters art fix by nemesis2000
-20356cb4 3C024340
+20356cb4 3c024340
 
 //partial HUD text fix by nemesis2000
-20123500 24020BF6
+20123500 24020bf6
 
 //Progressive Scan & 60fps
 //204194fc 3c050000
@@ -82,7 +82,7 @@ Mastercode
 //Font fix by nemesis2000
 //202732b4 00118903
 //202732b8 02338818
-//202732c0 8E93001c
+//202732c0 8e93001c
 //20273368 82970003
 //2027343c 24130015
 

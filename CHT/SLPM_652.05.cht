@@ -1,7 +1,7 @@
 "Spider-Man /ID SLPM_652.05"
 //ELF CRC 359EA298
 Mastercode
-90577220 0C15DC30
+90577220 0c15dc30
 
 
 //[Widescreen 16:9]
@@ -11,7 +11,7 @@ Mastercode
 //Widescreen hack 16:9
 
 //Y-Fov
-2058c6d4 3FE38E2A //3faaaaab
+2058c6d4 3fe38e2a //3faaaaab
 
 //Zoom
 //0e3c013c 2efa2134 (1st)

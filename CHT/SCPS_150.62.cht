@@ -1,7 +1,7 @@
 "Bakuso! Mountain Bikers /ID SCPS_150.62"
 //ELF CRC C4A09BAD
 Mastercode
-9025FB60 0C097E80
+9025fb60 0c097e80
 
 
 //[Widescreen 16:9]
@@ -10,58 +10,58 @@ Mastercode
 
 //16:9 Widescreen
 
-101BBF70 00004401 //3C01442C - Shell Menu Master X FOV
+101bbf70 00004401 //3C01442C - Shell Menu Master X FOV
 
-//20284FD0 434FC000 //438A8000 - Loading Screen Master X FOV
-//20284FF0 3F471C26 //3F15551D - Loading Screen Master Y FOV
+//20284fd0 434fc000 //438A8000 - Loading Screen Master X FOV
+//20284ff0 3f471c26 //3F15551D - Loading Screen Master Y FOV
 
-101B897C 00004401 //3C01442C - Title Menu Master X FOV
-2026FBD0 434FC000 //438A8000 - Tree Sprite Width #1
-2026FD10 434FC000 //438A8000 - Tree Sprite Width #2
-2026FD68 434FC000 //438A8000 - Tree Sprite Width #3
+101b897c 00004401 //3C01442C - Title Menu Master X FOV
+2026fbd0 434fc000 //438A8000 - Tree Sprite Width #1
+2026fd10 434fc000 //438A8000 - Tree Sprite Width #2
+2026fd68 434fc000 //438A8000 - Tree Sprite Width #3
 
-101FAE80 00004401 //3C01442C - Bike Shop Menu Goggles Default Master X FOV (added to close-up float by game engine to produce a "final" close-up X FOV)
-101FAE68 000044D8 //3C014510 - Bike Shop Menu Goggles Close-up Master X FOV #1
-101FAE6C 0000C000 //34218000 - Bike Shop Menu Goggles Close-up Master X FOV #2
-E0030002 00A095D0 //Conditional live memory fixes for Bike Shop menu
-20A095D0 3FAA3D71 //00000000 - Bike Shop Top HUD Width (Live Memory)
-20A09610 3FAA3D71 //00000000 - Bike Shop Bottom HUD Width (Live Memory)
-20A60168 C2DE0000 //00000000 - Bike Shop Shadow Shape/Width (Live Memory)
+101fae80 00004401 //3C01442C - Bike Shop Menu Goggles Default Master X FOV (added to close-up float by game engine to produce a "final" close-up X FOV)
+101fae68 000044d8 //3C014510 - Bike Shop Menu Goggles Close-up Master X FOV #1
+101fae6c 0000c000 //34218000 - Bike Shop Menu Goggles Close-up Master X FOV #2
+e0030002 00a095d0 //Conditional live memory fixes for Bike Shop menu
+20a095d0 3faa3d71 //00000000 - Bike Shop Top HUD Width (Live Memory)
+20a09610 3faa3d71 //00000000 - Bike Shop Bottom HUD Width (Live Memory)
+20a60168 c2de0000 //00000000 - Bike Shop Shadow Shape/Width (Live Memory)
 
-20284B70 3F206D3A //3EF0A3D7 - Menu Master Y FOV
+20284b70 3f206d3a //3EF0A3D7 - Menu Master Y FOV
 
-1016C6B0 0000434F //3C01438A - 1P P1 Master X FOV #1
-1016C6B4 0000C000 //34218000 - 1P P1 Master X FOV #2
-101AAD1C 0000434F //3C01438A - 1P P1 Replay Master X FOV #1
-101AAD20 0000C000 //34218000 - 1P P1 Replay Master X FOV #2
-202847B0 3F471C26 //3F15551D - 1P P1 Master Y FOV
+1016c6b0 0000434f //3C01438A - 1P P1 Master X FOV #1
+1016c6b4 0000c000 //34218000 - 1P P1 Master X FOV #2
+101aad1c 0000434f //3C01438A - 1P P1 Replay Master X FOV #1
+101aad20 0000c000 //34218000 - 1P P1 Replay Master X FOV #2
+202847b0 3f471c26 //3F15551D - 1P P1 Master Y FOV
 
-202849D0 43268000 //435E0000 - 2P Vertical P1 Master X FOV
-202849F0 3F471C26 //3F15551D - 2P Vertical P1 Master Y FOV
-20284A90 43268000 //435E0000 - 2P Vertical P2 Master X FOV
-20284AB0 3F471C26 //3F15551D - 2P Vertical P2 Master Y FOV
+202849d0 43268000 //435E0000 - 2P Vertical P1 Master X FOV
+202849f0 3f471c26 //3F15551D - 2P Vertical P1 Master Y FOV
+20284a90 43268000 //435E0000 - 2P Vertical P2 Master X FOV
+20284ab0 3f471c26 //3F15551D - 2P Vertical P2 Master Y FOV
 
-20284850 434FC000 //438A8000 - 2P Horizontal P1 Master X FOV
-20284870 3F471C6A //3F155550 - 2P Horizontal P1 Master Y FOV
-20284910 434FC000 //438A8000 - 2P Horizontal P2 Master X FOV
-20284930 3F471C6A //3F155550 - 2P Horizontal P2 Master Y FOV
+20284850 434fc000 //438A8000 - 2P Horizontal P1 Master X FOV
+20284870 3f471c6a //3F155550 - 2P Horizontal P1 Master Y FOV
+20284910 434fc000 //438A8000 - 2P Horizontal P2 Master X FOV
+20284930 3f471c6a //3F155550 - 2P Horizontal P2 Master Y FOV
 
-20284C10 431D8000 //43520000 - 4P P1 Master X FOV
-20284C30 3F206D3A //3EF0A3D7 - 4P P1 Master Y FOV
-20284CD0 431D8000 //43520000 - 4P P2 Master X FOV
-20284CF0 3F206D3A //3EF0A3D7 - 4P P2 Master Y FOV
-20284D90 431D8000 //43520000 - 4P P3 Master X FOV
-20284DB0 3F206D3A //3EF0A3D7 - 4P P3 Master Y FOV
-20284E50 431D8000 //43520000 - 4P P4 Master X FOV
-20284E70 3F206D3A //3EF0A3D7 - 4P P4 Master Y FOV
+20284c10 431d8000 //43520000 - 4P P1 Master X FOV
+20284c30 3f206d3a //3EF0A3D7 - 4P P1 Master Y FOV
+20284cd0 431d8000 //43520000 - 4P P2 Master X FOV
+20284cf0 3f206d3a //3EF0A3D7 - 4P P2 Master Y FOV
+20284d90 431d8000 //43520000 - 4P P3 Master X FOV
+20284db0 3f206d3a //3EF0A3D7 - 4P P3 Master Y FOV
+20284e50 431d8000 //43520000 - 4P P4 Master X FOV
+20284e70 3f206d3a //3EF0A3D7 - 4P P4 Master Y FOV
 
-20284790 434FC000 //438A8000 - 2-4P P1-4 Paused Master X FOV
+20284790 434fc000 //438A8000 - 2-4P P1-4 Paused Master X FOV
 
 
 //[No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-2024B074 30420000
+2024b074 30420000
 
 
 

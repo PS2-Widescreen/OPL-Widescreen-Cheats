@@ -1,7 +1,7 @@
 "Godfather, The /ID SLPM_667.10"
 //ELF CRC E5E683C9
 Mastercode
-902E8390 0C0BA08C
+902e8390 0c0ba08c
 
 
 //[Widescreen 16:9]
@@ -11,7 +11,7 @@ Mastercode
 //Widescreen hack 16:9
 
 //zoom
-//003f013c 00608144 ca7C0B0C 02a30c46
+//003f013c 00608144 ca7c0b0c 02a30c46
 2036006c 3c013f20 //3c013f00
 
 //Y fov

@@ -2,8 +2,8 @@
 //ELF CRC B338676A
 
 Mastercode
-901B7EC0 0C06DF58
+901b7ec0 0c06df58
 
 // Widescreen hack 16:9 by unknown author
-2088F668 3F100000 // 3F400000 vert fov
-202C0580 3FA28F5C // 3EAAAAAB camera zoom
+2088f668 3f100000 // 3F400000 vert fov
+202c0580 3fa28f5c // 3EAAAAAB camera zoom

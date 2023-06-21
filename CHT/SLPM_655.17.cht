@@ -1,7 +1,7 @@
 "Sengoku Musou /ID SLPM_655.17"
 //ELF CRC 19487E13
 Mastercode
-90113D50 0C044EFC
+90113d50 0c044efc
 
 
 //[Widescreen 16:9]
@@ -24,7 +24,7 @@ Mastercode
 //[No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-2013DFD8 AF808508
+2013dfd8 af808508
 
 
 

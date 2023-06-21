@@ -1,7 +1,7 @@
 "Gundam Seed /ID SLKA_150.18"
 //ELF CRC 4EBA5BCF
 Mastercode
-9010C738 0C043176
+9010c738 0c043176
 
 
 //[Widescreen 16:9]
@@ -17,7 +17,7 @@ Mastercode
 
 //Zoom
 //0044023c b0ffbd27
-20128ef0 3c0243C0 //3c024400
+20128ef0 3c0243c0 //3c024400
 
 
 

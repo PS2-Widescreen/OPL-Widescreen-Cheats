@@ -1,7 +1,7 @@
 "Burnout 3 - Takedown /ID SLKA_252.06"
 //ELF CRC 5F060991
 Mastercode
-9010E630 0C043934
+9010e630 0c043934
 
 
 //[Widescreen 16:9]
@@ -16,73 +16,73 @@ Mastercode
 patch=1,EE,006661CD,byte,01 // enables widescreen FOV values
 
 //9A 99 99 3F CE CC 4C 3E CD CC 4C 3F C8 CC CC 3D
-204E0D38 3FAAAAAB // FOV (Single Player) // 16:9 = 1.33333
+204e0d38 3faaaaab // FOV (Single Player) // 16:9 = 1.33333
 
 //39 8E E3 3F 00 80 0E 43 EF EE 6E 3E 29 5C CF 3F
-204E0F70 3FE38E39 // Aspect Ratio (Single Player) // 16:9 = 1.77778
+204e0f70 3fe38e39 // Aspect Ratio (Single Player) // 16:9 = 1.77778
 
 //29 5C CF 3F 39 8E 63 40 CD CC AC 3F
-204E0F7C 3FE38E39 // FOV (Multiplayer) // 16:9 = 1.77778
+204e0f7c 3fe38e39 // FOV (Multiplayer) // 16:9 = 1.77778
 
 //39 8E 63 40 CD CC AC 3F AB AA 2A 40
-204E0F80 40638E39 // Aspect Ratio (Multiplayer) // 16:9 = 3.55556
+204e0f80 40638e39 // Aspect Ratio (Multiplayer) // 16:9 = 3.55556
 
 // HUD (16:9)
 //CD CC CC 3A 89 88 08 3B 9A 99 01 C1
-204E135C 3A99999A // HUD Width // 16:9 = 0.00117188
+204e135c 3a99999a // HUD Width // 16:9 = 0.00117188
 
 //00 00 00 00 00 00 00 00 00 00 80 3F EF EE 6E 3F (1st)
-206685B0 42A00000 // HUD X Pos // 16:9 = +80 (Player 1)
+206685b0 42a00000 // HUD X Pos // 16:9 = +80 (Player 1)
 
 //00 00 00 00 00 00 00 00 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 00 00 00 00 00 00 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F 54 A4 66 00 00 00 00 00 00 00 00 00 54 A4 66 00
-20669E30 42A00000 // HUD X Pos // 16:9 = +80 (Player 2)
+20669e30 42a00000 // HUD X Pos // 16:9 = +80 (Player 2)
 
 //00 00 80 3F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 BF 00 00 80 BF 00 00 80 BF 00 00 80 BF 00 00 00 00
-204B7A38 3F9947AE // HUD Top Right X Pos // 16:9 = +0.1975
+204b7a38 3f9947ae // HUD Top Right X Pos // 16:9 = +0.1975
 
 //00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 00 3F 00 00 80 3F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 BF 00 00 80 BF 00 00 80 BF 00 00 80 BF 00 00 00 00
-204B7A28 3F9947AE // HUD Bottom Right X Pos // 16:9 = +0.1975
+204b7a28 3f9947ae // HUD Bottom Right X Pos // 16:9 = +0.1975
 
 //00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3F 00 00 00 00 00 00 80 3F 00 00 00 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 00 3F 00 00 80 3F 00 00 00 00 00 00 00 00 00 00 00 00
-204B7A08 BE4A3D71 // HUD Top Left X Pos // 16:9 = -0.1975
+204b7a08 be4a3d71 // HUD Top Left X Pos // 16:9 = -0.1975
 
 //00 00 00 00 00 00 80 3F 00 00 00 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F 00 00 00 3F 00 00 80 3F 00 00 00 00 00 00 00 00 00 00 00 00
-204B7A18 BE4A3D71 // HUD Bottom Left X Pos // 16:9 = -0.1975
+204b7a18 be4a3d71 // HUD Bottom Left X Pos // 16:9 = -0.1975
 
 //00 00 20 44 00 00 70 42 CD CC CC 3A 89 88 88 3C
-204CA9C0 44555555 // Crash Cam Border Width
+204ca9c0 44555555 // Crash Cam Border Width
 
 //00 00 20 44 00 00 70 42 00 00 00 00 00 00 00 00 00 00 20 44 00 00 00 40 00 00 00 00 00 00 D2 43
-204CA9A0 44555555 // Crash Cam Border Width
+204ca9a0 44555555 // Crash Cam Border Width
 
 //00 00 20 44 00 00 00 40 00 00 00 00 00 00 D2 43
-204CA9B0 44555555 // Crash Cam Border Width
+204ca9b0 44555555 // Crash Cam Border Width
 
 //00 00 00 00 00 00 00 00 00 00 20 44 00 00 70 42 00 00 00 00 00 00 00 00 00 00 20 44 00 00 00 40
-204CA998 c2d70000 // Crash Cam Border X Pos // 16:9 = -0.107.5
+204ca998 c2d70000 // Crash Cam Border X Pos // 16:9 = -0.107.5
 
 //00 00 00 00 00 00 D2 43 00 00 20 44 00 00 70 42
-204CA9B8 c2d70000 // Crash Cam Border X Pos // 16:9 = -0.107.5
+204ca9b8 c2d70000 // Crash Cam Border X Pos // 16:9 = -0.107.5
 
 //20 44 02 3C 70 00 A0 AF 68 00 A2 AF 70 00 A6 27 (search elf)
-203D7498 3C024456 // Crash Cam List Backing Width // only change the last four bytes // 16:9 = 854
+203d7498 3c024456 // Crash Cam List Backing Width // only change the last four bytes // 16:9 = 854
 
 
 
 //////////////////////////////////
 
 //70 00 A1 C7 74 00 A0 C7 00 00 A1 E4 04 00 A0 E4
-203D731C 081216f0 // jumps to code cave #1
-20485BC0 3C08C2D7 // Crash Cam List Backing X Pos // only change the last four bytes // 16:9 = -0.107.5
-20485BC4 44880800 // moves new x pos value
+203d731c 081216f0 // jumps to code cave #1
+20485bc0 3c08c2d7 // Crash Cam List Backing X Pos // only change the last four bytes // 16:9 = -0.107.5
+20485bc4 44880800 // moves new x pos value
 
-20485BC8 080f5cc8 // jumps back #1 + 4
+20485bc8 080f5cc8 // jumps back #1 + 4
 
 //50 00 A2 C7 54 00 A0 C7 81 20 02 46 01 08 00 46
-203D7554 081216f3 // jumps to code cave #2
-20485BCC 3C19C2D7 // Crash Cam List Text X Pos // -0.107.5 for 16:9; only change the last four bytes
-20485BD0 44991000 // moves new x pos value
-20485BD4 080f5d56 // jumps back #2 + 4
+203d7554 081216f3 // jumps to code cave #2
+20485bcc 3c19c2d7 // Crash Cam List Text X Pos // -0.107.5 for 16:9; only change the last four bytes
+20485bd0 44991000 // moves new x pos value
+20485bd4 080f5d56 // jumps back #2 + 4
 
 //20 44 02 3C A8 00 A0 AF A0 00 A2 AF 2D 28 00 00
 patch=1,EE,201A172C,short,4456 // HUD Render Width (Player 1) // 16:9 = 854
@@ -95,28 +95,28 @@ patch=1,EE,201A1790,short,4456 // HUD Render Width (Player 2) // 16:9 = 854
 /////////////////////////////////////////////////
 
 //A0 00 A2 AF 2D 28 00 00 70 43 02 3C AC 00 A0 AF
-201A1734 08121732 // jumps to code cave #1
-20485CC8 AfA200A0 // saves width value
-20485CCC 3C02C2D7 // HUD Render X Pos (Player 1) // only change the last four bytes // 16:9 = -0.107.5
-20485CD0 AFA200A8 // saves new x pos value
-20485CD4 080685ce // jumps back #1 + 4
+201a1734 08121732 // jumps to code cave #1
+20485cc8 afa200a0 // saves width value
+20485ccc 3c02c2d7 // HUD Render X Pos (Player 1) // only change the last four bytes // 16:9 = -0.107.5
+20485cd0 afa200a8 // saves new x pos value
+20485cd4 080685ce // jumps back #1 + 4
 
 //90 00 A2 AF A8 00 A3 C7 70 43 02 3C 2D 28 00 00
-201A1798 08121736 // jumps to code cave #2
-20485CD8 AFA20090 // saves width value
-20485CDC 3C02C2D7 // HUD Render X Pos (Player 2) // only change the last four bytes // 16:9 = -0.107.5
-20485CE0 AFA20098 // saves new x pos value
-20485CE4 080685e7 // jumps back #2 + 4
+201a1798 08121736 // jumps to code cave #2
+20485cd8 afa20090 // saves width value
+20485cdc 3c02c2d7 // HUD Render X Pos (Player 2) // only change the last four bytes // 16:9 = -0.107.5
+20485ce0 afa20098 // saves new x pos value
+20485ce4 080685e7 // jumps back #2 + 4
 
 //20 44 02 3C 2D 50 00 00 00 10 82 44 00 00 00 00
 patch=1,EE,20134EEC,short,4456 // "Get Ready! GO" Width // 16:9 = 854
 
 //74 01 A2 AF 00 00 B0 FF
-20134F34 0812172e // jumps to code cave
-20485CB8 AFA20174 // saves y pos value
-20485CBC 3C023EC0 //  "Get Ready! GO" X Pos // only change the last four bytes // 16:9 = 0.375
-20485CC0 AFA20168 // saves new x pos value
-20485CC4 0804d3ce // jumps back
+20134f34 0812172e // jumps to code cave
+20485cb8 afa20174 // saves y pos value
+20485cbc 3c023ec0 //  "Get Ready! GO" X Pos // only change the last four bytes // 16:9 = 0.375
+20485cc0 afa20168 // saves new x pos value
+20485cc4 0804d3ce // jumps back
 
 
 ////////////////////////////////////////////////////
@@ -129,29 +129,29 @@ patch=1,EE,2030D624,short,43F0 // Menu Width // 16:9 = 480
 //08 00 83 E4 0C 00 80 E4 E0 B1 63 90 48 00 A3 E7
 //6148033c 60088046 00008344 (ELF)
 2030d674 081216f6 // jumps to code cave
-20485BD8 E4830008 // saves width value
-20485BDC 3C1942A0 // Menu X Pos // only change the last four bytes // 16:9 = +80
-20485BE0 44991800 // moves new x pos value
-20485BE4 E4830000 // saves new x pos value
-20485BE8 080c359e // jumps back
+20485bd8 e4830008 // saves width value
+20485bdc 3c1942a0 // Menu X Pos // only change the last four bytes // 16:9 = +80
+20485be0 44991800 // moves new x pos value
+20485be4 e4830000 // saves new x pos value
+20485be8 080c359e // jumps back
 
 //00 00 20 44 00 00 B0 43 00 00 00 00 00 00 00 00 00 00 80 3F 00 00 00 00 00 00 00 00 0F 09 44 42
-204D18D0 44555555 // Car Select Overlay Width  // 16:9 = 853.3
+204d18d0 44555555 // Car Select Overlay Width  // 16:9 = 853.3
 
 //00 00 00 00 00 00 80 42 00 00 20 44 00 00 B0 43 00 00 00 00 00 00 00 00 00 00 80 3F 00 00 00 00
-204D18C8 C2D70000 // Car Select Overlay X Pos  // 16:9 = -107.5
+204d18c8 c2d70000 // Car Select Overlay X Pos  // 16:9 = -107.5
 
 //20 44 03 3C 2D A8 80 00 E9 01 10 3C 67 00 14 3C
 // 2044033c (elf 2nd from top)
 patch=1,EE,2031afc0,short,4456 // Top Border Width // 16:9 = 854
 
 //04 00 85 C4 6A 18 E1 4B D8 01 A2 FF 00 08 83 44
-2031B034 081216fb // jumps to code cave
-20485BEC 3C190000 // Top Border X Pos // only change the last four bytes // 16:9 = 0 (4:3 = 80)
-20485BF0 44993800 // moves new x pos value
-20485BF4 E4870000 // saves new x pos value
-20485BF8 C4850004 // original code
-20485BFC 080c6c0e // jumps back
+2031b034 081216fb // jumps to code cave
+20485bec 3c190000 // Top Border X Pos // only change the last four bytes // 16:9 = 0 (4:3 = 80)
+20485bf0 44993800 // moves new x pos value
+20485bf4 e4870000 // saves new x pos value
+20485bf8 c4850004 // original code
+20485bfc 080c6c0e // jumps back
 
 //20 44 02 3C 78 00 A0 AF 70 00 A2 AF 78 00 A6 27
 patch=1,EE,2038b030,short,4456 // Bottom Border Width // 16:9 = 854
@@ -161,15 +161,15 @@ patch=1,EE,0038b068,short,4456 // Bottom Border Width // 16:9 = 854
 
 //68 00 A0 AF 5C 00 A2 AF 60 00 A6 27 80 3F 02 3C
 2038b07c 08121700 // jumps to code cave
-20485C00 3C19C2D7 // Bottom Border X Pos // only change the last four bytes // 16:9 = -107.5
-20485C04 AFB90068 // saves new x pos value
-20485C08 080e2c20 // jumps back
+20485c00 3c19c2d7 // Bottom Border X Pos // only change the last four bytes // 16:9 = -107.5
+20485c04 afb90068 // saves new x pos value
+20485c08 080e2c20 // jumps back
 
 //78 00 A0 AF 70 00 A2 AF 78 00 A6 27 C0 42 02 3C
 2038b034 08121703 // jumps to code cave
-20485C0C 3C193E00 // Bottom Border X Pos // only change the last four bytes // 16:9 = 0.125
-20485C10 AFB90078 // saves new x pos value
-20485C14 080e2c0e // jumps back
+20485c0c 3c193e00 // Bottom Border X Pos // only change the last four bytes // 16:9 = 0.125
+20485c10 afb90078 // saves new x pos value
+20485c14 080e2c0e // jumps back
 
 //20 44 02 3C 4C 00 0A 3C 08 01 A2 AF 4C 00 0B 3C
 patch=1,EE,2031D524,short,4456 // Checkerboard Width // 16:9 = 854
@@ -189,61 +189,61 @@ patch=1,EE,2031D680,short,4456 // Checkerboard Width // 16:9 = 854
 /////////////////////////////////////////////////////////
 
 //10 01 A0 AF 0C 01 A2 AF 18 01 A5 27 C0 42 02 3C
-2031D538 08121706 // jumps to code cave
-20485C18 3C193E00 // Middle Checkerboard X Pos // only change the last four bytes // 16:9 = 0.125
-20485C1c AFB90110 // saves new x pos value
-20485C20 080c754f // jumps back
+2031d538 08121706 // jumps to code cave
+20485c18 3c193e00 // Middle Checkerboard X Pos // only change the last four bytes // 16:9 = 0.125
+20485c1c afb90110 // saves new x pos value
+20485c20 080c754f // jumps back
 
 //F8 00 A0 AF F4 00 A2 AF 00 01 A5 27 FC 00 A0 AF
-2031D590 08121709 // jumps to code cave
-20485C24 3C193E00 // Top Checkerboard X Pos // only change the last four bytes // 16:9 = 0.125
-20485C28 AFB900F8 // saves new x pos value
-20485C2C 080c7565 // jumps back
+2031d590 08121709 // jumps to code cave
+20485c24 3c193e00 // Top Checkerboard X Pos // only change the last four bytes // 16:9 = 0.125
+20485c28 afb900f8 // saves new x pos value
+20485c2c 080c7565 // jumps back
 
 //C8 00 A0 AF C4 00 A2 AF D0 00 A5 27 80 42 02 3C
-2031D63C 0812170c // jumps to code cave
-20485C30 3C193E00 // Top Middle Checkerboard X Pos // only change the last four bytes // 16:9 = 0.125
-20485C34 AFB900C8 // saves new x pos value
-20485C38 080c7590 // jumps back
+2031d63c 0812170c // jumps to code cave
+20485c30 3c193e00 // Top Middle Checkerboard X Pos // only change the last four bytes // 16:9 = 0.125
+20485c34 afb900c8 // saves new x pos value
+20485c38 080c7590 // jumps back
 
 //E0 00 A0 AF DC 00 A2 AF 10 01 88 26 D0 43 02 3C
-2031D5E4 0812170f // jumps to code cave
-20485C3C 3C193E00 // Bottom Checkerboard X Pos // only change the last four bytes // 16:9 = 0.125
-20485C40 AFB900E0 // saves new x pos value
-20485C44 080c757a // jumps back
+2031d5e4 0812170f // jumps to code cave
+20485c3c 3c193e00 // Bottom Checkerboard X Pos // only change the last four bytes // 16:9 = 0.125
+20485c40 afb900e0 // saves new x pos value
+20485c44 080c757a // jumps back
 
 //B0 00 A0 AF AC 00 A2 AF 06 A3 00 46 C0 43 02 3C
-2031D694 08121712 // jumps to code cave
-20485C48 3C193E00 // Bottom Middle Checkerboard X Pos // only change the last four bytes // 16:9 = 0.125
-20485C4C AFB900B0 // saves new x pos value
-20485C50 080c75a6 // jumps back
+2031d694 08121712 // jumps to code cave
+20485c48 3c193e00 // Bottom Middle Checkerboard X Pos // only change the last four bytes // 16:9 = 0.125
+20485c4c afb900b0 // saves new x pos value
+20485c50 080c75a6 // jumps back
 
 //20 44 02 3C D0 01 A0 AF C8 01 A2 AF D8 01 A5 27
 patch=1,EE,2031D860,short,4456 // Loading Background Width // 16:9 = 854 #
-2031D880 08121715 // jumps to code cave  # +20
-20485C54 3C19C2D7 // Loading Background X Pos // only change the last four bytes // 16:9 = -107.5
-20485C58 AFB901D8 // saves new x pos value
-20485C5C 080c7621 // jumps back
+2031d880 08121715 // jumps to code cave  # +20
+20485c54 3c19c2d7 // Loading Background X Pos // only change the last four bytes // 16:9 = -107.5
+20485c58 afb901d8 // saves new x pos value
+20485c5c 080c7621 // jumps back
 
 //20 44 02 3C 70 00 A0 AF 68 00 A2 AF 78 00 A5 27
 patch=1,EE,203A6BB4,short,4456 // Replay Top Bar Width // 16:9 = 854 #
-203A6BB8 08121728 // jumps to code cave  # +4
-20485CA0 3C19C2D7 // Replay Top Bar X Pos // only change the last four bytes // 16:9 = -107.5
-20485CA4 AFB90078 // saves new x pos value
-20485CA8 080e9aef // jumps back
+203a6bb8 08121728 // jumps to code cave  # +4
+20485ca0 3c19c2d7 // Replay Top Bar X Pos // only change the last four bytes // 16:9 = -107.5
+20485ca4 afb90078 // saves new x pos value
+20485ca8 080e9aef // jumps back
 
 //20 44 02 3C 58 00 A0 AF 50 00 A2 AF 5C 00 B4 E7
 patch=1,EE,203A6BF8,short,4456 // Replay Bottom Bar Width // 16:9 = 854 #
-203A6C0C 0812172b // jumps to code cave # +14
-20485CAC 3C19C2D7 // Replay Bottom Bar X Pos // only change the last four bytes // 16:9 = -107.5
-20485CB0 AFB90060 // saves new x pos value
-20485CB4 080e9b04 // jumps back
+203a6c0c 0812172b // jumps to code cave # +14
+20485cac 3c19c2d7 // Replay Bottom Bar X Pos // only change the last four bytes // 16:9 = -107.5
+20485cb0 afb90060 // saves new x pos value
+20485cb4 080e9b04 // jumps back
 
 //AB AA AA 3F 55 55 D5 3F E4 CB 16 41 9A 99 99 BE
-204E0F3C 3FE38E39 // Globe Aspect Ratio // 16:9 = 1.777777791
+204e0f3c 3fe38e39 // Globe Aspect Ratio // 16:9 = 1.777777791
 
 //AB AA 8A 3F
-204E0D94 3FB8E38F // Globe Glow Aspect Ratio // 16:9 = 1.444444537
+204e0d94 3fb8e38f // Globe Glow Aspect Ratio // 16:9 = 1.444444537
 
 
 

@@ -1,6 +1,6 @@
 "K.League - Winning Eleven 9 - Asia Championship /ID SLKA_253.21"
 Mastercode
-90108710 0C04216C
+90108710 0c04216c
 
 
 //[Widescreen 16:9]
@@ -13,7 +13,7 @@ Mastercode
 20104458 4600c602 // 00000000
 
 // Render fix (42091746 803f053c)
-201252bc 3c053Fab //3c053F80
+201252bc 3c053fab //3c053F80
 
 
 

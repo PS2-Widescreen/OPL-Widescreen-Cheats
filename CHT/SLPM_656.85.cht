@@ -1,14 +1,14 @@
 "Stella Deus /ID SLPM_656.85"
 //ELF CRC 929486F0
 Mastercode
-90125F90 0C04978C
+90125f90 0c04978c
 
 
 //[Widescreen 16:9]
 
 //Widescreen Hack (pnach NTSC-J by Arapapa)
 
-202F8450 44c00000 // 45000000
+202f8450 44c00000 // 45000000
 
 
 

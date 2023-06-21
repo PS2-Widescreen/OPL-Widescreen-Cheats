@@ -1,7 +1,7 @@
 "Bloody Roar 3 /ID SLPM_620.55"
 //ELF CRC 64328775
 Mastercode
-901D4008 0C074FAA
+901d4008 0c074faa
 
 
 //[Widescreen 16:9]
@@ -11,7 +11,7 @@ Mastercode
 //Widescreen Hack 16:9
 
 //0000803f eeeeee3e 00000045 00000045 0000803f ffff7f4b
-201F3A54 3F400000 //3f800000
+201f3a54 3f400000 //3f800000
 
 
 

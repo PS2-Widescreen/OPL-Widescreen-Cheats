@@ -1,7 +1,7 @@
 "Generation of Chaos 5 /ID SLPM_660.55"
 //ELF CRC 38BCD719
 Mastercode
-9010DCB0 0C0436D4
+9010dcb0 0c0436d4
 
 
 //[Widescreen 16:9]
@@ -39,8 +39,8 @@ Mastercode
 //204be174 3f890fda //3f490fda
 
 //2D X-Fov (Right)
-//2113A91C c3c10000 //c3f10000
-//2113A970 c3c10000 //c3f10000
+//2113a91c c3c10000 //c3f10000
+//2113a970 c3c10000 //c3f10000
 
 //2D Characters
 //2018f6dc 3c023f19 //3c023f4c

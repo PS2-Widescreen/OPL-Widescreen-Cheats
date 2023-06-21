@@ -1,7 +1,7 @@
 ".hack//G.U. Vol.1 - Saitan /ID SLPS_256.51"
 //ELF CRC D5B63C1F
 Mastercode
-901300D0 0C04BFDC
+901300d0 0c04bfdc
 
 
 //[Widescreen 16:9]
@@ -9,7 +9,7 @@ Mastercode
 //Widescreen Hack (16:9)  (cloudalmasai) (pnach by Arapapa)
 
 //16:9 (0000803f 0000803f 00008043 00004043)
-2094D414 3F400000 // 3f800000
+2094d414 3f400000 // 3f800000
 
 
 

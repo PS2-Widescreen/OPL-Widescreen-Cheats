@@ -1,13 +1,13 @@
 "Clock Tower 3 /ID SLPM_652.21"
 //ELF CRC 68EAF48F
 Mastercode
-9181CFB8 0C607396
+9181cfb8 0c607396
 
 
 //[Widescreen 16:9]
 
 //NTSC-J Widescreen Hack by parotaku
-21938FA8 3F1FBE77 // 3F54FDF4
+21938fa8 3f1fbe77 // 3F54FDF4
 
 //FMV's fix by nemesis2000
 218bce88 3c026fa0

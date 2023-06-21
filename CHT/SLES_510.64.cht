@@ -1,7 +1,7 @@
 "Gladius /ID SLES_510.64"
 //ELF CRC 2F1A1A42
 Mastercode
-90102148 0C0407FA
+90102148 0c0407fa
 
 
 //[Widescreen 16:9]
@@ -9,13 +9,13 @@ Mastercode
 //Widescreen Hack by El_Patas
 
 //Gameplay 16:9 in SPANISH.ELF
-203DBDB8 3C023F40 //3C023F80 (Increases hor. axis)
+203dbdb8 3c023f40 //3C023F80 (Increases hor. axis)
 
 //Gameplay 16:9 in ENGLISH.ELF
-203CED58 3C023F40 //3C023F80 (Increases hor. axis)
+203ced58 3c023f40 //3C023F80 (Increases hor. axis)
 
 //Gameplay 16:9 in ITALIAN.ELF
-203DBE18 3C023F40 //3C023F80 (Increases hor. axis)
+203dbe18 3c023f40 //3C023F80 (Increases hor. axis)
 
 
 

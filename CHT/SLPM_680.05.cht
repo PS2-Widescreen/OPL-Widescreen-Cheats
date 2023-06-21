@@ -1,7 +1,7 @@
 "Harry Potter to Himitsu no Heya /ID SLPM_680.05"
 //ELF CRC E90BE9F8
 Mastercode
-904D8418 0C1360AE
+904d8418 0c1360ae
 
 
 //[Widescreen 16:9]
@@ -24,7 +24,7 @@ Mastercode
 
 
 //Font Y-Fov
-20541914 3B0882F1 //3acccccd
+20541914 3b0882f1 //3acccccd
 
 //Font Y-Position
 20541934 bf000000 //bec00000

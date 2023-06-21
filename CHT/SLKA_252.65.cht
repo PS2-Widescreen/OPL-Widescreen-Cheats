@@ -1,7 +1,7 @@
 "Devil May Cry 3 /ID SLKA_252.65"
 //ELF CRC 05931990
 Mastercode
-9010FFA8 0C043F92
+9010ffa8 0c043f92
 
 
 //[Widescreen 16:9]
@@ -9,7 +9,7 @@ Mastercode
 //Widescreen Hack by Acem (pnach NTSC-K by Arapapa)
 
 //16:9 (0000803f 5555153f)
-21CAF990 3F400000 // 3f800000
+21caf990 3f400000 // 3f800000
 
 
 

@@ -1,7 +1,7 @@
 "Winning Eleven 8 International /ID SLKA_252.62"
 //ELF CRC A37A7348
 Mastercode
-90108910 0C0421EC
+90108910 0c0421ec
 
 
 //[Widescreen 16:9]
@@ -14,7 +14,7 @@ Mastercode
 20104640 4600c602 // 00000000
 
 // Render fix  (803f023c 5c6a22ac)
-20126104 3C023FAB //3C023F80
+20126104 3c023fab //3C023F80
 
 
 

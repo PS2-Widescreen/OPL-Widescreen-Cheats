@@ -1,7 +1,7 @@
 "Need for Speed - Underground /ID SLKA_251.36"
 //ELF CRC C5D0EBD2
 Mastercode
-903B9898 0C0EE5CE
+903b9898 0c0ee5ce
 
 
 //[Widescreen 16:9]
@@ -18,8 +18,8 @@ Mastercode
 //FMV's fix
 2022cf88 3c01bf2a //3c01bf00
 2022cf8c 44816800 //44816000
-2022CFBC 46007307
-2022CFC0 46006bc7
+2022cfbc 46007307
+2022cfc0 46006bc7
 
 
 

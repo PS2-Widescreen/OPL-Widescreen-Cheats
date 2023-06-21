@@ -1,7 +1,7 @@
 "Super DragonBall Z /ID SLPS_256.42"
 //ELF CRC 197E9907
 Mastercode
-90177D50 0C05DEFC
+90177d50 0c05defc
 
 
 //[Widescreen 16:9]
@@ -15,7 +15,7 @@ Mastercode
 //[No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-20104B88 AC6002D0
+20104b88 ac6002d0
 
 
 

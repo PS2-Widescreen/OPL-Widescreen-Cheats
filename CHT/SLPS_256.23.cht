@@ -1,7 +1,7 @@
 "Another Centurys Episode 2 /ID SLPS_256.23"
 //ELF CRC 3ED7CFA1
 Mastercode
-901106F0 0C044164
+901106f0 0c044164
 
 
 //[Widescreen 16:9]
@@ -15,7 +15,7 @@ Mastercode
 201f1aac 3c023f40 //3c023f80
 
 2014b630 3c0243d6 //3c0243a0 rfix
-201f1938 3C034099 //3C0340cc rfix
+201f1938 3c034099 //3C0340cc rfix
 201f193c 34648666 //3464b333
 
 

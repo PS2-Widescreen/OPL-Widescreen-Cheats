@@ -1,7 +1,7 @@
 "Shin Megami Tensei - Devil Summoner - Kuzunoha Raidou /ID SLPM_662.46"
 //ELF CRC 67D76160
 Mastercode
-90395518 0C0E54EE
+90395518 0c0e54ee
 
 
 //[Widescreen 16:9]
@@ -15,10 +15,10 @@ Mastercode
 203ace14 3fc65461  // 3f951eb8
 
 //black borders's fix (optional)
-//201068CC 2404FF00
-//201C8EF8 24040000
+//201068cc 2404ff00
+//201c8ef8 24040000
 //20114310 24040000
-//20106AD8 a3809b13
+//20106ad8 a3809b13
 
 
 //[No-Interlacing]

@@ -1,7 +1,7 @@
 "Chou Saisoku! Zokusha King B.U. [Simple Series DX] /ID SLPM_624.86"
 //ELF CRC 24E09680
 Mastercode
-901D2F98 0C074B8E
+901d2f98 0c074b8e
 
 
 //[Widescreen 16:9]
@@ -9,7 +9,7 @@ Mastercode
 //Widescreen hack by Arapapa
 
 //Widescreen hack 16:9
-2034EB94 3f400000 //3f800000
+2034eb94 3f400000 //3f800000
 
 
 

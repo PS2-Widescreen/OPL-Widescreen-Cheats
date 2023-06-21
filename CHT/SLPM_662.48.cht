@@ -1,7 +1,7 @@
 "Mr. Incredible - Kyouteki Underminer Toujou /ID SLPM_662.48"
 //ELF CRC 249FC69C
 Mastercode
-9010A390 0C04288C
+9010a390 0c04288c
 
 
 //[Widescreen 16:9]
@@ -10,8 +10,8 @@ Mastercode
 
 201110e0 00000000 // hang fix by Prafull
 //003f023c 00008244 8e3c033c
-20219044 3C023F17
-20219070 3C023F10
+20219044 3c023f17
+20219070 3c023f10
 
 
 

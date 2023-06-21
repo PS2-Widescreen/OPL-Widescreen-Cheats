@@ -1,7 +1,7 @@
 "Rocky /ID SLPM_654.63"
 //ELF CRC 78865F28
 Mastercode
-90118AF8 0C046266
+90118af8 0c046266
 
 
 //[Widescreen 16:9]
@@ -15,7 +15,7 @@ Mastercode
 2025bc98 3f400000
 
 //Rener fix
-2025BBA0 43e00000
+2025bba0 43e00000
 
 //No Interlacing patch by Prafull
 //fix shaking issue ingame

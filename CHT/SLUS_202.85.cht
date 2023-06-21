@@ -1,7 +1,7 @@
 "Moto GP 2 /ID SLUS_202.85"
 //ELF CRC 586EA828
 Mastercode
-902938F8 0C0A4DE6
+902938f8 0c0a4de6
 
 
 //[Widescreen 16:9]
@@ -30,11 +30,11 @@ Mastercode
 //[No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-20265444 FD030000
-2027FED0 24020001
-0043C588 00000001
-0036C798 00000003
-0036C7C0 00000003
+20265444 fd030000
+2027fed0 24020001
+0043c588 00000001
+0036c798 00000003
+0036c7c0 00000003
 
 
 

@@ -2,7 +2,7 @@
 //ELF CRC AD8A8599
 
 Mastercode
-9036E6D8 0C0DB95E
+9036e6d8 0c0db95e
 
 
 //Widescreen Hack 16:9 by Arapapa
@@ -46,9 +46,9 @@ Mastercode
 /////////////////////////////
 // Memory Hack //
 //0000803f 0000c843 3333b33e
-//20A52B60 3f400000 game play
+//20a52b60 3f400000 game play
 //0000803f be9faa3f 6176696f
-//20A52B70 3f400000 game kick-off
+//20a52b70 3f400000 game kick-off
 //0000803f be9faa3f 001d6bcc
-//20A65170 3f400000 game replay
+//20a65170 3f400000 game replay
 

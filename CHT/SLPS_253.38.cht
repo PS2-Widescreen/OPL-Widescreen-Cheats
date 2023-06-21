@@ -2,7 +2,7 @@
 //ELF CRC 26D1C561
 
 Mastercode
-9024A838 0C0929B6
+9024a838 0c0929b6
 
 
 //[Widescreen 16:9]
@@ -29,4 +29,4 @@ Mastercode
 
 //[No-Interlacing]
 //Attempts to disable interlaced offset rendering.
-//2023C2DC 00000000
+//2023c2dc 00000000
