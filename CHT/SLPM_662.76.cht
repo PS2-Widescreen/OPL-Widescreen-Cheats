@@ -1,0 +1,32 @@
+"Shin Onimusha - Dawn of Dreams [Disc 2] /ID SLPM_662.76"
+//ELF CRC BD17248E
+
+Mastercode
+90111290 0C04444C
+
+
+//[Widescreen 16:9]
+//by nemesis2000 & Arapapa
+
+//gameplay
+
+//val1
+2012f8a0 3c033f19
+2012f8a8 34649999
+
+//val2
+2012fa78 3c033f19
+2012fa80 34639999
+
+//val3
+20167f58 3c023f19
+20167f5c 34439999
+
+//rfix1
+2012faf0 3c02c3d6
+
+//rfix1
+2012f9e0 3c024527
+
+
+

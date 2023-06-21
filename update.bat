@@ -1,8 +1,10 @@
 @echo off
 title automated archive updater
 
-echo # listing widescreen hacks from pcsx2_patches...
-if not exist LST.TXT findstr /M "Widescreen" ..\pcsx2_patches\patches\*.*>LST.TXT
+if not exist LST.TXT (
+    echo # listing widescreen hacks from pcsx2_patches...
+    findstr /M "Widescreen" ..\pcsx2_patches\patches\*.*>LST.TXT
+)
 REM busybox.exe grep -Eo "[a-zA-Z]{4}-[0-9]{5}.*.pnach" LST.TXT | busybox.exe grep -Eo "[a-zA-Z]{4}-[0-9]{5}" > LST2.TXT
 if not exist LST2.TXT (
     echo ## Temporal list of game ID not found, constructing. this will take a while...
