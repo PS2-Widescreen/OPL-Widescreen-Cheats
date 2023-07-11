@@ -97,13 +97,12 @@ d074f516 00003f80
 
 
 //[No-Interlacing]
-gsinterlacemode=1
-//No Interlacing Patch by Tokman5
+//by Tokman5
 //While FMV is playing, deinterlacing will be temporary disabled due to streaming problem
-d06452a0 01100001
-20263518 34022000
-d06452a0 01000001
-20263518 30422000
+//d06452a0 01100001
+//20263518 34022000
+//d06452a0 01000001
+//20263518 30422000
 
 
 

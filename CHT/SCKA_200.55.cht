@@ -5,10 +5,7 @@ Mastercode
 
 
 //[Widescreen 16:9]
-
-//Widescreen Hack by Arapapa
-
-//Widescreen hack 16:9
+//by Arapapa
 
 //Zoom
 2016aa5c 3c0243c0 //3c024400
@@ -20,9 +17,8 @@ Mastercode
 
 
 //[No-Interlacing]
-description=Attempts to disable interlaced offset rendering.
-gsinterlacemode=1
-201011e4 30420000
+//Attempts to disable interlaced offset rendering.
+//201011e4 30420000
 
 
 

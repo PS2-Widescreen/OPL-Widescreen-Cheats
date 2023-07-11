@@ -20,15 +20,14 @@ Mastercode
 
 
 //[No-Interlacing]
-gsinterlacemode=1
 //No Interlacing
 
 //480p
-0026ebc8 00000002
-0026ebd0 00001038
+//0026ebc8 00000002
+//0026ebd0 00001038
 
 //No interlaced FMVs
-0021ec5c 00000000
+//0021ec5c 00000000
 
 
 

@@ -59,9 +59,8 @@ e0030002 00a095d0 //Conditional live memory fixes for Bike Shop menu
 
 
 //[No-Interlacing]
-description=Attempts to disable interlaced offset rendering.
-gsinterlacemode=1
-2024b074 30420000
+//Attempts to disable interlaced offset rendering.
+//2024b074 30420000
 
 
 

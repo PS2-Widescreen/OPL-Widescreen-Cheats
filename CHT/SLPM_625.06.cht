@@ -20,13 +20,12 @@ Mastercode
 
 
 //[No-Interlacing]
-description=Attempts to disable interlaced offset rendering.
-gsinterlacemode=1
+//Attempts to disable interlaced offset rendering.
 //No interlacing
-201e1ab0 30420000
-20101f5c 00000000 //64420008
+//201e1ab0 30420000
+//20101f5c 00000000 //64420008
 //Remove Broken Effect
-203fc3e4 00400000
+//203fc3e4 00400000
 
 
 

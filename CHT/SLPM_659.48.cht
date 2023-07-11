@@ -14,10 +14,8 @@ Mastercode
 
 
 //[No-Interlacing]
-description=Attempts to disable interlaced offset rendering.
-gsinterlacemode=1
-20133654 34060001
-203890c0 00009450
+//20133654 34060001
+//203890c0 00009450
 
 
 

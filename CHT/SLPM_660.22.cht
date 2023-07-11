@@ -10,6 +10,4 @@ Mastercode
 2036663c 3c033f40 //Garage
 
 //[No-Interlacing]
-description=Attempts to disable interlaced offset rendering.
-gsinterlacemode=1
-201532c4 30840000
+//201532c4 30840000
