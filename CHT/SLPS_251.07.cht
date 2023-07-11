@@ -1,7 +1,7 @@
 "Kengo 2 /ID SLPS_251.07"
 //ELF CRC B7FA5969
 Mastercode
-90216490 0C0858CC
+90216490 0c0858cc
 
 
 //[Widescreen 16:9]
@@ -9,13 +9,13 @@ Mastercode
 
 
 //Gameplay 16:9
-201ac584 3C013F40 //3C013F80 (Increases hor. axis)
+201ac584 3c013f40 //3C013F80 (Increases hor. axis)
 
 //Cutscenes in movement fix
-201ad37c 3C013F40 //3C013F80 (Increases hor. axis)
+201ad37c 3c013f40 //3C013F80 (Increases hor. axis)
 
 //[Removes black box cutscenes texts (Optional)]
-201b3a78 3C013D00 //3C013F80
+201b3a78 3c013d00 //3C013F80
 
 
 

@@ -1,7 +1,7 @@
 "D-Unit Drift Racing /ID SLES_541.54"
 //ELF CRC 0212D871
 Mastercode
-901FE540 0C07F8F8
+901fe540 0c07f8f8
 
 //[Widescreen 16:9]
 //Renders the game in 16:9 aspect ratio, instead of 4:3.
@@ -9,7 +9,7 @@ Mastercode
 //Y-Fov
 2034f7d4 3fc8aaab //3f800000
 
-2034fc9c 3F59774F //3f20d97c
+2034fc9c 3f59774f //3f20d97c
 
 
 

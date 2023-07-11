@@ -1,20 +1,20 @@
 "Final Fantasy X /ID SCES_504.91"
 //ELF CRC A39517AE
 Mastercode
-902FAA58 0C0BEA3E
+902faa58 0c0bea3e
 
 
 //[Widescreen 16:9]
 
 //Final Fantasy X (PAL-FR) 16:9 Widescreen Hack, Render Fix & Progressive Scan
 // 16:9
-201A5974 3C013F19
-201A5978 3421999A
+201a5974 3c013f19
+201a5978 3421999a
 // Render-Fix
-2011973C 3C014440
-20176144 3C01442B
+2011973c 3c014440
+20176144 3c01442b
 // Progressive Scan
-//202D98B4 3C050000
+//202d98b4 3c050000
 
 
 

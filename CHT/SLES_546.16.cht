@@ -1,13 +1,13 @@
 "Fantastic Four - Rise of the Silver Surfer /ID SLES_546.16"
 //ELF CRC 6302560D
 Mastercode
-9032AE38 0C0CAB36
+9032ae38 0c0cab36
 
 
 //[Widescreen 16:9]
 
 //Widescreen Hack
-2037FA68 3Faaaaab // 3F800000
+2037fa68 3faaaaab // 3F800000
 
 
 
