@@ -23,6 +23,7 @@ do
   HEAD=""
   HEAD=$(head -n1 -q "$a" | grep -Eo [0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z]_[0-9][0-9][0-9].[0-9][0-9])
   COUNT=$(grep -iEo "^[0-9A-Fa-f]{8} [0-9A-Fa-f]{8}" "$a" | wc -l)
+  MASTERCODE_COUNT=$(grep -iEo "^9[0-9A-Fa-f]{7} [0-9A-Fa-f]{8}" "$a" | wc -l)
   printf "\r[$a]:"
   if [ -z "$HEAD" ]; then
     echo " could not find ELF ID on header"
@@ -44,7 +45,12 @@ do
     RETURN_CODE=1
   fi
 
-  if  grep -q "Mastercode" "$a" ; then
+  if [ $MASTERCODE_COUNT -le 0 ] || [ $MASTERCODE_COUNT -gt 5 ]; then
+    echo " $MASTERCODE_COUNT Mastercodes quantity out of range..." ;
+    RETURN_CODE=1
+  fi
+
+  if grep -q "Mastercode" "$a" ; then
     :
   else
     echo " could not find a matching mastercode string" ;
