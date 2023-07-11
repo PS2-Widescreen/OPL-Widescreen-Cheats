@@ -40,13 +40,13 @@ do
     RETURN_CODE=1
   fi
 
-  if [ $COUNT -gt 255 ]; then
-    echo " $COUNT Cheats detected, while OPL Cheat engine only supports a total of 255 cheats..." ;
+  if [ $COUNT -gt 250 ]; then
+    echo " $COUNT Cheats detected, OPL Cheat engine supports a max of 250 common cheats..." ;
     RETURN_CODE=1
   fi
 
   if [ $MASTERCODE_COUNT -le 0 ] || [ $MASTERCODE_COUNT -gt 5 ]; then
-    echo " $MASTERCODE_COUNT Mastercodes quantity out of range..." ;
+    echo " $MASTERCODE_COUNT Mastercodes. quantity out of range (1-5)..." ;
     RETURN_CODE=1
   fi
 
