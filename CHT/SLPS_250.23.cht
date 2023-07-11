@@ -1,0 +1,20 @@
+"Bouncer, The /ID SLPS_250.23"
+//ELF CRC 18C8487E
+Mastercode
+90307820 0c0c1db0
+
+
+//[Widescreen 16:9]
+
+//NTSC-J Widescreen Hack by synce
+20391a3c 3f400000
+
+
+//[No-Interlacing]
+//Attempts to disable interlaced offset rendering.
+
+//20103fb8 30630000
+//20286e00 00000000
+
+
+

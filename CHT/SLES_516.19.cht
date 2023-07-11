@@ -1,0 +1,26 @@
+"Clock Tower 3 /ID SLES_516.19"
+//ELF CRC D9FC6310
+Mastercode
+9181cfb8 0c607396
+//[Widescreen 16:9]
+
+//Clock Tower 3 - Widescreen Hack (16:9) (PAL-E) // strider3871
+
+//gameplay by hyakki
+2193c0a8 3f1fbe77 // 3F54FDF4
+
+//FMV's fix by nemesis2000
+218bddb8 3c026fa0 //3c027200
+218bde08 34028260 //34028000
+
+218bd788 3c026fa0 //3c027200
+218bd7d4 34028260 //34028000
+
+//black borders fix by nemesis2000
+218f4824 3c030000 //3c034274
+
+//remove black square near Panic Meter
+2041c100 00000000
+
+
+
