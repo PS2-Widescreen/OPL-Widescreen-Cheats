@@ -1,0 +1,21 @@
+"Kengo 2 /ID SLPS_251.07"
+//ELF CRC B7FA5969
+Mastercode
+90216490 0C0858CC
+
+
+//[Widescreen 16:9]
+//Renders the game in 16:9 aspect ratio, instead of 4:3.
+
+
+//Gameplay 16:9
+201ac584 3C013F40 //3C013F80 (Increases hor. axis)
+
+//Cutscenes in movement fix
+201ad37c 3C013F40 //3C013F80 (Increases hor. axis)
+
+//[Removes black box cutscenes texts (Optional)]
+201b3a78 3C013D00 //3C013F80
+
+
+

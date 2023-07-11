@@ -1,0 +1,30 @@
+"Tales of Destiny 2 /ID SLPS_251.72"
+Mastercode
+901764F0 0C05D8E4
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack
+
+//battle
+201807e4 3c013f40
+201807e8 44810000
+201807f0 4600c602
+
+//3D map
+202DB520 44160000
+
+//No interlacing by asasega
+//2017355c 00000000 //64420008
+//201735e4 00000000 //64420008
+
+
+//[No-Interlacing]
+//Attempts to disable interlaced offset rendering.
+
+//20170774 00000000
+//201707FC 00000000
+
+
+

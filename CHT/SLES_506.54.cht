@@ -1,0 +1,19 @@
+"Dune, Frank Herberts /ID SLES_506.54"
+//ELF CRC 87F45627
+Mastercode
+90109918 0C0425EE
+
+
+//[Widescreen 16:9]
+//Renders the game in 16:9 aspect ratio, instead of 4:3.
+
+2033f7ac 08041b98
+
+20106e60 46070202
+20106e64 3c013f40
+20106e68 4481f000
+20106e6c 461e4202
+20106e70 080cfdec
+
+
+

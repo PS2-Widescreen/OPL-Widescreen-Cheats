@@ -1,0 +1,16 @@
+"Fire Blade /ID SLUS_201.98"
+//ELF CRC = 18720162
+
+Mastercode
+9020F140 0C083BF8
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+20559830 3F400000 //3F800000 (Increases hor. axis)
+
+
+

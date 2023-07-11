@@ -1,0 +1,23 @@
+"Blood Omen 2 - Legend of Kain /ID SLES_508.15"
+//ELF CRC 1897D0F7
+Mastercode
+904894D0 0C1224DC
+
+
+//[Widescreen 16:9]
+//Renders the game in 16:9 aspect ratio, instead of 4:3.
+
+
+//gameplay (based on pavachan elf hack)
+20311810 3c013fe3 //3c013faa
+20311814 34218e38 //3421aaab
+
+//black border fix by nemesis2000
+//202d24cc 00000000
+
+//FMV's fix by nemesis2000
+202e9ff0 240575e0 //24057800
+202ea008 240a1440 //240a1000
+
+
+

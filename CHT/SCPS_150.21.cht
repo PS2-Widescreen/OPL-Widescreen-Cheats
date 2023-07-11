@@ -1,0 +1,31 @@
+"Jak & Daxter 2 /ID SCPS_150.21"
+//ELF CRC = EDE4FE64
+
+Mastercode
+901259D8 0C04961E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (16:9) by ElHecht
+
+// 16:9
+202AF7B0 3f1f3b64 // 3f000000 zoom
+202AF75C bf1f3b64 // bf000000 hud fix for zoom
+2079F628 0015120C // 0014E4C4 force native 16:9 mode
+
+
+//[No-Interlacing]
+
+//No Interlacing & No Blur
+
+// No Interlacing
+//202B2074 24060000
+//20878904 AEE0ED00
+
+// No Blur
+//00702898 000000E0
+//2010FF6C 30420000
+
+
+
