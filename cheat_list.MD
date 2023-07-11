@@ -1,4 +1,4 @@
-game count|3462| Link
+game count|3461| Link
 ------------- | --------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37 | [LINK](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  SLES_524.67 | [LINK](./CHT/SLES_524.67.cht)
@@ -916,7 +916,6 @@ Golful Golf  |  SLPS_250.32 | [LINK](./CHT/SLPS_250.32.cht)
 Goosebumps HorrorLand  |  SLUS_218.34 | [LINK](./CHT/SLUS_218.34.cht)
 Gradius V  |  SLES_520.95 | [LINK](./CHT/SLES_520.95.cht)
 Gradius V  |  SLPM_624.62 | [LINK](./CHT/SLPM_624.62.cht)
-Gran Turismo 3 - A-Spec  |  SCES_502.94 | [LINK](./CHT/SCES_502.94.cht)
 Gran Turismo 4  |  SCES_517.19 | [LINK](./CHT/SCES_517.19.cht)
 Gran Turismo 4  |  SCUS_973.28 | [LINK](./CHT/SCUS_973.28.cht)
 Grand Theft Auto - Liberty City Stories  |  SLPM_668.51 | [LINK](./CHT/SLPM_668.51.cht)
