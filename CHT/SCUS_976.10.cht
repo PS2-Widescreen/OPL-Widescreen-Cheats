@@ -1,0 +1,28 @@
+"Hot Shots Tennis /ID SCUS_976.10"
+//ELF CRC 72326E67
+
+Mastercode
+901067D0 0C04199C
+
+
+//[Widescreen 16:9]
+//by ElHecht (ported by Tagg)
+
+// 16:9
+201398d0 08074b83 // e4840544 jump to code-inject 001d2e0c
+201398d4 00000000 // 46002107
+
+201d2e0c 3c013f40 // 00000000 horizontal fov
+201d2e10 4481f000 // 00000000
+201d2e14 461e2103 // 00000000
+201d2e18 e4840544 // 00000000
+201d2e1c 46002107 // 00000000
+201d2e20 0804e635 // 00000000 jump back to 001398d4
+
+20138134 3c034456 // 3c034420 2D menu/hud fix
+
+//[No-Interlacing]
+
+//no interlacing by someother1ne
+//20125464 64420000
+//201256cc 64420000
