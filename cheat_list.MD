@@ -1,4 +1,4 @@
-game count|3461| Link
+game count|3462| Link
 ------------- | --------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37 | [LINK](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  SLES_524.67 | [LINK](./CHT/SLES_524.67.cht)
@@ -1038,6 +1038,7 @@ Home Alone  |  SLES_544.69 | [LINK](./CHT/SLES_544.69.cht)
 Homerun  |  SLES_518.12 | [LINK](./CHT/SLES_518.12.cht)
 Horsez  |  SLUS_215.63 | [LINK](./CHT/SLUS_215.63.cht)
 Hot Shots Golf 3  |  SCUS_971.30 | [LINK](./CHT/SCUS_971.30.cht)
+Hot Shots Tennis  |  SCUS_976.10 | [LINK](./CHT/SCUS_976.10.cht)
 Hot Wheels - Beat That  |  SLUS_216.28 | [LINK](./CHT/SLUS_216.28.cht)
 Hot Wheels - Stunt Track Challenge  |  SLES_524.81 | [LINK](./CHT/SLES_524.81.cht)
 Hot Wheels - Stunt Track Challenge  |  SLUS_209.54 | [LINK](./CHT/SLUS_209.54.cht)
