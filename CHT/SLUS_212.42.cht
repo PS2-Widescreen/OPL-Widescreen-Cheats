@@ -1,4 +1,5 @@
-﻿"Burnout Revenge /ID SLUS_212.42"
+"Burnout Revenge /ID SLUS_212.42"
+
 Mastercode
 90449d08 0c1126ea
 
@@ -9,3 +10,15 @@ Mastercode
 //9A 99 99 3F 39 8E E3 3F 80 02 00 00 C0 01 00 00
 21bfe890 3faaaaab
 
+//Hud Width by SuperType1/remco
+2016bca8 3c013a9d
+
+//Hud Elements by SuperType1/remco
+21c02438 3faa3d71
+21c02448 3faa3d71
+21c02398 44610000
+21c02410 3f2e147b
+21bfe698 438c0000
+2010da78 3c014448
+20167844 3c014f23
+21c02108 43c30000

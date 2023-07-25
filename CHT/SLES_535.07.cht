@@ -1,5 +1,6 @@
 "Burnout Revenge /ID SLES_535.07"
 //ELF CRC 7E83CC5B
+
 Mastercode
 90449e88 0c11274a
 
@@ -11,3 +12,16 @@ Mastercode
 //Zoom Fix
 //9A 99 99 3F 39 8E E3 3F 80 02 00 00 C0 01 00 00
 21bfeb10 3faaaaab // 3F800000
+
+//Hud Width by SuperType1/remco
+2016bbb8 3c013a9d
+
+//Hud Elements by SuperType1/remco
+21c026b8 3faa3d71
+21c026c8 3faa3d71
+21c02618 44610000
+21c02690 3f2e147b
+21bfe918 438c0000
+2010da90 3c014448
+20167754 3c014f23
+21c02388 43c30000
