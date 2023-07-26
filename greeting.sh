@@ -18,6 +18,16 @@ if [ -f "LINKLIST.TXT" ]; then rm LINKLIST.TXT; fi
             echo "'CHT/$a.cht' does not exist"
         fi
     done
+    
+    for a in $(grep -Eo "[a-zA-Z]{4}-[0-9]{5}" "$1" | sed 's/-/_/g' | sed 's/./&./8')
+    do
+        if [ -f "CHT/$a.cht" ]
+        then
+            echo " - [\`$a.cht\`](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/CHT/$a.cht)" >> LINKLIST.TXT
+        else
+            echo "'CHT/$a.cht' does not exist"
+        fi
+    done
 
     if [ -f "LINKLIST.TXT" ]
     then
@@ -26,6 +36,6 @@ if [ -f "LINKLIST.TXT" ]; then rm LINKLIST.TXT; fi
     fi
 else
     RETURN_CODE=1
-    echo "ERROR: expected argumment one to be a path to a file containing the issue report to analize" 
+    echo "> ERROR: expected argumment one to be a path to a file containing the issue report to analize" 
 fi
 exit $RETURN_CODE
