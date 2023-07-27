@@ -1,0 +1,24 @@
+"Lets Ride! Silver Buckle Stables /ID SLES_551.36"
+//ELF CRC 7E49FABF
+Mastercode
+902EEA18 0C0BBA2E
+
+//[Widescreen 16:9]
+//Renders the game in 16:9 aspect ratio, instead of 4:3.
+
+
+//Widescreen hack 16:9
+
+20296670 080bad24 // c6010068
+20296674 00000000 // c602006c
+
+202eb490 3c013f40 // 00000000
+202eb494 4481f000 // 00000000
+202eb498 c6010068 // 00000000
+202eb49C c602006c // 00000000
+202eb4A0 461e0843 // 00000000
+202eb4A4 e6010068 // 00000000
+202eb4A8 080a599e // 00000000
+
+
+
