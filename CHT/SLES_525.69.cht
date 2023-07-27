@@ -1,0 +1,15 @@
+"Spyro - A Heros Tale /ID SLES_525.69"
+//ELF CRC 6E51213C
+Mastercode
+90412a20 0c104a30
+
+
+//[Widescreen 16:9]
+
+//Widescreen
+
+//Widescreen + Extra Perspective
+003b28c8 3c013f10
+003b28dc 3c013f10
+003b2f08 3c013ec0
+
