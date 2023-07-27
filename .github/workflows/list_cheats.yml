@@ -16,7 +16,7 @@ jobs:
 
     - name: Get short SHA
       id: slug
-      run: echo "::set-output name=chtcount::$(find CHT -name "*.cht" | wc -l)"
+      run: echo "CHTCNT=$(find CHT -name "*.cht" | wc -l)" >> $GITHUB_ENV
 
     - name: Update Cheats list
       run: |
