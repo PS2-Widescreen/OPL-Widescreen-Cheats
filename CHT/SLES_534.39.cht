@@ -6,9 +6,11 @@ Mastercode
 
 
 //Widescreen hack by Arapapa
-//X-Fov
-//803f013c 00008144 16000446 100065c4 82100046
-2039b420 3c013fab //3c013f80
 
-//Render fix
-202da688 3c013fe0 //3c013f80
+//803f013c 00008144 16000446 100065c4 82100046
+//X-FOV
+202da664 3c013fab //3c013f80
+
+//Render Fix
+202da688 3c013fab //3c013f80
+
