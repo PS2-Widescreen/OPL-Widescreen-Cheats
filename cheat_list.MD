@@ -1,4 +1,4 @@
-game count|3463
+game count|3465
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -1310,6 +1310,7 @@ Lethal Skies Elite Pilot: Team SW   |  [SLES_508.92](./CHT/SLES_508.92.cht)
 Lethal Skies II  |  [SLES_518.86](./CHT/SLES_518.86.cht)
 Lets Bravo Music  |  [SCKA_200.05](./CHT/SCKA_200.05.cht)
 Lets Bravo Music  |  [SCPS_110.28](./CHT/SCPS_110.28.cht)
+Lets Ride! Silver Buckle Stables  |  [SLES_551.36](./CHT/SLES_551.36.cht)
 LifeLine - Voice Action Adventure  |  [SLUS_208.48](./CHT/SLUS_208.48.cht)
 Lilo and Stitch - Stitch no Daibouken  |  [SLPS_251.53](./CHT/SLPS_251.53.cht)
 Little Britain - The Video Game  |  [SLES_544.94](./CHT/SLES_544.94.cht)
@@ -1787,6 +1788,7 @@ Pro Yakyuu Spirits 5  |  [SLPM_669.70](./CHT/SLPM_669.70.cht)
 Pro Yakyuu Spirits 5 Kanzenban  |  [SLPM_551.30](./CHT/SLPM_551.30.cht)
 Pro Yakyuu Spirits 6  |  [SLPM_551.58](./CHT/SLPM_551.58.cht)
 Project - Snowblind  |  [SLUS_210.37](./CHT/SLUS_210.37.cht)
+Project Altered Beast  |  [SLAJ_250.60](./CHT/SLAJ_250.60.cht)
 Project Altered Beast  |  [SLPM_657.96](./CHT/SLPM_657.96.cht)
 Project Arms  |  [SLPS_251.02](./CHT/SLPS_251.02.cht)
 Project FIFA World Cup  |  [SLPS_251.10](./CHT/SLPS_251.10.cht)
