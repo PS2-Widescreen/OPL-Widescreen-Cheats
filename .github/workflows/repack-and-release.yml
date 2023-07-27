@@ -29,7 +29,7 @@ jobs:
       - name: Make Changelog
         run: |
             git --no-pager log --name-only --oneline --pretty=format:"%n---------- commit %h by %an: [%s]%n -- Changed files are:">FULL_CHANGELOG.TXT
-            git --no-pager log Latest..HEAD --pretty=format:"- %h  %<(18)%an: %s">PARTIAL_CHANGELOG.TXT
+            git --no-pager log --since="7 days ago" --date=human --pretty=format:"- %h %as %<(18)%an: %s">PARTIAL_CHANGELOG.TXT
             echo FULL_CHANGELOG-----------------------
             cat FULL_CHANGELOG.TXT
             echo PARTIAL_CHANGELOG--------------------
@@ -41,12 +41,12 @@ jobs:
 
       - name: create release body
         run: |
-            echo "- __cheats count:__ _${{ steps.slug.outputs.chtcount }}_">latest_changes.log
-            echo "- [__List of supported games__](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">>latest_changes.log
-            echo "![GitHub release (latest by date)](https://img.shields.io/github/downloads/PS2-Widescreen/OPL-Widescreen-Cheats/Latest/total?label=Downloads)">>latest_changes.log
-            echo latest changes:>>latest_changes.log
-            git --no-pager log Latest..HEAD --pretty=format:"- %h  %<(18)%an: %s">>latest_changes.log
-            cat latest_changes.log
+            echo "- __cheats count:__ _${{ steps.slug.outputs.chtcount }}_">week_changes.log
+            echo "- [__List of supported games__](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)">>week_changes.log
+            echo "![GitHub release (latest by date)](https://img.shields.io/github/downloads/PS2-Widescreen/OPL-Widescreen-Cheats/Latest/total?label=Downloads)">>week_changes.log
+            echo last week changes:>>week_changes.log
+            git --no-pager log --since="7 days ago" --date=human --pretty=format:"- %h %as %<(18)%an: %s">>week_changes.log
+            cat week_changes.log
 
 #      - name: Upload artifacts
 #        if: ${{ success() }}
@@ -66,14 +66,14 @@ jobs:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v0.1.15
         if: (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main')
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
           fail_on_unmatched_files: true
           name: "Latest Package"
           tag_name: "Latest"
-          body_path: 'latest_changes.log'
+          body_path: 'week_changes.log'
           prerelease: false
           files: |
                widescreen_hacks*.zip
