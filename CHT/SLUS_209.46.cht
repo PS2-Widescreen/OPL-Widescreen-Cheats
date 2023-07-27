@@ -1,4 +1,6 @@
 "GTA - San Andreas /ID SLUS_209.46"
+//ELF CRC = 2C6BE434
+
 Mastercode
 90532640 0c1538ec
 e002ffff 00700942
@@ -254,7 +256,7 @@ e002ffff 00700942
 
 //-------------------------------------------------Debug-----------------------------------------------//
 
-//20515870 00000000 //Disable radiosity
+//20515870 00c70b00 //Disable radiosity, original replacement value was 0, but causes TLB misses on emu?
 //2039b53c 24040001 //Set VSync Mode to 60 FPS
 //20245790 00000000 //Skip MPEG Decoder
 //202457b0 00000000 //Skip MPEG Decoder

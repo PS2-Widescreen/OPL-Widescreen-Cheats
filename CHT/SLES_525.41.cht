@@ -1,4 +1,7 @@
-﻿"Grand Theft Auto: San Andreas /ID SLES_525.41"
+"Grand Theft Auto: San Andreas /ID SLES_525.41"
+//ELF CRC = A1B3F232
+
+
 Mastercode
 9053ec10 0c14faac
 
@@ -12,3 +15,7 @@ Mastercode
 2021df84 0c044c2f
 20242d54 0c044c32
 
+//[Remove Radiosity Filter]
+//Removes the radiosity filter which causes a ghosting effect on the people and environment.
+
+206681e4 00c70c00

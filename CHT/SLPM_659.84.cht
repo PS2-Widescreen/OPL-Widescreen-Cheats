@@ -1,10 +1,11 @@
 "Grand Theft Auto - San Andreas /ID SLPM_659.84"
+//ELF CRC = 60FE139C
+
 
 Mastercode
 90540190 0c15000c
 
 
-//ELF CRC=60FE139C
 //Widescreen fix by BloodRaynare
 
 201130bc 3c013f9d
@@ -14,3 +15,8 @@ Mastercode
 201130cc e78c9a90
 2021dd04 0c044c2f
 20242c94 0c044c32
+
+//[Remove Radiosity Filter]
+//Removes the radiosity filter which causes a ghosting effect on the people and environment.
+
+2066968c 00c74900
