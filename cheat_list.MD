@@ -1,4 +1,4 @@
-game count|3462| Link
+game count|3463| Link
 ------------- | --------------- | --------------- |
 .Hack-Part 1 Infection  |  SLES_522.37 | [LINK](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  SLES_524.67 | [LINK](./CHT/SLES_524.67.cht)
@@ -2220,6 +2220,7 @@ Spy Fiction  |  SLES_525.05 | [LINK](./CHT/SLES_525.05.cht)
 Spy Fiction  |  SLPS_253.11 | [LINK](./CHT/SLPS_253.11.cht)
 Spy Hunter - No Where To Run  |  SLES_541.30 | [LINK](./CHT/SLES_541.30.cht)
 Spy vs Spy  |  SLES_530.78 | [LINK](./CHT/SLES_530.78.cht)
+Spyro - A Heros Tale  |  SLES_525.69 | [LINK](./CHT/SLES_525.69.cht)
 Standard Daisenryaku Dengekisen  |  SLPM_657.04 | [LINK](./CHT/SLPM_657.04.cht)
 Star Trek - Encounters  |  SLUS_213.96 | [LINK](./CHT/SLUS_213.96.cht)
 Star Trek Voyager - Elite Force  |  SLUS_202.27 | [LINK](./CHT/SLUS_202.27.cht)
