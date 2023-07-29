@@ -1,11 +1,21 @@
-﻿"TimeSplitters 2 /ID SLUS_203.14"
+"TimeSplitters 2 /ID SLUS_203.14"
+// ELF CRC = 12532F1C
 Mastercode
 90445878 0c1115c6
 
-//wide
+//[Widescreen 16:9]
+
+//Widescreen hack by No.47
 20598a08 3fc71c71
 205995dc 3fc71c71
 20599664 3fc71c71
 2059ca10 3fc71c71
 
-//
+//[No Cutscene Letterbox]
+patch=1,EE,203C7030,short,00000000
+patch=1,EE,203C7058,short,000001C0
+patch=1,EE,203C7668,short,00000000
+patch=1,EE,203C766C,short,00000000
+patch=1,EE,203C767C,short,00000000
+patch=1,EE,203C7680,short,00000000
+patch=1,EE,203C7684,short,00000000
