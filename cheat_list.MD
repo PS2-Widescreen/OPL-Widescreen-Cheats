@@ -1,4 +1,4 @@
-game count|3467
+game count|3468
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -117,6 +117,7 @@ Arctic Thunder  |  [SLES_502.74](./CHT/SLES_502.74.cht)
 Arctic Thunder  |  [SLUS_202.17](./CHT/SLUS_202.17.cht)
 Area 51  |  [SLES_530.75](./CHT/SLES_530.75.cht)
 Area 51  |  [SLPM_664.68](./CHT/SLPM_664.68.cht)
+Argus-ui Jeonsa (Korea)  |  [SCKA_200.06](./CHT/SCKA_200.06.cht)
 Ark the Lad - jeongryeongui Hwanghon  |  [SCKA_200.12](./CHT/SCKA_200.12.cht)
 Armored Core - Formula Front  |  [SLKA_252.70](./CHT/SLKA_252.70.cht)
 Armored Core - Formula Front  |  [SLPS_254.61](./CHT/SLPS_254.61.cht)
