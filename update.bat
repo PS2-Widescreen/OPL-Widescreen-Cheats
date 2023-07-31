@@ -46,7 +46,7 @@ for /f "delims=; tokens=1,*" %%a in (FINAL.TXT) do (
   if exist ..\pcsx2_patches\patches\%%b (
     echo %%a
     copy ..\Bare-Mastercodes-bin\MASTERCODES\%%a.cht CHT\%%a.cht>nul
-    PS2_pnach_converter.exe ..\pcsx2_patches\patches\%%b -g >>CHT\%%a.cht
+    PS2_pnach_converter.exe ..\pcsx2_patches\patches\%%b -g -l >>CHT\%%a.cht
   ) else echo HUSTON, WE HAVE A PROBLEM %%a @ %%b
 )
 
