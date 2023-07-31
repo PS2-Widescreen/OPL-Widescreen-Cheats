@@ -14,7 +14,7 @@ for %%a in (%*) do (
 
 if not exist LST.TXT (
   echo # listing widescreen hacks from pcsx2_patches...
-  findstr /M "Widescreen" ..\pcsx2_patches\patches\*.*>LST.TXT
+  findstr /I /M "Widescreen" ..\pcsx2_patches\patches\*.*>LST.TXT
 )
 REM busybox.exe grep -Eo "[a-zA-Z]{4}-[0-9]{5}.*.pnach" LST.TXT | busybox.exe grep -Eo "[a-zA-Z]{4}-[0-9]{5}" > LST2.TXT
 if not exist LST2.TXT (
