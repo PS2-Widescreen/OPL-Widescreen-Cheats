@@ -1,0 +1,12 @@
+"Everblue 2 /ID SLES_513.81"
+//ELF CRC 00C584CB
+
+
+Mastercode
+90208010 0C081FAC
+
+//[Widescreen 16:9]
+//by El_Patas
+
+//Gameplay 16:9
+20229278 3C033F06 //3C033F33 (Increases hor. axis)
