@@ -1,4 +1,4 @@
-game count|3465
+game count|3467
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -394,6 +394,7 @@ Classic British Motor Racing  |  [SLES_536.14](./CHT/SLES_536.14.cht)
 Climax Tennis - WTA Tour Edition  |  [SLPM_621.29](./CHT/SLPM_621.29.cht)
 Clock Tower 3  |  [SLES_516.19](./CHT/SLES_516.19.cht)
 Clock Tower 3  |  [SLPM_652.21](./CHT/SLPM_652.21.cht)
+Clock Tower 3 (Korea)  |  [SLKA_250.51](./CHT/SLKA_250.51.cht)
 Club Football - Arsenal  |  [SLES_510.89](./CHT/SLES_510.89.cht)
 Club Football - Juventus 2003-2004 Season  |  [SLES_510.81](./CHT/SLES_510.81.cht)
 Cocoto - Platform Jumper  |  [SLES_525.23](./CHT/SLES_525.23.cht)
@@ -697,6 +698,7 @@ Evangelion - Jo  |  [SLPS_259.32](./CHT/SLPS_259.32.cht)
 Eve of Extinction  |  [SLES_507.58](./CHT/SLES_507.58.cht)
 Eve of Extinction  |  [SLUS_202.70](./CHT/SLUS_202.70.cht)
 Ever Blue 2  |  [SLPM_622.14](./CHT/SLPM_622.14.cht)
+Everblue 2  |  [SLES_513.81](./CHT/SLES_513.81.cht)
 Evergrace  |  [SLES_500.50](./CHT/SLES_500.50.cht)
 Evergrace  |  [SLPS_250.03](./CHT/SLPS_250.03.cht)
 Evergrace 2  |  [SLPS_250.44](./CHT/SLPS_250.44.cht)
