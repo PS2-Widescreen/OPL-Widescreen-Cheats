@@ -1,0 +1,25 @@
+"Clock Tower 3 (Korea) /ID SLKA_250.51"
+//ELF CRC 0E6F7A7B
+
+
+Mastercode
+9181CFB8 0C607396
+
+//[Widescreen 16:9]
+//by nemesis2000 and hyakki (NTSC-K by Arapapa)
+
+//gameplay by hyakki
+21939da8 3f1fbe77
+
+//FMV's fix by nemesis2000
+218bd668 3c026fa0
+218bd6b8 34028260
+
+218bcf38 3c026fa0 //3c027200
+218bcf84 34028260
+
+//black borders fix by nemesis2000
+218f3824 3c030000
+
+//remove black square near Panic Meter
+2041C240 00000000
