@@ -42,8 +42,7 @@ for /f "delims=; tokens=1,*" %%a in (LST2.TXT) do (
     )
   )
 )
-echo found %CNT% candidates...
-echo found %CNT2% cheat files wich need a mastercode to be included
+
 for /f "delims=; tokens=1,*" %%a in (FINAL.TXT) do (
   if exist ..\pcsx2_patches\patches\%%b (
     echo %%a
@@ -51,5 +50,14 @@ for /f "delims=; tokens=1,*" %%a in (FINAL.TXT) do (
     PS2_pnach_converter.exe ..\pcsx2_patches\patches\%%b -g >>CHT\%%a.cht
   ) else echo HUSTON, WE HAVE A PROBLEM %%a @ %%b
 )
+
+echo found %CNT% candidates...
+echo found %CNT2% cheat files wich need a mastercode to be included (see them on ./MISSING_MASTERCODE.TXT)
+busybox.exe grep -Eqv "[a-zA-Z]{4}-[0-9]{5}.*.pnach" LST.TXT
+if errorlevel 0 (
+  echo --- Warning. widescreen hacks with non-standard naming found:
+  busybox.exe grep -Ev "[a-zA-Z]{4}-[0-9]{5}.*.pnach" LST.TXT
+)
+
 REM del LST.TXT
 REM del LST2.TXT
