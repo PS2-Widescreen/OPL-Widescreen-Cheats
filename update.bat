@@ -9,7 +9,6 @@ for %%a in (%*) do (
     del FINAL.TXT
     del MISSING_MASTERCODE.TXT
   )
-  echo %%a
 )
 
 if not exist LST.TXT (
