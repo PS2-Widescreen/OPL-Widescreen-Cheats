@@ -1,0 +1,20 @@
+"Argus-ui Jeonsa (Korea) /ID SCKA_200.06"
+//ELF CRC 3A2EF433
+Mastercode
+9020EC98 0C083ACE
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht (NTSC-K by Arapapa)
+
+// 16:9
+20207b6c 3c013f40 // 00000000 hor fov
+20207b70 4481f000 // 00000000
+20207b78 461ec602 // 00000000
+
+201e8b94 3c0144b0 // 3c014480 renderfix 1
+202006ac 3c013fab // 3c013f80 renderfix 2
+
+
+
