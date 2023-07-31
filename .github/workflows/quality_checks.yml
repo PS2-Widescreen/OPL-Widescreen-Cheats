@@ -9,6 +9,9 @@ on:
         required: true
         type: boolean
   pull_request:
+    paths:
+      - 'CHT/*.cht'
+      - 'QualityControl.sh'
 
 jobs:
   check-format:
