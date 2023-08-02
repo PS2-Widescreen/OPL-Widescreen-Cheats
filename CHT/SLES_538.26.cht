@@ -3,20 +3,12 @@
 Mastercode
 9020f310 0c083c6c
 
-; ==========
- ; pgert@150820
- ; http://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches?pid=240786#pid240786
-; ==========
 
-; ==========
- gametitle=Splinter Cell 4 - Double Agent
- comment= Splinter Cell 4 - Double Agent * SLES-53826 * PAL-M5 * ABE3FDEA
-; ==========
+//pgert@150820
+//http://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches?pid=240786#pid240786
+//Widescreen hack for Solo/Coop mode by ElHecht.
+201f483c 3c0d3f40 // 3C0D3F80 - X-axis
 
-; ==========
- comment=- 16:9 Widescreen hack for Solo/Coop mode by ElHecht.
- 201f483c 3c0d3f40 // 3C0D3F80 - X-axis
-; ==========
 // comment=- 16:10 Widescreen hack for Solo/Coop mode by ElHecht.
 // 201f483c 3c0d3f55 // 3C0D3F80 - X-axis
 // 201f48ac 35ad5555 // AE6D00BC - X-axis
@@ -27,14 +19,14 @@ Mastercode
 // 201f4990 7bb00000 // 03E00008
 // 201f4994 03e00008 // 27BD0070
 // 201f4998 27bd0070 // 00000000
-; ==========
 
-; ==========
+
+
 // Notes (by pgert) - do not use.
 // - Alternative 16:10 Widescreen hack by pgert.
 //   Might not work with all BIOS types & configurations.
 //   Fast boot recommended.
 // 20f6435c 3f400000 // 3F800000 - X-axis
 // 20f64360 3fab130d // 3FBE1528 - Y-axis
-; ==========
+
 
