@@ -1,15 +1,15 @@
 "Project Altered Beast /ID SLAJ_250.60"
 //ELF CRC 664D4EAE
 Mastercode
-901455D0 0C05151C
+901455d0 0c05151c
 
 
 //[Widescreen 16:9]
 
 //Widescreen Hack by Little Giant
 
-201700F4 3C023fe3 //3C023FAA
-201700F8 34428e38 //3442AAAB
+201700f4 3c023fe3 //3C023FAA
+201700f8 34428e38 //3442AAAB
 
 205d0210 3c033f2b //3c033f00 render fix
 

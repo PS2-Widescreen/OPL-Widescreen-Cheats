@@ -3,7 +3,7 @@
 
 
 Mastercode
-9181CFB8 0C607396
+9181cfb8 0c607396
 
 //[Widescreen 16:9]
 //by nemesis2000 and hyakki (NTSC-K by Arapapa)
@@ -22,4 +22,4 @@ Mastercode
 218f3824 3c030000
 
 //remove black square near Panic Meter
-2041C240 00000000
+2041c240 00000000

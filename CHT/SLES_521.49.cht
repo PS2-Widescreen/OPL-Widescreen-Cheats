@@ -3,33 +3,26 @@
 Mastercode
 902084d0 0c0820dc
 
-; ==========
- ; pgert@150820
- ; http://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches?pid=240786#pid240786
-; ==========
 
-; ==========
- gametitle=Splinter Cell 2 - Pandora Tomorrow
- comment= Splinter Cell 2 - Pandora Tomorrow * SLES-52149 * PAL-M5 * AB82114E
-; ==========
+//pgert@150820
+//http://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches?pid=240786#pid240786
+//16:9 Widescreen hack for Single Player mode by ElHecht.
 
-; ==========
- comment=- 16:9 Widescreen hack for Single Player mode by ElHecht.
- 2017a200 3c1b3f40 // AE03008C - X-axis
- 201b79f4 ae1b008c // AE03008C
-; ==========
+2017a200 3c1b3f40 // AE03008C - X-axis
+201b79f4 ae1b008c // AE03008C
+
 // comment=- 16:10 Widescreen hack for Single Player mode by ElHecht.
 // 2017a200 3c1b3f55 // 00000000 - X-axis
 // 201b79f4 377b5555 // AE03008C - X-axis
 // 201b7a0c ae1b008c // 8E02004C
-; ==========
 
-; ==========
+
+
 // Notes (by pgert) - do not use.
 // - Alternative 16:10 Widescreen hack by pgert.
 //   Might not work with all BIOS types & configurations.
 //   Fast boot recommended.
 // 21628abc 3f400000 // 3F800000 - X-axis
 // 21628ac0 3f666666 // 3F800000 - Y-axis
-; ==========
+
 
