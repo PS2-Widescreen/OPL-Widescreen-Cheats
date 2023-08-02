@@ -1,4 +1,4 @@
-game count|3440
+game count|3441
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -1250,6 +1250,7 @@ Kings Field 4  |  [SLPS_250.57](./CHT/SLPS_250.57.cht)
 Kinniku Banzuke - Muscle Wars 21  |  [SLPM_650.48](./CHT/SLPM_650.48.cht)
 Kinnikuman Generations  |  [SLPS_203.69](./CHT/SLPS_203.69.cht)
 Klonoa 2 - Lunatea's Veil  |  [SCES_503.54](./CHT/SCES_503.54.cht)
+Knight Rider 2  |  [SLES_528.36](./CHT/SLES_528.36.cht)
 Knockout Kings 2002  |  [SLES_508.02](./CHT/SLES_508.02.cht)
 Knockout Kings 2002  |  [SLUS_203.69](./CHT/SLUS_203.69.cht)
 Korobotto Adventure  |  [SLPS_256.87](./CHT/SLPS_256.87.cht)
