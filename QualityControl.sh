@@ -27,7 +27,7 @@ for a in *.cht
 do
   HEAD=""
   HEAD=$(head -n1 -q "$a" | grep -Eo [0-9A-Z][0-9A-Z][0-9A-Z][0-9A-Z]_[0-9][0-9][0-9].[0-9][0-9])
-  COUNT=$(grep -iEo "^[0-9A-Fa-f]{8} [0-9A-Fa-f]{8}" "$a" | wc -l)
+  COUNT=$(grep -iEo "^[0-8A-Fa-f]{1}[0-9A-Fa-f]{7} [0-9A-Fa-f]{8}" "$a" | wc -l)
   MASTERCODE_COUNT=$(grep -iEo "^9[0-9A-Fa-f]{7} [0-9A-Fa-f]{8}" "$a" | wc -l)
 #  printf "\r[$a]:"
   if [ -z "$HEAD" ]; then
