@@ -1,0 +1,22 @@
+"Castlevania - Lament of Innocence /ID SLES_521.18"
+//ELF CRC 306CDADA
+Mastercode
+906FB298 0C1BEC4E
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+//gameplay
+206ec304 23c013f40 //hor value
+206ec308 44810000
+206ec310 4600c602
+
+//FMV's fix
+20452e30 24057300//y-pos
+20452e34 24062000//x width
+20452e3c 24071b00//y width
+
+
+

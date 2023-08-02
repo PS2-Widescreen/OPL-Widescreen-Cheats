@@ -1,0 +1,25 @@
+"Grand Theft Auto - Vice City Stories /ID SLES_546.22"
+//ELF CRC B3AD1EA4
+Mastercode
+9046A620 0C11A930
+
+
+//[Widescreen 16:9]
+
+//NTSC Widescreen Hack by Nemesis2000 (converted to Pal by Some Chump)
+//Select widescreen in game otherwise image is zoomed out 4:3
+
+widescreen fix pal
+20265568 3c013f9d
+2026556c 44810000
+20265570 46006302
+20265574 3c020048
+20265578 03e00008
+2026557c e44c7784
+
+2037afb4 0c09955a
+203ba014 0c09955d
+203ba4b0 0c09955d
+
+
+
