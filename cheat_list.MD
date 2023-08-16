@@ -1,4 +1,4 @@
-game count|3441
+game count|3442
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -2545,6 +2545,7 @@ WWE Smackdown - Shut Your Mouth  |  [SLUS_204.83](./CHT/SLUS_204.83.cht)
 WWE Smackdown vs Raw 2010  |  [SLES_555.45](./CHT/SLES_555.45.cht)
 WWE Smackdown! 4 - Shut Your Mouth  |  [SLES_512.83](./CHT/SLES_512.83.cht)
 WWE Smackdown! Here Comes the Pain  |  [SLKA_251.16](./CHT/SLKA_251.16.cht)
+WWF SmackDown! - Just Bring It!  |  [SLUS_203.16](./CHT/SLUS_203.16.cht)
 WWF Smackdown! - Just Bring It  |  [SLES_504.77](./CHT/SLES_504.77.cht)
 WWII - Battle over Europe  |  [SLES_536.53](./CHT/SLES_536.53.cht)
 WWII - Tank Battles  |  [SLES_529.54](./CHT/SLES_529.54.cht)
