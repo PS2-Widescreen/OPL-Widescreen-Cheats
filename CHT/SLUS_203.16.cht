@@ -1,0 +1,16 @@
+"WWF SmackDown! - Just Bring It! /ID SLUS_203.16"
+//ELF CRC 612ED854
+
+
+Mastercode
+9010e278 0c043846
+
+//[Widescreen 16:9]
+
+//Widescreen hack by GTAZAZO98
+
+// 16:9
+2010319c 3c013f40 // 00000000 hor fov
+201031a8 44810000 // 00000000 
+201031ac 4600c602 // 00000000 
+201cb7e0 3c053f50 // 3c053f80 camera fix
