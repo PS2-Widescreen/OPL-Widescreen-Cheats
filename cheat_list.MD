@@ -1,4 +1,4 @@
-game count|3443
+game count|3444
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -2211,6 +2211,7 @@ Spectral Force Chronicle  |  [SLPM_659.67](./CHT/SLPM_659.67.cht)
 Speed Machines 3  |  [SLES_539.20](./CHT/SLES_539.20.cht)
 Speed Racer  |  [SLES_550.75](./CHT/SLES_550.75.cht)
 Spider-Man  |  [SLPM_652.05](./CHT/SLPM_652.05.cht)
+Spider-Man 2  |  [SLES_523.72](./CHT/SLES_523.72.cht)
 Spider-Man 2  |  [SLPM_656.62](./CHT/SLPM_656.62.cht)
 Spider-Man 3  |  [SLKA_253.85](./CHT/SLKA_253.85.cht)
 Spindrive Ping Pong  |  [SLES_528.67](./CHT/SLES_528.67.cht)
