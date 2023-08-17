@@ -1,4 +1,4 @@
-game count|3444
+game count|3445
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -1323,6 +1323,7 @@ Little Britain - The Video Game  |  [SLES_544.94](./CHT/SLES_544.94.cht)
 Live World Soccer 2000  |  [SLPM_620.02](./CHT/SLPM_620.02.cht)
 Living World Racing  |  [SLES_535.94](./CHT/SLES_535.94.cht)
 Looney Toons - Back in Action  |  [SLES_517.94](./CHT/SLES_517.94.cht)
+Looney Tunes - Back in Action  |  [SLUS_208.53](./CHT/SLUS_208.53.cht)
 Lord of the Rings, The - Return of the King  |  [SLES_520.17](./CHT/SLES_520.17.cht)
 Lord of the Rings, The - The Fellowship of the Ring  |  [SLES_509.88](./CHT/SLES_509.88.cht)
 Lord of the Rings, The - The Return of the King  |  [SLPM_655.03](./CHT/SLPM_655.03.cht)
