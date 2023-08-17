@@ -1,40 +1,93 @@
 ﻿"Spider-Man 2 /ID SLUS_207.76"
+//ELF CRC 6B68932C
+
+
 Mastercode
 90598ab8 0c166256
 //9040f294 0c16747a
 
-//wide
-2067a910 3f947ae1
-2067a8ec 3ec00000
+//[Widescreen 16:9]
+
+// author: flameofrecca + CRASHARKI
+//Patches the game to run at 16:9 Widescreen Aspect Ratio. (Original pnach by flameofrecca; new zoom value, gauge_hero, some map and the unused boss hud codes found by CRASHARKI)
+2067a910 3f947ae1  //vertical fov 3f5eb852
+2067a908 3c28a2f7  //zoom value 3c0efa35
 
 //Map Screen HUD, text fixes
-206db628 41580000
-206db634 41580000
-206dfab8 3f400000
-206df9e8 3f400000
-206df918 3f400000
-206df848 3f400000
-206d8034 425c0000
-206d8048 42fa0000
+//search the 206d**** address range for more map screen hud fixes
+//206d8034 425c0000  // map_igo_compass 42680000 - this breakes the compass in map menu
+//206d8048 42fa0000  // map_igo_compass 42f40000 - this breakes the compass in map menu
+206db628 41580000  // level_500_trick 41900000
+206db634 41580000  // level_500_trick 41900000
+206db768 41580000  // level_500_hint 41900000
+206db774 41580000  // level_500_hint 41900000
+206dc328 41680000  // level_500_trick_ring_a 41a00000
+206dc334 41680000  // level_500_trick_ring_a 41a00000
+206dc478 41680000  // level_500_hint_ring_a 41a00000
+206dc484 41680000  // level_500_hint_ring_a 41a00000
+206dc5c8 41880000  // level_500_trick_ring_b 41c00000
+206dc5d4 41880000  // level_500_trick_ring_b 41c00000
+206dc718 41880000  // level_500_hint_ring_b 41c00000
+206dc724 41880000  // level_500_hint_ring_b 41c00000
+206df848 3f400000  // text_menu_general1 3f800000
+206df918 3f400000  // text_menu_trick1 3f800000
+206df9e8 3f400000  // text_menu_missions1 3f800000
+206dfab8 3f400000  // map_igo_elevation_indicator_text_number 3f800000
+206dfbb0 3f400000  // text_menu_hint1 3f800000
 
 //Onscreen HUD
-20720ff4 42340000
-207223f0 42900000
-20722404 42900000
-20722418 42f40000
-2072242c 42f40000
-20720d08 43140000
-20720d1c 43140000
-20720cf4 42680000
-20720ce0 42680000
-2072a0d8 43140000
-2072a0ec 43140000
-2072a180 43140000
-2072a194 43140000
-2072a158 42680000
-2072a16c 42680000
-2072a0c4 42680000
-2072a0b0 42680000
-207212b4 421c0000
+20720ce0 42680000  //gauge_frame 42300000
+20720cf4 42680000  //gauge_frame 42300000
+20720d08 43140000  //gauge_frame 43240000
+20720d1c 43140000  //gauge_frame 43240000
+20720ff4 42340000  //gauge_life 42700000
+207212b4 421c0000  //gauge_charge 42500000
+2072177C 42340000  //gauge_hero_hitlite 42700000
+207223f0 42900000  //gauge_icon_spidey 42800000
+20722404 42900000  //gauge_icon_spidey 42800000
+20722418 42f40000  //gauge_icon_spidey 42FC0000
+2072242c 42f40000  //gauge_icon_spidey 43000000
+2072a0b0 42680000  //gauge_frame_hero 42300000
+2072a0c4 42680000  //gauge_frame_hero 42300000
+2072a0ec 43140000  //gauge_frame_hero 43240000
+2072a0d8 43140000  //gauge_frame_hero 43240000
+2072a158 42680000  //gauge_frame_hero 42300000
+2072a180 43140000  //gauge_frame_hero 43240000
+2072a194 43140000  //gauge_frame_hero 43240000
+2072a16c 42680000  //gauge_frame_hero 42300000
+20723DDC 42340000  //gauge_hero_03 42700000
+20723FFC 42340000  //gauge_hero_02 42700000
+2072421C 42340000  //gauge_hero_01 42700000
 
-//
+//Boss HUD - Unusuable due to addresses changing for each encounter (these addresses were applied to the doc-ock train fight)
+//208821EC 42340000  //gauge_boss_1_of_2_life 42700000
+//208824C4 42340000  //gauge_boss_1_of_2_life 42700000
+//208825C0 43F60000  //gauge_boss_1_frame 43EE0000
+//208825D4 43F60000  //gauge_boss_1_frame 43EE0000
+//208825E8 44117000  //gauge_boss_1_frame 44150000
+//208825FC 44117000  //gauge_boss_1_frame 44150000
+//20882860 43F60000  //gauge_boss_faded_back 43EE0000
+//20882874 43F60000  //gauge_boss_faded_back 43EE0000
+//20882888 44117000  //gauge_boss_faded_back 44150000
+//2088289C 44117000  //gauge_boss_faded_back 44150000
+//20882930 44117000  //gauge_boss_faded_back 44150000
+//20882944 44117000  //gauge_boss_faded_back 44150000
+//20882908 43F60000  //gauge_boss_faded_back 43EE0000
+//2088291C 43F60000  //gauge_boss_faded_back 43EE0000
+//20882CCC 42340000  //gauge_boss_1_life 42700000
+//20882DC0 4402a000  //gauge_boss_icon_shocker 44014000
+//20882DD4 4402a000  //gauge_boss_icon_shocker 44014000
+//20882DE8 440cd000  //gauge_boss_icon_shocker 440EC000
+//20882DFC 440cd000  //gauge_boss_icon_shocker 440EC000
+//20882F10 4402a000  //gauge_boss_icon_doc_ock 44014000
+//20882F24 4402a000  //gauge_boss_icon_doc_ock 44014000
+//20882F38 440cd000  //gauge_boss_icon_doc_ock 440EC000
+//20882F4C 440cd000  //gauge_boss_icon_doc_ock 440EC000
+//20883060 4402a000  //gauge_boss_icon_mysterio 44014000
+//20883074 4402a000  //gauge_boss_icon_mysterio 44014000
+//20883088 440cd000  //gauge_boss_icon_mysterio 440EC000
+//2088309C 440cd000  //gauge_boss_icon_mysterio 440EC000
+//208831B0 4402a000  //gauge_boss_icon_rhino 44014000
+//208831C4 4402a000  //gauge_boss_icon_rhino 44014000
+//208831D8 440cd000  //gauge_boss_icon_rhino 440EC000
+//208831EC 440cd000  //gauge_boss_icon_rhino 440EC000
