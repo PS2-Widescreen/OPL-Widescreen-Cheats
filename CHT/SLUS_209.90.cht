@@ -8,9 +8,9 @@ Mastercode
 //Enhancement test *dont use both code sections
 
 //Progressive mode 240p / No interleacing
-20426b7c 3c050000
-20426b84 3c060050
-20426b8c 3c070001
+//20426b7c 3c050000
+//20426b84 3c060050
+//20426b8c 3c070001
 
 //NTSC mode / No interleacing (disable above code section before)
 //20428148 03e00008

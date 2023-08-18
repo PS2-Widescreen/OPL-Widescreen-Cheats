@@ -8,10 +8,10 @@ Mastercode
 //Enhancement test game extended lines to 640x480 *dont use both code sections
 
 //Progressive mode extended 240p / No interlacing
-20100694 3c050000
-2010069c 3c060050
-201006a4 3c070001
-201008ec 3c0700f0
+//20100694 3c050000
+//2010069c 3c060050
+//201006a4 3c070001
+//201008ec 3c0700f0
 
 //NTSC mode extended / No interlacing (disable above code section before)
 //201008ec 3c0701e0

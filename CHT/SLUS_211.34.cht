@@ -3,7 +3,7 @@ Mastercode
 902a4108 0c0a8fea
 
 //Hold X and triangle at start for progressive scan or use this code to force it:
-20f98820 00010100
+//20f98820 00010100
 
 //Keep on always
 20430f60 40000000
