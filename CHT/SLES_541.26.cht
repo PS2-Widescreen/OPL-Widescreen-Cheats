@@ -1,0 +1,19 @@
+"Family Guy - The Video Game /ID SLES_541.26"
+//ELF CRC E393DFE5
+
+Mastercode
+901C03C0 0C070098
+
+
+//[Widescreen 16:9]
+
+// author: Brandondorf9999
+//Widescreen update
+2011b3a8 00000000 //10400009
+2011b3bc 3c013f80 //3C013F59
+2011b3c0 34210000 //3421999A
+
+//[50 FPS]
+// author: CRASHARKI
+//Patches the game to run at 50 FPS. (Original NTSC-U pnach by asasega)
+//2025989c 00000001 //00000002
