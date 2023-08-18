@@ -1,4 +1,4 @@
-game count|3445
+game count|3447
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -737,6 +737,7 @@ Fairly Odd Parents, The - Shadow Showdown  |  [SLUS_208.80](./CHT/SLUS_208.80.ch
 Falling Stars  |  [SLUS_217.34](./CHT/SLUS_217.34.cht)
 Fallout - Brotherhood of Steel  |  [SLES_515.26](./CHT/SLES_515.26.cht)
 Fallout - Brotherhood of Steel  |  [SLPM_659.15](./CHT/SLPM_659.15.cht)
+Family Guy - The Video Game  |  [SLES_541.26](./CHT/SLES_541.26.cht)
 FantaVision  |  [SCES_500.02](./CHT/SCES_500.02.cht)
 Fantastic 4  |  [SLUS_206.15](./CHT/SLUS_206.15.cht)
 Fantastic 4 - Rise of Silver Surfer  |  [SLUS_215.44](./CHT/SLUS_215.44.cht)
@@ -1324,6 +1325,7 @@ Live World Soccer 2000  |  [SLPM_620.02](./CHT/SLPM_620.02.cht)
 Living World Racing  |  [SLES_535.94](./CHT/SLES_535.94.cht)
 Looney Toons - Back in Action  |  [SLES_517.94](./CHT/SLES_517.94.cht)
 Looney Tunes - Back in Action  |  [SLUS_208.53](./CHT/SLUS_208.53.cht)
+Lord of the Rings - The Two Towers  |  [SLPM_675.46](./CHT/SLPM_675.46.cht)
 Lord of the Rings, The - Return of the King  |  [SLES_520.17](./CHT/SLES_520.17.cht)
 Lord of the Rings, The - The Fellowship of the Ring  |  [SLES_509.88](./CHT/SLES_509.88.cht)
 Lord of the Rings, The - The Return of the King  |  [SLPM_655.03](./CHT/SLPM_655.03.cht)
