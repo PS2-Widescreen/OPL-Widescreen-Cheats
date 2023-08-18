@@ -1,4 +1,4 @@
-game count|3447
+game count|3445
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -1467,8 +1467,6 @@ Metal Gear Solid 3 - Subsistence  |  [SLES_820.46](./CHT/SLES_820.46.cht)
 Metal Gear Solid 3 - Subsistence  |  [SLES_820.48](./CHT/SLES_820.48.cht)
 Metal Gear Solid 3 - Subsistence [Disc 1]  |  [SLUS_213.59](./CHT/SLUS_213.59.cht)
 Metal Saga - Chain of Cloud  |  [SLPM_658.68](./CHT/SLPM_658.68.cht)
-Metal Slug 4 & 5 [Disc 1]  |  [SLUS_209.71](./CHT/SLUS_209.71.cht)
-Metal Slug 4 & 5 [Disc 2]  |  [SLUS_209.90](./CHT/SLUS_209.90.cht)
 Metal Slug 6  |  [SLPS_256.74](./CHT/SLPS_256.74.cht)
 Metropolismania  |  [SLES_511.62](./CHT/SLES_511.62.cht)
 Michigan  |  [SLPM_654.80](./CHT/SLPM_654.80.cht)
