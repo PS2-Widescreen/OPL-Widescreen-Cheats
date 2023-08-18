@@ -1,0 +1,25 @@
+"Lord of the Rings - The Two Towers /ID SLPM_675.46"
+//ELF CRC 6898435D
+
+Mastercode
+902ADD38 0C0AB6F6
+
+
+//[Widescreen 16:9]
+//by Arapapa
+
+
+//X-Fov
+20107160 3c023fe3 //3c023faa
+20107164 34428e39 //3442aaab
+
+//Font Fix (Although the spacing between letters should be narrowed. But it is better to read Korean without correcting.)
+201b4058 3c02417f
+201b405c 3442b000
+201b4060 44820000
+
+//HUD Fix (Need push to the right. However, there is not much difference without modification.)
+201b5168 3c02417f
+
+
+
