@@ -2,11 +2,11 @@
 //ELF CRC = 0BB7AE9B
 
 Mastercode
-902BAA10 0C0AEA2C
+902baa10 0c0aea2c
 
 //[Widescreen 16:9]
 // author: CRASHARKI
 //Patches the game to run at 16:9 Widescreen Aspect Ratio.
-202D1F3C 4019999A //Viewport Width (Main Menu)
-E0010001 00367370
-202D1F3C 3FE66666 //4019999A Viewport Width
+202d1f3c 4019999a //Viewport Width (Main Menu)
+e0010001 00367370
+202d1f3c 3fe66666 //4019999A Viewport Width

@@ -3,11 +3,11 @@
 
 
 Mastercode
-902BAA90 0C0AEA4C
+902baa90 0c0aea4c
 
 //[Widescreen 16:9]
 // author: CRASHARKI
 //Patches the game to run at 16:9 Widescreen Aspect Ratio.
-202D1FBC 4019999A //Viewport Width (Main Menu)
-E0010001 003673F0
-202D1FBC 3FE66666 //4019999A Viewport Width
+202d1fbc 4019999a //Viewport Width (Main Menu)
+e0010001 003673f0
+202d1fbc 3fe66666 //4019999A Viewport Width
