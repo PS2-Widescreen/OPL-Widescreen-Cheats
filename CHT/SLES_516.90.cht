@@ -1,0 +1,17 @@
+"Pitfall - The Lost Expedition /ID SLES_516.90"
+//ELF CRC D8A68BBA
+Mastercode
+9044E118 0C1137EE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+//X-Fov
+//000018e6 280015e6
+2036e1c0 08112ed4
+2044bb50 3c013f40
+2044bb54 4481f000
+2044bb58 461ec602
+2044bb5c e6180000
+2044bb60 080db871

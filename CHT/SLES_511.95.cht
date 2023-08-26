@@ -1,0 +1,31 @@
+"Harry Potter y la Cámara Secreta /ID SLES_511.95"
+//ELF CRC C5473413
+Mastercode
+904D8398 0C13608E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+//Zoom
+204ca798 3c013f24 //3c013f49
+204ca79c 34210000 //34210fda
+//Y-Fov
+204e8eb0 3c013fe3 //3c013faa
+204e8eb4 34218e2a //3421aaab
+//Button fix
+//2031cb24 3c013fd0 //3c013f9c
+//2031cb28 342197af //342171c7
+//Font Y-Fov
+//20541894 3b0882f1 //3acccccd
+//Font Y-Position
+//205418b4 bf000000 //bec00000
+//Font Zoom
+//205418bc 3faaaaab //3f800000
+//Widen HUD to hide icons
+//205e9f30 3f95c28f
+// Commented out as it broke loading screen font and other stuff.
+
+

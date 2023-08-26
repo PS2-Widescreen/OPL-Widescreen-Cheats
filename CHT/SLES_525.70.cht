@@ -1,0 +1,16 @@
+"Area 51 /ID SLES_525.70"
+//ELF CRC 180F5C36
+
+Mastercode
+903AD870 0C0EB5C4
+
+
+//[Widescreen 16:9]
+
+//Ported by PeterDelta from the other version PAL by ElHecht
+
+20392730 3c193f40 // 00000000 hor fov ok
+20392748 4499f000 // 00000000
+2039274c 461ea502 // 00000000
+20392e18 461ebb03 // 00000000 renderfix calculation
+20392e04 461eab83 // 00000000 renderfix calculation

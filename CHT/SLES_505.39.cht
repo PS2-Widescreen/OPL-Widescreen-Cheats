@@ -1,0 +1,35 @@
+"James Bond 007 - Agent Under Fire /ID SLES_505.39"
+//ELF CRC 992B46DC
+Mastercode
+91F08CD0 0C7C22DC
+
+
+//[Widescreen 16:9]
+
+//16:9 widescreen patch
+// author: Arapapa, Silent
+
+// Action segments
+// English
+d0320494 01003f80
+10320494 00003fab // 3F80
+// French
+d0320564 01003f80
+10320564 00003fab // 3F80
+// German
+d032057c 01003f80
+1032057c 00003fab // 3F80
+// Spanish
+d0320574 01003f80
+10320574 00003fab // 3F80
+// Dutch, Swedish
+d032059c 01003f80
+1032059c 00003fab // 3F80
+
+// Driving segments
+d022e248 04003f80
+1022e248 00003f40
+1012b7d0 00003fe8
+1012b7d4 00008e39
+1011b3b0 000043f0 // 480.0
+
