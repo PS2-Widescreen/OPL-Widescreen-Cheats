@@ -1,4 +1,4 @@
-game count|3454
+game count|3453
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -2716,7 +2716,6 @@ Zombie Zone  |  [SLES_533.98](./CHT/SLES_533.98.cht)
 Zone of Enders  |  [SLPM_650.19](./CHT/SLPM_650.19.cht)
 Zone of the Enders  |  [SLES_501.11](./CHT/SLES_501.11.cht)
 Zone of the Enders - The 2nd Runner  |  [SLKA_250.66](./CHT/SLKA_250.66.cht)
-a
 “Capcom Vs SNK 2 (2001)  |  [SLUS_202.46](./CHT/SLUS_202.46.cht)”
 ﻿007 - From Russia With Love  |  [SLUS_212.82](./CHT/SLUS_212.82.cht)
 ﻿50 Cent - Bulletproof  |  [SLUS_213.15](./CHT/SLUS_213.15.cht)
