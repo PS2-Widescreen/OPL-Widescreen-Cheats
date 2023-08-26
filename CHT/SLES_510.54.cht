@@ -1,11 +1,15 @@
 ﻿"Midnight Club II /ID SLES_510.54"
+// ELF CRC = ACB1989A
+
 Mastercode
 903f6b98 0c0fda8e
+
 
 //Widescreen hack 16:9
 
 //X-Fov
 //aa3f013c a8aa2134
-2036d414 3c013fe3
-2036d418 34218e38
+//2036d414 3c013fe3
+//2036d418 34218e38
 
+2042F134 3FC55553 //Hack 16:9 by PeterDelta

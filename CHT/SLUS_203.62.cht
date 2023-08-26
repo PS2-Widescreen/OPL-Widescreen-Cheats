@@ -1,10 +1,11 @@
 ﻿"Need for Speed - Hot Pursuit 2 /ID SLUS_203.62"
+// ELF CRC = 1D2818AF
+
 Mastercode
 90284ee8 0c0a1362
 
+//Widescreen Hack by nemesis2000
 //wide
 2010e994 46011702
 2032f6ec 3f400000
 2032f850 3f2aaaaa
-
-//
