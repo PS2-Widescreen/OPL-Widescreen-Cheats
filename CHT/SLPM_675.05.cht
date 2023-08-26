@@ -1,28 +1,20 @@
 "007 - Agent Under Fire (Korea) /ID SLPM_675.05"
 //ELF CRC 60666E72
+
 Mastercode
 91f08c90 0c7c22cc
 
 
 //[Widescreen 16:9]
+// author: Arapapa, Silent
 
-//Widescreen Hack by Arapapa
+// Action segments
+D03202DC 01003F80
+103202DC 00003FAB // 3F80
 
-//Widescreen hack 16:9
-
-//X-Fov
-//803f013c 00088144 60654224
-203202dc 3c013fab //3c013f80
-
-///////////////////////
-//0000803f 0000803f 00000000 00000000 00002044 0000e043
-//207f728c 3faaaaab //3F800000
-
-//Zoom
-//2013dee4 3c013f40 //3c013f80
-
-//Y-Fov
-//20320728 3c013f40 //3c013f80
-
-
-
+// Driving segments
+D022DCD8 04003F80
+1022DCD8 00003F40
+1012B7B0 00003FE8
+1012B7B4 00008E39
+1011B390 000043F0 // 480.0

@@ -1,14 +1,22 @@
 "James Bond 007 - Agent Under Fire /ID SLUS_202.65"
+//ELF CRC=79646C72
 
 Mastercode
 91f08c90 0c7c22cc
 
 
-//ELF CRC=79646C72
-//Widescreen Hack by Arapapa
 
-//Widescreen hack 16:9
+//[Widescreen 16:9]
+// author: Arapapa, Silent
 
-//X-Fov
-//803f013c 00088144 60654224
-203202dc 3c013fab //3c013f80
+// Action segments
+D03202DC 01003F80
+103202DC 00003FAB // 3F80
+
+// Driving segments
+D022DCD8 04003F80
+1022DCD8 00003F40
+1012B7B0 00003FE8
+1012B7B4 00008E39
+1011B390 000043F0 // 480.0
+
