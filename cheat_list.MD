@@ -1,4 +1,4 @@
-game count|3453
+game count|3454
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -1334,6 +1334,7 @@ Lord of the Rings, The - Return of the King  |  [SLES_520.17](./CHT/SLES_520.17.
 Lord of the Rings, The - The Fellowship of the Ring  |  [SLES_509.88](./CHT/SLES_509.88.cht)
 Lord of the Rings, The - The Return of the King  |  [SLPM_655.03](./CHT/SLPM_655.03.cht)
 Lord of the Rings, The - The Third Age  |  [SLES_528.01](./CHT/SLES_528.01.cht)
+Lord of the Rings, The - The Third Age  |  [SLES_528.05](./CHT/SLES_528.05.cht)
 Lord of the Rings, The - The Two Towers  |  [SLES_512.52](./CHT/SLES_512.52.cht)
 Lord of the Rings, The - The Two Towers  |  [SLES_512.56](./CHT/SLES_512.56.cht)
 Lord of the Rings, The - The Two Towers  |  [SLPS_290.04](./CHT/SLPS_290.04.cht)
