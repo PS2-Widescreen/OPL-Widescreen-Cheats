@@ -1,4 +1,4 @@
-game count|3454
+game count|3453
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -924,7 +924,6 @@ Goosebumps HorrorLand  |  [SLUS_218.34](./CHT/SLUS_218.34.cht)
 Gradius V  |  [SLES_520.95](./CHT/SLES_520.95.cht)
 Gradius V  |  [SLPM_624.62](./CHT/SLPM_624.62.cht)
 Gran Turismo 4  |  [SCES_517.19](./CHT/SCES_517.19.cht)
-Gran Turismo 4  |  [SCUS_973.28](./CHT/SCUS_973.28.cht)
 Grand Theft Auto - Liberty City Stories  |  [SLPM_668.51](./CHT/SLPM_668.51.cht)
 Grand Theft Auto - San Andreas  |  [SLPM_659.84](./CHT/SLPM_659.84.cht)
 Grand Theft Auto - San Andreas [Rockstar Classics]  |  [SLPM_552.92](./CHT/SLPM_552.92.cht)
