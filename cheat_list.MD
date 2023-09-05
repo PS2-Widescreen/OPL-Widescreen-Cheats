@@ -1,4 +1,4 @@
-game count|3454
+game count|3456
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -2247,6 +2247,8 @@ Spyro - A Heros Tale  |  [SLES_525.69](./CHT/SLES_525.69.cht)
 Standard Daisenryaku Dengekisen  |  [SLPM_657.04](./CHT/SLPM_657.04.cht)
 Star Trek - Encounters  |  [SLUS_213.96](./CHT/SLUS_213.96.cht)
 Star Trek Voyager - Elite Force  |  [SLUS_202.27](./CHT/SLUS_202.27.cht)
+Star Wars - Battlefront II  |  SWBFRNT2.ELF
+Star Wars - Battlefront II  |  [SLES_535.01](./CHT/SLES_535.01.cht)
 Star Wars - Battlefront II  |  [SLES_535.03](./CHT/SLES_535.03.cht)
 Star Wars - Episode III - Die Rache der Sith  |  [SLES_531.57](./CHT/SLES_531.57.cht)
 Star Wars - Jedi Starfighter  |  [SLES_503.71](./CHT/SLES_503.71.cht)
