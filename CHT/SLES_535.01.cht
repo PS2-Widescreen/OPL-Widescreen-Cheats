@@ -1,12 +1,11 @@
-"Star Wars - Battlefront II /ID SLES_535.03"
-//ELF CRC = EAC52C47
+"Star Wars - Battlefront II /ID SLES_535.01"
+//ELF CRC 02F4B541
 
 Mastercode
-905ed6e0 0c17b560
-//901143d8 0c04509e
-//905ed660 0c17b540 // Mastercode for SWBFRNT2.ELF
+901143D8 0C04509E
 
-//Game changes ELF on boot to SWBFRNT2.ELF with active CRC EAC52C47
+//[Widescreen 16:9]
+//Game changes ELF on boot to SWBFRNT2.ELF with active CRC B68D35CA
 
 //Widescreen hack 16:9
 
@@ -21,4 +20,3 @@ Mastercode
 20573f6c 3c013f2b //3c013f00
 //003f013c 00008144 f000b07f
 205b074c 3c013f2b //3c013f00
-
