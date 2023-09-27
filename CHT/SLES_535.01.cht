@@ -2,7 +2,7 @@
 //ELF CRC 02F4B541
 
 Mastercode
-901143D8 0C04509E
+901143d8 0c04509e
 
 //[Widescreen 16:9]
 //Game changes ELF on boot to SWBFRNT2.ELF with active CRC B68D35CA

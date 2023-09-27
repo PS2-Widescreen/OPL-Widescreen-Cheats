@@ -41,7 +41,7 @@ do
   
 
   if [ "$HEAD.cht" != "$a" ]; then
-    echo "${C_YELLOW} CHT/$a: has an invalid ELF header: [$HEAD]${C_NC}"
+    echo -e "${C_YELLOW} CHT/$a: has an invalid ELF header: [$HEAD]${C_NC}"
     RETURN_CODE=1
   fi
 
