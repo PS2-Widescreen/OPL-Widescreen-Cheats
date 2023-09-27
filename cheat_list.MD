@@ -1,4 +1,4 @@
-game count|3456
+game count|3459
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -744,6 +744,7 @@ Fantastic 4  |  [SLUS_206.15](./CHT/SLUS_206.15.cht)
 Fantastic 4 - Rise of Silver Surfer  |  [SLUS_215.44](./CHT/SLUS_215.44.cht)
 Fantastic Four - Rise of the Silver Surfer  |  [SLES_546.16](./CHT/SLES_546.16.cht)
 Fantastic Four - Rise of the Silver Surfer  |  [SLES_547.76](./CHT/SLES_547.76.cht)
+Fantastic Four, The  |  [SLES_531.47](./CHT/SLES_531.47.cht)
 Fantavision  |  [SCPS_110.02](./CHT/SCPS_110.02.cht)
 Fantavision  |  [SCUS_971.05](./CHT/SCUS_971.05.cht)
 Fatal Frame - Zero  |  [SLPS_255.44](./CHT/SLPS_255.44.cht)
@@ -1478,6 +1479,8 @@ Metropolismania  |  [SLES_511.62](./CHT/SLES_511.62.cht)
 Michigan  |  [SLPM_654.80](./CHT/SLPM_654.80.cht)
 Michigan (2005)  |  [SLES_530.73](./CHT/SLES_530.73.cht)
 Micro Machines  |  [SLES_506.20](./CHT/SLES_506.20.cht)
+Midnight Club - Street Racing  |  [SLES_500.71](./CHT/SLES_500.71.cht)
+Midnight Club - Street Racing  |  [SLUS_200.63](./CHT/SLUS_200.63.cht)
 Midnight Club 3 - DUB Edition  |  [SLES_529.42](./CHT/SLES_529.42.cht)
 Midnight Club 3 - DUB Edition  |  [SLUS_210.29](./CHT/SLUS_210.29.cht)
 Midnight Club 3 - DUB Edition Remix  |  [SLES_537.17](./CHT/SLES_537.17.cht)
