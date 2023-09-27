@@ -1,0 +1,18 @@
+"Midnight Club - Street Racing /ID SLES_500.71"
+//ELF CRC 831078BD
+Mastercode
+902BF3F8 0C0AFCA4
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Widescreen hack 16:9
+2047b580 3f471c97 //3F800000 
+2047b594 3f471c97 //3F800000
+2047b5bc 3f471c97 //3F800000
+
+//[50 FPS]
+// author: PeterDelta
+//Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+//203054c4 00000001
