@@ -1,17 +1,17 @@
 "Castlevania - Lament of Innocence /ID SLUS_207.33"
+// ELF CRC = 28270F7D
 Mastercode
 906f6098 0c1bd7ce
 
-//Gameplay
-206e70f4 3c013f40
-206e70f8 44810000
-206e7100 4600c602
 
-//Item Pos-X Fix
-207b87b0 43100000
-206cef54 3c014294
+//[Widescreen 16:9]
+//by arapapa and nemesis2000
 
-//FMV's Fix
-204511d0 24057300
-204511d4 24062000
-204511dc 24071b00
+// Gameplay hack by arapapa
+20712378 3c014455 // 3c014420 - Zoom
+20712398 3c013AC0 // 3c013b00 - Y-Fov 
+
+// FMV fix by nemesis2000
+204511d0 24057300 // y-pos
+204511d4 24062000 // x width
+204511dc 24071b00 // y width
