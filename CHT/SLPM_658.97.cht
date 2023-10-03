@@ -1,0 +1,26 @@
+"Racing Battle C1 Grand Prix /ID SLPM_658.97"
+//ELF CRC=1C087362
+
+Mastercode
+90121750 0c04857c //sceSifSendCmd
+901396f8 0c043e26 //scePad2Read
+9013b818 0c04008c //main
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Wide Screen hack 16:9
+
+//X-Fov
+20165a00 3c023f40 //3c023f80
+
+
+//[No-Interlacing]
+
+//No Interlacing Patch by Tokman5
+//2014ac58 24022000
+
+
+

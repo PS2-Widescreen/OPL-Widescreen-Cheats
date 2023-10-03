@@ -1,0 +1,21 @@
+"K-1 World Grand Prix 2006 /ID SLPS_257.10"
+//ELF CRC=A7E5CE23
+
+Mastercode
+902be3d8 0c0af89e //sceSifSendCmd
+902989cc 0c0ad67b //scePadRead
+901001e8 0c0ab7b6 //main
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+202977c4 3c013f40 //00000000
+202977c8 44810000 //00000000
+202977d0 4600c602 //00000000
+
+
+

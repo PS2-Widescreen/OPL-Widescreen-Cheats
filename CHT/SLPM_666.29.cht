@@ -1,0 +1,17 @@
+"Dirge of Cerberus - Final Fantasy VII International /ID SLPM_666.29"
+//ELF CRC=BC06733B
+
+Mastercode
+904533e0 0c114ca0 //sceSifSendCmd
+90248574 0c1052de //main
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (16:9)
+
+2040c5f8 3c013fc9
+2040c5fc 342162d8
+2040d1f0 3c013ec0
+
+
+

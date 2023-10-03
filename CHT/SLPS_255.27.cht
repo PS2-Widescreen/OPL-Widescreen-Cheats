@@ -1,0 +1,16 @@
+"dot Hack - FRAGMENT /ID SLPS_255.27"
+//ELF CRC=273933B4
+
+Mastercode
+9011c390 0c04708c //sceSifSendCmd
+9012cd68 0c04cc7a //scePadRead
+901562e4 0c055930 //main
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack
+20a36a80 3f400000 // 3F800000
+
+
+
