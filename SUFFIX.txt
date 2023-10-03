@@ -1,3 +1,1 @@
-
-# more information on the !README.TXT file provided with this package, if not included check the URL below
-# Main repository: [https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats]
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats
