@@ -1,0 +1,17 @@
+"Return to Castle Wolfenstein - Operation Resurrection /ID SLES_515.22"
+//ELF CRC 0F58C006
+
+Mastercode
+901ECAE0 0C07B260
+
+
+//[Widescreen 16:9]
+// author: nemesis2000
+//Widescreen hack 16:9
+2012f928 3c0142ab //ver fov 1
+2012f92c 3421e328
+201302dc 3c0142ab //ver fov 2
+201302e0 3421e328
+2012f6d8 3c0141e9 //binoculars fov
+2012f724 3c0142d5 //gameplay fov
+
