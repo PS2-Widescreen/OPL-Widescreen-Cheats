@@ -1,4 +1,4 @@
-game count|3468
+game count|3469
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -744,6 +744,7 @@ Family Guy - The Video Game  |  [SLES_541.26](./CHT/SLES_541.26.cht)
 FantaVision  |  [SCES_500.02](./CHT/SCES_500.02.cht)
 Fantastic 4  |  [SLUS_206.15](./CHT/SLUS_206.15.cht)
 Fantastic 4 - Rise of Silver Surfer  |  [SLUS_215.44](./CHT/SLUS_215.44.cht)
+Fantastic Four  |  [SLES_531.43](./CHT/SLES_531.43.cht)
 Fantastic Four - Rise of the Silver Surfer  |  [SLES_546.16](./CHT/SLES_546.16.cht)
 Fantastic Four - Rise of the Silver Surfer  |  [SLES_547.76](./CHT/SLES_547.76.cht)
 Fantastic Four, The  |  [SLES_531.47](./CHT/SLES_531.47.cht)
@@ -1690,6 +1691,7 @@ Onimusha - Dawn of Dreams [Disc 1]  |  [SLES_820.38](./CHT/SLES_820.38.cht)
 Onimusha - Dawn of Dreams [Disc 2]  |  [SLES_820.39](./CHT/SLES_820.39.cht)
 Onimusha 2  |  [SLPM_651.00](./CHT/SLPM_651.00.cht)
 Onimusha 2  |  [SLPM_651.01](./CHT/SLPM_651.01.cht)
+Onimusha 2 - Samurais Destiny  |  [SLES_509.78](./CHT/SLES_509.78.cht)
 Onimusha 3  |  [SLPM_654.13](./CHT/SLPM_654.13.cht)
 Onimusha Buraiden  |  [SLPM_654.11](./CHT/SLPM_654.11.cht)
 Oookuki  |  [SLPM_664.41](./CHT/SLPM_664.41.cht)
