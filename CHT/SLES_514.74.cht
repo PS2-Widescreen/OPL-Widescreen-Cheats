@@ -2,26 +2,26 @@
 //ELF CRC C81B1F33
 
 Mastercode
-90305B60 0C0C1680
+90305b60 0c0c1680
 
 //[Widescreen 16:9]
 // author: PeterDelta
 //Widescreen hack ported from the ntsc-u version by pelvicthrustman
-201EF6D4 3c040001 //10800020 widescreen
-2020BD04 3c0141d0 //3c014270 X scalar "Face hud"
-2020BEA0 3c014298 //3c0142a0 Y correction
-2020BEAC 3c013f48 //0020bb00 X correction
-2020C018 3c013f40 //3c013f00 X correction "Pain overlay"
-2020C024 3c014298 //3c0142a0 Y correction
-2020C368 3c0141a8 //3c0141c8 X scalar "Health BG"
-2020C374 3c013f48 //3c013f00 X correction
-2020C38C 3c014296 //3c0142a0 Y correction
-2020C444 3c014178 //3c0141b8 X scalar "Health bar"
-2020C468 3c0142a1 //3c0142a0 Y correction
-2020C380 3c0f3f86 //00000000 X correction
-2020C420 448ff800 //00000000
-2020C48C 461f20c2 //460720C2
-2020C568 3c0142f8 //3c014321 X scalar "Frame"
-2020C584 3c01432b //3c01432b Y correction
-2020C5B0 46011042 //46011842 Offset correction
+201ef6d4 3c040001 //10800020 widescreen
+2020bd04 3c0141d0 //3c014270 X scalar "Face hud"
+2020bea0 3c014298 //3c0142a0 Y correction
+2020beac 3c013f48 //0020bb00 X correction
+2020c018 3c013f40 //3c013f00 X correction "Pain overlay"
+2020c024 3c014298 //3c0142a0 Y correction
+2020c368 3c0141a8 //3c0141c8 X scalar "Health BG"
+2020c374 3c013f48 //3c013f00 X correction
+2020c38c 3c014296 //3c0142a0 Y correction
+2020c444 3c014178 //3c0141b8 X scalar "Health bar"
+2020c468 3c0142a1 //3c0142a0 Y correction
+2020c380 3c0f3f86 //00000000 X correction
+2020c420 448ff800 //00000000
+2020c48c 461f20c2 //460720C2
+2020c568 3c0142f8 //3c014321 X scalar "Frame"
+2020c584 3c01432b //3c01432b Y correction
+2020c5b0 46011042 //46011842 Offset correction
 

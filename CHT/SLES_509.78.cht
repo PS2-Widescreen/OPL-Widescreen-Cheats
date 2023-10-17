@@ -1,0 +1,12 @@
+"Onimusha 2 - Samurais Destiny /ID SLES_509.78"
+//ELF CRC = C6EDAAB5
+
+Mastercode
+90105f40 0c041778
+
+//[Widescreen 16:9]
+// author: Bigdemon
+
+201028f4 3c013f40
+201028f8 44810000
+20102900 4600c602
