@@ -1,7 +1,7 @@
 "Shrek 2 /ID SLES_523.82"
 //ELF CRC 4CF48A70
 Mastercode
-90121818 0C0485AE
+90121818 0c0485ae
 
 //Main CRC 4CF48A70
 //SHREK2.ELF CRC 76C01D41
@@ -11,7 +11,7 @@ Mastercode
 // author: CRASHARKI
 //Patches the game to run at 16:9 Widescreen Aspect Ratio. (Original NTSC-U pnach by Arapapa)
 
-//Wide 16:9 (EA4ED1BC 00000000 7FAAAA3F 00000000)
+//Wide 16:9 (ea4ed1bc 00000000 7faaaa3f 00000000)
 20379a30 3f800000 // 3FAAAA7F
 
 //00 00 80 3F 00 00 80 3F 00 00 00 00
