@@ -1,0 +1,11 @@
+"Ape Escape 3 /ID SCUS_975.01"
+//ELF CRC 7571AAEE
+Mastercode
+90438E50 0C10E33C
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+patch=1,EE,20649DC8,byte,1 //0 Widescreen

@@ -1,0 +1,12 @@
+"Crash Twinsanity /ID SLES_525.68"
+//ELF CRC 1510E1D1
+Mastercode
+902D22B0 0C0B4854
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+2030aac4 00000001 //00000000
+20beaf64 00000001 //00000000

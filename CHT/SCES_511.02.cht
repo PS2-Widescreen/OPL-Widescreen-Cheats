@@ -1,0 +1,12 @@
+"Ape Escape 2 /ID SCES_511.02"
+//ELF CRC 8B6FE2EA
+Mastercode
+903A05B0 0C0E8114
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+203e19b4 00000001 //00000000 Widescreen
+//20535690 00000004 //00000002 Widescreen

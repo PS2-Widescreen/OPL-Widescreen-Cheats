@@ -1,0 +1,12 @@
+"Crash Bandicoot Twinsanity /ID SLUS_209.09"
+//ELF CRC 8CFAB4EA
+Mastercode
+902D1F30 0C0B4774
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+2030a144 00000001 //00000000
+20be2be4 00000001 //00000000
