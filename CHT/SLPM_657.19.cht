@@ -12,7 +12,7 @@ Mastercode
 
 // FOV (16:9)
 
-patch=1,EE,0068A3CD,byte,01 // enables widescreen FOV values
+0068a3cd 00000001 // enables widescreen FOV values
 
 //9A 99 99 3F CE CC 4C 3E CD CC 4C 3F C8 CC CC 3D
 20504f30 3faaaaab // FOV (Single Player) // 16:9 = 1.33333
@@ -87,12 +87,10 @@ patch=1,EE,0068A3CD,byte,01 // enables widescreen FOV values
 20485ed4 080f5e62 // jumps back #2 + 4
 
 //20 44 02 3C A8 00 A0 AF A0 00 A2 AF 2D 28 00 00
-patch=1,EE,201a172c,short,4456 // HUD Render Width (Player 1) // 16:9 = 854
+101a172c 00004456 // HUD Render Width (Player 1) // 16:9 = 854
 
 //20 44 02 3C 98 00 A0 AF 90 00 A2 AF A8 00 A3 C7
-patch=1,EE,201A1790,short,4456 // HUD Render Width (Player 2) // 16:9 = 854
-
-
+101a1790 00004456 // HUD Render Width (Player 2) // 16:9 = 854
 
 /////////////////////////////////////////////////
 
@@ -111,7 +109,7 @@ patch=1,EE,201A1790,short,4456 // HUD Render Width (Player 2) // 16:9 = 854
 20485fe4 080685e7 // jumps back #2 + 4
 
 //20 44 02 3C 2D 50 00 00 00 10 82 44 00 00 00 00
-patch=1,EE,20134f5c,short,4456 // "Get Ready! GO" Width // 16:9 = 854
+10134f5c 00004456 // "Get Ready! GO" Width // 16:9 = 854
 
 //74 01 A2 AF 00 00 B0 FF
 20134f34 081217ee // jumps to code cave
@@ -124,7 +122,7 @@ patch=1,EE,20134f5c,short,4456 // "Get Ready! GO" Width // 16:9 = 854
 // Menus (16:9)
 
 //b401848c 20 44 03 3C 00 28 83 44
-patch=1,EE,2030d664,short,43F0 // Menu Width // 16:9 = 480
+1030d664 000043f0 // Menu Width // 16:9 = 480
 
 //08 00 83 E4 0C 00 80 E4 E0 B1 63 90 48 00 A3 E7
 //6148033c 60088046 00008344 (ELF)
@@ -143,7 +141,7 @@ patch=1,EE,2030d664,short,43F0 // Menu Width // 16:9 = 480
 
 //20 44 03 3C 2D A8 80 00 E9 01 10 3C 67 00 14 3C
 // 2044033c (elf 2nd from top)
-patch=1,EE,2031b030,short,4456 // Top Border Width // 16:9 = 854
+1031b030 00004456 // Top Border Width // 16:9 = 854
 
 //04 00 85 C4 6A 18 E1 4B D8 01 A2 FF 00 08 83 44
 2031b0a4 081217bb // jumps to code cave
@@ -154,10 +152,10 @@ patch=1,EE,2031b030,short,4456 // Top Border Width // 16:9 = 854
 20485efc 080c6c2a // jumps back
 
 //20 44 02 3C 78 00 A0 AF 70 00 A2 AF 78 00 A6 27
-patch=1,EE,2038B380,short,4456 // Bottom Border Width // 16:9 = 854
+1038b380 00004456 // Bottom Border Width // 16:9 = 854
 
 //20 44 02 3C 60 00 A0 AF 58 00 A2 AF 68 00 A5 27
-patch=1,EE,2038B3B8,short,4456 // Bottom Border Width // 16:9 = 854
+1038b3b8 00004456 // Bottom Border Width // 16:9 = 854
 
 //68 00 A0 AF 5C 00 A2 AF 60 00 A6 27 80 3F 02 3C
 2038b3cc 081217c0 // jumps to code cave
@@ -172,19 +170,19 @@ patch=1,EE,2038B3B8,short,4456 // Bottom Border Width // 16:9 = 854
 20485f14 080e2ce2 // jumps back
 
 //20 44 02 3C 4C 00 0A 3C 08 01 A2 AF 4C 00 0B 3C
-patch=1,EE,2031D594,short,4456 // Checkerboard Width // 16:9 = 854
+1031d594 00004456 // Checkerboard Width // 16:9 = 854
 
 //20 44 02 3C EA 01 0A 3C F0 00 A2 AF EA 01 0B 3C
-patch=1,EE,2031D5EC,short,4456 // Checkerboard Width // 16:9 = 854
+1031d5ec 00004456 // Checkerboard Width // 16:9 = 854
 
 //20 44 02 3C 4C 00 08 3C C0 00 A2 AF 4C 00 09 3C
-patch=1,EE,2031D698,short,4456 // Checkerboard Width // 16:9 = 854
+1031d698 00004456 // Checkerboard Width // 16:9 = 854
 
 //20 44 02 3C EA 01 0A 3C D8 00 A2 AF EA 01 0B 3C
-patch=1,EE,2031D640,short,4456 // Checkerboard Width // 16:9 = 854
+1031d640 00004456 // Checkerboard Width // 16:9 = 854
 
 //20 44 02 3C EA 01 08 3C A8 00 A2 AF EA 01 09 3C
-patch=1,EE,2031D6F0,short,4456 // Checkerboard Width // 16:9 = 854
+1031d6f0 00004456 // Checkerboard Width // 16:9 = 854
 
 
 /////////////////////////////////////////////////////////
@@ -220,21 +218,21 @@ patch=1,EE,2031D6F0,short,4456 // Checkerboard Width // 16:9 = 854
 20485f50 080c75c2 // jumps back
 
 //20 44 02 3C D0 01 A0 AF C8 01 A2 AF D8 01 A5 27
-patch=1,EE,2031D8D0,short,4456 // Loading Background Width // 16:9 = 854 #
+1031d8d0 00004456 // Loading Background Width // 16:9 = 854 #
 2031d8f0 081217d5 // jumps to code cave  # +20
 20485f54 3c19c2d7 // Loading Background X Pos // only change the last four bytes // 16:9 = -107.5
 20485f58 afb901d8 // saves new x pos value
 20485f5c 080c763d // jumps back
 
 //20 44 02 3C 70 00 A0 AF 68 00 A2 AF 78 00 A5 27
-patch=1,EE,203A6F84,short,4456 // Replay Top Bar Width // 16:9 = 854 #
+103a6f84 00004456 // Replay Top Bar Width // 16:9 = 854 #
 203a6f88 081217e8 // jumps to code cave  # +4
 20485fa0 3c19c2d7 // Replay Top Bar X Pos // only change the last four bytes // 16:9 = -107.5
 20485fa4 afb90078 // saves new x pos value
 20485fa8 080e9be3 // jumps back
 
 //20 44 02 3C 58 00 A0 AF 50 00 A2 AF 5C 00 B4 E7
-patch=1,EE,203A6FC8,short,4456 // Replay Bottom Bar Width // 16:9 = 854 #
+103a6fc8 00004456 // Replay Bottom Bar Width // 16:9 = 854 #
 203a6fdc 081217eb // jumps to code cave # +14
 20485fac 3c19c2d7 // Replay Bottom Bar X Pos // only change the last four bytes // 16:9 = -107.5
 20485fb0 afb90060 // saves new x pos value

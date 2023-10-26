@@ -23,5 +23,5 @@ Mastercode
 
 //Render fix #2 (doesn't seem needed in recent builds and causes graphic errors)
 //803f013c 00208144 2800b4e7
-//patch=1,EE,001560b8,word,3c013fab //3c013f80
+//201560b8 3c013fab //3c013f80
 

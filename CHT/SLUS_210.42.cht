@@ -14,7 +14,7 @@ Mastercode
 202cd9c4 24110001
 
 //cutscenes fix
-//patch=1,EE,0036512c,word,3c033fab
+//2036512c 3c033fab
 206c2c68 3fe38e38
 
 //text width fix

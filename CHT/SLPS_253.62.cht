@@ -22,4 +22,5 @@ Mastercode
 //0013b194 0000c083 //344247AE - Master Y FOV #2
 
 //HUD
-//patch=1,EE,10130B68,extended,0000???? //3C033F80 - Radar X FOV #1 (replace ???? with 3F80 for 16:9/16:10 Widescreen [Ultra] - or 3F55 for 16:10 Widescreen [Normal])
+//10130b68 00003F80 //for 16:9/16:10 Widescreen [Ultra]
+//10130b68 00003F55 //for 16:10 Widescreen [Normal]
