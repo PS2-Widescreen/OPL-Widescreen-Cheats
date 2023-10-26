@@ -22,5 +22,5 @@ Mastercode
 //0013b194 0000c083 //344247AE - Master Y FOV #2
 
 //HUD
-//10130b68 00003F80 //for 16:9/16:10 Widescreen [Ultra]
-//10130b68 00003F55 //for 16:10 Widescreen [Normal]
+//10130b68 00003f80 //for 16:9/16:10 Widescreen [Ultra]
+//10130b68 00003f55 //for 16:10 Widescreen [Normal]

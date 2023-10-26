@@ -13,7 +13,7 @@ Mastercode
 // FOV (16:9)
 
 //00 00 00 70 82 48 00 00 1D 49 00 80 66 49 00 00
-006661CD 00000001 // enables widescreen FOV values
+006661cd 00000001 // enables widescreen FOV values
 
 //9A 99 99 3F CE CC 4C 3E CD CC 4C 3F C8 CC CC 3D
 204e0d38 3faaaaab // FOV (Single Player) // 16:9 = 1.33333
