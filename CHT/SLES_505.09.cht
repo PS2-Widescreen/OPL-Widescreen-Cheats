@@ -1,0 +1,20 @@
+"Half-Life /ID SLES_505.09"
+//ELF CRC F9E3CF90
+Mastercode
+902f1958 0c0bc5fe
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack
+202aa624 3c013fe3
+202aa628 34218e38
+202a9e60 3c013f2b
+
+//[60 FPS]
+// author: PeterDelta
+//Forces progressive scan and run at 60 fps
+//202eefa0 34050052
+//202eefa4 24030002
+//202eefa8 0000000c
+//202eefac 03e00008

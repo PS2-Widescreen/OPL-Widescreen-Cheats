@@ -1,0 +1,11 @@
+"Spyro the Dragon - Enter the Dragonfly /ID SLUS_203.15"
+//ELF CRC 4B8E0DE8
+Mastercode
+90108438 0c0420b6
+
+
+//[Widescreen 16:9]
+
+// author: Muzzarino
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+10198a64 00000030 // Default: 0x20 (4:3); 0x30 (16:9);

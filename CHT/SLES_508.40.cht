@@ -1,0 +1,12 @@
+"Indiana Jones and The Emperors Tomb /ID SLES_508.40"
+//ELF CRC AE0E0C2F
+Mastercode
+9010fd78 0c043f06
+
+
+//[Widescreen 16:9]
+
+// author: ElHecht
+//Widescreen Hack
+2011cf0c 3c013f24 //3c013f49
+2011cf10 34216666 //34210fda
