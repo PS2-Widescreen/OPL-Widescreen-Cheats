@@ -1,0 +1,20 @@
+"Crash - Mind Over Mutant /ID SLES_552.04"
+//ELF CRC 0F89A154
+Mastercode
+902016D0 0C08055C
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+01a2a0c8 00000001 //00000000 //HUD
+01a2a102 00000010 //40 //Zoom 1
+21a2a108 3f000000 //3F2AAAAA //Zoom without Progressive Scan
+e0010001 01a2a0a8 //Check if Progressive Scan is on
+21a2a108 3f066666 //3F333333 //Zoom with Progressive Scan
+
+//[Progressive Scan]
+// author: CRASHARKI
+//Run the game with Progressive Scan enabled from the start.
+//00715330 00000001 //00000000 //Progressive Scan\60 FPS from the beginning

@@ -1,0 +1,21 @@
+"Crash of the Titans /ID SLES_548.42"
+//ELF CRC B4B4E877
+Mastercode
+90587D10 0C161EEC
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+01bd74e8 00000001 //00000000 //In-game option
+01bd7522 00000010 //40 //Zoom 1
+21bd7528 3f000000 //3F2AAAAA //Zoom 2
+
+//[Mode 480p]
+// author: PeterDelta
+//Forces progressive scan mode 480p at startup
+//2057e114 3c050000
+//2057e11c 3c060050
+//2057e124 3c070001
+//11bd74d0 00000001

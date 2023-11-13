@@ -1,0 +1,13 @@
+"Taz Wanted /ID SLES_506.49"
+//ELF CRC DF96CC28
+Mastercode
+902D2BA0 0C0B4A90
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+203fee00 00000910 //00000304 //HUD
+203fee24 3fe81f26 //3FC39C01 //Rendering
+00412454 00000001 //0 //In-game option

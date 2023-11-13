@@ -1,0 +1,13 @@
+"Crash of the Titans /ID SLUS_215.83"
+//ELF CRC C6E85EF0
+Mastercode
+905863D0 0C16189C
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+01bd4f68 00000001 //00000000 //In-game option
+01bd4fa2 00000010 //40 //Zoom 1
+21bd4fa8 3f066666 //3F333333 //Zoom 2
