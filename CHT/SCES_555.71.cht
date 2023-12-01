@@ -1,0 +1,21 @@
+"Ghostbusters /ID SCES_555.71"
+//ELF CRC 7030A01C
+Mastercode
+90470640 0c11c138
+
+
+//[Widescreen 16:9]
+// author: ElHecht
+2037e54c 3c013fdb //3c013fa4 hor fov gameplay / ver fov cut-scenes
+2037e550 3421a5ef //3421bc76 hor fov gameplay / ver fov cut-scenes
+202d1594 3c014158 //3c014190 zoom cut-scenes
+2037d694 3c013fa4 //3c013faa zoom fix
+2037d698 3421bc76 //3421aaab zoom fix
+2031d1f4 3c013f80 //3c014000 remove black bars in cut-scenes
+
+//[Mode 480p]
+// author: PeterDelta
+//Forces progressive scan mode 480p at startup
+//20412e2c 3c050000
+//20412e34 3c060050
+//20412e3c 3c070001

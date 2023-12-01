@@ -1,0 +1,13 @@
+"Ty - The Tazmanian Tiger /ID SLES_512.20"
+//ELF CRC D59D3252
+Mastercode
+904195c0 0c106518
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Widescreen Hack
+20228fc8 3c013f40 //3C013F80
+
+

@@ -1,0 +1,10 @@
+"Ty the Tasmanian Tiger /ID SLUS_205.71"
+//ELF CRC 4F755D39
+Mastercode
+90418d80 0c106308
+
+
+//[Widescreen 16:9]
+// author: PeterDelta
+//Widescreen Hack
+20228ee8 3c013f40 //3C013F80

@@ -1,0 +1,16 @@
+"Freedom Fighters /ID SLES_514.71"
+//ELF CRC BADCA543
+Mastercode
+90118e38 0c046336
+
+//Enable native widescreen
+2056967c 00000001
+
+//[60 FPS]
+// author: PeterDelta
+//Forces progressive scan and run at 60 fps
+//2046ca84 3c050000
+//2046ca8c 3c060052
+//2046ca94 3c070001
+//2056b808 00000000
+//20540530 00000009

@@ -1,0 +1,21 @@
+"Need for Speed - ProStreet /ID SLES_550.04"
+//ELF CRC 9E457DD6
+Mastercode
+9058a8e8 0c1629e2
+
+
+//[Widescreen 16:9]
+
+// author: Xan1242 & Aero_
+//Widescreen Mode 16:9
+20168a10 24020001 //li v0, 1
+206828d8 3f400000 //Horizontal: 0.75f Corrects Aspect Ratio
+206828dc 3f8ccccd //Vertical: 1.10f
+
+//[60 FPS]
+// author: PeterDelta
+//Forces progressive scan and run at 60 fps
+//20587054 24110000
+//20587058 24120052
+//20587064 24130001
+//20685efc 0000001e

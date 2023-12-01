@@ -1,0 +1,12 @@
+"Medal of Honor - European Assault /ID SLES_533.36"
+//ELF CRC BB70FFB9
+Mastercode
+91c0d0d8 0c7033de
+
+
+//[Widescreen 16:9]
+
+// author: nemesis2000
+//Renders the game in 16:9 aspect ratio
+2012927c 00000000
+

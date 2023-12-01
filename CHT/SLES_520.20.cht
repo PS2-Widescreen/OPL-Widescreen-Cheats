@@ -1,0 +1,11 @@
+"Lord of the Rings, The - The Return of the King /ID SLES_520.20"
+//ELF CRC 9771C478
+Mastercode
+9011b638 0c046d36
+
+
+//[Widescreen 16:9]
+
+// author: ElHecht
+//Renders the game in 16:9 aspect ratio
+2014b13c 3c023f40 //3c023f80 hor fov
