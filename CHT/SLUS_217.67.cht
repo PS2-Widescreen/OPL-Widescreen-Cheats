@@ -1,0 +1,14 @@
+"Dance Dance Revolution X /ID SLUS_217.67"
+//ELF CRC 3148A285
+Mastercode
+90106B18 0C041A6E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack 
+// 16:9
+2017e964 3c023f22 // 3c023f00
+2017eae4 3c023fe3 // 3c023faa
+2017eaf0 34458e39 // 3445aaab
+

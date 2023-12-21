@@ -1,0 +1,15 @@
+"Pirates of the Caribbean - The Legend of Jack Sparrow /ID SLES_542.37"
+//ELF CRC E6C2F211
+Mastercode
+9015A058 0C0567BE
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack Conversion
+// author: Bigdemon
+//16:9
+204931d8 3fab851f // 3F800000
+
+
+

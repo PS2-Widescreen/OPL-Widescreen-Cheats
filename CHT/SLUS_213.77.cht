@@ -1,0 +1,15 @@
+"Dance Dance Revolution SuperNOVA /ID SLUS_213.77"
+//ELF CRC 23EFA2AF
+Mastercode
+90106AD8 0C041A5E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack 
+
+// 16:9
+20153be4 3c023f22 // 3c023f00
+20153dd4 3c023fe3 // 3c023faa
+20153de0 34458e39 // 3445aaab
+

@@ -1,0 +1,20 @@
+"Virtua Cop - Elite Edition /ID SLES_512.29"
+//ELF CRC 76A68274
+Mastercode
+901C7B60 0C071E80
+
+
+//Widescreen hack conversion
+// author: Bigdemon 
+
+//[Widescreen 16:9]
+
+
+//X-Fov
+//803f013c 00a08144 20ee8424
+20112534 3c013f40//3c013f80
+
+//Render fix
+2011bbec 3c01c3cc //3c01c399 left
+2011bc08 3c0143cc //3c014399 right
+

@@ -1,0 +1,14 @@
+"Dance Dance Revolution - SuperNOVA 2 /ID SLUS_216.08"
+//ELF CRC E2EF3D68
+Mastercode
+90106BD8 0C041A9E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack 
+// 16:9
+2018a034 3c023f22 // 3c023f00
+2018a224 3c023fe3 // 3c023faa
+2018a230 34458e39 // 3445aaab
+

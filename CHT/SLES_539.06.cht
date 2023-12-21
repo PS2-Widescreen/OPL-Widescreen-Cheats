@@ -1,0 +1,24 @@
+"50cent - Bulletproof /ID SLES_539.06"
+//ELF CRC E368E380
+Mastercode
+9038CA20 0C0E3230
+
+
+//[Widescreen 16:9]
+gsaspectrpatio=16:9
+//Widescreen hack conversion
+// author: Bigdemon
+//Gameplay 16:9
+
+//X-Fov 4:3 fix
+201ecf60 3c013f08 //3c013ee6
+201ecf64 34218883 //34218b1a
+
+//X-Fov Wide screen fix
+201ecf7c 3c013f08 //3c013ecc
+201ecf80 34218883 //3421cccd
+
+
+
+
+

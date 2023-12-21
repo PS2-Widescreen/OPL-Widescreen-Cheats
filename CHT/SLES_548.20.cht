@@ -1,0 +1,17 @@
+"Stuntman Ignition /ID SLES_548.20"
+//ELF CRC 9454F864
+Mastercode
+9010A2D0 0C04285C
+
+
+
+//[Widescreen 16:9]
+
+// author: Bigdemon
+//Widescreen hack conversion
+
+//Zoom
+202aa174 3c023f10 //3c023f40
+
+//Y-Fov
+205aa760 3f252945 //3f5c370f  Memory Hack. but able to ISO patch.

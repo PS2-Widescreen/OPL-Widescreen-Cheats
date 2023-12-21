@@ -1,0 +1,27 @@
+"Disney/Pixar Cars - Mater-National Championship /ID SLES_550.26"
+//ELF CRC EC74C264
+Mastercode
+903B9ED0 0C0EE75C
+
+
+//[Widescreen 16:9]
+
+// author: Bigdemon
+//Widescreen hack conversion
+
+//Gameplay 16:9
+20119550 3c033cae //3C033C8E Zoom
+20119554 34635555 //3463FA34
+20119548 3c023fab //3C023F80 Y-FOV
+
+//Render fix
+201de9c4 3c03bfab //3C03BF80
+201de9c8 3c023fab //3C023F80
+
+//Better match for 2 player mode
+//20119550 3c033cb0 //3C033C8E Zoom
+//20119554 34635555 //3463FA34
+//20119548 3c023fab //3C023F80 Y-FOV
+
+
+

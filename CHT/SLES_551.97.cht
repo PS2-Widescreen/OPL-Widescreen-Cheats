@@ -1,0 +1,15 @@
+"Dancing Stage SuperNOVA 2 /ID SLES_551.97"
+//ELF CRC 0970B9FF
+Mastercode
+90106B98 0C041A8E
+
+
+//[Widescreen 16:9]
+
+// author: Bigdemon
+//Widescreen Hack conversion
+// 16:9
+20180ab4 3c023f22 // 3c023f00
+20180ca4 3c023fe3 // 3c023faa
+20180cb0 34458e39 // 3445aaab
+

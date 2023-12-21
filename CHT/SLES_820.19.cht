@@ -1,0 +1,17 @@
+"Cy Girls (Aska Disc) /ID SLES_820.19"
+Mastercode
+9010EF38 0C043B76
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack Conversion
+// author: Bigdemon
+2048f5f0 43ab0000 
+2048f5f8 3f400000
+2048f604 442b0000
+//elf hack
+2022501c 3c03442b //3c034400
+20225030 3c0343ab //3c034380
+2022504c 3c033f40 //3c033f80
+

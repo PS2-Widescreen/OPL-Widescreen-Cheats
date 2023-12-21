@@ -1,0 +1,16 @@
+"Dancing Stage SuperNova /ID SLES_543.41"
+//ELF CRC 9751A419
+Mastercode
+90106AD8 0C041A5E
+
+
+//[Widescreen 16:9]
+
+// author: Bigdemon
+//Widescreen Hack Conversion
+
+// 16:9
+2014f5a4 3c023f22 // 3c023f00
+2014f794 3c023fe3 // 3c023faa
+2014f7a0 34458e39 // 3445aaab
+

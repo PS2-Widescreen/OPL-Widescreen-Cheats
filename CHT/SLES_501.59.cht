@@ -1,0 +1,18 @@
+"Gungriffon Blaze /ID SLES_501.59"
+//ELF CRC 1003C5F5
+Mastercode
+90280B38 0C0A0274
+
+
+//[Widescreen 16:9]
+
+// author: Bigdemon
+//Widescreen Hack Conversion
+
+//Widescreen hack 16:9
+
+//X-Fov
+20211684 3c013f40 //3c013f80 Menu
+
+20212168 3c013f40 //3c013f80 Gameplay
+
