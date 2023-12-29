@@ -1,0 +1,15 @@
+"The Incredible Hulk /ID SLES_552.08"
+//ELF CRC 11C4798E
+Mastercode
+90572D78 0C15CB06
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack conversion
+// author: Bigdemon
+
+20368270 3c013fdf //3C013FA7
+20368274 342192c2 //3421AE14
+2041042c 3c013f20 //3c013f00
+
