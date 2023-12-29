@@ -1,4 +1,4 @@
-game count|3517
+game count|3518
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -2435,6 +2435,7 @@ Tetsujin 28 Go  |  [SLPS_253.62](./CHT/SLPS_253.62.cht)
 The Adventures of Cookie & Cream  |  [SLUS_201.70](./CHT/SLUS_201.70.cht)
 The Fast and the Furious  |  [SLES_544.83](./CHT/SLES_544.83.cht)
 The History Channel - Battle for the Pacific  |  [SLES_551.02](./CHT/SLES_551.02.cht)
+The Incredible Hulk  |  [SLES_552.08](./CHT/SLES_552.08.cht)
 The Lord of the Rings - The Third Age  |  [SLKA_252.37](./CHT/SLKA_252.37.cht)
 The Millenium European Paintball Series - Championship Paintball 2009  |  [SLES_553.28](./CHT/SLES_553.28.cht)
 The Operative - No One Lives Forever  |  [SLES_505.92](./CHT/SLES_505.92.cht)
