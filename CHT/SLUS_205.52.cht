@@ -1,15 +1,104 @@
 ﻿"GTA - Vice City /ID SLUS_205.52"
+//ELF CRC=20B19E49
 Mastercode
 90115478 0c0454c6
 //901220ec 0c041c64
 //90279388 0c048dbc
 
-//wide
-201324bc 3c013f9d
-201324c0 44810000
-201324c4 46006302
-201324c8 03e00008
-201324cc e78c86f8
-202485dc 0c04c92f
-2027579c 0c04c932
-20275d6c 0c04c932
+// Modern Widescreen Fix
+// by Daniel Santos & Pedro_PAP
+
+//--------------------------------------------------HUD------------------------------------------------//
+
+20290EC4 3c044270 //Radar Width
+
+20290AA8 3c024270 //Radar Mask Width
+20290BD0 3c024270 //Radar Mask Width
+
+20293690 3c024270 //Radar stuff Width
+202938C4 3c024270 //Radar stuff Width
+20293934 3c024270 //Radar stuff Width
+202940B4 3c024270 //Radar stuff Width
+20294124 3c024270 //Radar stuff Width
+
+20294DD0 3c034270 //Radar stuff Width
+
+20295458 3c034270 //Radar Blip Disc Width
+
+202D39E8 3c03424c //Radar Ring left
+202D3A90 3c03424c //Radar Ring left
+
+202D39F8 3c0342f6 //Radar Ring right
+202D3AA0 3c0342f6 //Radar Ring right
+
+//CFont::SetScale hook
+202CD990 3C013f40 //lui $at, 0x3f40
+202CD994 44810000 //mtc1 $at, $f0
+202CD998 46006302 //mul.s $f12, $f0
+202CD99C 3c010069 //lui     $at, 0x7C
+202CD9A0 e42cd5f4 //swc1    $f12, flt_68D5F4
+202CD9A4 3c010069 //lui     $at, 0x7C
+202CD9A8 03e00008 //jr ra
+202CD9AC e42dd5f8 //swc1    $f13, flt_68D5F8
+
+
+202D1CB4 3c034409 // Fist Icon left
+
+202D1CC4 3c024415 // Fist icon right
+202D1CC8 3442a391 // Fist icon right
+
+202D1C54 3c0341c7 // Weapon Icon width
+
+//[No money zeros]
+204ADB28 00642524 
+204ADB2C 00000000
+
+//[No life/armour zeros]
+204ADB40 00006425 
+
+//[Wanted Stars]
+202D2558 3C034170 // wanted pos x offset - 15.0
+202D23E8 3C034414 // initial pos x
+202D2480 3C0242A7 // wanted pos y
+202D24E4 3C0242A7 // wanted pos y
+202D253C 3C0242A7 // wanted pos y
+
+//[Weapon ammo]
+202D1E80 3C024288 // ammo pos Y
+202D1E14 24040001 // CFont::SetDropShadowPosition(1LL);
+202D1E5C 240600FF // color G
+202D1E64 240700FF // color B
+
+//[Clock]
+202D31E8 3C034408 // clock pos x
+
+//[Money]
+202D199C 3C034408 // money pos x
+
+//[Life]
+202D20F4 3C034408 // life pos x
+202D2180 3C0343FE // life icon pos x
+
+//[Armour]
+202D22A8 3C0343F7 // armour pos x
+202D232C 3C0343E4 // armour icon pos x
+
+//--------------------------------------------------FOV------------------------------------------------//
+
+201325BC 3C013F9D //New SetFOV
+201325C0 44810000 //New SetFOV
+201325C4 46006302 //New SetFOV
+201325C8 03E00008 //New SetFOV
+201325CC E78C86F8 //New SetFOV
+
+202434EC 0C04C96F //SetFOV Call
+2026FE1C 0C04C972 //SetFOV Call
+202703F4 0C04C972 //SetFOV Call
+
+//20273988 00000000 //Skip MPEG Decoder
+//202739A8 00000000 //Skip MPEG Decoder
+//2029072C 00000000 //Radar quadrado
+
+//-----------------------------------------------------------------------------------------------------//
+
+//202E7860 24070001 // Remove the need of gta3_2.img onwards
