@@ -1,0 +1,16 @@
+"Scooby Doo! Mystery Mayhem /ID SLES_518.83"
+//ELF CRC 8F6A1960
+Mastercode
+901287B8 0C04A196
+
+
+//[Widescreen 16:9]
+
+// author: Arapapa
+//Renders the game in 16:9 aspect ratio
+201978a0 0809fa4c
+2027e930 46010043
+2027e934 3c013f40
+2027e938 4481f000
+2027e93c 461e0842
+2027e940 08065e29

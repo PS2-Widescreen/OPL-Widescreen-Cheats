@@ -1,0 +1,14 @@
+"Plan, The /ID SLES_539.65"
+//ELF CRC ACE7A856
+Mastercode
+90166E50 0C059B3C
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+2010e3f4 3c033f40 //3C033F80
+20172068 3c013f40 //hud cross x-fov
+2025e6ac 3c023f40 //hud cross y-fov
+2026dd38 3c023fa0 //hud health

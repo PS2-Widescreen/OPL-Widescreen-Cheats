@@ -1,0 +1,12 @@
+"Tom Clancys Ghost Recon 2 /ID SLES_526.46"
+//ELF CRC CE64E328
+Mastercode
+91406490 0C5018CC
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+e0010000 00e966f8
+20e966f8 3f400000

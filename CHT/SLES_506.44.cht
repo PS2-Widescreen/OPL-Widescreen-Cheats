@@ -1,0 +1,13 @@
+"Shifters /ID SLES_506.44"
+//ELF CRC 27F2EA5F
+Mastercode
+903E7398 0C0F9C8E
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+204c4b00 3f81de4a //3FAD2867
+204c4b80 3f81de4b //3FAD2868
+

@@ -1,0 +1,11 @@
+"Disney Bolt /ID SLES_554.30"
+//ELF CRC F77BF348
+Mastercode
+905CB180 0C172C08
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+2068c27c 3fe38e39 //3FAAAAAB

@@ -1,0 +1,11 @@
+"NASCAR 06 - Total Team Control /ID SLES_536.35"
+//ELF CRC CF3A1D37
+Mastercode
+9032F3B0 0C0CBC94
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+203c1598 3f400000 //3F800000
