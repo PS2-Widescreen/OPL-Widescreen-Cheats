@@ -1,0 +1,11 @@
+"Top Gear Daredevil /ID SLES_500.69"
+//ELF CRC FD8F4257
+Mastercode
+901CC8F8 0C0731E4
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+20143db4 3c013ec0 //3C013F00

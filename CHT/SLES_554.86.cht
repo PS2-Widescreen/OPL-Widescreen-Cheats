@@ -1,0 +1,11 @@
+"Monsters vs. Aliens /ID SLES_554.86"
+//ELF CRC 084CC895
+Mastercode
+9010FB18 0C043E6E
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+20179ed0 3c023fab //3C023F80

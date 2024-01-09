@@ -1,0 +1,14 @@
+"Bratz - Rock Angelz /ID SLES_535.75"
+//ELF CRC 82CA3505
+Mastercode
+903B5138 0C0ED3F6
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+202faf64 3c013f40
+202faf68 4481f000
+202faf70 461eb582
+2035bfd4 3c013f2b
