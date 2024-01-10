@@ -26,4 +26,4 @@ Example:
 
 # Contribute to the project
 
-this is the [list of cheats that need testing and a mastercode](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/Latest/MISSING_MASTERCODE.TXT)
+this is the [list of cheats that need testing and a mastercode](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/Latest/MISSING_MASTERCODE.TSV)
