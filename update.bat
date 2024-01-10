@@ -7,7 +7,7 @@ for %%a in (%*) do (
     del LST.TXT
     del LST2.TXT
     del FINAL.TXT
-    del MISSING_MASTERCODE.TXT
+    del MISSING_MASTERCODE.TSV
   )
 )
 
@@ -27,7 +27,7 @@ if not exist LST2.TXT (
 
 echo # Checking cheats missing in this repo with available mastercode...
 del FINAL.TXT
-del MISSING_MASTERCODE.TXT
+echo ID	LINK>MISSING_MASTERCODE.TSV
 set /a CNT=0
 set /a CNT2=0
 for /f "delims=; tokens=1,*" %%a in (LST2.TXT) do (
@@ -37,7 +37,7 @@ for /f "delims=; tokens=1,*" %%a in (LST2.TXT) do (
       set /a CNT += 1
     ) else (
       set /a CNT2 += 1
-      echo %%a;https://github.com/PCSX2/pcsx2_patches/blob/main/patches/%%b>>MISSING_MASTERCODE.TXT
+      echo %%a	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/%%b>>MISSING_MASTERCODE.TSV
     )
   )
 )
@@ -51,7 +51,7 @@ for /f "delims=; tokens=1,*" %%a in (FINAL.TXT) do (
 )
 
 echo found %CNT% candidates...
-echo found %CNT2% cheat files wich need a mastercode to be included (see them on ./MISSING_MASTERCODE.TXT)
+echo found %CNT2% cheat files wich need a mastercode to be included (see them on ./MISSING_MASTERCODE.TSV)
 busybox.exe grep -Eqv "[a-zA-Z]{4}-[0-9]{5}.*.pnach" LST.TXT
 if errorlevel 0 (
   echo --- Warning. widescreen hacks with non-standard naming found:
