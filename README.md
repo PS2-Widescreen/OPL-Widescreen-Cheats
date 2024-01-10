@@ -26,6 +26,4 @@ Example:
 
 # Contribute to the project
 
-this is the list of cheats that need testing and a mastercode:
-
-You can find the actual cheat files [here](https://github.com/PS2-Widescreen/pnach-DB/blob/main/ONLY_MASTERCODE_MISSING.txt)
+this is the [list of cheats that need testing and a mastercode](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/Latest/MISSING_MASTERCODE.TXT)
