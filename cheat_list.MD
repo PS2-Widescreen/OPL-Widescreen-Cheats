@@ -1,4 +1,4 @@
-game count|3530
+game count|3531
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -1787,6 +1787,7 @@ Phantasy Star Universe - Ambition of the Illuminus  |  [SLES_548.92](./CHT/SLES_
 Phantasy Star Universe - Ambition of the Illuminus  |  [SLPM_666.63](./CHT/SLPM_666.63.cht)
 Phantom Brave  |  [SLES_529.51](./CHT/SLES_529.51.cht)
 Phantom Kingdom  |  [SLPS_204.10](./CHT/SLPS_204.10.cht)
+Piglets Big Game  |  [SLES_516.66](./CHT/SLES_516.66.cht)
 Piglets Big Game  |  [SLUS_206.59](./CHT/SLUS_206.59.cht)
 Pilot ni Narou! 2  |  [SLPS_200.77](./CHT/SLPS_200.77.cht)
 Pimp my Ride  |  [SLUS_215.80](./CHT/SLUS_215.80.cht)
