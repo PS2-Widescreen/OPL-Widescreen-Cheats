@@ -1,0 +1,15 @@
+"Piglets Big Game /ID SLES_516.66"
+//ELF CRC 1BD0A97E
+Mastercode
+9010BE78 0C042F46
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+20291a7c 3c024081 //3C024049
+202d4c64 3c023fe3 //3C023FAA
+202d4c68 34428e32 //3442AAAB
+203257c4 3c023fe3 //3C023FAA
+203257c8 34428e32 //3442AAAB

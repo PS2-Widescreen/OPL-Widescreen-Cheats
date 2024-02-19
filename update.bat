@@ -36,8 +36,11 @@ for /f "delims=; tokens=1,*" %%a in (LST2.TXT) do (
       echo %%a;%%b >>FINAL.TXT
       set /a CNT += 1
     ) else (
-      set /a CNT2 += 1
-      echo %%a	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/%%b>>MISSING_MASTERCODE.TSV
+	echo %%a
+	  if not exist CHT\%%a.cht (
+        set /a CNT2 += 1
+        echo %%a	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/%%b>>MISSING_MASTERCODE.TSV
+	  )
     )
   )
 )
