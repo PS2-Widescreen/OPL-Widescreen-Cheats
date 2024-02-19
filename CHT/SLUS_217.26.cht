@@ -3,11 +3,12 @@ Mastercode
 9012cbd0 0c04b29c
 //90102dc8 0c04657c
 
-// 16:9
-20181bf8 3c023f19
-20181c00 3442999a
-201882a8 3c033f19
-20181dc0 3463999a
-20182034 3c03440a
-20182094 3c03440a
+20181bf8 3c023f19 // 3c023f4c - X-FoV 1-player
+20181c00 3442999a // 3442cccd - X-FoV 1-player
 
+20181db8 3c033f19 // 3c033f4c - X-FoV 2-players
+// - wrong offset fixed by drobovik: 001882a8 -> 00181db8
+20181dc0 3463999a // 3463cccd - X-FoV 2-players
+
+20182034 3c03440a // 3c0343cf - renderfix enemies 1-player
+20182094 3c03440a // 3c0343cf - renderfix enemies 2-players
