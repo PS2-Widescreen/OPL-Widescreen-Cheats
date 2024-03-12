@@ -1,0 +1,14 @@
+"King of Route 66, The /ID SLES_516.15"
+//ELF CRC B92F9BF6
+Mastercode
+9010CB78 0C043286
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack Conversion
+// author: Bigdemon
+
+00130a98 3c033f40 // 3c023f80
+
+

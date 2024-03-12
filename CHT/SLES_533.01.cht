@@ -1,0 +1,22 @@
+"Bomberman Hardball /ID SLES_533.01"
+//ELF CRC 1962EE2E
+Mastercode
+9048BB58 0C122E7E
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack Conversion
+// author: Bigdemon
+//Widescreen hack 16:9
+
+//Zoom (ELF)
+2036b4b8 3c013f2b //3c013f00
+20226040 3c013f40 //3c013f80
+
+//Y-Fov (Memory)
+//6666a63f da0f4940 (3rd)
+207a1a6c 3fddddba //3fa66666
+
+
+

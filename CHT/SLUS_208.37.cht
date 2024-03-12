@@ -1,0 +1,20 @@
+"Ribbit King /ID SLUS_208.37"
+//ELF CRC = 78764E9C
+
+Mastercode
+901F9358 0C07E47E
+
+
+//[Widescreen 16:9]
+
+// author: Sergx12
+//Widescreen Hack Conversion
+
+// 16:9
+e0024500 003c5132 //font fix for pcsx2 1.7+
+203c4c10 3f280000 //gameplay
+203c5110 43cddf6d // planet selection 
+
+
+
+

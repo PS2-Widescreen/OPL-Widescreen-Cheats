@@ -1,0 +1,17 @@
+"History Channel - Civil War - A Nation Divided /ID SLUS_214.74"
+//ELF CRC 18834BA2
+Mastercode
+903030B0 0C0C0BD4
+
+
+//[Widescreen 16:9]
+
+// author: Arapapa
+//Widescreen Hack
+
+//Zoom
+201828dc 3c013fc0 //3c014000
+
+//Y-Fov
+20237d30 3c013f10 //3c013f40
+
