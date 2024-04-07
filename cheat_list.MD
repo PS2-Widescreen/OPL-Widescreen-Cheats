@@ -970,7 +970,7 @@ Grand Theft Auto - San Andreas [Rockstar Classics]  |  [SLPM_552.92](./CHT/SLPM_
 Grand Theft Auto - Vice City  |  [SLPM_654.88](./CHT/SLPM_654.88.cht)
 Grand Theft Auto - Vice City Stories  |  [SLES_546.22](./CHT/SLES_546.22.cht)
 Grand Theft Auto III  |  [SLPM_653.82](./CHT/SLPM_653.82.cht)
-Grand Theft Auto III  |  [SLUS_200.62](./CHT/SLUS_200.62.cht)
+Grand Theft Auto III / ID [SLUS_200.62](./CHT/SLUS_200.62.cht)
 Grand Theft Auto: San Andreas  |  [SLES_525.41](./CHT/SLES_525.41.cht)
 Grand Theft Auto: Vice City  |  [SLES_510.61](./CHT/SLES_510.61.cht)
 Grandia Extreme  |  [SLPM_650.89](./CHT/SLPM_650.89.cht)
