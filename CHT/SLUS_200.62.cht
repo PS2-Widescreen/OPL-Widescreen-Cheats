@@ -1,10 +1,104 @@
-"Grand Theft Auto III /ID SLUS_200.62"
-Mastercode
-90115a18 0c04562e
-//9011f344 0c04202e
-//9027ed08 0c048120
+"Grand Theft Auto III / ID SLUS_200.62"
 
-//widescreen fix
+Mastercode
+90115A18 0C04562E
+//9011F344 0C04202E
+
+//--------------------------------------------------HUD------------------------------------------------//
+
+//CFont::SetScale hook
+202cc700 3c013f40 //lui $at, 0x3f40
+202cc704 44810000 //mtc1 $at, $f0
+202cc708 46006302 //mul.s $f12, $f0
+202cc70c 3c01005f //lui     $at, 0x5F
+202cc710 e42cb674 //swc1    $f12, flt_5EB674
+202cc714 3c01005f //lui     $at, 0x5F
+202cc718 03e00008 //jr ra
+202cc71c e42db678 //swc1    $f13, flt_5EB678
+
+202cfe3c 3c024419 //Fist Icon right
+202cfe54 3c02440d //Fist Icon left
+
+202cfc98 3c02440c //Money shadow text pos X
+202cfc58 3c02440c //Money text pos X
+
+202d016c 3c02440c //Health shadow text pos X
+202d0228 3c02440c //Health text pos X
+202d01b8 3c024402 //Health shadow icon pos X
+202d01e0 3c024402 //Health shadow icon pos X
+202d0298 3c024402 //Health icon pos X
+
+202d03c8 3c0243fd //Armour shadow text pos X
+202d0474 3c0243fc //Armour text pos X
+202d0410 3c0243e8 //Armour shadow icon pos X
+202d0438 3c0243e8 //Armour shadow icon pos X
+202d04bc 3c0243e7 //Armour icon pos X
+202d04e4 3c0243e7 //Armour icon pos X*
+
+202d0f6c 3c02440c //Clock shadow text pos X
+202d0fac 3c02440b //Clock text pos X
+
+202cff7c 3c024413 //Weapon ammo text pos X
+202cff80 34420000 //Weapon ammo text pos X - 2 last bytes
+
+
+202d18f4 3c0243d4 //Radar Ring down
+202d18e4 3c0243ab //Radar Ring up
+202d18dc 3c0241e0 //Radar Ring left
+202d18ec 3c0242c0 //Radar Ring right
+
+2029619c 3c024270 //CRadar::DrawRadarSection width
+202961a4 3c044278 //CRadar::DrawRadarSection x
+202961c0 3c0243bf //CRadar::DrawRadarSection y
+
+2029655c 3c024270 //CRadar::DrawRadarSection width
+20296564 3c034278 //CRadar::DrawRadarSection x
+20296590 3c0243bf //CRadar::DrawRadarSection y
+
+20296250 3c024270 //CRadar::DrawRadarMask width
+20296268 3c054278 //CRadar::DrawRadarMask x
+2029626c 3c0243bf //CRadar::DrawRadarMask y
+
+20298508 3c024270 //CRadar::DrawBlips width
+20298520 3c024278 //CRadar::DrawBlips x
+20298538 3c0242ae //CRadar::DrawBlips height
+20298540 3c0243bf //CRadar::DrawBlips y
+
+202986a8 3c024270 //CRadar::DrawBlips width
+202986d0 3c024278 //CRadar::DrawBlips x
+202986e4 3c0242ae //CRadar::DrawBlips height
+202986ec 3c0243bf //CRadar::DrawBlips y
+
+20298bb0 3c024270 //CRadar::DrawBlips width
+20298bcc 3c024278 //CRadar::DrawBlips x
+20298bdc 3c0242ae //CRadar::DrawBlips height
+20298be4 3c0243bf //CRadar::DrawBlips y
+
+20299338 3c024270 //CRadar::DrawBlips width
+20299354 3c024278 //CRadar::DrawBlips x
+20299364 3c0242ae //CRadar::DrawBlips height
+2029936c 3c0243bf //CRadar::DrawBlips y
+
+20299b28 3c024270 //CRadar::DrawBlips width
+20299b44 3c024278 //CRadar::DrawBlips x
+20299b54 3c0242ae //CRadar::DrawBlips height
+20299b5c 3c0243bf //CRadar::DrawBlips y
+
+2029a2c0 3c024270 //CRadar::DrawBlips width
+2029a2dc 3c024278 //CRadar::DrawBlips x
+2029a2ec 3c0242ae //CRadar::DrawBlips height
+2029a2f4 3c0243bf //CRadar::DrawBlips y
+
+20296fd8 3c0240c6 //lui     $v0, 0x40C6 - CRadar::DrawRotatingRadarSprite width
+
+//[No money zeros] 
+//20414fF0 00642524 
+//20414fF4 00000000
+
+//[No life/armour zeros]
+//20414708 00006425 
+
+//--------------------------------------------FOV by nemesis2000------------------------------------------//
 20184a4c 3c013f9d
 20184a50 44810000
 20184a54 46006302
@@ -15,3 +109,5 @@ Mastercode
 20253d6c 0c061296
 2027b214 0c061296
 2027b6ec 0c061296
+
+//
