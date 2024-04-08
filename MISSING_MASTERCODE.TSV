@@ -54,6 +54,7 @@ SLES_505.07	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-50507_
 SLES_505.08	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-50508_F9E3CF90.pnach
 SLES_505.79	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-50579_FD4E2837.pnach
 SLES_508.10	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-50810_257F96FD.pnach
+SLES_508.13	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-50813_295D2F91.pnach
 SLES_508.32	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-50832_A7E91CE8.pnach
 SLES_508.37	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-50837_AE0979D3.pnach
 SLES_510.95	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-51095_8E2021E8.pnach
@@ -62,17 +63,22 @@ SLES_514.68	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-51468_
 SLES_514.68	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-51468_BADCA543.pnach
 SLES_514.70	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-51470_6EEE06DD.pnach
 SLES_514.70	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-51470_BADCA543.pnach
+SLES_516.87	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-51687_D8A68BBA.pnach
 SLES_518.44	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-51844_FD32030F.pnach
 SLES_518.59	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-51859_30BE71D7.pnach
+SLES_519.89	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-51989_BF45EFF4.pnach
+SLES_521.03	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52103_2F1F3758.pnach
 SLES_522.16	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52216_50DFAD38.pnach
 SLES_522.47	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52247_36ECD588.pnach
 SLES_522.80	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52280_E185C725.pnach
 SLES_522.86	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52286_542766CA.pnach
 SLES_523.42	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52342_1A2D3CC7.pnach
 SLES_523.62	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52362_5D0235B7.pnach
+SLES_525.52	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52552_BCCAB4C0.pnach
 SLES_525.57	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52557_00ACE936.pnach
 SLES_525.89	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52589_89920FD9.pnach
 SLES_526.42	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52642_A1FD63D6.pnach
+SLES_528.96	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-52896_34DA05D2.pnach
 SLES_530.29	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-53029_72DC82B5.pnach
 SLES_530.31	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-53031_72DC82B5.pnach
 SLES_530.70	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-53070_180F5C36.pnach
@@ -85,6 +91,7 @@ SLES_536.23	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-53623_
 SLES_537.67	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-53767_42CD7065.pnach
 SLES_541.60	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-54160_379819CC.pnach
 SLES_543.35	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-54335_1C42A8E7.pnach
+SLES_548.07	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-54807_A54496E5.pnach
 SLES_548.13	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-54813_2E98C05B.pnach
 SLES_548.43	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-54843_AEFD7D25.pnach
 SLES_549.72	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-54972_0FCF8FE4.pnach
@@ -94,6 +101,7 @@ SLES_551.72	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-55172_
 SLES_551.99	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-55199_CB0AEC6F.pnach
 SLES_552.05	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-55205_0F89A154.pnach
 SLES_552.06	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-55206_0F89A154.pnach
+SLES_820.03	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-82003_E7D4DC18.pnach
 SLES_820.13	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-82013_086273D2.pnach
 SLES_820.13	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-82013_98D4BC93.pnach
 SLES_820.24	https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLES-82024_79ED26AD.pnach
