@@ -1,4 +1,4 @@
-game count|3537
+game count|3539
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -1204,6 +1204,7 @@ Jikkyou Powerful Pro Yakyuu 13 Chou Ketteiban  |  [SLPM_665.90](./CHT/SLPM_665.9
 Jikkyou Powerful Pro Yakyuu 14  |  [SLPM_667.77](./CHT/SLPM_667.77.cht)
 Jikkyou Powerful Pro Yakyuu 14 Chou Ketteiban  |  [SLPM_669.16](./CHT/SLPM_669.16.cht)
 Jikkyou Powerful Pro Yakyuu 15  |  [SLPM_550.24](./CHT/SLPM_550.24.cht)
+Jikkyou Powerful Pro Yakyuu 2009  |  [SLPM_551.46](./CHT/SLPM_551.46.cht)
 Jikkyou Powerful Pro Yakyuu 9  |  [SLPM_621.92](./CHT/SLPM_621.92.cht)
 Jikuu Bouken Zentrix  |  [SLPS_254.98](./CHT/SLPS_254.98.cht)
 Jimmy Neutron - Attack of the Twonkies  |  [SLES_527.00](./CHT/SLES_527.00.cht)
@@ -1820,6 +1821,7 @@ Portal Runner  |  [SLES_504.44](./CHT/SLES_504.44.cht)
 Portal Runner  |  [SLUS_200.03](./CHT/SLUS_200.03.cht)
 Power Smash 2  |  [SLPM_622.36](./CHT/SLPM_622.36.cht)
 Power Volleyball  |  [SLES_547.17](./CHT/SLES_547.17.cht)
+Powerful Pro Baseball 10 - Decision  |  [SLPM_654.45](./CHT/SLPM_654.45.cht)
 Powerful Pro Baseball 9 Ketteiban  |  [SLPM_622.74](./CHT/SLPM_622.74.cht)
 Powerpuff Girls, The - Relish Rampage  |  [SLUS_205.85](./CHT/SLUS_205.85.cht)
 Predator - Concrete Jungle  |  [SLES_530.91](./CHT/SLES_530.91.cht)
