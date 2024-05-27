@@ -1,4 +1,4 @@
-game count|3539
+game count|3540
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -1828,6 +1828,7 @@ Predator - Concrete Jungle  |  [SLES_530.91](./CHT/SLES_530.91.cht)
 Pride  |  [SLPM_651.67](./CHT/SLPM_651.67.cht)
 Pride FC - Fighting Championships  |  [SLES_513.71](./CHT/SLES_513.71.cht)
 Pride Grand Prix 2003  |  [SLPM_654.16](./CHT/SLPM_654.16.cht)
+Primal [Review]  |  [SCES_511.35](./CHT/SCES_511.35.cht)
 Prince of Persia - The Sands of Time  |  [SLES_519.18](./CHT/SLES_519.18.cht)
 Prince of Persia - The Sands of Time  |  [SLKA_251.20](./CHT/SLKA_251.20.cht)
 Prince of Persia: The Two Thrones  |  [SLES_537.77](./CHT/SLES_537.77.cht)
