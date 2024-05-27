@@ -1,0 +1,11 @@
+"Primal [Review] /ID SCES_511.35"
+//ELF CRC DCC4EEEA
+Mastercode
+903E94C8 0C0FA4DA
+
+//[Widescreen 16:9]
+// author: pgert
+//Native Widescreen is set on start.
+204886fc 00000001 // 00000000
+
+
