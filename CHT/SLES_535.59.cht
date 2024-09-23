@@ -1,0 +1,23 @@
+"Need for Speed - Most Wanted /ID SLES_535.59"
+//ELF CRC CA2A1B04
+Mastercode
+90497168 0C125C02
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+00aaf954 00000001
+
+//[Remove Brown Filter]
+// author: fobes
+//Disables the brownish yellow post processing filter
+00551058 20000001
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//204938dc 24110000
+//204938e0 24120050
+//204938ec 24130001

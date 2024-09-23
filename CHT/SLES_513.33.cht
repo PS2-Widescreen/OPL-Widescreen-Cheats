@@ -1,0 +1,21 @@
+"Dark Angel /ID SLES_513.33"
+//ELF CRC 5BE3F481
+Mastercode
+902606F8 0C098166
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+202504bc 3c013f30
+2034ab30 3c013f1a
+20280878 3c013fe3
+2028ab98 3c013f22
+//[480p Mode]
+
+// author: PeterDelta
+//SDTV 480p mode at start.
+//203b9b64 24110000
+//203b9b68 24120050
+//203b9b74 24130001

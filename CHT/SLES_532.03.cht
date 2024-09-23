@@ -1,0 +1,23 @@
+"Punisher, The /ID SLES_532.03"
+//ELF CRC C493D552
+Mastercode
+901A5FF0 0C0697A4
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+//Ported from SLES-53049 by sergx12
+20192a6c 3c013f40 //00000000 X-FoV
+20192a78 4481f000 //00000000
+20192ce4 461ea783 //00000000
+20192d40 461e0083 //46140083
+
+//[480p Mode]
+
+// author: PeterDelta
+//SDTV 480p mode at start.
+//201a0be4 3c050000
+//201a0bec 3c060050
+//201a0bf4 3c070001

@@ -1,0 +1,16 @@
+"Brave - The Search for Spirit Dancer /ID SLUS_211.27"
+//ELF CRC 17E7E24E
+Mastercode
+9033D780 0C0CF588
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+00465be4 00000001
+
+//[Remove Blackbars]
+// author: PeterDelta
+//Removes black bars in cutscenes
+20402460 00000000

@@ -1,0 +1,15 @@
+"Reservoir Dogs /ID SLUS_214.79"
+//ELF CRC 08C682C1
+Mastercode
+90447208 0C111C2A
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Widescreen fix
+00397770 3c013f00
+00377030 3c013f00
+e0010001 004f1bec
+00397770 3c013f25
+00377030 3c013f25

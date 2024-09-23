@@ -1,0 +1,12 @@
+"Crusty Demons /ID SLES_541.46"
+//ELF CRC 11DADE15
+Mastercode
+9069F888 0C1A7DCA
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+208c4c68 3fe38e39
+

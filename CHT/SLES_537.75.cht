@@ -1,0 +1,25 @@
+"Reservoir Dogs /ID SLES_537.75"
+//ELF CRC 36C11474
+Mastercode
+90446988 0C111A0A
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Widescreen fix
+00396ef8 3c013f00
+003767b8 3c013f00
+e0010001 004f11ec
+00396ef8 3c013f25
+003767b8 3c013f25
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//20444ea0 34050050
+//20444ea4 24030002
+//20444ea8 0000000c
+//20444eac 03e00008
+//e001000a 003a8e7c
+//20310734 3c013ea0

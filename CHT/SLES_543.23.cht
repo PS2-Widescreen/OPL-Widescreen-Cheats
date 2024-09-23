@@ -1,0 +1,18 @@
+"Need for Speed - Carbon /ID SLES_543.23"
+//ELF CRC 4078F8F1
+Mastercode
+905442E8 0C151062
+
+
+//[Widescreen 16:9]
+// author: PeterDelta
+//Enable native widescreen
+e0010000 00a6e894
+00a6e894 00000001
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//20540a3c 24110000
+//20540a40 24120050
+//20540a4c 24130001

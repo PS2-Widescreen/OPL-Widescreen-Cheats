@@ -1,0 +1,33 @@
+"Madagascar /ID SLES_532.46"
+//ELF CRC D3051E54
+Mastercode
+902FBC60 0C0BEEC0
+
+
+//[Widescreen 16:9]
+
+// author: Arapapa, ported by PeterDelta
+//Renders the game in 16:9 aspect ratio
+2014a0e0 3c013f1f
+20288500 08045ca0
+20117280 46010043
+20117284 3c013f40
+20117288 4481f000
+2011728c 461e1082
+20117290 080a2141
+
+//[Remove Blackbars]
+// author: PeterDelta
+//Removes black bars in cutscenes
+20c77f3c 00000000
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//202f8ae0 34050050
+//202f8ae4 24030002
+//202f8ae8 0000000c
+//202f8aec 03e00008
+//00346d24 00000038
+//e0010001 004b0604
+//00346d24 00000076

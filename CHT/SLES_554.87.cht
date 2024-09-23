@@ -1,0 +1,12 @@
+"Ice Age 3 - Dawn of the Dinosaurs /ID SLES_554.87"
+//ELF CRC 61E4C8E7
+Mastercode
+904964F8 0C1258E6
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+20582828 00000100
+

@@ -1,0 +1,19 @@
+"Need for Speed - Underground 2 /ID SLES_527.25"
+//ELF CRC CFB873AD
+Mastercode
+90425E10 0C10972C
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+004f12dc 00000001
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//20421e54 24110000
+//20421e58 24120050
+//20421e64 24130001
+//20563214 3c888889

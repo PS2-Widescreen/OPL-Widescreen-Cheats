@@ -1,0 +1,17 @@
+"Star Wars - The Force Unleashed /ID SLES_546.59"
+//ELF CRC DAF2145C
+Mastercode
+9018EBD0 0C063A9C
+
+
+//[Widescreen 16:9]
+// author: PeterDelta
+//Enable native widescreen
+207b0170 00000001
+20a50618 cdcd0001
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//207ae984 00000003
+//20a50688 cdcd0001

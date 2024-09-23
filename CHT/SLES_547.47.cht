@@ -1,0 +1,17 @@
+"Disney/Pixar Ratatouille /ID SLES_547.47"
+//ELF CRC 4FE9650B
+Mastercode
+904E6EB8 0C139B56
+
+
+//[Widescreen 16:9]
+// author: PeterDelta
+//Enable native widescreen
+2067fa70 3fe38e39 //3FAAAAAB
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//204e1ee4 24110000
+//204e1ee8 24120050
+//204e1ef4 24130001

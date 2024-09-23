@@ -1,0 +1,11 @@
+"Dogs Life /ID SCES_512.48"
+//ELF CRC 531061F2
+Mastercode
+90343698 0C0D0D4E
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+patch=1,EE,00AB51C0,byte,01

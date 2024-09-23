@@ -1,0 +1,19 @@
+"Ratchet & Clank - Size Matters /ID SCES_550.19"
+//ELF CRC FCB981D5
+Mastercode
+91ED3938 0C7B4DF6
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+21ef5718 00000001 //00000000
+21f4ab20 00000001 //00000000
+
+//[480p Mode]
+
+// author: PeterDelta
+//SDTV 480p mode at start.
+//21ef571c 00000000 //00000001 NTSC
+//21ef5720 00000001 //00000000 480

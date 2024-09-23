@@ -1,0 +1,21 @@
+"Terminator 3 - La Rebelión de las Máquinas /ID SLES_520.39"
+//ELF CRC BE408EFF
+Mastercode
+902F54A8 0C0BD4D2
+
+
+//[Widescreen 16:9]
+
+// author: Arapapa, ported by PeterDelta
+//Renders the game in 16:9 aspect ratio
+2026d620 080be376
+202f8dd8 4600a346
+202f8ddc 3c013f40
+202f8de0 4481f000
+202f8de4 461e6b42
+202f8de8 0809b589 //Target
+202870bc 080be37b
+202f8dec 461ead42
+202f8df0 e6150000
+202f8df4 080a1c30
+

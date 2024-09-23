@@ -1,0 +1,19 @@
+"NBA Live 2005 /ID SLES_527.27"
+//ELF CRC 3DF16621
+Mastercode
+903548D8 0C0D51DE
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+20811428 3fd55555
+0081505c 00000000
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//205d12e4 24110000
+//205d12e8 24120050
+//205d12f4 24130001

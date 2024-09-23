@@ -1,0 +1,13 @@
+"Destroy All Humans! /ID SLES_531.96"
+
+Mastercode
+90198a80 0c06b3dd
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+203f0404 3fe38e38 //3FAAAAAA
+203f0408 00000002 //00000000
+

@@ -1,0 +1,39 @@
+"Looney Tunes - Acme Arsenal /ID SLUS_216.36"
+//ELF CRC = 77689D8B
+
+Mastercode
+90369C80 0C0DA6C8
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+208269d0 3f100000
+208269e8 3f400000
+208269f4 3f160000
+2032ffdc 3c054000 //HUD
+002eaf1c 3c063f22 //render fix
+00826434 00000002 //fix submenu
+e0013000 00826710 //fix submenu
+00826434 00000001 //fix submenu
+e0040001 00666b90
+208269d0 3f800000
+208269e8 3f800000
+208269f4 3f800000
+2032ffdc 3c053f80
+00826444 00000000 //00000031 Black bands
+0082644c 000001bf //0000015E
+
+//[Remove Blackbars]
+// author: PeterDelta
+//Original image without black bars, showing 16:9 aspect ratio
+00826434 00000002 //fix submenu
+e0013000 00826710 //fix submenu
+00826434 00000001 //fix submenu
+208269d0 3f800000
+208269e8 3f800000
+208269f4 3f800000
+2032ffdc 3c053f80
+00826444 00000000 //00000031 Black bands
+0082644c 000001bf //0000015E

@@ -1,0 +1,17 @@
+"NBA 2001 /ID SLES_500.26"
+//ELF CRC 0D434FEC
+Mastercode
+901D61E8 0C075820
+
+
+//[Widescreen 16:9]
+
+// author: Arapapa, ported by PeterDelta
+//Renders the game in 16:9 aspect ratio
+20112920 08030000
+200c0000 46093182
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e3182
+200c0010 08044a49
+

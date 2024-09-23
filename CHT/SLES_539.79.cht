@@ -1,0 +1,26 @@
+"Torrente 3 - El Protector /ID SLES_539.79"
+//ELF CRC E71273AC
+Mastercode
+90483310 0C120C6C
+
+
+//[Widescreen 16:9]
+
+// author: Arapapa, ported by PeterDelta
+//Renders the game in 16:9 aspect ratio
+20253b28 08123684
+2048da10 3c013f40
+2048da14 4481f000
+2048da18 c6010068
+2048da1c c602006c
+2048da20 461e0843
+2048da24 e6010068
+2048da28 08094ecc
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//20102cd8 00069403
+//e0010000 0056f5bc
+//20102cd8 24120050
+//0010471c 64420000

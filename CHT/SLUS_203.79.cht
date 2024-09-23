@@ -1,0 +1,15 @@
+"Dark Angel - James Camerons /ID SLUS_203.79"
+//ELF CRC 29BA2F04
+Mastercode
+9025ECF8 0C097AE6
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+2024eaa4 3c013f30
+20349120 3c013f1a
+2027ee78 3c013fe3
+20289188 3c013f22
+

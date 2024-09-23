@@ -1,0 +1,14 @@
+"Judge Dredd vs Judge Death /ID SLES_516.49"
+//ELF CRC 6E900957
+Mastercode
+902ECF08 0C0BB36A
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+2033f080 3fe38e39
+2033f084 00000001
+20340a5c 00010000
+

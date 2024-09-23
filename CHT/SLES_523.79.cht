@@ -1,0 +1,19 @@
+"Shrek 2 /ID SLES_523.79"
+//ELF CRC 36D7FE6C
+Mastercode
+901218D8 0C0485DE
+
+
+//[Widescreen 16:9]
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+203791c8 3f400000
+203604b4 3f400000
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+00362714 00000001
+e0020005 0037d0f0
+00386b04 00000001
+20386af0 00000050

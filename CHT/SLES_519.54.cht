@@ -1,0 +1,32 @@
+"Max Payne 2 - The Fall of Max Payne /ID SLES_519.54"
+//ELF CRC 564F352C
+Mastercode
+9010FDF0 0C043F24
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+005996c8 00000010 //00000004
+005996d0 00000009 //00000003
+
+//[Remove Blackbars]
+// author: PeterDelta
+//Removes black bars in cutscenes
+207419f8 3f800000
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//e0040000 005d8f88
+//2010d1e0 34050050
+//2010d1e4 24030002
+//2010d1e8 0000000c
+//2010d1ec 03e00008
+//e0040000 01fff89c
+//2010d1e0 24030002
+//2010d1e4 0000000c
+//2010d1e8 03e00008
+//2010d1ec 00000000
+//006f1670 00000000

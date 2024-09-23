@@ -1,0 +1,19 @@
+"NBA Live 06 /ID SLES_535.81"
+//ELF CRC 3FA0F2FB
+Mastercode
+904738F0 0C11CDE4
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+20818828 3fd55555
+2081e45c 00000000
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//204730ac 24110000
+//204730b0 24120050
+//204730bc 24130001

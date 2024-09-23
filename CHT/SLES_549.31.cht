@@ -1,0 +1,44 @@
+"Looney Tunes - Acme Arsenal /ID SLES_549.31"
+//ELF CRC 91C2DF01
+Mastercode
+903696C0 0C0DA558
+
+
+//[Widescreen 16:9]
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+208268d0 3f100000
+208268e8 3f400000
+208268f4 3f160000
+2032f964 3c054000 //HUD
+002ea80c 3c063f22 //render fix
+00826334 00000002 //fix submenu
+e0013000 00826710 //fix submenu
+00826334 00000001 //fix submenu
+e0040001 00666a10
+208268d0 3f800000
+208268e8 3f800000
+208268f4 3f800000
+2032f964 3c053f80
+00826344 00000000 //0000004B Black bands
+0082634c 000001fe //00000169
+
+//[Remove Blackbars]
+// author: PeterDelta
+//Original image without black bars, showing 16:9 aspect ratio
+00826334 00000002 //fix submenu
+e0013000 00826710 //fix submenu
+00826334 00000001 //fix submenu
+208268d0 3f800000
+208268e8 3f800000
+208268f4 3f800000
+2032f964 3c053f80
+00826344 00000000 //0000004B Black bands
+0082634c 000001fe //00000169
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//20371a4c 24110000
+//20371a50 24120050
+//20371a5c 24130001

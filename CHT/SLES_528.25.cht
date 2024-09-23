@@ -1,0 +1,28 @@
+"Lemony Snickets A Series of Unfortunate Events /ID SLES_528.25"
+//ELF CRC 43A02228
+Mastercode
+9038A2B8 0C0E2856
+
+
+//[Widescreen 16:9]
+// author: Arapapa
+//Renders the game in 16:9 aspect ratio
+2019c130 3c013f1b //3c013f00 Zoom
+2019c17c 080eb428 //Y-Fov
+203ad0a0 46001082
+203ad0a4 3c013f40
+203ad0a8 4481f000
+203ad0ac 461e1082
+203ad0b0 08067060
+
+//[Remove Blackbars]
+// author: Arapapa
+//Removes black bars in cutscenes
+201c2e10 3c013a00 //3c013f80
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//2036c26c 24110000
+//2036c270 24120050
+//2036c27c 24130001

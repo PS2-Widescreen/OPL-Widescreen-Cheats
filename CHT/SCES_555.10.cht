@@ -1,0 +1,19 @@
+"Jak and Daxter - The Lost Frontier /ID SCES_555.10"
+//ELF CRC 71583CA9
+Mastercode
+91E362E8 0C78D862
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+21e3fc5c 00000001 //00000000
+21e84af4 00000001 //00000000
+
+//[480p Mode]
+
+// author: PeterDelta
+//SDTV 480p mode at start.
+//21e3fc60 00000000 //00000001
+//21e3fc64 00000001 //00000000

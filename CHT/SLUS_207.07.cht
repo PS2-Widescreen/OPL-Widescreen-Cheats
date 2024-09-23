@@ -1,0 +1,20 @@
+"Spawn - Armageddon /ID SLUS_207.07"
+//ELF CRC B7E7D66F
+Mastercode
+90270678 0C09C146
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+e0020005 00370440
+002d1200 00000001
+00333ce4 00000001
+00121c6c 3c013f01 //3C013F00 fix border
+
+//[Remove Blackbars]
+// author: PeterDelta
+//Removes black bars in cutscenes
+0031f3f4 00000001
+

@@ -1,0 +1,13 @@
+"Ice Age 2 - The Meltdown /ID SLES_539.84"
+//ELF CRC 2EC49E65
+Mastercode
+9032FBF0 0C0CBEA4
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+203b54e8 00000100
+203b6c5c 00000001
+

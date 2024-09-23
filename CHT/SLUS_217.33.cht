@@ -1,0 +1,13 @@
+"Sega Superstars Tennis /ID SLUS_217.33"
+//ELF CRC = E46EDD51
+
+Mastercode
+902FA7C8 0C0BE99A
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+20234a0c 3c013fe3
+203d75ec 00000001

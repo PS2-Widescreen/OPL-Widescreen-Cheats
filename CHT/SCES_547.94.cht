@@ -1,0 +1,32 @@
+"Syphon Filter - Dark Mirror /ID SCES_547.94"
+//ELF CRC EF9459D0
+Mastercode
+90112310 0C04486C
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+2018ce4c 14400002 //10400002
+
+//[480p Mode]
+
+// author: PeterDelta
+//SDTV 480p mode at start.
+//205fdb74 00000004 //00000002
+//2018ce4c 10400002 //Widescreen fix
+//e0020004 0064f2b0
+//0064f2b0 00000012
+//0064f2c4 00000012
+//e0020002 0064f2b0
+//0064f2b0 00000012
+//0064f2c4 00000012
+//2064f574 3f000000
+//2064f580 3f000000
+//2064f584 40638e39
+//2064f588 40400000
+//2064f638 44a00000
+//2064f650 3b360b61
+//2064f6e4 46fff000
+//206505e8 44a00000

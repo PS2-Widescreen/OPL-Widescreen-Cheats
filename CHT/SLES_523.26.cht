@@ -1,0 +1,20 @@
+"Spawn - Armageddon /ID SLES_523.26"
+//ELF CRC 8C9BF4F9
+Mastercode
+90273D20 0C09CEF0
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+e0020005 003749e0
+002d5a70 00000001
+00338784 00000001
+001220bc 3c013f01 //3C013F00 fix border
+
+//[Remove Blackbars]
+// author: PeterDelta
+//Removes black bars in cutscenes
+003217b4 00000001
+

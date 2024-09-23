@@ -1,0 +1,22 @@
+"NBA Live 09 /ID SLES_553.37"
+//ELF CRC 0F174CC9
+Mastercode
+904214F8 0C1084E6
+
+
+//[Widescreen 16:9]
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+10fe0efc 8b8b0101
+208b9b88 3fe38e32
+008bf85c 00000000
+2044e064 3c013f00 //fmv
+e0010001 006fe7c8
+2044e064 3c013ec0
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//2065f7e4 24110000
+//2065f7e8 24120050
+//2065f7f4 24130001
