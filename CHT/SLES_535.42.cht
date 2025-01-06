@@ -1,0 +1,13 @@
+"Shadow the Hedgehog /ID SLES_535.42"
+//ELF CRC 7B94480C
+Mastercode
+90110DD0 0C04431C
+
+
+//[Widescreen 16:9]
+
+// author: Nik1895
+//Widescreen Hack
+//Ported to PAL by Nik1895
+207d1088 3f1da58f // 3F9DA591 chaos control fov
+20847e98 3faaaaaa // 3F800000 main fov

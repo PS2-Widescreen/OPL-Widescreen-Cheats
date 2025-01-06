@@ -1,0 +1,11 @@
+"Tom & Jerrys War of the Wiskers /ID SLES_510.53"
+//ELF CRC 350F7F29
+Mastercode
+901B24B0 0C06C8D4
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+20219d3c 00000001 //00000000

@@ -1,0 +1,16 @@
+"Harry Potter - Kammer D Schreckens /ID SLES_511.94"
+//ELF CRC C5473413
+Mastercode
+904D8398 0C13608E
+
+//[Widescreen 16:9]
+// author: arapapa
+
+// Zoom
+204ca798 3c013f24 // 3C013F49
+204ca79c 34210000 // 34210FDA
+
+// Y-FOV
+204e8eb0 3c013fe3 // 3C013FAA
+204e8eb4 34218e2a // 3421AAAB
+

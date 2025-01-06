@@ -1,0 +1,20 @@
+"Space Chimps /ID SLES_553.40"
+//ELF CRC C423A2DC
+Mastercode
+9048F360 0C123C80
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+20600188 00000000 //0000004B
+20600190 00000200 //00000169
+
+//[480p Mode]
+
+// author: PeterDelta
+//SDTV 480p mode at start.
+//204213b4 24110000
+//204213b8 24120050
+//204213c4 24130001

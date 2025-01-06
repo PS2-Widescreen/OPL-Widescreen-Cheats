@@ -1,0 +1,22 @@
+"Shark Tale /ID SLES_525.37"
+//ELF CRC C649A46C
+Mastercode
+9028CA18 0C0A322E
+
+
+//[Widescreen 16:9]
+
+// author: Arapapa & PeterDelta
+//Renders the game in 16:9 aspect ratio
+20135ca0 0806c8e0
+201b2380 46000346
+201b2384 3c013f40
+201b2388 4481f000
+201b238c 461e6b43
+201b2390 0804d729
+2029e3d4 3c013f80
+2027a6d0 3c013f80
+201d3060 3c013f40 //render
+e0020001 00487ef8
+0029e3d4 3c013fab
+0027a6d0 3c013f84

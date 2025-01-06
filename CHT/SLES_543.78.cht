@@ -1,0 +1,12 @@
+"Nickelodeon Barnyard /ID SLES_543.78"
+//ELF CRC 5267A845
+Mastercode
+9044B910 0C112DEC
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+20545f70 3fb58000 //3F8889A0
+20542898 3fd50000 //3EAAAAAB

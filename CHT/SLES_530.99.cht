@@ -1,0 +1,19 @@
+"Pilot Down - Behind Enemy Lines /ID SLES_530.99"
+//ELF CRC 53BB63A0
+Mastercode
+90109850 0C0425BC
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Renders the game in 16:9 aspect ratio
+2041caa8 3c023f1d
+2021bd68 3c033f22
+
+//[480p Mode]
+// author: PeterDelta
+//SDTV 480p mode at start.
+//2010281c 24110000
+//20102820 24120050
+//2010282c 24130001

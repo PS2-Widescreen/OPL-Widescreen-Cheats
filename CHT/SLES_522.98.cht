@@ -1,0 +1,12 @@
+"IndyCar Series 2005 /ID SLES_522.98"
+//ELF CRC 30C406CE
+Mastercode
+902A2388 0C0A888A
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Enable native widescreen
+202ca70c 00000001 //00000000
+202dbac8 3fe38e39 //3FAAAAAB

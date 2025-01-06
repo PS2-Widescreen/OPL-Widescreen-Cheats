@@ -1,0 +1,12 @@
+"Shrek - Super Slam /ID SLES_536.57"
+//ELF CRC 797ABFFF
+Mastercode
+9042DF98 0C10B78E
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Patches the game to run at 16:9 Widescreen Aspect Ratio.
+//Original NTSC-U patch by xMichael
+21c8109c 3fe38e39 // 3FAAAAAB

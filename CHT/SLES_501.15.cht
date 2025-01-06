@@ -1,0 +1,69 @@
+"Tokyo Xtreme Racer /ID SLES_501.15"
+//ELF CRC 073D7FB5
+Mastercode
+9010EE38 0C043B36
+
+
+//[Widescreen 16:9]
+
+//16:9 widescreen patch
+// author: VIRGIN KLM, Silent
+
+// 16:9 - 3D Elements
+101686b0 00003f40 // In-game
+101e62a0 00003f40 // Menus
+
+// 16:9 - Gameplay HUD
+101bc3e8 000001fc // Move the entire cluster to the right
+101b4e5c 00000030 // Tacho needle
+101b4f08 00000020 // Shift assist
+101b4e88 00000020 // Left indicator
+101b4eb4 00000031 // Right indicator
+101b4f74 0000004e // Current gear
+101b4fac 00000015 // Speed
+201b4fbc 010b4023 // Speed, distance between letters (19)
+101b5024 00000016 // Bottom left line
+101b4edc 00000040 // mph text
+101b5050 00000056 // Bottom right line
+2032e630 3f400000
+2032e678 3f400000
+2032e750 3f400000
+2032e798 3f400000
+2032e7e0 3f400000
+2032e828 3f400000
+2032e870 3f400000
+2032e8b8 3f400000
+2032ecf0 3f400000
+2032ed38 3f400000
+2032ed80 3f400000
+2032edc8 3f400000
+2032ee10 3f400000
+2032ee58 3f400000
+2032eea0 3f400000
+2032eee8 3f400000
+2032ef30 3f400000
+2032ef78 3f400000
+2032efc0 3f400000
+2032f320 3f400000
+2032f368 3f400000
+2032f3b0 3f400000
+2032f3f8 3f400000
+2032f440 3f400000
+2032f488 3f400000
+2032f4d0 3f400000
+2032f518 3f400000
+2032f560 3f400000
+2032f5a8 3f400000
+
+//[No-Interlacing]
+//Attempts to disable interlaced offset rendering.
+
+// author: asasega, Silent
+
+//20168d5c 00005025
+//20168e1c 00005025
+//20168c70 00005025 // Rear view mirror
+//20168ee4 00005025 // Unknown in race
+//201e6164 00005025 // Car preview in menus
+//2014a664 00000000
+

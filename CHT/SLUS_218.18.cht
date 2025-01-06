@@ -1,0 +1,13 @@
+"SpongeBob SquarePants featuring Nicktoons - Globs of Doom /ID SLUS_218.18"
+//ELF CRC = A1DB02D9
+
+Mastercode
+9034AA50 0C0D2A3C
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+20413cb4 3f9f49f4 //3F6EEEEE
+204b4684 00000001 //00000000

@@ -1,0 +1,18 @@
+"Delta Force - Dlack Hawk Down - Team Sabre /ID SLES_541.15"
+//ELF CRC A8DB29DF
+Mastercode
+903E9728 0C0FA572
+
+
+//[Widescreen 16:9]
+
+// author: Arapapa
+//Widescreen fix
+204640f8 3fe38e39 //3FAAAAAB Y-Fov
+201b807c 08030000 //Zoom Fix
+200c0000 3c013f52
+200c0004 4481f000
+200c0008 461e6303
+200c000c e7ac0000
+200c0010 0806e020
+

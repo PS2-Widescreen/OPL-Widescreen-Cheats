@@ -1,0 +1,12 @@
+"Shrek Superslam /ID SLUS_211.97"
+//ELF CRC = C09CB530
+
+Mastercode
+9042D898 0C10B5CE
+
+
+//[Widescreen 16:9]
+
+// author: xMichael
+//Patches the game to run at 16:9 Widescreen Aspect Ratio.
+21c8111c 3fe38e39 // 3FAAAAAB

@@ -1,0 +1,11 @@
+"Tom & Jerry - War of the Whiskers /ID SLUS_203.55"
+//ELF CRC F243A4C9
+Mastercode
+901B1630 0C06C534
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+2021cf4c 00000001 //00000000

@@ -1,0 +1,12 @@
+"X-Men - The Official Game /ID SLUS_211.07"
+//ELF CRC AEFCA55C
+Mastercode
+90435F70 0C10D784
+
+
+//[Widescreen 16:9]
+
+// author: Gabominated
+//Widescreen fix
+e001e979 00a10970
+20a10970 3f400000 //3F46E979

@@ -1,0 +1,13 @@
+"Rugrats - Royal Ransom /ID SLUS_204.43"
+//ELF CRC = 7AACBFD4
+
+Mastercode
+903AB760 0C0EAD80
+
+
+//[Widescreen 16:9]
+
+// author: ICUP321
+//Widescreen hack
+202d6ef0 3c013fe3 //3c013faa
+202d6ef4 34218e38 //3421aaab

@@ -1,0 +1,19 @@
+"Smash Cars Racing /ID SLES_518.00"
+//ELF CRC 7FE15107
+Mastercode
+90110430 0C0440B4
+
+
+//[Widescreen 16:9]
+
+// author: sergx12 & PeterDelta
+//Renders the game in 16:9 aspect ratio
+2012696c 3c023cac //3C023C8E fov singleplayer
+20126974 3442a2d8 //3442FA35
+201269b4 3c023cac
+201269bc 3442a2d8
+20126b4c 3c023cac // fov multiplayer
+20126b54 3442a2d8
+20126ba8 3c023cac
+20126bb0 3442a2d8
+201b363c 3c033fac //3C033F80 vert fov

@@ -1,0 +1,24 @@
+"X-Men - The Official Game /ID SLES_540.66"
+//ELF CRC DF217C0B
+Mastercode
+90435530 0C10D4F4
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Widescreen fix
+004a3c50 00000001
+20a0fcf0 3f400000
+
+//[Remove Blackbars]
+// author: PeterDelta
+//Removes black bars in cutscenes
+00b0b198 00000000
+00b0b1d8 00000000
+
+//[480p Mode]
+
+// author: PeterDelta
+//SDTV 480p mode at start.
+//2042c538 24120050
