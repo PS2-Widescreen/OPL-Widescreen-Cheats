@@ -1,4 +1,4 @@
-game count|3609
+game count|3610
 ------------- | --------------- |
 .Hack-Part 1 Infection  |  [SLES_522.37](./CHT/SLES_522.37.cht)
 .Hack-Part 2 Mutation  |  [SLES_524.67](./CHT/SLES_524.67.cht)
@@ -2350,6 +2350,7 @@ Spider-Man  |  [SLES_509.65](./CHT/SLES_509.65.cht)
 Spider-Man  |  [SLPM_652.05](./CHT/SLPM_652.05.cht)
 Spider-Man 2  |  [SLES_523.72](./CHT/SLES_523.72.cht)
 Spider-Man 2  |  [SLPM_656.62](./CHT/SLPM_656.62.cht)
+Spider-Man 3  |  [SLES_547.23](./CHT/SLES_547.23.cht)
 Spider-Man 3  |  [SLKA_253.85](./CHT/SLKA_253.85.cht)
 Spindrive Ping Pong  |  [SLES_528.67](./CHT/SLES_528.67.cht)
 Splashdown  |  [SLUS_202.23](./CHT/SLUS_202.23.cht)
