@@ -1,5 +1,11 @@
 # Open PS2 Loader Widescreen Hacks
 
+> [!WARNING]
+> CURRENTLY ABANDONED PROJECT | LOOKING FOR MAINTAINERS  
+>  _Due to IRL issues/responsibilities and other homebrew projects of more importance in my TO-DO list I won't be maintaining this repository anymore  
+> any **trusted** member of the PS2 scene that would like to carry on this project may reach to me over PSX-Place or discord to get access to the repo and maintain it
+> sorry for the inconvenience_
+
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/PS2-Widescreen/OPL-Widescreen-Cheats/Latest/total?label=Downloads)
 ![available cheats](https://img.shields.io/github/directory-file-count/PS2-Widescreen/OPL-Widescreen-Cheats/CHT?color=gree&extension=cht&label=Available%20cheats&type=file)
 
